@@ -8,204 +8,199 @@
         </scene>
         <scene id="10" background="CG15-0.jpg">
             <bgm src="11_3_themeOtto.mp3" status="start"></bgm>
-            <speak chara="weltNoFace">You're... The one from the letters...?</speak>
+            <speak chara="weltNoFace">You … You're the one who sent the letters … </speak>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="CG14-2.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoNameNoFace">Indeed. I am 「Clown Alpha」.</speak>
-            <speak chara="ottoNoNameNoFace">But now that we are meeting like this... I guess a proper introduction is in order.</speak>
-            <speak chara="ottoNoNameNoFace">My name is 「Otto Apocalypse」.</speak>
-            <!-- RENAME: The current Bishop of Destiny. -->
-            <speak chara="ottoNoFace">The current Overseer of Schicksal.</speak>
-            <speak chara="ottoNoFace">Don't stay there. How about you come in and warm yourself?</speak>
+            <speak chara="ottoNoNameNoFace">Ah. Indeed. “Clown α”.</speak>
+            <speak chara="ottoNoNameNoFace">But, now that we finally meet face-to-face, a “proper” introduction is in order.</speak>
+            <speak chara="ottoNoNameNoFace">My name is “Otto Apocalypse”.</speak>
+            <speak chara="ottoNoFace">The current Overseer of Schicksal.</speak> <!-- RENAME: The current Bishop of Destiny. -->
+            <speak chara="ottoNoFace">Don't just stand there. How about you come in, and join me in the warm water?</speak>
             <goto goto="30" change="#ffffff"/>
         </scene>
         <scene id="30" background="CG15-1.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">Otto... Apocalypse?</speak>
-            <speak chara="ottoNoFace">Hahaha, that's right. If I am lying I give you permission to hit me.</speak>
-            <speak chara="ottoNoFace">Otto Apocalypse.</speak>
-            <speak chara="ottoNoFace">Within my organization no one dares to say my name... hahaha.</speak>
-            <speak chara="weltNoFace">(He's the person H.A. was talking about in her Soulium Sphere recording...?)</speak>
-            <speak chara="weltNoFace">(But... wasn't that over 100 years ago?)</speak>
-            <speak chara="weltNoFace">(Then he is... the second or third generation?)</speak>
-            <speak chara="weltNoFace">(Also he looks incredibly young...)</speak>
+            <speak chara="weltNoFace">Otto … Apocalypse?</speak>
+            <speak chara="ottoNoFace">Hahaha, that's right. It's me in the flesh, the real deal.</speak>
+            <speak chara="ottoNoFace">“Otto Apocalypse”.</speak>
+            <speak chara="ottoNoFace">But in this organization, no one else is really that keen to mention my name … hahaha.</speak>
+            <speak chara="weltNoFace">(Could he be the person H.A. spoke about in the Soulium recording … ?)</speak>
+            <speak chara="weltNoFace">(But, but … wasn't that person from over 100 years ago?)</speak>
+            <speak chara="weltNoFace">(Then is this person … second or third generation?)</speak>
+            <speak chara="weltNoFace">(After all, he looks incredibly young … )</speak>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="CG15-2.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">...You've probably heard nasty rumors about me, yes?</speak>
-            <speak chara="ottoNoFace">That's the sort of rumors that follow me.</speak>
-            <speak chara="ottoNoFace">Of course some of them are true, but others are like smoke without fire.</speak>
-            <speak chara="ottoNoFace">But none of that matters.</speak>
+            <speak chara="ottoNoFace"> … You've probably heard some nasty rumors.</speak>
+            <speak chara="ottoNoFace">About me.</speak>
+            <speak chara="ottoNoFace">Some of them are grounded in truth, but others are complete hearsay, just words from people clutching at straws.</speak>
+            <speak chara="ottoNoFace">But none of that really matters.</speak>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <!-- RENAME: I didn't come here to see you as the Bishop―― -->
-            <speak chara="ottoNoFace">I didn't come here to see you as the Overseer――</speak>
-            <speak chara="ottoNoFace">――But to leave the pen names behind and expose it all.</speak>
+            <speak chara="ottoNoFace">I didn't come here today as the Overseer ― </speak><!-- RENAME: I didn't come here to see you as the Bishop―― -->
+            <speak chara="ottoNoFace"> ― But, if you and I are to fully trust each other, we should stop using pen-names, lest it becomes too formal. </speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG15-4.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">Then, what do you want?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">What … what are you planning to do?</speak>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="CG15-5.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">「O dear friend, do not be nervous.」</speak>
+            <speak chara="ottoNoFace">“Oh, my dear friend, you need not be anxious.”</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG15-6.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">...Haha, I shouldn't be talking like a playwright right now.</speak>
-            <speak chara="ottoNoFace">I believe it'll help you relax a little if I tell you my intentions directly――</speak>
-            <speak chara="ottoNoFace">「Welt」, I want you to be Otto Apocalypse's successor.</speak>
-            <!-- RENAME: What I mean by that, is that once I retire I want you to become the next Bishop of Destiny. -->
-            <speak chara="ottoNoFace">What I mean by that, is that once I retire I want you to become the next Overseer of Schicksal.</speak>
-            <speak chara="ottoNoFace">What do you say?</speak>
+            <speak chara="ottoNoFace"> … Ha, now is probably not the time for me to speak like a playwright, teasing you like that.</speak>
+            <speak chara="ottoNoFace"> I believe it'll calm your nerves if I clearly inform you of my intentions ― so let me do so. </speak>
+            <speak chara="ottoNoFace">I want you, “Welt”, to be the successor of me, Otto Apocalypse.</speak>
+            <speak chara="ottoNoFace">In other words, I'll foster and guide you so that, once I retire, you'll be able to become the next Overseer of Schicksal.</speak> <!-- RENAME: What I mean by that, is that once I retire I want you to become the next Bishop of Destiny. -->
+            <speak chara="ottoNoFace">What do you say to that?</speak>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG15-7.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">Wha...</speak>
-            <speak chara="weltNoFace">What are you saying?</speak>
+            <speak chara="weltNoFace">Wha … </speak>
+            <speak chara="weltNoFace">What?</speak>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Ah...</speak>
-            <speak chara="ottoNoFace">I can't blame you for being surprised by such a blunt request.</speak>
+            <speak chara="ottoNoFace">Ah … </speak>
+            <speak chara="ottoNoFace">Indeed I've given you a bit of a fright, cutting straight to the chase like that.</speak> <!-- "开门见山" = "To open the door and see the mountain", to get straight to the point  --> 
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG15-7.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">You must know the 「Apocalypse」 family doesn't care about blood bonds.</speak>
-            <speak chara="ottoNoFace">From ancient times to the present, the Apocalypse have taken in the most powerful people in the world.</speak>
-            <speak chara="ottoNoFace">So if you wanted... You could join the Apocalypse family right now and become my sworn brother.</speak>
+            <speak chara="ottoNoFace">But, you must know … the “Apocalypses” have never been a family held back by blood ties.</speak>
+            <speak chara="ottoNoFace">From ancient past to present time, our Family has constantly absorbed the most promising and talented people of this planet.</speak>
+            <speak chara="ottoNoFace">So, if you are willing … today can be the day you join the Family, change your surname, and become my sworn brother.</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="CG15-6.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">Eh...?</speak>
-            <speak chara="weltNoFace">...Are you serious?</speak>
+            <speak chara="weltNoFace">Uh … ?</speak>
+            <speak chara="weltNoFace"> … What?</speak>
             <goto goto="125" change="0"/>
         </scene>
         <scene id="125" background="CG15-9.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">It's natural for you think it's weird given that this is our first meeting.</speak>
+            <speak chara="ottoNoFace">Making such a request at our first meeting ― it's only natural for you to be baffled.</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">But I don't care about that sort of things...</speak>
-            <speak chara="ottoNoFace">I've been observing you all this time as the head of the Apocalypse family.</speak>
-            <speak chara="ottoNoFace">You are my opposite. There is no doubt you'll become a great leader one day.</speak>
+            <speak chara="ottoNoFace">But, speaking from my perspective … </speak>
+            <speak chara="ottoNoFace">As the head of the Apocalypse family, I've been observing you for a long, long time.</speak>
+            <speak chara="ottoNoFace">I believe that you, as the opposite of me, will grow to become a truly great leader.</speak>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="CG15-4.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">...The opposite? What do you mean?</speak>
+            <speak chara="weltNoFace"> … The opposite? What do you mean by that?</speak>
             <goto goto="150" change="0"/>
         </scene>
         <scene id="150" background="CG15-1.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Hahaha. Your perspective is truly interesting, unlike everyone else's.</speak>
+            <speak chara="ottoNoFace">Hahahaha. Your points of focus, the things you pay attention to, are unlike anyone else's.</speak>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <!-- RENAME: To be honest, I believe I'm a failure as the Bishop. -->
-            <speak chara="ottoNoFace">To be honest, I believe I'm a failure as the Overseer.</speak>
-            <!-- RENAME: Because I became the Bishop for my own personal gain―― But that doesn't matter now. -->
-            <speak chara="ottoNoFace">Because I became the Overseer for my own personal gain―― But that doesn't matter now.</speak>
+            <speak chara="ottoNoFace">To put it bluntly, I believe I'm a failure of an Overseer.</speak> <!-- RENAME: To be honest, I believe I'm a failure as the Bishop. -->
+            <speak chara="ottoNoFace">The reason why I became the Overseer, was based entirely on my own personal desire ― But that's not the important point.</speak> <!-- RENAME: Because I became the Bishop for my own personal gain―― But that doesn't matter now. -->
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">What matters now is... you, the 「exceptionally talented」 successor I am looking for.</speak>
-            <speak chara="weltNoFace">...Me? talented?</speak>
+            <speak chara="ottoNoFace">Today's important point is … I wish to have an heir who truly possesses an “exceptional gift”.</speak>
+            <speak chara="weltNoFace"> … Me? Exceptional gift?</speak>
             <goto goto="180" change="0"/>
         </scene>
         <scene id="180" background="CG15-6.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Yes. You're exceptionally talented.</speak>
-            <speak chara="ottoNoFace">Your talent is one that hasn't bloomed yet―― It's natural that you would think of yourself as such a hopeless person.</speak>
-            <speak chara="ottoNoFace">Now let me ask you a question.</speak>
+            <speak chara="ottoNoFace">Yes. Exceptional gift.</speak>
+            <speak chara="ottoNoFace">Your so-called gift is one that has yet to manifest ― so it's perfectly normal that you'd think of yourself as a rather ordinary person.</speak>
+            <speak chara="ottoNoFace">So that's that.</speak>
             <goto goto="190" change="0"/>
         </scene>
         <scene id="190" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">You've read a lot of books over the past two years――</speak>
-            <speak chara="ottoNoFace">――So in your opinion, among our long lasting civilization, who deserves to be truly called 「exceptional」?</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="ottoNoFace">Don't think too deeply about it, just say what comes to your mind.</speak>
-            <speak chara="ottoNoFace">There is no right or wrong answer in a talk between friends.</speak>
+            <speak chara="ottoNoFace">I've heard you've been reading a lot of books over the past two years ― </speak>
+            <speak chara="ottoNoFace"> ― So in your opinion, in the last several thousand years of human civilisation, what kind of person can be truly considered “great”??</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="ottoNoFace">It doesn't matter, just say whatever comes to your mind.</speak>
+            <speak chara="ottoNoFace">This is a conversation between pen pals, so there's no need to worry if anything's right or wrong.</speak>
             <goto goto="200" change="0"/>
         </scene>
         <scene id="200" background="CG15-11.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">I think you overestimate me but if you really want me to answer, I could name countless celebrities.</speak>
-            <speak chara="weltNoFace">「If I have seen further it is by standing on the shoulders of Giants.」</speak>
-            <speak chara="weltNoFace">―How's Newton?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">Saying that I read a lot ― that is clearly an exaggeration. Since you insist on me speaking, I can only list some celebrities.</speak>
+            <speak chara="weltNoFace">“If I have seen further it is by standing on the shoulders of Giants.”</speak>
+            <speak chara="weltNoFace"> ― How about Newton?</speak>
             <goto goto="210" change="0"/>
         </scene>
         <scene id="210" background="CG15-12.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Hahaha. Wasn't she just making fun of others?</speak>
-            <speak chara="ottoNoFace">Newton's insight into mathematics was certainly unparalleled...</speak>
-            <speak chara="ottoNoFace">But in terms of being 「exceptional」, I think she doesn't even come close to Shakespeare.</speak>
+            <speak chara="ottoNoFace">Hahaha, wasn't she just poking fun at someone with that statement?</speak> <!-- Translator's note: stigmata genderbending is indeed canon. Also, the real Newton might have indeed been making a sarcastic remark with that quote, as it was directed at his rival Robert Hooke who had a hunchback (and upon whose shoulders no-one could ever stand). -->
+            <speak chara="ottoNoFace">Sure, Newton's mathematical insight was certainly unparalleled … </speak>
+            <speak chara="ottoNoFace">But in terms of true “greatness”, being able to understand a myriad things, I think she is no equal to Shakespeare.</speak>
             <goto goto="220" change="0"/>
         </scene>
         <scene id="220" background="CG15-11.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">Shakespeare? You think the person who wrote 「To Be or Not to Be」 is worthy of being called exceptional?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">Now that you've mentioned Shakespeare, the writer who wrote “To Be or Not to Be”, what do you think of her?</speak>
             <goto goto="230" change="0"/>
         </scene>
         <scene id="230" background="CG15-12.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Hahaha... All she did was to line up the world's suffering in a neat manner and showed it to the people.</speak>
-            <speak chara="ottoNoFace">Her way of looking at things was different from everyone else, but she didn't have a single bit of sympathy within her.</speak>
+            <speak chara="ottoNoFace">Haha … All she did was gather up the various kinds of suffering on this Earth, and line them up on stage for your amusement.</speak>
+            <speak chara="ottoNoFace">Her vision was outstanding, but beneath the surface,  she didn't have a single ounce of sympathy within her.</speak>
             <goto goto="240" change="0"/>
         </scene>
         <scene id="240" background="CG15-11.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">......</speak>
-            <speak chara="weltNoFace">Going by your logic, theorists don't leave their own fields, while writers are cold hearted to be able to come up with many different conflicts...</speak>
-            <speak chara="weltNoFace">In that case, what about religious leaders who encourage people to do good... for example, Gautama Buddha?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">Going by your logic, thinkers are limited by their narrow scope in their own fields; while creators, because they must frequently draw upon the root of human conflict, need to bear a heart of stone … </speak>
+            <speak chara="weltNoFace">How about those religious leaders who encourage people to do good … for example, Gautama Buddha, what do you think about him?</speak>
             <goto goto="250" change="0"/>
         </scene>
         <scene id="250" background="CG15-13.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Sigh... So in the end we end up with the ancestors of the Apocalypse family.</speak>
+            <speak chara="ottoNoFace">Ha … after nominating a few candidates, we've finally ended up with an ancestor of the Apocalypse family.</speak>
             <goto goto="260" change="0"/>
         </scene>
         <scene id="260" background="CG15-2.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">H-He's your ancestor?</speak>
-            <speak chara="ottoNoFace">Yes... but if I tell you all about it, we won't be done even after three days and three nights.</speak>
+            <speak chara="weltNoFace">A-Ancestor?</speak>
+            <speak chara="ottoNoFace">Aye … I'd really like to tell you all the ins and outs of that story, but if I begin now, we won't be finished for another three days and nights.</speak>
             <goto goto="270" change="0"/>
         </scene>CG15-14.jpg
         <scene id="270" background="CG15-2.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">In short, he couldn't keep up with his own feelings, he couldn't see the big picture or even what was below him―― I couldn't possibly call someone like that exceptional.</speak>
+            <speak chara="ottoNoFace">But, to put it simply: he had heart, but lacked strength; he could see things from afar, yet couldn't even look beneath his feet ―― therefore I cannot say that such a person was “great”.</speak>
             <goto goto="280" change="0"/>
         </scene>
         <scene id="280" background="CG15-15.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">...You sure have high standards.</speak>
-            <speak chara="weltNoFace">Then what about the father of modern Russia, Peter 1―― He earnestly tried to make his country a better place.</speak>
-            <speak chara="ottoNoFace">Peter was certainly a strong willed person... but it was his fault many innocent people died.</speak>
-            <speak chara="ottoNoFace">A truly exceptional person must avoid all unnecessary bloodshed.</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">Nightingale, the woman known as the 「The White Angel」 who reformed the medical system.</speak>
-            <speak chara="ottoNoFace">She had indeed exceptional qualities... but working in her area of expertise for her entire life prevented her from growing in other areas.</speak>
-            <speak chara="weltNoFace">.....</speak>
+            <speak chara="weltNoFace"> … You sure have high standards.</speak>
+            <speak chara="weltNoFace">In that case, someone with their feet firmly rooted to the ground, someone who is broadminded and worldly ― the father of modern Russia, Peter the Great, how about him?</speak>
+            <speak chara="ottoNoFace">Peter admittedly had courage … but his massacre of many innocent lives was a stain he could not wash away.</speak>
+            <speak chara="ottoNoFace">A truly “great” person should be able to prevent unnecessary bloodshed.</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">What about the “Angel in White” who reformed hospital hygiene, and saved countless lives, Nightingale?.</speak>
+            <speak chara="ottoNoFace">She indeed had great talent … but in reality, her lifetime commitment to medical matters limited the growth of said talent.</speak>
+            <speak chara="weltNoFace"> … </speak>
             <goto goto="290" change="0"/>
         </scene>
         <scene id="290" background="CG15-14.jpg">
@@ -255,7 +250,7 @@
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">You don't get it?</speak>
             <speak chara="ottoNoFace">A truly exceptional person is not one who stands out in one particular area...</speak>
-            <speak chara="ottoNoFace">But one who can connect with those outstanding people to bring forth their true potential.</speak>
+            <speak chara="ottoNoFace">But one who can connect with those outstanding people to bring forth their true potential.</speak> <!-- So what Otto is saying is that being an anime harem protagonist is what peak performance looks like. -->
             <goto goto="340" change="0"/>
         </scene>
         <scene id="340" background="CG15-3.jpg">
