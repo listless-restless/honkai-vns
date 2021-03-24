@@ -204,7 +204,7 @@
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="einSmileClose" position="back"/>
-            <speak chara="einSmileClose">...W.E.L.T. </speak>
+            <speak chara="einSmileClose">...Welt. W.E.L.T. </speak>
             <speak chara="einSmileClose">我觉得这个名字挺适合你。 </speak>
             <goto goto="1010" change="#ffffff"/>
         </scene>
