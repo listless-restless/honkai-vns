@@ -23,12 +23,12 @@
         <scene id="30" background="CG15-1.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace">Otto … Apocalypse?</speak>
-            <speak chara="ottoNoFace">Hahaha, that's right. It's me in the flesh, the real deal.</speak>
+            <speak chara="ottoNoFace">Hahaha, that's right. It's me in the flesh, the genuine article.</speak>
             <speak chara="ottoNoFace">“Otto Apocalypse”.</speak>
-            <speak chara="ottoNoFace">But in this organization, no one else is really that keen to mention my name … hahaha.</speak>
+            <speak chara="ottoNoFace">But in this organization, no one else is really bold enough to mention my name … hahaha.</speak>
             <speak chara="weltNoFace">(Could he be the person H.A. spoke about in the Soulium recording … ?)</speak>
             <speak chara="weltNoFace">(But, but … wasn't that person from over 100 years ago?)</speak>
-            <speak chara="weltNoFace">(Then is this person … second or third generation?)</speak>
+            <speak chara="weltNoFace">(Then is this person … second- or third-generation?)</speak>
             <speak chara="weltNoFace">(After all, he looks incredibly young … )</speak>
             <goto goto="40" change="0"/>
         </scene>
@@ -81,7 +81,7 @@
         <scene id="110" background="CG15-7.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">But, you must know … the “Apocalypses” have never been a family held back by blood ties.</speak>
-            <speak chara="ottoNoFace">From ancient past to present time, our Family has constantly absorbed the most promising and talented people of this planet.</speak>
+            <speak chara="ottoNoFace">From ancient past to present time, our Family has constantly adopted some of the most promising and talented people of this planet.</speak>
             <speak chara="ottoNoFace">So, if you are willing … today can be the day you join the Family, change your surname, and become my sworn brother.</speak>
             <goto goto="120" change="0"/>
         </scene>
@@ -93,7 +93,7 @@
         </scene>
         <scene id="125" background="CG15-9.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Making such a request at our first meeting ― it's only natural for you to be baffled.</speak>
+            <speak chara="ottoNoFace">Making such a request at our first meeting ― it's only natural that you'd be baffled.</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG15-3.jpg">
@@ -121,13 +121,13 @@
         </scene>
         <scene id="170" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Today's important point is … I wish to have an heir who truly possesses an “exceptional gift”.</speak>
-            <speak chara="weltNoFace"> … Me? Exceptional gift?</speak>
+            <speak chara="ottoNoFace">Today's important point is … I wish to have an heir who truly possesses a “great gift”.</speak>
+            <speak chara="weltNoFace"> … Me? Great gift?</speak>
             <goto goto="180" change="0"/>
         </scene>
         <scene id="180" background="CG15-6.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Yes. Exceptional gift.</speak>
+            <speak chara="ottoNoFace">Yes. Great gift.</speak>
             <speak chara="ottoNoFace">Your so-called gift is one that has yet to manifest ― so it's perfectly normal that you'd think of yourself as a rather ordinary person.</speak>
             <speak chara="ottoNoFace">So that's that.</speak>
             <goto goto="190" change="0"/>
@@ -135,7 +135,7 @@
         <scene id="190" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">I've heard you've been reading a lot of books over the past two years ― </speak>
-            <speak chara="ottoNoFace"> ― So in your opinion, in the last several thousand years of human civilisation, what kind of person can be truly considered “great”??</speak>
+            <speak chara="ottoNoFace"> ― So in your opinion, in the last several thousand years of human civilisation, what kind of person could be truly considered “great”??</speak>
             <speak chara="weltNoFace"> … </speak>
             <speak chara="ottoNoFace">It doesn't matter, just say whatever comes to your mind.</speak>
             <speak chara="ottoNoFace">This is a conversation between pen pals, so there's no need to worry if anything's right or wrong.</speak>
@@ -164,7 +164,7 @@
         </scene>
         <scene id="230" background="CG15-12.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Haha … All she did was gather up the various kinds of suffering on this Earth, and line them up on stage for your amusement.</speak>
+            <speak chara="ottoNoFace">Haha … All she did was gather up the various kinds of suffering in our world, and line them up on stage for your amusement.</speak>
             <speak chara="ottoNoFace">Her vision was outstanding, but beneath the surface,  she didn't have a single ounce of sympathy within her.</speak>
             <goto goto="240" change="0"/>
         </scene>
@@ -172,7 +172,7 @@
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace"> … </speak>
             <speak chara="weltNoFace">Going by your logic, thinkers are limited by their narrow scope in their own fields; while creators, because they must frequently draw upon the root of human conflict, need to bear a heart of stone … </speak>
-            <speak chara="weltNoFace">How about those religious leaders who encourage people to do good … for example, Gautama Buddha, what do you think about him?</speak>
+            <speak chara="weltNoFace">How about those religious leaders who encourage people to do good … for example, Gautama Buddha, what do you think of him?</speak>
             <goto goto="250" change="0"/>
         </scene>
         <scene id="250" background="CG15-13.jpg">
@@ -198,8 +198,8 @@
             <speak chara="ottoNoFace">Peter admittedly had courage … but his massacre of many innocent lives was a stain he could not wash away.</speak>
             <speak chara="ottoNoFace">A truly “great” person should be able to prevent unnecessary bloodshed.</speak>
             <speak chara="weltNoFace"> … </speak>
-            <speak chara="weltNoFace">What about the “Angel in White” who reformed hospital hygiene, and saved countless lives, Nightingale?.</speak>
-            <speak chara="ottoNoFace">She indeed had great talent … but in reality, her lifetime commitment to medical matters limited the growth of said talent.</speak>
+            <speak chara="weltNoFace">What about the “Angel in White” who reformed hospital sanitary practices, and saved countless lives, Nightingale?</speak>
+            <speak chara="ottoNoFace">She indeed had great talent … But	 in reality, her lifetime commitment to medical matters limited the growth of said talent.</speak>
             <speak chara="weltNoFace"> … </speak>
             <goto goto="290" change="0"/>
         </scene>
