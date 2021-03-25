@@ -43,7 +43,7 @@
         <scene id="50" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">I didn't come here today as the Overseer ― </speak><!-- RENAME: I didn't come here to see you as the Bishop―― -->
-            <speak chara="ottoNoFace"> ― But, if you and I are to fully trust each other, we should stop using pen-names, lest it becomes too formal. </speak>
+            <speak chara="ottoNoFace"> ― But, if you and I are to fully trust each other, we should stop using pen-names, in case it gets too formal. </speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG15-4.jpg">
@@ -59,8 +59,8 @@
         </scene>
         <scene id="80" background="CG15-6.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace"> … Ha, now is probably not the time for me to speak like a playwright, teasing you like that.</speak>
-            <speak chara="ottoNoFace"> I believe it'll calm your nerves if I clearly inform you of my intentions ― so let me do so. </speak>
+            <speak chara="ottoNoFace"> … Ha, now is probably not the time for me to tease you like that, speaking like a playwright.</speak>
+            <speak chara="ottoNoFace"> I believe it'll calm your nerves if I clearly state my intentions ― so let me do just that. </speak>
             <speak chara="ottoNoFace">I want you, “Welt”, to be the successor of me, Otto Apocalypse.</speak>
             <speak chara="ottoNoFace">In other words, I'll foster and guide you so that, once I retire, you'll be able to become the next Overseer of Schicksal.</speak> <!-- RENAME: What I mean by that, is that once I retire I want you to become the next Bishop of Destiny. -->
             <speak chara="ottoNoFace">What do you say to that?</speak>
@@ -75,7 +75,7 @@
         <scene id="100" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">Ah … </speak>
-            <speak chara="ottoNoFace">Indeed I've given you a bit of a fright, cutting straight to the chase like that.</speak> <!-- "开门见山" = "To open the door and see the mountain", to get straight to the point  --> 
+            <speak chara="ottoNoFace">Indeed I've given you a bit of a fright, going straight for the jugular like that.</speak> <!-- "开门见山" = "To open the door and see the mountain", to get straight to the point  --> 
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG15-7.jpg">
@@ -93,7 +93,7 @@
         </scene>
         <scene id="125" background="CG15-9.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Making such a request at our first meeting ― it's only natural that you'd be baffled.</speak>
+            <speak chara="ottoNoFace">Making such a request at our first meeting ― it's only natural that you'd be confused.</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG15-3.jpg">
@@ -135,7 +135,7 @@
         <scene id="190" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">I've heard you've been reading a lot of books over the past two years ― </speak>
-            <speak chara="ottoNoFace"> ― So in your opinion, in the last several thousand years of human civilisation, what kind of person could be truly considered “great”??</speak>
+            <speak chara="ottoNoFace"> ― So in your opinion, in the last several thousand years of human civilisation, what kind of person could be considered truly “great”?</speak>
             <speak chara="weltNoFace"> … </speak>
             <speak chara="ottoNoFace">It doesn't matter, just say whatever comes to your mind.</speak>
             <speak chara="ottoNoFace">This is a conversation between pen pals, so there's no need to worry if anything's right or wrong.</speak>
@@ -144,7 +144,7 @@
         <scene id="200" background="CG15-11.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace"> … </speak>
-            <speak chara="weltNoFace">Saying that I read a lot ― that is clearly an exaggeration. Since you insist on me speaking, I can only list some celebrities.</speak>
+            <speak chara="weltNoFace">You say that I read a lot ― that is clearly an exaggeration. Since you insist on me speaking, I can only list some celebrities.</speak>
             <speak chara="weltNoFace">“If I have seen further it is by standing on the shoulders of Giants.”</speak>
             <speak chara="weltNoFace"> ― How about Newton?</speak>
             <goto goto="210" change="0"/>
@@ -171,7 +171,7 @@
         <scene id="240" background="CG15-11.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace"> … </speak>
-            <speak chara="weltNoFace">Going by your logic, thinkers are limited by their narrow scope in their own fields; while creators, because they must frequently draw upon the root of human conflict, need to bear a heart of stone … </speak>
+            <speak chara="weltNoFace">Going by your logic, thinkers are limited by their narrow scope within their own fields; while creators, because they must frequently draw upon the root of human conflict, need to bear a heart of stone … </speak>
             <speak chara="weltNoFace">How about those religious leaders who encourage people to do good … for example, Gautama Buddha, what do you think of him?</speak>
             <goto goto="250" change="0"/>
         </scene>
@@ -206,10 +206,10 @@
         <scene id="290" background="CG15-14.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace">I can think of others like Adam Smith, Darwin, Clausewitz … </speak> <!-- Chinese text only mentions "Smith" rather than "Adam Smith", but Adam Smith seems to be the likely candidate given the content of conversation. Otherwise, choose from this list: https://en.wikipedia.org/wiki/List_of_people_with_surname_Smith --> 
-            <speak chara="weltNoFace">But according to your impossibly high standards, none of them can be called “truly great people”, right?</speak> <!-- The Chinese uses the feminine pronoun, so expect genderbent Clausewitz/Adam Smith stigmata in the future? -->
+            <speak chara="weltNoFace">But according to your impossibly high standards, none of them could be considered “truly great people”, right?</speak> <!-- The Chinese uses the feminine pronoun, so expect genderbent Clausewitz/Adam Smith stigmata in the future? -->
             <speak chara="ottoNoFace">Exactly.</speak>
             <speak chara="ottoNoFace">These people were all intelligent individuals, who by their own capabilities were able to transform the status quo of their own fields … </speak>
-            <speak chara="ottoNoFace">Yet they lacked the power to push rational thought towards other fields beyond their own.</speak>
+            <speak chara="ottoNoFace">Yet they lacked the power to practice rational thought in other fields beyond their own.</speak>
             <speak chara="weltNoFace"> … Do you think I can achieve what those people couldn't?</speak>
             <goto goto="300" change="0"/>
         </scene>
@@ -260,7 +260,7 @@
         </scene>
         <scene id="350" background="CG15-16.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace" remark="next">Hahaha … if I'm the most carnivorous of all carnivores, then you're the most herbivorous of all herbivores!</speak>
+            <speak chara="ottoNoFace" remark="next">Hahaha … if I'm the carnivore of carnivores, then you're the herbivore of herbivores!</speak>
             <remark>
                 <p class="article-text-h">Note:</p>
                 <p class="article-text">In Chinese and Japanese popular culture, the Carnivore (“of the carnivorous system”, “肉食系”) refers to the type of person who is enthusiastic about pursuing societal accomplishments, proactive in chasing fame, and places a lot of emotional investment in things. </p>
@@ -273,7 +273,7 @@
         <scene id="360" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">I just want to remind you, that the intrinsic nature of  a human, is not merely made up of their personality and disposition ― </speak>
-            <speak chara="ottoNoFace" remark="next">Before those things, the intrinsic nautre of a human, is first determined by their “noumenon” or “ontology”.</speak>
+            <speak chara="ottoNoFace" remark="next">Before those things, the intrinsic nature of a human is first determined by their “noumenon” or “ontology”.</speak>
             <remark post="U2FsdGVkX18tR4+bS6CJ6pZEYeP1">
                 <p class="article-text-h">Note:</p>
                 <p class="article-text">Ontology is a fundamental branch of metaphysics that explores existence itself; that is, the essence or essential characteristic of all real objects.</p>
