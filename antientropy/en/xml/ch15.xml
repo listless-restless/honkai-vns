@@ -196,195 +196,191 @@
             <speak chara="weltNoFace"> … You sure have high standards.</speak>
             <speak chara="weltNoFace">In that case, someone with their feet firmly rooted to the ground, someone who is broadminded and worldly ― the father of modern Russia, Peter the Great, how about him?</speak>
             <speak chara="ottoNoFace">Peter admittedly had courage … but his massacre of many innocent lives was a stain he could not wash away.</speak>
-            <speak chara="ottoNoFace">A truly “great” person should be able to prevent unnecessary bloodshed.</speak>
+            <speak chara="ottoNoFace">A truly great person should be able to prevent unnecessary bloodshed.</speak>
             <speak chara="weltNoFace"> … </speak>
             <speak chara="weltNoFace">What about the “Angel in White” who reformed hospital sanitary practices, and saved countless lives, Nightingale?</speak>
-            <speak chara="ottoNoFace">She indeed had great talent … But	 in reality, her lifetime commitment to medical matters limited the growth of said talent.</speak>
+            <speak chara="ottoNoFace">She indeed had great talent … But in reality, her lifetime commitment to medical matters limited the growth of said talent.</speak>
             <speak chara="weltNoFace"> … </speak>
             <goto goto="290" change="0"/>
         </scene>
         <scene id="290" background="CG15-14.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">I can think of many others like Adam Smith, Darwin, Carl Clausewitz...</speak>
-            <speak chara="weltNoFace">But due to your impossibly high standards no one can be called an 「exceptionally talented person」.</speak>
+            <speak chara="weltNoFace">I can think of others like Adam Smith, Darwin, Clausewitz … </speak> <!-- Chinese text only mentions "Smith" rather than "Adam Smith", but Adam Smith seems to be the likely candidate given the content of conversation. Otherwise, choose from this list: https://en.wikipedia.org/wiki/List_of_people_with_surname_Smith --> 
+            <speak chara="weltNoFace">But according to your impossibly high standards, none of them can be called “truly great people”, right?</speak> <!-- The Chinese uses the feminine pronoun, so expect genderbent Clausewitz/Adam Smith stigmata in the future? -->
             <speak chara="ottoNoFace">Exactly.</speak>
-            <speak chara="ottoNoFace">All of them were smart individuals capable of shacking the status quo within their specialty....</speak>
-            <speak chara="ottoNoFace">But when it came to other fields, they were unable to put their knowledge to good use.</speak>
-            <speak chara="weltNoFace">...Do you think I can do what those people couldn't?</speak>
+            <speak chara="ottoNoFace">These people were all intelligent individuals, who by their own capabilities were able to transform the status quo of their own fields … </speak>
+            <speak chara="ottoNoFace">Yet they lacked the power to push rational thought towards other fields beyond their own.</speak>
+            <speak chara="weltNoFace"> … Do you think I can achieve what those people couldn't?</speak>
             <goto goto="300" change="0"/>
         </scene>
         <scene id="300" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">I can't guarantee it, but yes.</speak>
-            <speak chara="ottoNoFace">As far as intellect is concerned, you're certainly not a match for any of them.</speak>
-            <speak chara="ottoNoFace">But you posses something none of them had.</speak>
-            <speak chara="weltNoFace">Something they didn't have...?</speak>
+            <speak chara="ottoNoFace">Of course I cannot guarantee you can achieve it.</speak>
+            <speak chara="ottoNoFace">And indeed, as far as intellect is concerned, you're certainly no match for any of them.</speak>
+            <speak chara="ottoNoFace">But … you do possess an advantage that none of them had.</speak>
+            <speak chara="weltNoFace">An advantage … they didn't have?</speak>
             <goto goto="310" change="0"/>
         </scene>
         <scene id="310" background="CG15-12.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Yes...</speak>
-            <speak chara="ottoNoFace">Think about who you are surrounding yourself with these days.</speak>
-            <speak chara="ottoNoFace">The most intelligent person ever recorded, Einstein.</speak>
-            <speak chara="ottoNoFace">The most destructive inventor ever known, Tesla.</speak>
-            <speak chara="ottoNoFace">The most unconventional physicist of our time, Planck.</speak>
-            <!-- RENAME: The most powerful Valkyrie of Destiny Organization, Brigantia. -->
-            <speak chara="ottoNoFace">The most powerful Valkyrie of Schicksal, Brigantia.</speak>
-            <!-- RENAME: And there is also the 「Sage」 you've met today, Fuka. -->
-            <speak chara="ottoNoFace">And there is also the 「Sage」 you've met today, Fu Hua.</speak>
-            <speak chara="ottoNoFace">They all think highly of you, don't you think so?</speak>
-            <speak chara="weltNoFace">E-Eh... Do they really...</speak>
-            <speak chara="ottoNoFace">Haha...</speak>
-            <speak chara="ottoNoFace">Seriously, you yourself is the only one who hasn't noticed.</speak>
+            <speak chara="ottoNoFace">Hahahaha … </speak>
+            <speak chara="ottoNoFace">Think about what kind of people you've been dealing with recently.</speak>
+            <speak chara="ottoNoFace">Einstein, the most intelligent person on record.</speak>
+            <speak chara="ottoNoFace">Tesla, the most destructive inventor in history.</speak>
+            <speak chara="ottoNoFace">Planck, the most unconventional physicist of our time.</speak>
+            <speak chara="ottoNoFace">Brigantia, the most powerful Valkyrie of Schicksal.</speak> <!-- RENAME: The most powerful Valkyrie of Destiny Organization, Brigantia. -->
+            <speak chara="ottoNoFace">Oh, and there is also the one you just met today, the “Immortal Sage from Beyond”, Fu Hua.</speak> <!-- RENAME: And there is also the 「Sage」 you've met today, Fuka. -->
+            <speak chara="ottoNoFace">They all think rather highly of you, don't you think?</speak>
+            <speak chara="weltNoFace">Eh … r-really … </speak>
+            <speak chara="ottoNoFace">Hahaha … </speak>
+            <speak chara="ottoNoFace">You really have no clue about yourself.</speak>
             <goto goto="320" change="0"/>
         </scene>
         <scene id="320" background="CG15-14.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">How should I phrase this...</speak>
-            <speak chara="ottoNoFace">Among us, the only one who can connect with all 5 of them....</speak>
+            <speak chara="ottoNoFace">How should I phrase this … </speak>
+            <speak chara="ottoNoFace">Among us, the one who could connect with all five of them … </speak>
             <speak chara="ottoNoFace">Is none other than you.</speak>
-            <speak chara="weltNoFace">Eh...?</speak>
+            <speak chara="weltNoFace">Eh … ?</speak>
             <goto goto="330" change="0"/>
         </scene>
         <scene id="330" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">You don't get it?</speak>
-            <speak chara="ottoNoFace">A truly exceptional person is not one who stands out in one particular area...</speak>
-            <speak chara="ottoNoFace">But one who can connect with those outstanding people to bring forth their true potential.</speak> <!-- So what Otto is saying is that being an anime harem protagonist is what peak performance looks like. -->
+            <speak chara="ottoNoFace">Don't you understand what I mean?</speak>
+            <speak chara="ottoNoFace">A truly great person, is not one who stands out among all walks of life … </speak>
+            <speak chara="ottoNoFace">But one who can cheerfully interact with those outstanding people, to bring forth their greatest potential.</speak> <!-- So what Otto is saying, is that being a harem protagonist is what peak human performance looks like. -->
             <goto goto="340" change="0"/>
         </scene>
         <scene id="340" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">And you, as far as I'm aware, are the closest to be that kind of exceptional person. You're a person worth nurturing.</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">Shouldn't a person like me know their place and live within his limits?</speak>
+            <speak chara="ottoNoFace">And, as far as I know, you're the person most suited to training up and cultivating such greatness.</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">Is it right, for a person like me, to have as much as I want?</speak>
             <goto goto="350" change="0"/>
         </scene>
         <scene id="350" background="CG15-16.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace" remark="next">Ahahaha... if I'm the most carnivorous of all, you are the most herbivorous of all!</speak>
+            <speak chara="ottoNoFace" remark="next">Hahaha … if I'm the most carnivorous of all carnivores, then you're the most herbivorous of all herbivores!</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">肉食系，是指热心于追求社会成就，积极于追名逐利、对感情投入很多的一类人。</p>
-                <p class="article-text">草食系，则是指性格内向，消费节俭，没有野心，不问世事，乐于安逸平淡的另一类人。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">In Chinese and Japanese popular culture, the Carnivore (“of the carnivorous system”, “肉食系”) refers to the type of person who is enthusiastic about pursuing societal accomplishments, proactive in chasing fame, and places a lot of emotional investment in things. </p>
+                <p class="article-text"> The Herbivore (“of the herbivorous system”, “草食系”) describes a type of person who is reserved in personality, frugal in consumption, has no ambition, pays no attention to worldly affairs, and is content with an easy and peaceful lifestyle.</p>
             </remark>
-            <speak chara="weltNoFace">Herbivore...? Carnivore...?</speak>
-            <speak chara="ottoNoFace">Haha... Nevermind that.</speak>
+            <speak chara="weltNoFace">Herbivore … ? Carnivore … ?</speak>
+            <speak chara="ottoNoFace">Hahaha … it doesn't matter if you don't understand this kind of metaphor.</speak>
             <goto goto="360" change="0"/>
         </scene>
         <scene id="360" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">What I'm trying to say is, the intrinsic factors humans beings are made of is not only their personality and disposition――</speak>
-            <speak chara="ottoNoFace" remark="next">Human nature is determined mostly by ontology.</speak>
+            <speak chara="ottoNoFace">I just want to remind you, that the intrinsic nature of  a human, is not merely made up of their personality and disposition ― </speak>
+            <speak chara="ottoNoFace" remark="next">Before those things, the intrinsic nautre of a human, is first determined by their “noumenon” or “ontology”.</speak>
             <remark post="U2FsdGVkX18tR4+bS6CJ6pZEYeP1">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">本体论（Ontology）是形而上学（Metaphysics）的基本分支，主要探讨存在本身，即一切现实事物的本质特征。</p>
-                <p class="article-text">在信息科学中，“本体”特指任何“形式化的，对于共享概念体系的明确而又详细的说明”。例如，一本书籍的版本记录信息，在图书检索系统中，可以视为该书籍的“本体”。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">Ontology is a fundamental branch of metaphysics that explores existence itself; that is, the essence or essential characteristic of all real objects.</p>
+                <p class="article-text">In information science, “ontology” specifically refers to any “formal, clear and detailed description of a shared system of concepts.” For example, a record of version information for a book, can be regarded as an “ontology” of that book, within the book retrieval system of a bookstore or library.</p>
             </remark>
             <goto goto="370" change="0"/>
         </scene>
         <scene id="370" background="CG15-9.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="weltNoFace">Ontology?</speak>
-            <speak chara="ottoNoFace">Despite its name it's nothing too mysterious.</speak>
+            <speak chara="ottoNoFace">Ontology is not some mysterious thing.</speak>
             <goto goto="380" change="0"/>
         </scene>
         <scene id="380" background="CG15-14.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">I've been alive for over 500 years.... and after all this time my ontology is insignificant compared to the one of the 「Saint」.</speak>
+            <speak chara="ottoNoFace">I've been alive for more than five hundred years … and yet from beginning to end, my ontology has been nothing more than a vague, imaginary shadow of the so-called “Saint”.</speak>
             <goto goto="390" change="0"/>
         </scene>
         <scene id="390" background="CG15-2.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">5-500 years?</speak>
+            <speak chara="weltNoFace">F-five hundred years?</speak>
             <goto goto="400" change="0"/>
         </scene>
         <scene id="400" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">Nothing to be surprised about... All I did was to make a deal with the devil.</speak>
-            <speak chara="ottoNoFace">Besides... You won't need to make a deal like that in the first place.</speak>
+            <speak chara="ottoNoFace">Nothing to be surprised about … All I did was make a deal with the devil.</speak>
+            <speak chara="ottoNoFace">Besides, if I were you … I wouldn't have had to go to such lengths to achieve that.</speak>
             <goto goto="410" change="0"/>
         </scene>
         <scene id="410" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">Y-You mean...</speak>
-            <speak chara="ottoNoFace">Yes, you'll be able to live for 500 years much easier than me.</speak>
-            <speak chara="ottoNoFace">But that's a talk for another day.</speak>
+            <speak chara="weltNoFace">Eh  … W-what do you mean … ?</speak>
+            <speak chara="ottoNoFace">What I mean is that, in actual fact, it is easier for you than it is for me to live for five hundred years. Much easier.</speak>
+            <speak chara="ottoNoFace">But that's not the focus for today.</speak>
             <goto goto="420" change="0"/>
         </scene>
         <scene id="420" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">What I want you to know, is that under the right guidance―― Your ontology can be 100 times stronger than mine.</speak>
-            <speak chara="weltNoFace">Mine? stronger than yours?</speak>
+            <speak chara="ottoNoFace">What I really want to say, is that your ontology ― under the right guidance ― can be a hundred times stronger than mine.</speak>
+            <speak chara="weltNoFace">Mine? Stronger than yours?</speak>
             <goto goto="430" change="0"/>
         </scene>
         <scene id="430" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">That's right. You are, indeed, stronger than me.</speak>
-            <speak chara="ottoNoFace">Are you not aware? Your ontology no longer... belongs to a single person...</speak>
-            <speak chara="ottoNoFace">...But to humanity as a 「whole」.</speak>
-            <speak chara="weltNoFace">My ontology... humanity as a 「whole」?</speak>
+            <speak chara="ottoNoFace">Mm-hmm. You, stronger than me.</speak>
+            <speak chara="ottoNoFace">Are you not self-aware? Your ontology … is not some single object of longing … </speak>
+            <speak chara="ottoNoFace"> … But is the synthesis of “humanity” as a whole.</speak>
+            <speak chara="weltNoFace">My ontology … A synthesis of “humanity”?</speak>
             <goto goto="440" change="0"/>
         </scene>
         <scene id="440" background="CG15-3.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace" remark="next">「If we have chosen the position in life in which we can most of all work for mankind,」</speak>
-            <speak chara="ottoNoFace" remark="next">「No burdens can bow us down, because they are sacrifices for the benefit of all.」</speak>
-            <speak chara="ottoNoFace" remark="next">「Then we shall experience no petty, limited, selfish joy」</speak>
-            <speak chara="ottoNoFace" remark="next">「But our happiness will belong to millions.」</speak>
-            <speak chara="ottoNoFace" remark="next">「Our deeds will live on quietly but perpetually at work,」</speak>
-            <speak chara="ottoNoFace" remark="next">「And over our ashes will be shed the hot tears of noble people」</speak>
+            <speak chara="ottoNoFace" remark="next">“If we have chosen the position in life in which we can most of all work for mankind,”</speak>
+            <speak chara="ottoNoFace" remark="next">“No burdens can bow us down, because they are sacrifices for the benefit of all.”</speak>
+            <speak chara="ottoNoFace" remark="next">“Then we shall experience no petty, limited, selfish joy,”</speak>
+            <speak chara="ottoNoFace" remark="next">“But our happiness will belong to millions.”</speak>
+            <speak chara="ottoNoFace" remark="next">“Our deeds will live on quietly but perpetually at work,”</speak>
+            <speak chara="ottoNoFace" remark="next">“And over our ashes will be shed the hot tears of noble people.”</speak>
             <remark post="U2FsdGVkX19fqm4S6R03iCxtPxrm">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">这段文字是《青年在选择职业时的考虑》的最后一段。</p>
-                <p class="article-text">作者是一位名为【卡尔·马克思】的17岁少年——在此后的人生中，他将努力实践这个看起来似乎有些“中二”的理念。</p>
+                <p class="article-text-h">Note: </p>
+                <p class="article-text">This text is the last paragraph of “Reflections of a Young Man on The Choice of a Profession”.</p>
+                <p class="article-text">The author is a 17-year old named “Karl Marx” — for the rest of his life, he would work hard to practice this seemingly “Chuuni” concept. (Translators' note: “Chuuni” [“中二”, or “Middle-school, second year”] is a colloquial Japanese term referring to adolescents with delusions of grandeur, a character trope used frequently in Japanese or Japanese-inspired popular fiction e.g. Fischl in Genshin Impact.)  </p> 
             </remark>
             <goto goto="450" change="0"/>
         </scene>
         <scene id="450" background="CG15-10.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">――Doesn't it make you jealous someone is able to spout such inspiring words?</speak>
-            <speak chara="ottoNoFace">Doesn't it make you want to be an 「Ally of Justice」 and keep the cycle going?</speak>
+            <speak chara="ottoNoFace"> ― What I want to ask is, have you ever been envious of someone who could spout such bold and inspiring words?</speak>
+            <speak chara="ottoNoFace">Have you ever felt that, no matter how many times you've been around the sun, you still wish to become an “Ally of Justice”?</speak>
             <goto goto="460" change="0"/>
         </scene>
         <scene id="460" background="black">
             <bgm src="11_3_themeOtto.mp3" status="stop"></bgm>
-            <speak chara="ottoNoFace">.....</speak>
+            <speak chara="ottoNoFace"> … </speak>
             <bgm src="themeWelt.mp3" status="start"></bgm>
-            <speak chara="ottoNoFace">Ah... It's been 10 years since the World War ended...</speak>
-            <speak chara="ottoNoFace">Places outside of London are still having electrical problems?</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="ottoNoFace">Wait here―― I'll go ask the owner for something to light up the place.</speak>
-            <speak chara="weltNoFace">...No need.</speak>
+            <speak chara="ottoNoFace">Ah … The World War already ended ten years ago … </speak>
+            <speak chara="ottoNoFace">How is it, that the power supply to the outskirts of London remains so inconsiderate to our needs?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="ottoNoFace">Wait here, no need to get up ― I'll go ask the manageress for something to light up the place.</speak>
+            <speak chara="weltNoFace"> … No need.</speak>
             <goto goto="470" change="0"/>
         </scene>
         <scene id="470" background="CG15-II.jpg">
             <bgm src="themeWelt.mp3" status="continue"></bgm>
-            <speak chara="ottoNoFace">...Hm?</speak>
-            <speak chara="weltNoFace">If you are really trying to convince me to do something...</speak>
-            <speak chara="weltNoFace">Stop only concerning about yourself.</speak>
-            <!-- original is 主教大人, 大人 is used condescendingly, Mister seems good enough -->
-            <!-- RENAME: You don't understand anything, Bishop-san. -->
-            <speak chara="weltNoFace">You don't understand anything, Mister Overseer.</speak>
-            <speak chara="ottoNoFace">.....</speak>
-            <speak chara="ottoNoFace">Did I... say something that offended you?</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">No, you didn't say anything wrong.</speak>
-            <speak chara="weltNoFace">But that's precisely why――</speak>
-            <speak chara="weltNoFace">――That I find it hard to believe you.</speak>
-            <speak chara="ottoNoFace">.....</speak>
-            <speak chara="ottoNoFace">I see.</speak>
-            <speak chara="ottoNoFace">Then... I hope time will give us the answers we seek.</speak>
-            <speak chara="weltNoFace">.....</speak>
-            <speak chara="weltNoFace">Well then.</speak>
-            <speak chara="ottoNoFace">.....</speak>
+            <speak chara="ottoNoFace"> … Hm?</speak>
+            <speak chara="weltNoFace">If you are really trying to convince me to do something … </speak>
+            <speak chara="weltNoFace">Next time, please don't spend so much time going on and on about yourself.</speak>
+            <speak chara="weltNoFace">You don't understand anything at all, Mister Overseer.</speak><!-- Aiatar/zklm note: original is 主教大人, 大人 is used condescendingly, Mister seems good enough; RENAME: You don't understand anything, Bishop-san. -->
+            <speak chara="ottoNoFace"> … </speak>
+            <speak chara="ottoNoFace">Did I … say something wrong?</speak>
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">No, in fact you didn't say anything wrong.</speak>
+            <speak chara="weltNoFace">But because of this ― </speak>
+            <speak chara="weltNoFace"> ― it makes it even more … difficult to believe you, at this very moment.</speak>
+            <speak chara="ottoNoFace"> … </speak>
+            <speak chara="ottoNoFace">Is that so.</speak>
+            <speak chara="ottoNoFace">Well then, … I hope time can give us both the answers we seek.</speak> <!-- Translator's note: it is ambiguous whether he is referring to Welt's answer to Otto's question, or to Welt's own questions, so I've left the original English translation from Aiatar/zklm as is: "give us both the answers we seek", rather than the literal translation: "give your answer". -->
+            <speak chara="weltNoFace"> … </speak>
+            <speak chara="weltNoFace">Then I'll take my leave.</speak>
+            <speak chara="ottoNoFace"> … </speak>
             <speak chara="ottoNoFace">Let us meet again, my friend.</speak>
             <goto goto="480" change="#ffffff"/>
         </scene>
         <scene id="480" background="black">
             <bgm src="horror.mp3" status="start"></bgm>
-            <speak chara="ritaNoNameNoFace">(...Welt-sama, please wait a moment.)</speak>
-            <speak chara="weltNoFace">...Who's there?</speak>
+            <speak chara="ritaNoNameNoFace">( … Mr Welt, please wait a moment.)</speak>
+            <speak chara="weltNoFace"> … Who's there?</speak>
             <end post="U2FsdGVkX1+AlvvhouB8t0rZkK+K"/>
         </scene>
     </story>
