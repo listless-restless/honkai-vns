@@ -141,7 +141,7 @@
             <speak chara="reannaNoFace">You still have time, you can go and mend your ties with them.</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">蕾安娜小姐……</speak>
+            <speak chara="schroNoFace">Miss Reanna... </speak>
             <show chara="schroNormalLanceClose-up" position="right"/>
             <speak chara="schroNoFace">I...</speak>
             <speak chara="schroNoFace">I don't know if I can do it...</speak>
@@ -151,7 +151,7 @@
             <speak chara="schroNoFace">...Try my best to become someone like you.</speak>
             <show chara="schroSmileLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">Haha...I am not some kind of role model.</speak>
+            <speak chara="reannaNoFace">Haha...I am not any kind of role model.</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
             <speak chara="reannaNoFace">The last time we fought...you must have realised already, right?</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
