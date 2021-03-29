@@ -8,42 +8,42 @@
         </scene>
         <scene id="10" background="westCliffWomenRoom.jpg">
             <bgm src="12_15_1946.mp3" status="start"></bgm>
-            <text>……</text>
-            <text>今天也没有做梦。</text>
-            <text>质量很好的睡眠。</text>
-            <text>清晨的空气，带着一股海边特有的咸味。</text>
-            <text>沾满了湿气的被子，僵硬地盖在自己身上。</text>
-            <text>窗帘的背后映照出窗户方形的亮光。</text>
-            <text>的确是新的一天了。</text>
-            <text>收拾行装，驱车回伦敦，艾妲的破译结果应该就在等着我们了。</text>
-            <text>……有一种诡异的预感。</text>
-            <text>总觉得，自己和周围人的命运，都会发生巨大的改变。</text>
-            <text>那是我一度逃避面对的东西。</text>
-            <text>一度以“搁置猜测”为借口，拒绝做太多进一步的思考。</text>
-            <text>……并不是多么喜欢伦敦这座城市。</text>
-            <text>只是觉得，同一屋檐下的我们，彼此都习惯了对方的存在。</text>
-            <text>就连瓦尔特，也仿佛从很久之前开始，便是其中的一员了。</text>
-            <text>我由衷地希望，这种平静的日子，能够一直延续下去。</text>
+            <text>...</text>
+            <text>No dreams today.</text>
+            <text>I've had a very restful sleep.</text>
+            <text>The clear morning air brings with it a briny smell characteristic of sea breeze.</text>
+            <text>The blanket had absorbed the humidity of the air, and covers me stiffly.</text>
+            <text>The square-shaped light from the windows is shining through the curtains.</text>
+            <text>It is indeed a new day.</text>
+            <text>We packed up, and drove back to London. The results of Ada's deciphering work should be waiting for us.</text>
+            <text>...I keep having a strange feeling.</text>
+            <text>A feeling that the fates of myself and the people around me will soon change drastically.</text>
+            <text>That is something I have avoided facing.</text>
+            <text>Under the excuse of "shelving theories", I refused to think deeper.</text>
+            <text>...I don't actually like London very much.</text>
+            <text>I just feel like, living under the same roof, we have gotten used to each other's existence.</text>
+            <text>Even Welt seems like he has been a part of us for a long time.</text>
+            <text>From the bottom of my heart, I hope that this peace will last forever.</text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="westCliffBeach.jpg">
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
             <text remark="next">「We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.」 - United States Declaration of Independence.</text>
             <remark post="U2FsdGVkX1+V00C1bWCZ1mItXrxvd2HnHUK+zfphgA4=">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">此句出自《美国独立宣言》。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">This phrase comes from the 「United States Declaration of Independence」. </p>
             </remark>
-            <text remark="next">「In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.」 - Communist Party Declaration.</text>
+            <text remark="next">「In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.」 - The Communist Manifesto.</text>
             <remark post="U2FsdGVkX19DUpbEWgHXgh+oWXOF9WuI5jO6G9PaEd0=">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">此句出自《共产党宣言》。</p>
                 <p class="article-text">全句为：“代替那存在着阶级和阶级对立的资产阶级旧社会的，将是这样一个联合体，在那里，每个人的自由发展是一切人的自由发展的条件。”</p>
             </remark>
             <!-- RENAME: Military organizations such as Destiny tend to easily trample over anything besides the right to live. -->
-            <text>Military organizations such as Schicksal tend to easily trample over anything besides the right to live.</text>
-            <text>在生死攸关的时刻，这也的确是无可奈何的事情。</text>
-            <text>But also unilaterally enforcing such rights will make them lose their value.</text>
-            <text>When it comes to military organizations, if one were to turn upside down the 「rules」 at its core——</text>
+            <text>Military organizations such as Schicksal tend to trample over anything besides the right to live.</text>
+            <text>At life and death moments, this is something that cannot be helped.</text>
+            <text>But unilaterally emphasising a single kind of right will also tarnish the right itself.</text>
+            <text>When it comes to military organizations, if one were to turn upside down the 「principles」 at its core——</text>
             <text>——They will gradually turn evil, in a similar way to the enemies they once destroyed.</text>
             <text>Even if its leader excels in both civil and military areas, like George III or Napoleon I, or is a complete incompetent like Charles I or Louis XVI.</text>
             <goto goto="30" change="0"/>
@@ -67,7 +67,7 @@
             <text>It's not like she's lacking feelings or desires.</text>
             <text>It's not like she's lacking humanity.</text>
             <text>But when it comes to very specific matters, she puts her emotions aside and makes choices based on her own interests.</text>
-            <text>That being revenge against the Houkai with her own hands, for her own family or maybe for all of humanity.</text>
+            <text>That being revenge against the Honkai with her own hands, for her own family or maybe for all of humanity.</text>
             <text>And to do so, she won't hesitate to eliminate any 「obstacles」 that get in her way.</text>
             <text>She won't rest until her goal is achieved.</text>
             <!-- RENAME: Herself, her company, her country, Destiny Organization... They're all pawns she's willing to use to fulfill her goals. -->
@@ -78,7 +78,7 @@
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
             <text>It's weird.</text>
             <text>What's so good about living that kind of life?</text>
-            <text>To fulfill her goals she turned herself into a tool who's only purpose is to fulfill her own wishes.</text>
+            <text>To fulfill her goals, she turned herself into a tool who's only purpose is to fulfill her own wishes.</text>
             <text>...She's different compared to everyone else.</text>
             <text>Tesla is also the type to get emotional... but in a completely different direction.</text>
             <goto goto="50" change="0"/>
@@ -407,7 +407,4 @@
             <end post="U2FsdGVkX1+qjQtlqkMV9tfIhNltWxNqBw9dG0VmPJ0="/>
         </scene>
     </story>
-</data>	
-
-
-
+</data>

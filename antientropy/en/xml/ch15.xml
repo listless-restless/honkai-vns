@@ -269,9 +269,9 @@
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace" remark="next">Ahahaha... if I'm the most carnivorous of all, you are the most herbivorous of all!</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">肉食系，是指热心于追求社会成就，积极于追名逐利、对感情投入很多的一类人。</p>
-                <p class="article-text">草食系，则是指性格内向，消费节俭，没有野心，不问世事，乐于安逸平淡的另一类人。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">Carnivore refers to a type of people who passionately pursue societal progress, actively chase fame and fortune, and are very emotional.</p>
+                <p class="article-text">Herbivores refers to another type of people who are introverted, frugal in consumption, unambitions, detached from worldly affairs, and content with an ordinary life.</p>
             </remark>
             <speak chara="weltNoFace">Herbivore...? Carnivore...?</speak>
             <speak chara="ottoNoFace">Haha... Nevermind that.</speak>
@@ -393,4 +393,4 @@
             <end post="U2FsdGVkX1+AlvvhouB8t0rZkK+K"/>
         </scene>
     </story>
-</data>	
+</data>
