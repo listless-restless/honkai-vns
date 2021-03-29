@@ -64,12 +64,12 @@
             <bgm src="10_25_noise.mp3" status="start"></bgm>
             <text>About seven hours ago, Edison, New Jersey——</text>
             <speak chara="schroNoFace">... The reactor power is rising abnormally!</speak>
-            <speak chara="schroNoFace">It has exceeded the exact critical point!</speak>
+            <speak chara="schroNoFace">It's exceeded the exact critical point!</speak>
             <speak chara="schroNoFace">The reaction is about to go out of control!</speak>
             <speak chara="nokiaNoFace">！</speak>
             <speak chara="nokiaNoFace">How did it suddenly——</speak>
-            <speak chara="edisonNoFace">... Everyone into the shelter! Quickly!</speak>
-            <speak chara="edisonNoFace">Focus on your own survival, and just run!</speak>
+            <speak chara="edisonNoFace">... Everyone, into the shelter! Quickly!</speak>
+            <speak chara="edisonNoFace">Focus on saving yourself, and just run!</speak>
             <speak chara="nokiaNoFace">But——</speak>
             <speak chara="edisonNoFace">There's no time! Get out of here!</speak>
             <goto goto="100" change="#000000"/>
@@ -101,7 +101,7 @@
             <show chara="reaSeriousArmedNoLanceClose-up" position="left"/>
             <speak chara="reannaNoFace">...Why? Seriously, I couldn't just watch you do something stupid.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">Listen carefully. The Honkai energy in your body has already been sealed by the 「White Flower」, half of the「Abyss Flower」, to your right arm——</speak>
+            <speak chara="reannaNoFace">Listen carefully. The Honkai energy in your body has already been sealed by the「White Flower」to your right arm——</speak>
             <speak chara="reannaNoFace">Once this is all over, your friends will have plenty of time to cure you.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
