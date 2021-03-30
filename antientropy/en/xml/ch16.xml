@@ -42,7 +42,7 @@
             <!-- RENAME: Military organizations such as Destiny tend to easily trample over anything besides the right to live. -->
             <text>Military organizations such as Schicksal tend to trample over anything besides the right to live.</text>
             <text>At life and death moments, this is something that cannot be helped.</text>
-            <text>But unilaterally emphasising a single kind of right will also tarnish the right itself.</text>
+            <text>But unilaterally pursuing a single kind of right will also tarnish the right itself.</text>
             <text>When it comes to military organizations, if one were to turn upside down the 「principles」 at its core——</text>
             <text>——They will gradually turn evil, in a similar way to the enemies they once destroyed.</text>
             <text>Even if its leader excels in both civil and military areas, like George III or Napoleon I, or is a complete incompetent like Charles I or Louis XVI.</text>
@@ -131,53 +131,53 @@
         </scene>
         <scene id="80" background="">
             <bgm src="serenity.mp3" status="start"></bgm>
-            <text>当日，早些时候——</text>
-            <speak chara="ritaNoNameNoFace">（……瓦尔特先生，请留步。）</speak>
-            <speak chara="weltNoFace">……谁？</speak>
-            <speak chara="ritaNoFace">是我，丽塔。</speak>
+            <text>Earlier in the day——</text>
+            <speak chara="ritaNoNameNoFace">(...Mr Welt, a moment, if you please.)</speak>
+            <speak chara="weltNoFace">...Who said that?</speak>
+            <speak chara="ritaNoFace">It's me, Rite.</speak>
             <speak chara="weltNoFace">老、老板娘？</speak>
-            <speak chara="ritaNoFace">走廊里不好说话。你先跟我来。</speak>
+            <speak chara="ritaNoFace">The corridor is not a good place for conversation. Please follow me.</speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
         <scene id="90" background="westCliffBossRoomNight.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
-            <speak chara="ritaNoFace">虽然事出突然，让我很不好意思……</speak>
-            <speak chara="ritaNoFace">但是……</speak>
+            <speak chara="ritaNoFace">Althrough this is quite sudden, and I am mortified...</speak>
+            <speak chara="ritaNoFace">But...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltSurpriseRobeClose-up" position="right"/>
-            <speak chara="weltNoFace">怎……怎么了？</speak>
+            <speak chara="weltNoFace">What...what happened?</speak>
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
-            <speak chara="ritaNoFace">您送洗的衣服还没有来得及烘干……</speak>
-            <speak chara="ritaNoFace">这里一旦停电就会持续半天左右……</speak>
-            <speak chara="ritaNoFace">所以，明天回去的时候，您可能得需要换一身衣服了……</speak>
+            <speak chara="ritaNoFace">The clothes you sent for washing aren't dry yet...</speak>
+            <speak chara="ritaNoFace">And once there is a power outage, it will last for about half a day...</speak>
+            <speak chara="ritaNoFace">I'm afraid you may need another change of clothes for when you go home tomorrow...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousRobeClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
-            <speak chara="weltNoFace">我、我没有带多余的外套啊！</speak>
+            <speak chara="weltNoFace">Ugh...</speak>
+            <speak chara="weltNoFace">But, but, I don't have any extra clothes!</speak>
             <speak chara="weltNoFace">那一身也是因为在沙滩上不小心沾了泥——</speak>
             <show chara="weltNervousRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">不要紧张，不要紧张。</speak>
-            <speak chara="ritaNoFace">这是我们工作的疏失，所以您的外套，我会想办法解决的。</speak>
-            <speak chara="ritaNoFace">我这里恰好有一套男式正装……您要不要试一试合不合身？</speak>
+            <speak chara="ritaNoFace">Don't worry, don't worry.</speak>
+            <speak chara="ritaNoFace">This is the fault of our negligience, so I will think of something for the matter of your clothes.</speak>
+            <speak chara="ritaNoFace">I happen to have a set of men's formal wear here... Would you like to try it out?</speak>
             <goto goto="100" change="#ffffff"/>
         </scene>
         <scene id="100" background="westCliffBossRoomNight.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">啊……不错不错！果然很合适！</speak>
+            <speak chara="ritaNoFace">Ah...not bad, not bad! Sure enough, it fits you well!</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">唔……有种……量身定做的感觉呢……</speak>
+            <speak chara="weltNoFace">Hmm...it feels like...tailor-made...</speak>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">哈哈，我判断身材的眼光，可是很准的哦！</speak>
+            <speak chara="ritaNoFace">Haha, my eye for measurements is very accurate!</speak>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">……啊，对了。这里有另一位客人留给你的礼物。</speak>
+            <speak chara="ritaNoFace">... Ah, yes. Another guest left you a gift. Here.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
             <speak chara="weltNoFace">另一位客人？</speak>
