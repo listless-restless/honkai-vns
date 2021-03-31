@@ -134,7 +134,7 @@
             <text>Earlier in the day——</text>
             <speak chara="ritaNoNameNoFace">(...Mr Welt, a moment, if you please.)</speak>
             <speak chara="weltNoFace">...Who said that?</speak>
-            <speak chara="ritaNoFace">It's me, Rite.</speak>
+            <speak chara="ritaNoFace">It's me, Rita.</speak>
             <speak chara="weltNoFace">老、老板娘？</speak>
             <speak chara="ritaNoFace">The corridor is not a good place for conversation. Please follow me.</speak>
             <goto goto="90" change="#ffffff"/>
