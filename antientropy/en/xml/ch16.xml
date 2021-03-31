@@ -360,10 +360,10 @@
             <bgm src="10_25_ada.mp3" status="start"></bgm>
             <show chara="weltAstonishNewFar" position="left" opacity="0.7"/>
             <show chara="teslaAstonishGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">拉法耶特侯爵？他、他有这样的后人？</speak>
+            <speak chara="teslaNoFace">Marquis de Lafayette? He, he had such a descendent?</speak>
             <show chara="teslaAstonishGlassWinterFar" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewFar" position="left"/>
-            <speak chara="weltNoFace">那是谁？古代的什么贵族吗？</speak>
+            <speak chara="weltNoFace">Who's that? Some kind of noble in the past?</speak>
             <show chara="weltAstonishNewFar" position="left" opacity="0.7"/>
             <show chara="teslaShoutGlassWinterFar" position="right"/>
             <speak chara="teslaNoFace">喂！你这家伙难道不知道拉法耶特侯爵？我的天啊！</speak>
