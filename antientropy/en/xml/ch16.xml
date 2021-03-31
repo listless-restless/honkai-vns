@@ -180,18 +180,18 @@
             <speak chara="ritaNoFace">... Ah, yes. Another guest left you a gift. Here.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">另一位客人？</speak>
+            <speak chara="weltNoFace">Another guest?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">那个……是叫符华吧？她说自己是你的朋友。</speak>
+            <speak chara="ritaNoFace">Ah...She's called Fuhua? She said she's a friend of yours.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">符、符华？</speak>
-            <speak chara="weltNoFace">她、她怎么会……</speak>
-            <speak chara="weltNoFace">……我可以在这里拆开看看吗？</speak>
+            <speak chara="weltNoFace">Fu, Fuhua?</speak>
+            <speak chara="weltNoFace">Why, why would she...</speak>
+            <speak chara="weltNoFace">…Can I opened it here?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">当然可以啊。</speak>
+            <speak chara="ritaNoFace">Of course.</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
             <speak chara="weltNoFace">这、这花里胡哨的是……</speak>
