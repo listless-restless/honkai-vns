@@ -4,7 +4,7 @@
     <scene id="10" type="block" prev="09" title="传剑">
       <se id="01-20拿出轩辕剑"/>
       <motion chara="002" action="img_trans" img="素裳-专注-持剑-近景"/>
-      <text>女孩不紧不慢地掀开旧布，取出家传之剑，细细端详。</text>
+      <text>The girl gently opened up the old cloth, taking out the family sword, and examined it carefully.</text>
       <motion chara="002" action="hide"/>
       <se id="01-21轩辕剑氛围声"/>
       <cg img="氛围_通用_轩辕剑"/>
