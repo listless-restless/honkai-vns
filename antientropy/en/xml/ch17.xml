@@ -64,7 +64,7 @@
             <speak chara="weltNoFace">Oh...</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="left"/>
-            <speak chara="einNoFace">……总之我们先前进吧。对方应该是打算在每个景点都留下一小段记录。</speak>
+            <speak chara="einNoFace">...Anyway, let's go forward. The other party should have intentionally left short records at each scenic spot.</speak>
             <show chara="einSmileWinterFar" position="left"/>
             <speak chara="einNoFace">The second attraction on the Freedom Trail is the "Massachusetts State House". Go through the park and walk to Lighthouse Street.</speak>
             <goto goto="30" change="#ffffff"/>
@@ -72,29 +72,29 @@
         <scene id="30" background="massachusettsStateHouse.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="weltQuestionNewFar" position="right"/>
-            <speak chara="weltNoFace">……说起来，这里为什么叫“灯塔街”呢？</speak>
+            <speak chara="weltNoFace">...Speaking of which, why is it called the "Lighthouse Street"?</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">当然是因为，这里本来有一座灯塔啊。</speak>
-            <speak chara="teslaNoFace">不仅这条街叫“灯塔街”，这个区域还叫“灯塔山”呢。</speak>
-            <speak chara="teslaNoFace">你要知道，从大概四百年前起，波士顿就是北美地区最重要的港口之一了。</speak>
+            <speak chara="teslaNoFace">It's because there was originally a lighthouse here of course.</speak>
+            <speak chara="teslaNoFace">Not only is this street called the "Beacon Street", this area is also called the "Beacon Hill".</speak>
+            <speak chara="teslaNoFace">You would have to know that since from about four hundred years ago, Boston has been one of the most important ports in North America.</speak>
             <show chara="einNormalWinterFar" position="left"/>
-            <speak chara="einNoFace">因为城市发展而丧失了地标，这也是无可奈何的事情。</speak>
-            <speak chara="einNoFace" remark="next">早在爱尔兰人大规模迁入这座城市之前，灯塔山就已经因为填海造陆的需求而被挖平了。</speak>
+            <speak chara="einNoFace">The loss of landmarks due to urban development also plays a part in that.</speak>
+            <speak chara="einNoFace" remark="next">Long before the massive Irish immigration of the city, Beacon Hill had been dug out for recovering land.</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">爱尔兰人开始大规模移入美国东北地区，发生在1845年爱尔兰大饥荒爆发之后。这场起因于马铃薯绝收和英国政府不作为的饥荒，导致爱尔兰岛的居民锐减了一半。由于大部分移民离开或受灾死亡的爱尔兰人是以盖尔语为母语的穷人，爱尔兰当地的通行语言逐渐变成了英语，使得该岛的语言文化生态产生了永久性的改变。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">Irish people began to migrate to the northeastern United States on a large scale, after the Great Irish Famine broke out in 1845. This famine, caused by the failure of potato harvests and the inaction of the British government, caused the population of the island of Ireland to drop by half. Since most of the Irish immigrants left or died in the disaster are poor people whose native language is Gaelic, the local language in Ireland has gradually changed to English, which has permanently changed the language and cultural ecology of the island.</p>
             </remark>
             <show chara="einNormalWinterFar" position="left" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="right"/>
-            <speak chara="adaNoFace">检测到微弱的崩坏能反应。</speak>
-            <speak chara="adaNoFace">密文与之前已获得的密钥匹配。是前文明人类的音频记录。</speak>
-            <speak chara="adaNoFace">信号长度为194单位，已经全部接收。</speak>
+            <speak chara="adaNoFace">A weak Honkai energy response is detected.</speak>
+            <speak chara="adaNoFace">The ciphertext matches the previously obtained key. It is an audio recording of previous era civilization humanity.</speak>
+            <speak chara="adaNoFace">The signal length is 194 units, and all have been received</speak>
             <show chara="adaNormalRadioFar" position="right" opacity="0.7"/>
             <show chara="einFoolWinterFar" position="left"/>
-            <speak chara="einNoFace">啊，先不聊没用的话题了。</speak>
+            <speak chara="einNoFace">Ah, let's not talk about useless topics</speak>
             <show chara="einNormalWinterFar" position="left"/>
-            <speak chara="einNoFace">我们来听听记录的内容吧。</speak>
+            <speak chara="einNoFace">Let's listen to the recorded content.</speak>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="massachusettsStateHouse.jpg">
@@ -112,7 +112,7 @@
             <speak chara="teslaNoFace" remark="next">.....「For fear, I repeat it, is at the bottom of all intolerance.」 I can already guess what happened to her.</speak>
             <remark post="U2FsdGVkX18FMez2JjeaxPpFtfL8">
                 <p class="article-text-h">注：</p>
-                <p class="article-text">“我重复一遍，恐惧是所有不宽容的起因”——这是亨德里克·威廉·房龙（Hendrik Willem van Loon）在他的著作《宽容》（Tolerance）中写下的名句。尽管出生在荷兰，但知识界一般认为，他是属于美国的作家。</p>
+                <p class="article-text">"I repeat, fear is the cause of all intolerance" - this is a famous line written by Hendrik Willem van Loon in his book "Tolerance." Although he was born in the Netherlands, people in intellectual circles generally believe that he was an American writer.</p>
             </remark>
             <show chara="teslaShameGlassWinterFar" position="left"/>
             <speak chara="teslaNoFace">但是H.A.What could it be H.A.'s goal? For all we know, she could have manufactured all this information.</speak>
@@ -220,23 +220,23 @@
         <scene id="130" background="bostonMassacreSite.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="teslaErGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">呃……别的道理我都懂……</speak>
-            <speak chara="teslaNoFace">但我们为什么要在这个井盖前面停下来？</speak>
+            <speak chara="teslaNoFace">Uh...I know everything else...</speak>
+            <speak chara="teslaNoFace">But why do we need stop in front of this manhole cover?</speak>
             <show chara="teslaErGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">这不是井盖。你好好看看上面的字。</speak>
+            <speak chara="einNoFace">This is not a manhole cover. Take a good look at the words above.</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace" remark="next">三月五日，一七七〇年……波士顿屠杀……啊。</speak>
+            <speak chara="teslaNoFace" remark="next">March 5th, 1770... The Boston Massacre... Ah.</speak>
             <remark post="U2FsdGVkX19kUIIJSICTAeS2APir">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">波士顿屠杀（Boston Massacre）是一起英军士兵与波士顿民众之间的冲突，最终导致五名民众死亡。</p>
-                <p class="article-text">1770年3月5日，一名英军军官（John Goldfinch）购买假发后回营。假发店的店员（Edward Garrick）误会军官没付钱，于是向军官喊叫，军官解释之后就打算离去——谁知他的随行部下（Hugh White）为军官抱不平，与店员发生口角，最后还打伤了他。店员血流如注，哀号痛哭，愤怒的围观民众立刻包围了军官和他的部下。另外一名英军军官（Thomas Preston）率领几个士兵来解救他们，却遭到民众丢掷石块与殴打——这队英军情急之下向群众开火，杀死了5名平民，并导致6人受伤。</p>
-                <p class="article-text">虽然此事的责任不全在英军身上，但它大大激化了英国北美殖民地的军民矛盾，并最终导致了美国独立战争的爆发。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">The Boston Massacre was a clash between British soldiers and the people of Boston, resulting in the death of five people.</p>
+                <p class="article-text">On March 5, 1770, a British officer (John Goldfinch) bought a wig and returned to camp. The clerk of the wig shop (Edward Garrick) misunderstood and though that the officer did not pay, so he shouted and misbehaved with the officer. The officer had actually setteled the acount and ignored the insults. However a private in his entourage (Hugh White) started an quarrel with the clerk, and finally beat him. The hurt clerk was bleeding and started weeping, and the angry onlookers immediately surrounded the officer and his men. Another British army officer (Thomas Preston) led several soldiers to rescue them, but they were thrown stones and beaten by the people. The British army fired at the crowd in a hurry, killing 5 civilians and causing other six people to be injured.</p>
+                <p class="article-text">Although the responsibility for this matter was not entirely on the British army, it greatly intensified the previous tensions existing between the military and civilians in the British North American colonies, and eventually became one of the most significant events leading to the outbreak of the American Revolution.</p>
             </remark>
             <show chara="teslaNormalGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">嗯。这里就是“自由之路”上的第十个地点——波士顿屠杀遗址。</speak>
+            <speak chara="einNoFace">Ok. This is the tenth location on the "Freedom Trail" - the Boston Massacre site.</speak>
             <goto goto="140" change="#ffffff"/>
         </scene>
         <scene id="140" background="bostonMassacreSite.jpg">
@@ -317,25 +317,25 @@
         <scene id="200" background="bunkerHill.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">邦克山纪念碑……所以，这里就是“自由之路”的终点喽？</speak>
+            <speak chara="teslaNoFace">Bunker Hill Monument... So, this is the end of the "Freedom Trail"?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">总算是结束了吗……那些沉重的故事……</speak>
+            <speak chara="weltNoFace">Is it finally over... Those were heavy stories...</speak>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
             <speak chara="einNoFace">从红砖路的角度来讲是这样的……不过从16个景点的列表来讲，我们还有“宪法号”没去。</speak>
             <show chara="einNormalWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">唔，就是那个从一百多年前起，一直被美国海军保持着服役状态的木制战舰？</speak>
+            <speak chara="teslaNoFace">Huh, that's the wooden warship that has been kept in service by the US Navy since more than a hundred years ago?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
-            <speak chara="einNoFace">嗯。既然纪念碑这里的录音还是在说牺牲者的故事……</speak>
+            <speak chara="einNoFace">Ok. Since the recording here at the monument is still telling the story of the victims...</speak>
             <show chara="einNormalWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">那么H.A.很可能会把自己的看法留在“宪法号”附近，或者列克星敦？作为总结？</speak>
+            <speak chara="teslaNoFace">So in conclusion H.A. is likely to left the record near the USS Constitution, or Lexington? </speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose-up" position="right"/>
-            <speak chara="einNoFace">没错，就是这样。</speak>
+            <speak chara="einNoFace">That's right. This is it.</speak>
             <goto goto="210" change="#ffffff"/>
         </scene>
         <scene id="210" background="ussConstitution.jpg">
@@ -374,68 +374,68 @@
         <scene id="220" background="ussConstitution.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">鸡窝头，你怎么看？</speak>
+            <speak chara="teslaNoFace">Mophead, what do you think about this?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
-            <speak chara="einNoFace">一面之词……吧。</speak>
-            <speak chara="einNoFace">但是，确实能自圆其说。</speak>
+            <speak chara="einNoFace">This is one-side of the story... I presume.</speak>
+            <speak chara="einNoFace">However, it can indeed be very plausible.</speak>
             <show chara="einNormalWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">唔……你打算等找到了她所说的“武器”，再来定夺下一步怎么走么？</speak>
+            <speak chara="teslaNoFace">Hmm...Are you going to wait until you find what she called the "weapon" before you decide what to do next?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einFoolWinterClose-up" position="right"/>
-            <speak chara="einNoFace">难道能有什么更好的方法吗？总不可能去做没有证据的判断吧。</speak>
+            <speak chara="einNoFace">Is there a better way? It is impossible to make a sound judgment without evidence.</speak>
             <show chara="einFoolWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">……就知道你会这么说。</speak>
-            <speak chara="teslaNoFace">感谢我吧，建议你大包小包，把宿舍里重要的东西都给带过来。</speak>
+            <speak chara="teslaNoFace">......knew you'd say that.</speak>
+            <speak chara="teslaNoFace">Thank me, I suggested that you bring all the important stuff in the dormitory with you.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">……难道不是薛定谔特别安排了专机，我们才有机会这么做吗？</speak>
+            <speak chara="einNoFace">… Isn’t that only due to Schrödingers specially arranged special plane that we had the opportunity to do so in the first place?</speak>
             <show chara="einSlyWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">哼，我知道你就是不想夸我。</speak>
-            <speak chara="teslaNoFace">薛定谔这么重视这件事的话，她自己怎么不来啊？</speak>
+            <speak chara="teslaNoFace">Humph, I know you just don't want to praise me.</speak>
+            <speak chara="teslaNoFace">If Schrödinger put so much importance on the matter, then why didn't she come by herself?</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">据说是爱迪生的实验进行到了关键阶段，实在抽不开身。</speak>
-            <speak chara="einNoFace">她还特别建议我们，之后去一趟纽约，见识一下“划时代的能源装置”。</speak>
+            <speak chara="einNoFace">It's said that Edison's experiment has reached a critical stage, and it is impossible for her to get out from there.</speak>
+            <speak chara="einNoFace">She also specifically suggested that we go to New York after this and see this "epoch-making energy installation".</speak>
             <show chara="einSlyWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaEmbarraGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">啧。什么“划时代”啊。那个铁公鸡，她能搞出什么名堂？</speak>
+            <speak chara="teslaNoFace">Gee. What an "epoch-making" thing. How did that stingy woman come with something like that?</speak>
             <show chara="teslaEmbarraGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……就算你不喜欢她，也不用这样说吧……</speak>
+            <speak chara="weltNoFace">Um... even if you don't like her, you don't have to say it like that...</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">你懂什么。大人说话，小孩子别插嘴。</speak>
+            <speak chara="teslaNoFace">Eh, What do you know. When adults speak, children should'nt interrupt.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltSighNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
+            <speak chara="weltNoFace">Sigh...</speak>
             <show chara="weltSighNewClose-up" position="right" opacity="0.7"/>
             <show chara="einSmileWinterClose-up" position="right"/>
-            <speak chara="einNoFace">Massachusetts H6D626……啊，就是这辆了。拜托薛定谔准备的车。</speak>
+            <speak chara="einNoFace">Massachusetts H6D626... Ah, this is it. Please ask Schrodinger to prepare the car.</speak>
             <show chara="einSmileWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShoutWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">什么？这这……</speak>
-            <speak chara="teslaNoFace">这不是劳斯莱斯吗？</speak>
-            <speak chara="teslaNoFace">你没搞错吧，薛定谔，还有那个铁公鸡，会给我们准备这么好的车？</speak>
+            <speak chara="teslaNoFace">What? This is……</speak>
+            <speak chara="teslaNoFace">Isn't that a Rolls Royce?</speak>
+            <speak chara="teslaNoFace">Do you seriously believe that, Schrodinger, and that stingy woman would give us such a good car?</speak>
             <show chara="teslaShoutWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">哼哼——</speak>
-            <speak chara="einNoFace">亲爱的特斯拉小姐……</speak>
-            <speak chara="einNoFace">现在夜深人静，我们要不要来一次“史无前例”的兜风呢？</speak>
+            <speak chara="einNoFace">Hm——</speak>
+            <speak chara="einNoFace">Dear Miss Tesla...</speak>
+            <speak chara="einNoFace">It's dead at night now, should we take an "unprecedented" drive?</speak>
             <goto goto="230" change="#ffffff"/>
         </scene>
         <scene id="230" background="lexingtonMA.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="start"></bgm>
-            <text>牌照为H6D626的“劳斯莱斯”在马萨诸塞大道上狂奔了十余英里（伴随着特斯拉小姐兴奋的大呼小叫）之后，终于以一个急刹车停了下来。</text>
-            <text>一行人此刻面对的，是路边的旁一块不大的三角形公园——</text>
-            <text>——与它不起眼的面积不同，这是一个将自己的存在，深深地烙印进人类史的伟大地标。</text>
-            <text remark="next">列克星敦——这里是1775年4月19日，打响了美国独立战争第一枪的地方。</text>
+            <text>The "Rolls Royce" with the license plate H6D626 ran for more than ten miles on Massachusetts Avenue (with the yelling of excitement from Miss Tesla), and finally stopped with a sudden brake.</text>
+            <text>What the group of people now face at this moment is a small triangular park by the side of the road——</text>
+            <text>——Different from its inconspicuous area, this is a great landmark that deeply imprinted its own existence into human history.</text>
+            <text remark="next">Lexington - This is the place where the first shot of the American Revolutionary War was fired on April 19, 1775.</text>
             <remark post="U2FsdGVkX19rc2sXYtcTfwfoS00J">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">列克星敦和康科德战役（Battles of Lexington and Concord）是英国陆军与北美民兵之间的一场武装冲突，发生于1775年4月19日。虽然美国参议院在1908年通过决议，将快活角战斗（Battle of Point Pleasant）定为美国独立战争（1775 - 1783）的第一战，但美国社会仍普遍将列克星敦和康科德之战作为为独立战争的起点看待。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The Battle of Lexington and Concord (Battles of Lexington and Concord) was an armed conflict between the British Army and the North American militia, which took place on April 19, 1775. Although the U.S. Senate passed a resolution in 1908 to designate the Battle of Point Pleasant as the first battle of the American Revolutionary War (1775-1783), the American society still generally regarded the battle of Lexington and Concord as the first battle. It is seen as the starting point for the war of independence</p>
             </remark>
             <goto goto="240" change="#ffffff"/>
         </scene>
@@ -445,21 +445,21 @@
             <speak chara="einNoFace">艾妲。</speak>
             <show chara="einNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
-            <speak chara="adaNoFace">北纬42.45度，西经71.23度——判定已进入目标区域，现开启搜索模式。</speak>
+            <speak chara="adaNoFace">42.45 degrees north latitude, 71.23 degrees west longitude - it is determined that the target area has been entered, and the search mode is now turned on.</speak>
             <show chara="adaSmileRadioFar" position="left"/>
-            <speak chara="adaNoFace">检测到目标源。</speak>
+            <speak chara="adaNoFace">The target source is detected.</speak>
             <show chara="adaSmileRadioFar" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewFar" position="right"/>
-            <speak chara="weltNoFace">好快？</speak>
+            <speak chara="weltNoFace">So fast?</speak>
             <show chara="weltAstonishNewFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
-            <text>不理会瓦尔特的疑问，艾妲自顾自地进行着一系列的流程。</text>
-            <speak chara="adaNoFace">账户登陆成功，密码与之前一致。</speak>
-            <speak chara="adaNoFace">已请求目标源着陆，并使用退相干解除超次元迷彩。</speak>
-            <speak chara="adaNoFace">超次元迷彩解除。</speak>
-            <speak chara="adaNoFace">软着陆成功。</speak>
+            <text>Ignoring Welts questions, Aida went through a series of processes on her own.</text>
+            <speak chara="adaNoFace">The account login is successful, and the password is the same as before<./speak>
+            <speak chara="adaNoFace">The target source has been requested to land, and decoherence has been used to remove the super-dimensional camouflage.</speak>
+            <speak chara="adaNoFace">The super-dimensional camouflage has been lifted.</speak>
+            <speak chara="adaNoFace">The soft landing was successful.</speak>
             <show chara="adaSmileRadioFar" position="left"/>
-            <speak chara="adaNoFace">目标应该就在你们前方，请验收。</speak>
+            <speak chara="adaNoFace">The objective should be right in front of you, please accept it.</speak>
             <goto goto="250" change="#ffffff"/>
         </scene>
         <scene id="250" background="CG17-1.jpg">
@@ -467,10 +467,10 @@
             <text>It stood out greatly——</text>
             <text>It was as bright as the Moon.</text>
             <text>After deactivating the 「Hyperdimensional Camouflage」, a golden sphere of light appeared in the air, and slowly descended in front of Welt.</text>
-            <speak chara="teslaNoFace">艾妲！那个是什么？！</speak>
-            <speak chara="adaNoFace">1625型浮空储藏室。具备超次元迷彩，可以悬浮在固定地点的上空，长久不被发现。</speak>
-            <speak chara="einNoFace">打开它，艾妲。</speak>
-            <speak chara="adaNoFace">了解，爱因斯坦博士。</speak>
+            <speak chara="teslaNoFace">Ada! what is that?!</speak>
+            <speak chara="adaNoFace">Model 1625 floating storage room. With super-dimensional camouflage, it can be suspended in the sky above a fixed location and could be hidden for a very long time.</speak>
+            <speak chara="einNoFace">Open it, Ada</speak>
+            <speak chara="adaNoFace">Understood, Dr. Einstein.</speak>
             <goto goto="260" change="#ffffff"/>
         </scene>
         <scene id="260" background="CG17-2.jpg">
