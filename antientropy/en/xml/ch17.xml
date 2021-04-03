@@ -10,29 +10,29 @@
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
             <text>November 24, 1955, Thursday, 1 am.</text>
             <text> It's not very bright due to the moon being first quarter. Beyond the street lights, you can't see your fingers.</text>
-            <text remark="next"> Holding the modified WS No.88 wireless transceiver on one hand and upholding the searchlight in the other——</text>
+            <text remark="next"> Holding the modified WS No.88 wireless transceiver on one hand and the searchlight on the other——</text>
             <remark>
-                <p class="article-text-h">注：</p>
+                <p class="article-text-h">Note:</p>
                 <p class="article-text">WS No.88 wireless transceiver is a VHF-FM transceiver (commonly known as "walkie-talkie"), used by the British military since the 1950s. It is mainly used for short-distance (within 2 miles) infantry communication.</p>
             </remark>
             <text> After saying goodbye to the driver lent by the North American Branch, Dr. Einstein and her friends are standing on the streets of Boston late at night.</text>
-            <text>这里是特莱蒙街139号，波士顿公园的入口，“自由之路”的起点。</text>
-            <text>这条拥有百年历史的纪念线路在4年前被修葺一新，殷红的地砖犹如凝固的血液，将风云激荡的时代和当下联系在一起。</text>
+            <text>This is the 139th Tremont Street, the entrance to Boston park and the starting point of the "Freedom Trail".</text>
+            <text>This century-old memorial line was repaired four years ago. The new, bright red tiles look like coagulated blood, linking the turbulent era with the present.</text>
             <show chara="einNormalWinterFar" position="right"/>
-            <speak chara="einNoFace">这里就是“自由之路”的起点了。艾妲，有什么发现吗？</speak>
+            <speak chara="einNoFace">This is the starting point of the "Freedom Trail". Ada, did you find anything?</speak>
             <show chara="einNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
-            <speak chara="adaNoFace">检测到微弱的崩坏能反应。</speak>
-            <speak chara="adaNoFace">密文与之前已获得的密钥匹配。是前文明人类的音频记录。</speak>
-            <speak chara="adaNoFace">信号长度为348单位，已经全部接收。</speak>
-            <text>WS No.88步话机发出了一连串带有噪声的电子音。</text>
-            <text>艾妲的核心在这种简陋的装置里只能堪堪维持运转，甚至连自己的影像都无法稳定生成。</text>
+            <speak chara="adaNoFace">A weak Honkai energy response was detected.</speak>
+            <speak chara="adaNoFace">The ciphertext matches the previously obtained key. This is an audio recording of the previous era humans.</speak>
+            <speak chara="adaNoFace">The signal length of 348 units, have all been received.</speak>
+            <text>The WS No.88 walkie-talkie made a series of noisy electronic sounds.</text>
+            <text>Adas core in such a simple device in can only maintain the operation and can not even generate her own image stably.</text>
             <show chara="adaNormalRadioFar" position="left" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="right"/>
-            <speak chara="einNoFace">那就拜托你翻译了。</speak>
+            <speak chara="einNoFace">Please translate it then</speak>
             <show chara="einNormalWinterFar" position="right" opacity="0.7"/>
             <show chara="adaSmileRadioFar" position="left"/>
-            <speak chara="adaNoFace">没有问题，爱因斯坦博士。</speak>
+            <speak chara="adaNoFace">No problem, Dr. Einstein.</speak>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="bostonCommon.jpg">
@@ -50,23 +50,23 @@
         <scene id="25" background="bostonCommon.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="weltQuestionNewFar" position="right"/>
-            <speak chara="weltNoFace">……你知道他说的这些历史吗，艾妲？</speak>
+            <speak chara="weltNoFace">...Do you know of the history he was talking about, Ada?</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
-            <speak chara="adaNoFace">不知道，瓦尔特先生。</speak>
-            <speak chara="adaNoFace">我的数据库里并没有相关的知识。</speak>
-            <speak chara="adaNoFace">……而从自我意识上来说，我也没有经历过那个时代。</speak>
+            <speak chara="adaNoFace">I don't, Mr. Welt.</speak>
+            <speak chara="adaNoFace">There is no relevant knowledge in my database</speak>
+            <speak chara="adaNoFace">...And in terms of self-consciousness, I have not experienced that era either.</speak>
             <show chara="adaNormalRadioFar" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">瓦尔特你可能不知道……艾妲被发掘出来的时候，还是没有“开机”的状态。</speak>
-            <speak chara="teslaNoFace">打比方的话……也就是说，它是在这个时代，在被发掘出来以后，才“诞生”的。</speak>
+            <speak chara="teslaNoFace">You may not know this Welt but... When Ada was discovered, she was still not "on".</speak>
+            <speak chara="teslaNoFace">To put it in an analogy...that is to say, she was only "born" in this era, after being discovered.</speak>
             <show chara="weltQuestionNewFar" position="right"/>
-            <speak chara="weltNoFace">唔……</speak>
+            <speak chara="weltNoFace">Oh...</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="left"/>
             <speak chara="einNoFace">……总之我们先前进吧。对方应该是打算在每个景点都留下一小段记录。</speak>
             <show chara="einSmileWinterFar" position="left"/>
-            <speak chara="einNoFace">自由之路的第二个景点是“麻州议会大厦”。穿过公园，走到灯塔街就是。</speak>
+            <speak chara="einNoFace">The second attraction on the Freedom Trail is the "Massachusetts State House". Go through the park and walk to Lighthouse Street.</speak>
             <goto goto="30" change="#ffffff"/>
         </scene>
         <scene id="30" background="massachusettsStateHouse.jpg">
