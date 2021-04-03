@@ -323,7 +323,7 @@
             <speak chara="weltNoFace">Is it finally over... Those were heavy stories...</speak>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
-            <speak chara="einNoFace">从红砖路的角度来讲是这样的……不过从16个景点的列表来讲，我们还有“宪法号”没去。</speak>
+            <speak chara="einNoFace">From the perspective of the red brick road, it seems like that... But from the list of 16 scenic spots, we still have the "USS Constitution" missing.</speak>
             <show chara="einNormalWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">Huh, that's the wooden warship that has been kept in service by the US Navy since more than a hundred years ago?</speak>
