@@ -8,8 +8,8 @@
         </scene>
         <scene id="10" background="bostonCommon.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
-            <text>1955年11月24日星期四，凌晨1时。</text>
-            <text>上弦月还不是很明亮——路灯之外，伸手不见五指。</text>
+            <text>Thursday, November 24, 1955. 1 am.</text>
+            <text>The first quarter moon shone weakly abovehead—— standing beyond the glare of the streetlights, you wouldn't even be able to see the fingers of your outstretched hand.上弦月还不是很明亮——路灯之外，伸手不见五指。</text>
             <text remark="next">一手提着改装过的WS No.88无线收发器，一手打着高亮探灯——</text>
             <remark>
                 <p class="article-text-h">注：</p>
@@ -39,29 +39,29 @@
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <speak chara="oldTapeNoFace">.....</speak>
             <speak chara="oldTapeNoFace">If people from a future civilization find this recording, I want you to learn the truth.</speak>
-            <speak chara="oldTapeNoFace">The Houkai of this planet are born from civilization.</speak>
-            <speak chara="oldTapeNoFace">As human civilization develops, so does the power of the Houkai.</speak>
-            <speak chara="oldTapeNoFace">Every time the Houkai gave birth to a Herrscher, humanity defeated by paying a huge price.</speak>
-            <speak chara="oldTapeNoFace">Herrscher of Reason, Herrscher of The Void, Herrscher of Lightning, Herrscher of Wind... Creation and Destruction, Domination and Restraint...</speak>
-            <speak chara="oldTapeNoFace">Each one of these 12 past incidents caused damage comparable to that of a World War. As a result, almost 70% of cities around the world have been destroyed.</speak>
+            <speak chara="oldTapeNoFace">The Honkai of this planet are born from civilization.</speak>
+            <speak chara="oldTapeNoFace">As human civilization develops, so to does the power of the Honkai.</speak>
+            <speak chara="oldTapeNoFace">Every time the Honkai gave birth to a Herrscher, humanity only defeated it by paying a huge price.</speak>
+            <speak chara="oldTapeNoFace">The Herrscher of Reason, the Herrscher of The Void, the Herrscher of Lightning, the Herrscher of Wind... Creation and Destruction, Domination and Binding...</speak>
+            <speak chara="oldTapeNoFace">Each one of these 12 incidents caused damage comparable to that of a World War. As a result, almost 70% of the cities around the world have been destroyed.</speak>
             <speak chara="oldTapeNoFace">But... everything that happened in the past pales in comparison to what I will talk about.</speak>
             <goto goto="25" change="#ffffff"/>
         </scene>
         <scene id="25" background="bostonCommon.jpg">
             <bgm src="03_03_bostonNight.mp3" status="continue"></bgm>
             <show chara="weltQuestionNewFar" position="right"/>
-            <speak chara="weltNoFace">……你知道他说的这些历史吗，艾妲？</speak>
+            <speak chara="weltNoFace">...Ada, do you know the events he is talking about?</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
-            <speak chara="adaNoFace">不知道，瓦尔特先生。</speak>
-            <speak chara="adaNoFace">我的数据库里并没有相关的知识。</speak>
-            <speak chara="adaNoFace">……而从自我意识上来说，我也没有经历过那个时代。</speak>
+            <speak chara="adaNoFace">No, Mr Welt.</speak>
+            <speak chara="adaNoFace">There is no relevant information in my database.</speak>
+            <speak chara="adaNoFace">... And neither have I experienced that era.</speak>
             <show chara="adaNormalRadioFar" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">瓦尔特你可能不知道……艾妲被发掘出来的时候，还是没有“开机”的状态。</speak>
-            <speak chara="teslaNoFace">打比方的话……也就是说，它是在这个时代，在被发掘出来以后，才“诞生”的。</speak>
+            <speak chara="teslaNoFace">You may not know this, Welt... but when Ada was discovered, it had not been activated yet.</speak>
+            <speak chara="teslaNoFace">In other words...it was only after we excavated it that it was "born".</speak> <!-- editor's note: is "it" more appropriate or "she" for Ada? -->
             <show chara="weltQuestionNewFar" position="right"/>
-            <speak chara="weltNoFace">唔……</speak>
+            <speak chara="weltNoFace">Oh...</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
             <show chara="einNormalWinterFar" position="left"/>
             <speak chara="einNoFace">……总之我们先前进吧。对方应该是打算在每个景点都留下一小段记录。</speak>
@@ -487,4 +487,4 @@
             <end post="U2FsdGVkX18OCUSLhPy1oDwFhkQc"/>
         </scene>
     </story>
-</data>		
+</data>
