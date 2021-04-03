@@ -22,8 +22,8 @@
             <text>Under the excuse of "shelving theories", I refused to think deeper.</text>
             <text>...I don't actually like London very much.</text>
             <text>I just feel like, living under the same roof, we have gotten used to each other's existence.</text>
-            <text>Even Welt seems like he has been a part of us for a long time.</text>
-            <text>From the bottom of my heart, I hope that this peace will last forever.</text>
+            <text>Even Welt seems like he has always been with us.</text>
+            <text>I hope, from the bottom of my heart, that this peace will last forever.</text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="westCliffBeach.jpg">
@@ -64,8 +64,8 @@
             <text>Hamlet.</text>
             <text>When I first met the CEO of General Mechatronics 「GME」, she left that kind of impression on me.</text>
             <text>Nancy Thomas Edison. A real life version of Hamlet.</text>
-            <text>It's not like she's lacking feelings or desires.</text>
-            <text>It's not like she's lacking humanity.</text>
+            <text>It's not that she's lacking feelings or desires.</text>
+            <text>It's not that she's lacking humanity.</text>
             <text>But when it comes to very specific matters, she puts her emotions aside and makes choices based on her own interests.</text>
             <text>That being revenge against the Honkai with her own hands, for her own family or maybe for all of humanity.</text>
             <text>And to do so, she won't hesitate to eliminate any 「obstacles」 that get in her way.</text>
@@ -135,7 +135,7 @@
             <speak chara="ritaNoNameNoFace">(...Mr Welt, a moment, if you please.)</speak>
             <speak chara="weltNoFace">...Who said that?</speak>
             <speak chara="ritaNoFace">It's me, Rita.</speak>
-            <speak chara="weltNoFace">老、老板娘？</speak>
+            <speak chara="weltNoFace">B-boss?</speak>
             <speak chara="ritaNoFace">The corridor is not a good place for conversation. Please follow me.</speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
@@ -143,7 +143,7 @@
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
-            <speak chara="ritaNoFace">Althrough this is quite sudden, and I am mortified...</speak>
+            <speak chara="ritaNoFace">Althrough this is quite sudden, and I'm mortified...</speak>
             <speak chara="ritaNoFace">But...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltSurpriseRobeClose-up" position="right"/>
@@ -151,13 +151,13 @@
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
             <speak chara="ritaNoFace">The clothes you sent for washing aren't dry yet...</speak>
-            <speak chara="ritaNoFace">And once there is a power outage, it will last for about half a day...</speak>
+            <speak chara="ritaNoFace">Power outrages here last for about half a day...</speak>
             <speak chara="ritaNoFace">I'm afraid you may need another change of clothes for when you go home tomorrow...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousRobeClose-up" position="right"/>
             <speak chara="weltNoFace">Ugh...</speak>
             <speak chara="weltNoFace">But, but, I don't have any extra clothes!</speak>
-            <speak chara="weltNoFace">那一身也是因为在沙滩上不小心沾了泥——</speak>
+            <speak chara="weltNoFace">That last set was accidentally dirtied by mud on the beach——</speak>
             <show chara="weltNervousRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
             <speak chara="ritaNoFace">Don't worry, don't worry.</speak>
@@ -197,50 +197,50 @@
             <speak chara="weltNoFace">这、这花里胡哨的是……</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">……辣椒喷雾？</speak>
+            <speak chara="ritaNoFace">…A pepper spray？</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">啥？</speak>
+            <speak chara="weltNoFace">Wha？</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">女孩子防身用的喷雾罐啦。对着脸“啾”地喷一下，能把犯罪者难受死的东西。</speak>
-            <speak chara="ritaNoFace">虽然里面的压缩气体用不了几次，但因为没有什么操作难度……</speak>
-            <speak chara="ritaNoFace">对于客人你来说，好像还蛮实用的？</speak>
+            <speak chara="ritaNoFace">A spray can for girls to defend themselves. A single squirt on the face can cause the offender extreme discomfort.</speak>
+            <speak chara="ritaNoFace">Though there is only enough compressed air for a few uses, because it is so fool-proof...</speak>
+            <speak chara="ritaNoFace">For someone like you, it seems quite practical?</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltSBDNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……一点也不实用啊！</speak>
-            <speak chara="weltNoFace">……这、这包装，怎么看都是女生的玩具吧！</speak>
-            <speak chara="weltNoFace">……说到底，她为什么觉得我会需要这种罐子啦！</speak>
+            <speak chara="weltNoFace">…How is this practical?</speak>
+            <speak chara="weltNoFace">…This, this packaging, no matter what it just looks like a girl's toy!</speak>
+            <speak chara="weltNoFace">…Why would she think I would need something like this!?</speak>
             <goto goto="110" change="#ffffff"/>
         </scene>
         <scene id="110" background="carMorning.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="start"></bgm>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">噗哈哈哈哈哈哈哈！</speak>
-            <speak chara="teslaNoFace">辣椒喷雾！</speak>
+            <speak chara="teslaNoFace">AHAHAHAHAHA！</speak>
+            <speak chara="teslaNoFace">Pepper spray！</speak>
             <speak chara="teslaNoFace">这可怜主教，还真是被自家女武神看不起啊！</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……啊，对了。</speak>
-            <speak chara="weltNoFace">仔细查看以后，礼品盒里面还有个字条——</speak>
+            <speak chara="weltNoFace">…Ah, right.</speak>
+            <speak chara="weltNoFace">After inspecting it carefully, I found a note inside the gift box——</speak>
             <speak chara="weltNoFace" remark="next">“岸远沙平，日斜归路晚霞明。”</speak>
             <remark>
                 <p class="article-text-h">注：</p>
                 <p class="article-text">此句出自《南乡子·岸远沙平》，为五代十国时期，后蜀词人欧阳炯所作。</p>
                 <p class="article-text">全词为：“岸远沙平，日斜归路晚霞明。孔雀自怜金翠尾，临水，认得行人惊不起。”</p>
             </remark>
-            <speak chara="weltNoFace">也不知道是什么意思。</speak>
+            <speak chara="weltNoFace">I have no idea what that means.</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">哼。</speak>
-            <speak chara="teslaNoFace">所以你就保管好呗。</speak>
-            <speak chara="teslaNoFace">真遇到什么情况了，你念一句诗，人家说不定就会专程来救呢。</speak>
+            <speak chara="teslaNoFace">Hmph.</speak>
+            <speak chara="teslaNoFace">Just keep it safe.</speak>
+            <speak chara="teslaNoFace">Who knows, if one day you get yourself into some sitation, recite that poem and maybe she will specially come to save you.真遇到什么情况了，你念一句诗，人家说不定就会专程来救呢。</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
+            <speak chara="weltNoFace">Urgh…</speak>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">噗。特斯拉博士吃醋了呢。</speak>
+            <speak chara="einNoFace">Pft. Is Dr Tesla jealous? 噗。特斯拉博士吃醋了呢。</speak>
             <show chara="einSlyWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">吃、吃你妹的醋啊！我为什么要吃醋啊！</speak>
