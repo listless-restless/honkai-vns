@@ -58,8 +58,8 @@
             <speak chara="adaNoFace">... And neither have I experienced that era.</speak>
             <show chara="adaNormalRadioFar" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">You may not know this, Welt... but when Ada was discovered, it had not been activated yet.</speak>
-            <speak chara="teslaNoFace">In other words...it was only after we excavated it that it was "born".</speak> <!-- editor's note: is "it" more appropriate or "she" for Ada? -->
+            <speak chara="teslaNoFace">You may not know this, Welt... but when Ada was discovered, she had not been activated yet.</speak>
+            <speak chara="teslaNoFace">In other words...it was only after we excavated her that she was "born".</speak> <!-- editor's note: is "it" more appropriate or "she" for Ada? -->
             <show chara="weltQuestionNewFar" position="right"/>
             <speak chara="weltNoFace">Oh...</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
