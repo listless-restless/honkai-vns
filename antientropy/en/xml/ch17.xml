@@ -8,14 +8,14 @@
         </scene>
         <scene id="10" background="bostonCommon.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
-            <text>1955年11月24日星期四，凌晨1时。</text>
-            <text>上弦月还不是很明亮——路灯之外，伸手不见五指。</text>
-            <text remark="next">一手提着改装过的WS No.88无线收发器，一手打着高亮探灯——</text>
+            <text>November 24, 1955, Thursday, 1 am.</text>
+            <text> It's not very bright due to the moon being first quarter. Beyond the street lights, you can't see your fingers.</text>
+            <text remark="next"> Holding the modified WS No.88 wireless transceiver on one hand and upholding the searchlight in the other——</text>
             <remark>
                 <p class="article-text-h">注：</p>
-                <p class="article-text">WS No.88无线收发器是一款1950年代英国军方使用的VHF-FM收发器（俗称“步话机”），主要用于短距离（2英里以内）的步兵通信。 </p>
+                <p class="article-text">WS No.88 wireless transceiver is a VHF-FM transceiver (commonly known as "walkie-talkie"), used by the British military since the 1950s. It is mainly used for short-distance (within 2 miles) infantry communication.</p>
             </remark>
-            <text>告别了向北美支部借来的司机，爱因斯坦博士和她的伙伴们正矗立在深夜的波士顿街头。</text>
+            <text> After saying goodbye to the driver lent by the North American Branch, Dr. Einstein and her friends are standing on the streets of Boston late at night.</text>
             <text>这里是特莱蒙街139号，波士顿公园的入口，“自由之路”的起点。</text>
             <text>这条拥有百年历史的纪念线路在4年前被修葺一新，殷红的地砖犹如凝固的血液，将风云激荡的时代和当下联系在一起。</text>
             <show chara="einNormalWinterFar" position="right"/>
