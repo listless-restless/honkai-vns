@@ -11,17 +11,17 @@
             <text>You are lying next to a tear in the ground.</text>
             <text remark="next">You struggle to get up. As you move you look to your left, and notice the Spree River flowing.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">施普雷河（Spree）发源于捷克境内，从德国首都柏林穿城而过，之后汇入易北河，注入北海。</p>
-                <p class="article-text">p.s. 冷战时期，施普雷河与哈弗尔河（Havel）的河面是“柏林墙”的少数几个缺口之一。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The River Spree originated in the Czech Republic and passed through the city from Berlin, the capital of Germany, before flowing into the Elbe River and into the North Sea.</p>
+                <p class="article-text">p.s. During the Cold War, the rivers of the Spree and Havel were one of the few gaps in the "Berlin Wall."</p>
             </remark>
             <!-- SPLIT: You look across the river, towards the Brandenburg Gate at the South—— -->
             <text>You look across the river.</text> 
             <text remark="next">South, towards the Brandenburg Gate——</text>
             <remark post="U2FsdGVkX1984mCWWkKDy8j7g660">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">勃兰登堡门（Brandenburger Tor）位于柏林市中心，是柏林的象征。它由腓特烈“大帝”下令建造，以纪念普鲁士在七年战争（1754 - 1763）中取得的奇迹般胜利。</p>
-                <p class="article-text">p.s. 冷战时期，勃兰登堡门本身即为“柏林墙”的一部分，只有东德边防军可以接近。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The Brandenburg Gate (Brandenburger Tor) is located in the center of Berlin and is a symbol of Berlin. It was built under the order of Frederick "the Great" to commemorate the miraculous victory of Prussia in the Seven Years' War (1754-1763).</p>
+                <p class="article-text">p.s. During the Cold War, the Brandenburg Gate itself was part of the "Berlin Wall" and only the East German Border Guards could approach it.</p>
             </remark>
             <text>The fire created black smoke, swaying in the air like black mud.</text>
             <text>January 1st of 1952.</text>
@@ -37,9 +37,9 @@
             <text>Suddenly, something big was blown out to the sky by an explosion, and made a loud noise as it fell near you.</text>
             <text remark="next">It was a T-54, one of the best Soviet tanks, turned upside down.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“T-54”（这里的“T”是西里尔字母，读作“te”）是由苏联设计的中型坦克，于1947年开始量产。此后，T-54及其姊妹型T-55，迅速成为华约各国的装甲主力，并被输出到众多国家，参加了20世纪后半叶的几乎所有武装冲突。T-54/55是被认为是历史上产量最大的坦克，其总数可能高达十万辆左右。</p>
-                <p class="article-text">p.s.著名的“五对负重轮”——59式坦克，就是T-54的一款改进型。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"T-54" (here "T" is Cyrillic, pronounced "te") is a medium tank designed by the Soviet Union and mass production began in 1947. Since then, T-54 and its sister T-55, quickly became the main armored force of the Warsaw Pact countries, and were exported to many countries, participating in almost all armed conflicts in the second half of the 20th century. The T-54/55 is considered to be the largest production tank in history, and its total number may be as high as 100,000.</p>
+                <p class="article-text">p.s. The famous "five pairs of road wheels"-Type 59 tank, is an improved version of T-54.</p>
             </remark>
             <goto goto="30" change="#ffffff"/>
         </scene>
@@ -50,19 +50,19 @@
             <text>A piece of barbed wire attached to wooden piles fell from the sky.</text>
             <text remark="next">It originally belonged to a fence which divided the occupied area——</text>
             <remark post="U2FsdGVkX19jzpMoIyJvJmTjXOLz">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">1945年5月8日纳粹德国向盟军宣告无条件投降后，盟军将德国分为四个占领区，分别归苏、美、英、法四国管制，在占领区内实施民主化、非军事化和非纳粹化。</p>
-                <p class="article-text">冷战开始后，美、英、法三国管区合称为“西柏林”，被东德建设的“柏林墙”团团围住，是西方阵营在东方阵营中的孤岛。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">After Nazi Germany announced its unconditional surrender to the Allies on May 8, 1945, the Allies divided Germany into four occupation zones, which were under the control of the Soviet Union, the United States, Britain, and France, and implemented democratization and demilitarization in the occupied zones. And de-Nazification.</p>
+                <p class="article-text">After the beginning of the Cold War, the three jurisdictions of the United States, Britain, and France were collectively called "West Berlin". They were surrounded by the "Berlin Wall" built by East Germany. They were isolated islands of the Western camp in the Eastern camp.</p>
             </remark>
             <text>There are no more living beings here, there is no need for fences anymore.</text>
             <text>A broken ■■ pierced through a pair of pants, revealing its white figure.</text>
             <text>Jet-black ■■ flows from under a shirt. Not even the flies dare to look at it.</text>
             <text remark="next">Not even 7 years ago, at the end of the Battle of Berlin, this city was as desolated as it was today.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">柏林战役（1945年4月16日 - 1945年5月2日），是第二次世界大战中，欧洲战场的最后一场重大战役。是役苏波联军伤亡三十六万余人；德军伤亡三十一万余人，另有四十八万余人投降或被俘。</p>
-                <p class="article-text">4月30日21时50分，红军将胜利旗插上了柏林国会大厦圆顶，这标志着纳粹的彻底战败。</p>
-                <p class="article-text">5月8日，德国正式签署无条件投降协议，欧洲战事宣告结束。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The Battle of Berlin (April 16, 1945-May 2, 1945) was the last major battle on the European battlefield in World War II. There were more than 360,000 casualties of Soviet-Polish coalition forces; more than 310,000 German casualties, and more than 480,000 people surrendered or were captured.</p>
+                <p class="article-text">At 21:50 on April 30, the Red Army planted the victory flag on the dome of the Reichstag in Berlin, which marked the complete defeat of the Nazis.</p>
+                <p class="article-text">On May 8, Germany formally signed the unconditional surrender agreement, and the war in Europe came to an end.</p>
             </remark>
             <text>If war is what creates hell on Earth...</text>
             <text>Then Berlin today is a graveyard where not even wandering lost souls remain.</text>
