@@ -189,14 +189,14 @@
         </scene>
         <scene id="120" background="carNight.jpg">
             <bgm src="11_17_tatakau.mp3" status="start"></bgm>
-            <text>1955年11月24日，凌晨4时许。</text>
-            <text remark="next">1号国道，罗德岛州和马萨诸塞州交界的布莱克斯通河畔。</text>
+            <text>November 24, 1955, 4 o'clock in the morning.</text>
+            <text remark="next">State Highway 1, on the Blackstone River at the border of Rhode Island and Massachusetts.</text>
             <remark post="U2FsdGVkX19ohxbd4UVhPVop55vD">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">美国1号国道（U.S. Route 1），南起佛罗里达州的基韦斯特（Key West，美国本土最南端的城镇，距离对岸的古巴首都哈瓦那仅171公里）海岸，北至缅因州的肯特堡（Fort Kent）与加拿大新不伦瑞克省161号公路（New Brunswick Route 161，简称NB-161）连接，全长3846公里，是连接美国东海岸15个州的主要公路之一。从1957年起，1号国道的职能逐渐被新建的95号洲际公路（Interstate 95，简称I-95）取代。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">US Route 1 starts from the coast of Key West, Florida (Key West, the southernmost town in the continental United States, and only 171 kilometers away from the capital of Cuba, Havana, on the other side) to Fort Kent, Maine in the north (Fort Kent) is connected with New Brunswick Route 161 (NB-161) in Canada, with a total length of 3846 kilometers. It is one of the main roads connecting the 15 states on the east coast of the United States. Since 1957, the functions of National Highway No. 1 were gradually replaced by the newly built Interstate 95 (I-95).</p>
             </remark>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <text>全名为芙蕾德莉卡·尼古拉·特斯拉的42实验室研究员，正全神贯注地握着方向盘。</text>
+            <text>The Researcher from Lab 42, whose full name is Frederica Nikola Tesla, is holding the steering wheel intently.</text>
             <text>事实上，若不是集中注意力在开车上，她有理由相信，自己才会是情绪最不稳定的那一个。</text>
             <text>不中用的家伙醒来之后……前因后果的种种情况，就交给更有责任心的她去解释吧。</text>
             <text>不过，会因为崩坏脉冲而昏倒……也意味着不中用家伙的身体状态，进入了不稳定的阶段吧。</text>
@@ -220,51 +220,51 @@
         <scene id="130" background="carNight.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">我们是……天命组织直属，帝国研究院42实验室。爱因斯坦博士和特斯拉博士。你可能没有听说过——</speak>
+            <speak chara="teslaNoFace">We are... Directly under the Schicksal Organization, Laboratory 42 of the Imperial Academy. Dr. Einstein and Dr. Tesla. You may not have heard of--</speak>
             <hide position="center"/>
-            <speak chara="yuriNoNameNoFace">怎么可能没有听说过？！天啊，总算有靠谱的人和我联络了！</speak>
-            <text>电话另一头的男青年激动地喊了一声，随后又连连道歉。</text>
-            <speak chara="yuriNoFace">实在对不起……我的名字是尤里·阿姆斯特朗，今天值夜班。</speak>
-            <speak chara="yuriNoFace">突然之间又是地震又是停电、电话也打不通，所以铃声一响，我就特别激动……</speak>
-            <speak chara="yuriNoFace">啊，对了对了……因为你们都在“紧急咨询名单”上，所以我虽然不认识你们，但却很熟悉你们的名字……</speak>
+            <speak chara="yuriNoNameNoFace">How could it not have heard of it?! my God, some reliable people has finally contacted me!</speak>
+            <text>The young man on the other end of the phone yelled excitedly, and then apologized again.</text>
+            <speak chara="yuriNoFace">I'm really sorry...My name is Yuri Armstrong and I am on night shift today.</speak>
+            <speak chara="yuriNoFace">There was an earthquake suddenly and a power outage, and the phone couldn't get through, so when the bell rang, I was very excited...</speak>
+            <speak chara="yuriNoFace">Ah, that's right...although I don't know you, I am very familiar with your names because you are all on the "emergency consultation list"...</speak>
             <show chara="teslaNormalGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">“紧急咨询名单”？那是什么？</speak>
+            <speak chara="teslaNoFace">And what is this "Emergency Consultation List"?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">是政府和天命组织北美支部共同拟定的联络名单，以便有事时，紧急应变管理局的指挥系统能够正常运转。</speak>
-            <speak chara="yuriNoFace">你们的名字分别在第12顺位和第13顺位……呃，这个不重要。</speak>
-            <speak chara="yuriNoFace">总之，在无法联系到更高顺位指挥者的当下，我，乃至普罗维登斯的全体管理局成员……</speak>
-            <speak chara="yuriNoFace">……将全权接受你们的指挥。</speak>
+            <speak chara="yuriNoFace">It is a contact list jointly drawn up by the government and the North American branch of Schicksal Organization, so that the command system of the Emergency Response Administration can operate normally when something happens.</speak>
+            <speak chara="yuriNoFace">Your names are at No. 12 and No. 13 respectively... Well, it doesn't matter.</speak>
+            <speak chara="yuriNoFace">In short, at the moment when the higher-ranking commander cannot be contacted, I, and even all the members of the Administration of Providence...</speak>
+            <speak chara="yuriNoFace">...Will accept your command with full authority.</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">等等等等……你们不是政府部门吗？</speak>
-            <speak chara="teslaNoFace">接受我们的指挥是什么意思？</speak>
+            <speak chara="teslaNoFace">Wait, wait... Are you not a government department?</speak>
+            <speak chara="teslaNoFace">Accept our command, what does that mean exacly?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">呃……你问我什么意思……</speak>
-            <speak chara="yuriNoFace">章程就是这样规定的啊……</speak>
-            <speak chara="yuriNoFace">……连我们特别联络办公室，都是在爱迪生小姐特别建议之下，由总统先生签署特别条令成立的啊。</speak>
-            <speak chara="yuriNoFace">要我读给你听的话，名单的第一位是总统先生，第二位是爱迪生小姐，第三位是普朗克小姐，第四位是——</speak>
+            <speak chara="yuriNoFace">Um...... you're ask me about that....</speak>
+            <speak chara="yuriNoFace">This is how the regulations were stipulated...</speak>
+            <speak chara="yuriNoFace">...Even our special liaison office was established by Mr. President under the special suggestion of Miss Edison.</speak>
+            <speak chara="yuriNoFace">If I want me to read it to you, the first on the list is Mr. President, the second is Miss Edison, the third is Miss Planck, and the fourth is—</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">好了好了我大概懂了。</speak>
+            <speak chara="teslaNoFace">Okay, Okay, I think I kind of understand.</speak>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">鸡窝头，这帮人需要你去发号施令喽。</speak>
+            <speak chara="teslaNoFace">Mophead, these people need you to give orders.</speak>
             <show chara="einFoolWinterClose-up" position="center"/>
             <speak chara="einNoFace">特斯拉博士，不听完人家的解释，这样好吗？</speak>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">我才懒得和政府部门打交道呢……</speak>
+            <speak chara="teslaNoFace">I don't feel like dealing with literal government departments...</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">再说，他还有什么可解释的啊，你的顺位摆明了在我之前——</speak>
+            <speak chara="teslaNoFace">Besides, what more is he to explain? Your rank is clearly ahead of me—</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">等等——特斯拉小姐，你是在和爱因斯坦博士交谈吗？</speak>
+            <speak chara="yuriNoFace">Wait—Miss Tesla, are you talking to Dr. Einstein?</speak>
             <show chara="teslaAngryGlassHeadsetWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">当然啦，不然还有谁啊？你这个啰嗦鬼！</speak>
-            <speak chara="teslaNoFace">她是12号，我是13号，你们让她发号施令就可以了——我说的不对吗？</speak>
+            <speak chara="teslaNoFace">She is the 12th, I am the 13th, you can just let her give orders-am I wrong?</speak>
             <hide position="center"/>
             <speak chara="yuriNoFace">……</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">怎么了？你怎么突然不吭气了？</speak>
+            <speak chara="teslaNoFace">What? Why did you go silent and suddenly sighing?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">特斯拉博士，恕我直言……</speak>
-            <speak chara="yuriNoFace">名单上的第12顺位……</speak>
-            <speak chara="yuriNoFace">……就是您自己啊。</speak>
+            <speak chara="yuriNoFace">Dr. Tesla, with all due respect…</speak>
+            <speak chara="yuriNoFace">The 12th no. on the list...</speak>
+            <speak chara="yuriNoFace">...is you.</speak>
             <end post="U2FsdGVkX1+WKqmGUyb3qMnZ46Is"/>
         </scene>
     </story>
