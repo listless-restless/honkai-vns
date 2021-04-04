@@ -150,36 +150,36 @@
         </scene>
         <scene id="100" background="CG18-1.jpg">
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
-            <speak chara="einNoFace">醒了吗？</speak>
-            <speak chara="einNoFace">你好像，做了个噩梦呢。</speak>
+            <speak chara="einNoFace">are you awake?</speak>
+            <speak chara="einNoFace">You seemed to had a nightmare.</speak>
             <speak chara="weltNoFace">……</speak>
-            <speak chara="weltNoFace">（我好像是在一辆车里……）</speak>
-            <speak chara="weltNoFace">（躺在她的腿上……）</speak>
-            <speak chara="weltNoFace">（特斯拉……在开车吗……）</speak>
+            <speak chara="weltNoFace">(I seem to be in a car...)</speak>
+            <speak chara="weltNoFace">(Head lying on her lap...)</speak>
+            <speak chara="weltNoFace">(Tesla...is driving...)</speak>
             <speak chara="weltNoFace">——我、我怎么了？是、是“神之键”做了什么吗？</speak>
             <goto goto="105" change="0"/>
         </scene>
         <scene id="105" background="CG18-2.jpg">
-            <speak chara="einNoFace">不……我猜……应该和“神之键”没有关系。</speak>
+            <speak chara="einNoFace">No... I guess not... it should have nothing to do with the "Key of God".</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG18-2.jpg">
             <bgm src="8_24_war.mp3" status="start"></bgm>
-            <speak chara="einNoFace">击倒你的，恐怕是自然灾害。</speak>
-            <speak chara="weltNoFace">自然灾害？</speak>
-            <speak chara="einNoFace">在你昏过去的时候，发生了地震。</speak>
-            <speak chara="weltNoFace">地、地震？我是因为地震受伤了吗？</speak>
-            <speak chara="einNoFace">不，不是你想象的那样。震感不是很强。波士顿应该不会有什么人受伤。</speak>
-            <speak chara="weltNoFace">那……</speak>
-            <speak chara="einNoFace">根据艾妲的对余震的监测，震中应该在纽约市区，曼哈顿一带。</speak>
-            <speak chara="weltNoFace">曼哈顿？那不是……</speak>
-            <speak chara="einNoFace">嗯……是爱迪生她们工作的地方。</speak>
-            <speak chara="einNoFace">不过……</speak>
-            <speak chara="einNoFace">……这还不是最值得担忧的部分。</speak>
-            <speak chara="einNoFace">在你晕倒的同时，艾妲也发生了短时间的故障。</speak>
+            <speak chara="einNoFace">I'm afraid it was a natural disaster that knocked you down.</speak>
+            <speak chara="weltNoFace">Natural disaster?</speak>
+            <speak chara="einNoFace">There was an earthquake, when you passed out.</speak>
+            <speak chara="weltNoFace">Earth... earthquake? Did anyone get injured because of that?</speak>
+            <speak chara="einNoFace">No, it was not as bad as you think. The tremor wasnt very strong. No one should be injured in Boston.</speak>
+            <speak chara="weltNoFace">How...</speak>
+            <speak chara="einNoFace">According to Ada's monitoring of aftershocks, the epicenter should be in the New York City area and Manhattan.</speak>
+            <speak chara="weltNoFace">Manhattan? Isnt that……</speak>
+            <speak chara="einNoFace">Hmm... it's where Edison and the others were working.</speak>
+            <speak chara="einNoFace">But……</speak>
+            <speak chara="einNoFace">....That's not the most worrying part.</speak>
+            <speak chara="einNoFace">When you fainted, Ada also had a short-term breakdown.</speak>
             <speak chara="einNoFace">根据它自检的结果，是高频率的能量脉冲导致了此次异常。</speak>
-            <speak chara="weltNoFace">能量……脉冲？</speak>
-            <speak chara="einNoFace">是的。</speak>
+            <speak chara="weltNoFace">Energy...pulse?</speak>
+            <speak chara="einNoFace">Yes.</speak>
             <speak chara="einNoFace">有我们相对熟悉的电磁脉冲……</speak>
             <speak chara="einNoFace">以及，陌生而可怕的……</speak>
             <speak chara="einNoFace">……崩坏脉冲。</speak>
