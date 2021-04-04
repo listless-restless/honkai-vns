@@ -184,7 +184,7 @@
             <speak chara="einNoFace">以及，陌生而可怕的……</speak>
             <speak chara="einNoFace">……崩坏脉冲。</speak>
             <speak chara="weltNoFace">什……</speak>
-            <speak chara="einNoFace">最坏情况下……柏林发生的事情，可能会在纽约再次发生一次。</speak>
+            <speak chara="einNoFace">In the worst case scenario... what happened in Berlin may happen again in New York.</speak>
             <goto goto="120" change="#ffffff"/>
         </scene>
         <scene id="120" background="carNight.jpg">
@@ -197,7 +197,7 @@
             </remark>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
             <text>The Researcher from Lab 42, whose full name is Frederica Nikola Tesla, is holding the steering wheel intently.</text>
-            <text>事实上，若不是集中注意力在开车上，她有理由相信，自己才会是情绪最不稳定的那一个。</text>
+            <text>In truth, if she hadn't been so focused on driving, she had reason to believe that she would be the more emotionally volatile.</text>
             <text>不中用的家伙醒来之后……前因后果的种种情况，就交给更有责任心的她去解释吧。</text>
             <text>不过，会因为崩坏脉冲而昏倒……也意味着不中用家伙的身体状态，进入了不稳定的阶段吧。</text>
             <text>……不对，现在还不是操心这些的时候。</text>
@@ -207,12 +207,12 @@
                 <p class="article-text-h">注：</p>
                 <p class="article-text">在电磁脉冲的影响范围内，任何没有受到保护的电器、或任何连接到电线的东西，如电力系统、电子设备、集成电路等都会遭受无法修复的损坏。与晶体管相比，电子管（真空管） 不容易受到电磁脉冲的攻击——但这也仅仅指电子管本身。</p>
             </remark>
-            <text>如果不是为了和艾妲连接而做过特殊强化的话，这台WS No.88，估计也逃不脱在电磁脉冲下短路熔毁的命运。</text>
-            <text>信息的瘫痪意味着社会的瘫痪。</text>
-            <text>难道要让我就这样盲目地开向纽约吗？</text>
+            <text>If it hadnt been specially strengthened for the purpose of connecting with Ada, this WS No. 88 would not escape the fate of short-circuit and meltdown under electromagnetic pulses.</text>
+            <text>The paralysis of information means the paralysis of society.</text>
+            <text>Do you want me to drive blindly into New York like this?</text>
             <text>真希望还有哪个号码能奇迹般地——</text>
             <hide position="center"/>
-            <speak chara="yuriNoNameNoFace">这、这里是紧急应变管理局、普罗维登斯特别联络办公室！请问您是什么部门？</speak>
+            <speak chara="yuriNoNameNoFace">This, this is the Emergency Response Administration and Providence Special Liaison Office! What department are you in?</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
             <text>——我的天啊，这下还真的接通了。</text>
             <goto goto="130" change="#ffffff"/>
