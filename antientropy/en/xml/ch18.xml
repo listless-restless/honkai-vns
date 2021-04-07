@@ -156,11 +156,11 @@
             <speak chara="weltNoFace">(I seem to be in a car...)</speak>
             <speak chara="weltNoFace">(Head lying on her lap...)</speak>
             <speak chara="weltNoFace">(Tesla...is driving...)</speak>
-            <speak chara="weltNoFace">——我、我怎么了？是、是“神之键”做了什么吗？</speak>
+            <speak chara="weltNoFace">...What happened to me? The Divine Key...did it do something?</speak>
             <goto goto="105" change="0"/>
         </scene>
         <scene id="105" background="CG18-2.jpg">
-            <speak chara="einNoFace">No... I guess not... it should have nothing to do with the "Key of God".</speak>
+            <speak chara="einNoFace">No... I guess not... it should have nothing to do with the "Divine Key".</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG18-2.jpg">
@@ -180,10 +180,10 @@
             <speak chara="einNoFace">According to the results of its self-test, it was a high-frequency energy pulse that caused the abnormality.</speak>
             <speak chara="weltNoFace">Energy...pulse?</speak>
             <speak chara="einNoFace">Yes.</speak>
-            <speak chara="einNoFace">有我们相对熟悉的电磁脉冲……</speak>
-            <speak chara="einNoFace">以及，陌生而可怕的……</speak>
-            <speak chara="einNoFace">……崩坏脉冲。</speak>
-            <speak chara="weltNoFace">什……</speak>
+            <speak chara="einNoFace">These are electromagnetic pulses that are quite familiar...</speak>
+            <speak chara="einNoFace">As well as，strange and terrible……</speak>
+            <speak chara="einNoFace">...Honkai Enegry pulses</speak>
+            <speak chara="weltNoFace">What...</speak>
             <speak chara="einNoFace">In the worst case scenario... what happened in Berlin may happen again in New York.</speak>
             <goto goto="120" change="#ffffff"/>
         </scene>
@@ -204,8 +204,8 @@
             <text>耳机里，可以听见艾妲仍旧在不断地尝试拨号。</text>
             <text remark="next">也许是刚刚经历了电磁脉冲的缘故，各种号码，全都是拨不通的状态。</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">在电磁脉冲的影响范围内，任何没有受到保护的电器、或任何连接到电线的东西，如电力系统、电子设备、集成电路等都会遭受无法修复的损坏。与晶体管相比，电子管（真空管） 不容易受到电磁脉冲的攻击——但这也仅仅指电子管本身。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Within the range of an electromagnetic pulse, any unprotected electrical appliances, or anything connected to wires, such as power systems, electronic equipment, integrated circuits, etc., will suffer irreparable damage. Compared to transistors, electron tubes (vacuum tubes) are less susceptible to electromagnetic pulse attacks-but this only pertains to the electron tubes themselves.</p>
             </remark>
             <text>If it hadnt been specially strengthened for the purpose of connecting with Ada, this WS No. 88 would not escape the fate of short-circuit and meltdown under electromagnetic pulses.</text>
             <text>The paralysis of information means the paralysis of society.</text>
@@ -255,7 +255,7 @@
             <hide position="center"/>
             <speak chara="yuriNoFace">Wait—Miss Tesla, are you talking to Dr. Einstein?</speak>
             <show chara="teslaAngryGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">当然啦，不然还有谁啊？你这个啰嗦鬼！</speak>
+            <speak chara="teslaNoFace">Of course it's her. who else would it be？你这个啰嗦鬼！</speak>
             <speak chara="teslaNoFace">She is the 12th, I am the 13th, you can just let her give orders-am I wrong?</speak>
             <hide position="center"/>
             <speak chara="yuriNoFace">……</speak>
