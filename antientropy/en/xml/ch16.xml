@@ -8,42 +8,42 @@
         </scene>
         <scene id="10" background="westCliffWomenRoom.jpg">
             <bgm src="12_15_1946.mp3" status="start"></bgm>
-            <text>……</text>
-            <text>今天也没有做梦。</text>
-            <text>质量很好的睡眠。</text>
-            <text>清晨的空气，带着一股海边特有的咸味。</text>
-            <text>沾满了湿气的被子，僵硬地盖在自己身上。</text>
-            <text>窗帘的背后映照出窗户方形的亮光。</text>
-            <text>的确是新的一天了。</text>
-            <text>收拾行装，驱车回伦敦，艾妲的破译结果应该就在等着我们了。</text>
-            <text>……有一种诡异的预感。</text>
-            <text>总觉得，自己和周围人的命运，都会发生巨大的改变。</text>
-            <text>那是我一度逃避面对的东西。</text>
-            <text>一度以“搁置猜测”为借口，拒绝做太多进一步的思考。</text>
-            <text>……并不是多么喜欢伦敦这座城市。</text>
-            <text>只是觉得，同一屋檐下的我们，彼此都习惯了对方的存在。</text>
-            <text>就连瓦尔特，也仿佛从很久之前开始，便是其中的一员了。</text>
-            <text>我由衷地希望，这种平静的日子，能够一直延续下去。</text>
+            <text>...</text>
+            <text>No dreams today.</text>
+            <text>I've had a very restful sleep.</text>
+            <text>The clear morning air brings with it a briny smell characteristic of sea breeze.</text>
+            <text>The blanket had absorbed the humidity of the air, and covers me stiffly.</text>
+            <text>The square-shaped light from the windows is shining through the curtains.</text>
+            <text>It is indeed a new day.</text>
+            <text>We packed up, and drove back to London. The results of Ada's deciphering work should be waiting for us.</text>
+            <text>...I keep having a strange feeling.</text>
+            <text>A feeling that the fates of myself and the people around me will soon change drastically.</text>
+            <text>That is something I have avoided facing.</text>
+            <text>Under the excuse of "shelving theories", I refused to think deeper.</text>
+            <text>...I don't actually like London very much.</text>
+            <text>I just feel like, living under the same roof, we have gotten used to each other's existence.</text>
+            <text>Even Welt seems like he has always been with us.</text>
+            <text>I hope, from the bottom of my heart, that this peace will last forever.</text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="westCliffBeach.jpg">
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
             <text remark="next">「We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.」 - United States Declaration of Independence.</text>
             <remark post="U2FsdGVkX1+V00C1bWCZ1mItXrxvd2HnHUK+zfphgA4=">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">此句出自《美国独立宣言》。</p>
+                <p class="article-text-h">Note:</p>
+                <p class="article-text">This phrase comes from the 「United States Declaration of Independence」. </p>
             </remark>
-            <text remark="next">「In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.」 - Communist Party Declaration.</text>
+            <text remark="next">「In place of the old bourgeois society, with its classes and class antagonisms, we shall have an association, in which the free development of each is the condition for the free development of all.」 - The Communist Manifesto.</text>
             <remark post="U2FsdGVkX19DUpbEWgHXgh+oWXOF9WuI5jO6G9PaEd0=">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">此句出自《共产党宣言》。</p>
                 <p class="article-text">全句为：“代替那存在着阶级和阶级对立的资产阶级旧社会的，将是这样一个联合体，在那里，每个人的自由发展是一切人的自由发展的条件。”</p>
             </remark>
             <!-- RENAME: Military organizations such as Destiny tend to easily trample over anything besides the right to live. -->
-            <text>Military organizations such as Schicksal tend to easily trample over anything besides the right to live.</text>
-            <text>在生死攸关的时刻，这也的确是无可奈何的事情。</text>
-            <text>But also unilaterally enforcing such rights will make them lose their value.</text>
-            <text>When it comes to military organizations, if one were to turn upside down the 「rules」 at its core——</text>
+            <text>Military organizations such as Schicksal tend to trample over anything besides the right to live.</text>
+            <text>At life and death moments, this is something that cannot be helped.</text>
+            <text>But unilaterally pursuing a single kind of right will also tarnish the right itself.</text>
+            <text>When it comes to military organizations, if one were to turn upside down the 「principles」 at its core——</text>
             <text>——They will gradually turn evil, in a similar way to the enemies they once destroyed.</text>
             <text>Even if its leader excels in both civil and military areas, like George III or Napoleon I, or is a complete incompetent like Charles I or Louis XVI.</text>
             <goto goto="30" change="0"/>
@@ -64,10 +64,10 @@
             <text>Hamlet.</text>
             <text>When I first met the CEO of General Mechatronics 「GME」, she left that kind of impression on me.</text>
             <text>Nancy Thomas Edison. A real life version of Hamlet.</text>
-            <text>It's not like she's lacking feelings or desires.</text>
-            <text>It's not like she's lacking humanity.</text>
+            <text>It's not that she's lacking feelings or desires.</text>
+            <text>It's not that she's lacking humanity.</text>
             <text>But when it comes to very specific matters, she puts her emotions aside and makes choices based on her own interests.</text>
-            <text>That being revenge against the Houkai with her own hands, for her own family or maybe for all of humanity.</text>
+            <text>That being revenge against the Honkai with her own hands, for her own family or maybe for all of humanity.</text>
             <text>And to do so, she won't hesitate to eliminate any 「obstacles」 that get in her way.</text>
             <text>She won't rest until her goal is achieved.</text>
             <!-- RENAME: Herself, her company, her country, Destiny Organization... They're all pawns she's willing to use to fulfill her goals. -->
@@ -78,7 +78,7 @@
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
             <text>It's weird.</text>
             <text>What's so good about living that kind of life?</text>
-            <text>To fulfill her goals she turned herself into a tool who's only purpose is to fulfill her own wishes.</text>
+            <text>To fulfill her goals, she turned herself into a tool who's only purpose is to fulfill her own wishes.</text>
             <text>...She's different compared to everyone else.</text>
             <text>Tesla is also the type to get emotional... but in a completely different direction.</text>
             <goto goto="50" change="0"/>
@@ -131,116 +131,116 @@
         </scene>
         <scene id="80" background="">
             <bgm src="serenity.mp3" status="start"></bgm>
-            <text>当日，早些时候——</text>
-            <speak chara="ritaNoNameNoFace">（……瓦尔特先生，请留步。）</speak>
-            <speak chara="weltNoFace">……谁？</speak>
-            <speak chara="ritaNoFace">是我，丽塔。</speak>
-            <speak chara="weltNoFace">老、老板娘？</speak>
-            <speak chara="ritaNoFace">走廊里不好说话。你先跟我来。</speak>
+            <text>Earlier in the day——</text>
+            <speak chara="ritaNoNameNoFace">(...Mr Welt, a moment, if you please.)</speak>
+            <speak chara="weltNoFace">...Who said that?</speak>
+            <speak chara="ritaNoFace">It's me, Rita.</speak>
+            <speak chara="weltNoFace">B-boss?</speak>
+            <speak chara="ritaNoFace">The corridor is not a good place for conversation. Please follow me.</speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
         <scene id="90" background="westCliffBossRoomNight.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
-            <speak chara="ritaNoFace">虽然事出突然，让我很不好意思……</speak>
-            <speak chara="ritaNoFace">但是……</speak>
+            <speak chara="ritaNoFace">Althrough this is quite sudden, and I'm mortified...</speak>
+            <speak chara="ritaNoFace">But...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltSurpriseRobeClose-up" position="right"/>
-            <speak chara="weltNoFace">怎……怎么了？</speak>
+            <speak chara="weltNoFace">What...what happened?</speak>
             <show chara="weltSurpriseRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaNormalAhClose-up" position="left"/>
-            <speak chara="ritaNoFace">您送洗的衣服还没有来得及烘干……</speak>
-            <speak chara="ritaNoFace">这里一旦停电就会持续半天左右……</speak>
-            <speak chara="ritaNoFace">所以，明天回去的时候，您可能得需要换一身衣服了……</speak>
+            <speak chara="ritaNoFace">The clothes you sent for washing aren't dry yet...</speak>
+            <speak chara="ritaNoFace">Power outrages here last for about half a day...</speak>
+            <speak chara="ritaNoFace">I'm afraid you may need another change of clothes for when you go home tomorrow...</speak>
             <show chara="ritaNormalClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousRobeClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
-            <speak chara="weltNoFace">我、我没有带多余的外套啊！</speak>
-            <speak chara="weltNoFace">那一身也是因为在沙滩上不小心沾了泥——</speak>
+            <speak chara="weltNoFace">Ugh...</speak>
+            <speak chara="weltNoFace">But, but, I don't have any extra clothes!</speak>
+            <speak chara="weltNoFace">That last set was accidentally dirtied by mud on the beach——</speak>
             <show chara="weltNervousRobeClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">不要紧张，不要紧张。</speak>
-            <speak chara="ritaNoFace">这是我们工作的疏失，所以您的外套，我会想办法解决的。</speak>
-            <speak chara="ritaNoFace">我这里恰好有一套男式正装……您要不要试一试合不合身？</speak>
+            <speak chara="ritaNoFace">Don't worry, don't worry.</speak>
+            <speak chara="ritaNoFace">This is the fault of our negligience, so I will think of something for the matter of your clothes.</speak>
+            <speak chara="ritaNoFace">I happen to have a set of men's formal wear here... Would you like to try it out?</speak>
             <goto goto="100" change="#ffffff"/>
         </scene>
         <scene id="100" background="westCliffBossRoomNight.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">啊……不错不错！果然很合适！</speak>
+            <speak chara="ritaNoFace">Ah...not bad, not bad! Sure enough, it fits you well!</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">唔……有种……量身定做的感觉呢……</speak>
+            <speak chara="weltNoFace">Hmm...it feels like...tailor-made...</speak>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">哈哈，我判断身材的眼光，可是很准的哦！</speak>
+            <speak chara="ritaNoFace">Haha, my eye for measurements is very accurate!</speak>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">……啊，对了。这里有另一位客人留给你的礼物。</speak>
+            <speak chara="ritaNoFace">... Ah, yes. Another guest left you a gift. Here.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">另一位客人？</speak>
+            <speak chara="weltNoFace">Another guest?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">那个……是叫符华吧？她说自己是你的朋友。</speak>
+            <speak chara="ritaNoFace">Ah...She's called Fuhua? She said she's a friend of yours.</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">符、符华？</speak>
-            <speak chara="weltNoFace">她、她怎么会……</speak>
-            <speak chara="weltNoFace">……我可以在这里拆开看看吗？</speak>
+            <speak chara="weltNoFace">Fu, Fuhua?</speak>
+            <speak chara="weltNoFace">Why, why would she...</speak>
+            <speak chara="weltNoFace">…Can I opened it here?</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">当然可以啊。</speak>
+            <speak chara="ritaNoFace">Of course.</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
             <speak chara="weltNoFace">这、这花里胡哨的是……</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileLeftClose-up" position="left"/>
-            <speak chara="ritaNoFace">……辣椒喷雾？</speak>
+            <speak chara="ritaNoFace">…A pepper spray？</speak>
             <show chara="ritaSmileLeftClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">啥？</speak>
+            <speak chara="weltNoFace">Wha？</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">女孩子防身用的喷雾罐啦。对着脸“啾”地喷一下，能把犯罪者难受死的东西。</speak>
-            <speak chara="ritaNoFace">虽然里面的压缩气体用不了几次，但因为没有什么操作难度……</speak>
-            <speak chara="ritaNoFace">对于客人你来说，好像还蛮实用的？</speak>
+            <speak chara="ritaNoFace">A spray can for girls to defend themselves. A single squirt on the face can cause the offender extreme discomfort.</speak>
+            <speak chara="ritaNoFace">Though there is only enough compressed air for a few uses, because it is so fool-proof...</speak>
+            <speak chara="ritaNoFace">For someone like you, it seems quite practical?</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltSBDNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……一点也不实用啊！</speak>
-            <speak chara="weltNoFace">……这、这包装，怎么看都是女生的玩具吧！</speak>
-            <speak chara="weltNoFace">……说到底，她为什么觉得我会需要这种罐子啦！</speak>
+            <speak chara="weltNoFace">…How is this practical?</speak>
+            <speak chara="weltNoFace">…This, this packaging, no matter what it just looks like a girl's toy!</speak>
+            <speak chara="weltNoFace">…Why would she think I would need something like this!?</speak>
             <goto goto="110" change="#ffffff"/>
         </scene>
         <scene id="110" background="carMorning.jpg">
             <bgm src="10_20_PeerGynt.mp3" status="start"></bgm>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
-            <speak chara="teslaNoFace">噗哈哈哈哈哈哈哈！</speak>
-            <speak chara="teslaNoFace">辣椒喷雾！</speak>
+            <speak chara="teslaNoFace">AHAHAHAHAHA！</speak>
+            <speak chara="teslaNoFace">Pepper spray！</speak>
             <speak chara="teslaNoFace">这可怜主教，还真是被自家女武神看不起啊！</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……啊，对了。</speak>
-            <speak chara="weltNoFace">仔细查看以后，礼品盒里面还有个字条——</speak>
+            <speak chara="weltNoFace">…Ah, right.</speak>
+            <speak chara="weltNoFace">After inspecting it carefully, I found a note inside the gift box——</speak>
             <speak chara="weltNoFace" remark="next">“岸远沙平，日斜归路晚霞明。”</speak>
             <remark>
                 <p class="article-text-h">注：</p>
                 <p class="article-text">此句出自《南乡子·岸远沙平》，为五代十国时期，后蜀词人欧阳炯所作。</p>
                 <p class="article-text">全词为：“岸远沙平，日斜归路晚霞明。孔雀自怜金翠尾，临水，认得行人惊不起。”</p>
             </remark>
-            <speak chara="weltNoFace">也不知道是什么意思。</speak>
+            <speak chara="weltNoFace">I have no idea what that means.</speak>
             <show chara="weltQuestionNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">哼。</speak>
-            <speak chara="teslaNoFace">所以你就保管好呗。</speak>
-            <speak chara="teslaNoFace">真遇到什么情况了，你念一句诗，人家说不定就会专程来救呢。</speak>
+            <speak chara="teslaNoFace">Hmph.</speak>
+            <speak chara="teslaNoFace">Just keep it safe.</speak>
+            <speak chara="teslaNoFace">Who knows, if one day you get yourself into some sitation, recite that poem and maybe she will specially come to save you.真遇到什么情况了，你念一句诗，人家说不定就会专程来救呢。</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
+            <speak chara="weltNoFace">Urgh…</speak>
             <show chara="einSlyWinterClose-up" position="right"/>
-            <speak chara="einNoFace">噗。特斯拉博士吃醋了呢。</speak>
+            <speak chara="einNoFace">Pft. Is Dr Tesla jealous? 噗。特斯拉博士吃醋了呢。</speak>
             <show chara="einSlyWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">吃、吃你妹的醋啊！我为什么要吃醋啊！</speak>
@@ -360,10 +360,10 @@
             <bgm src="10_25_ada.mp3" status="start"></bgm>
             <show chara="weltAstonishNewFar" position="left" opacity="0.7"/>
             <show chara="teslaAstonishGlassWinterFar" position="right"/>
-            <speak chara="teslaNoFace">拉法耶特侯爵？他、他有这样的后人？</speak>
+            <speak chara="teslaNoFace">Marquis de Lafayette? He, he had such a descendent?</speak>
             <show chara="teslaAstonishGlassWinterFar" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewFar" position="left"/>
-            <speak chara="weltNoFace">那是谁？古代的什么贵族吗？</speak>
+            <speak chara="weltNoFace">Who's that? Some kind of noble in the past?</speak>
             <show chara="weltAstonishNewFar" position="left" opacity="0.7"/>
             <show chara="teslaShoutGlassWinterFar" position="right"/>
             <speak chara="teslaNoFace">喂！你这家伙难道不知道拉法耶特侯爵？我的天啊！</speak>
@@ -407,7 +407,4 @@
             <end post="U2FsdGVkX1+qjQtlqkMV9tfIhNltWxNqBw9dG0VmPJ0="/>
         </scene>
     </story>
-</data>	
-
-
-
+</data>
