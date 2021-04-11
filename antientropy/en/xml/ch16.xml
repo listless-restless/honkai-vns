@@ -199,13 +199,13 @@
             <speak chara="weltNoFace">Wha?</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="ritaSmileClose-up" position="left"/>
-            <speak chara="ritaNoFace">A spray can for girls to defend themselves. A single “pew” or squirt to the face, and it can cause the offender much insufferable discomfort.</speak>
+            <speak chara="ritaNoFace">A spray can for girls to defend themselves with. A single “pew” or squirt to the face, and it'll cause great discomfort and suffering to any potential offender.</speak>
             <speak chara="ritaNoFace">Though there is only enough compressed air for a few uses, because it is so easy to operate, it's virtually fool-proof … </speak>
             <speak chara="ritaNoFace">For an esteemed guest like you, it seems quite practical, no?</speak>
             <show chara="ritaSmileClose-up" position="left" opacity="0.7"/>
             <show chara="weltSBDNewClose-up" position="right"/>
             <speak chara="weltNoFace">… How is this practical?</speak>
-            <speak chara="weltNoFace">… Th-this packaging, no matter how you look at it, it still looks like a girl's toy!</speak>
+            <speak chara="weltNoFace">… T-this packaging, no matter how you look at it, it still looks like a girl's toy!</speak>
             <speak chara="weltNoFace">… Why would she think I would need something like this!?</speak>
             <goto goto="110" change="#ffffff"/>
         </scene>
@@ -252,7 +252,7 @@
             <speak chara="weltNoFace">That matter with the Overseer … leaving him be … is that really okay?</speak>
             <show chara="weltSighNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">… If you want to take control of the matter, how would you go about it?</speak>
+            <speak chara="teslaNoFace">… If you really want to take the matter into your own hands, how would you go about it?</speak>
             <show chara="teslaBoringGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltSighNewClose-up" position="right"/>
             <speak chara="weltNoFace">Urgh … it's not that I want to do it personally … </speak>
@@ -275,7 +275,7 @@
             <show chara="weltSighNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSmileGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">Hmph, then shut up you.</speak>
-            <speak chara="teslaNoFace">When the sky is falling, it's not up to you to keep holding it up.</speak>
+            <speak chara="teslaNoFace">When the sky is falling, it's not up to you to keep propping it up.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">Besides, I really admire your courage to straight-up choke him to death with a pepper spray.</speak>
             <speak chara="teslaNoFace">Don't you feel the same, Mophead?</speak>
