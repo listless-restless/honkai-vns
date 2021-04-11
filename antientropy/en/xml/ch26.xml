@@ -618,7 +618,7 @@
             <speak chara="adaNoFace">...You mean 「Negentropy」?</speak>
             <speak chara="yangNoFace">...Yeah.</speak>
             <speak chara="yangNoFace">Seriously. What I am doing, running away from home. I'm so dumb....</speak>
-            <speak chara="adaNoFace">But when it is time for 「Anti Entropy's Leader」 to appear, you change your appearance... I do not believe they are doing the right thing in the long run.</speak>
+            <speak chara="adaNoFace">But when it is time for 「Negentropy's Leader」 to appear, you change your appearance... I do not believe they are doing the right thing in the long run.</speak>
             <speak chara="yangNoFace">Yeah. I don't like that either.</speak>
             <speak chara="yangNoFace">But try to see it this way. Just like the Empire State Building was rebuilt as it were before——</speak>
             <speak chara="yangNoFace">An organization born from a person's ego has no choice but to follow that person's image.</speak>
@@ -634,7 +634,7 @@
             <speak chara="yangNoFace">So in that sense, I'm not the original 1st Herrscher.</speak>
             <speak chara="yangNoFace">The Herrscher core, these decentralized nanobot-like creatures changed my cells into zombie-like machines.</speak>
             <speak chara="yangNoFace">So that I can be prepared against future threats as much as possible.</speak>
-            <speak chara="yangNoFace">And when necessary, to change my body into the one of that hero.</speak>
+            <speak chara="yangNoFace">And when necessary, to change my body into the one of that special hero.</speak>
             <goto goto="320" change="#ffffff"/>
         </scene>
         <scene id="320" background="cloudSky.jpg">
@@ -664,4 +664,4 @@
             <end last="1" post="U2FsdGVkX1+h4mbmmvyMmba9mr1G"/>
         </scene>
     </story>
-</data>
+</data>	
