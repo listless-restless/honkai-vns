@@ -32,7 +32,7 @@ I have created a separate fork from zklm's original branch, but will initiate pu
 
 For now, everything will remain in this fork, and I will continue to merge edits from the `test`("active") branch with my own `master` ("final") branch.
 
-Since this is, as far as I am aware, the only active fork for this project, I would advise any future translators to merge here first.
+Since this is, as far as I am aware, the only active fork for this project (with other child forks/branches from contributing translators), I would advise any future translators to merge here first.
 
 
 
