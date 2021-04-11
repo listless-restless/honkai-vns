@@ -546,7 +546,7 @@
         </scene>
         <scene id="280" background="darkEnergyFade.jpg">
             <bgm src="07_20_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="adaNoFace">That day, we tried to stop a frightening Anti-Honkai missile.</speak>
+            <speak chara="adaNoFace">That day, we tried to stop a frightening Anti-Houkai missile.</speak>
             <speak chara="adaNoFace">Me and Margaret-sama——</speak>
             <speak chara="adaNoFace">No, even if the Professors had been awake——</speak>
             <speak chara="adaNoFace">Nobody would had opposed to this crazy plan.</speak>
@@ -555,12 +555,12 @@
         <scene id="290" background="landscapeSunset.jpg">
             <bgm src="07_20_amazingGrace.mp3" status="continue"></bgm>
             <speak chara="adaNoFace">I say crazy plan because in the previous civilization——</speak>
-            <speak chara="adaNoFace">Even they who had used the core of the 「1st Herrscher」 to make the 「Void Archive」, had seemingly never once created anything of this scale out of nothing.</speak>
-            <speak chara="adaNoFace">The reason is very simple. The 「Void Archive」 can't withstand the ridiculous energy output needed in the first place.</speak>
+            <speak chara="adaNoFace">They used the core of the 「1st Herrscher」 to make the 「Void Archive」 and never once carried a large scale plan such as this.</speak>
+            <speak chara="adaNoFace">The reason is very simple. The 「Void Archive」 can't withstand the energy output needed in the first place.</speak>
             <speak chara="adaNoFace">Welt-sama—— The Herrscher who tried to do this didn't come out unscathed.</speak>
-            <speak chara="adaNoFace">As for the ignorant citizens of New York, it was as if a sudden 「meteorite rain」 fell on the city.</speak>
-            <speak chara="adaNoFace">The Empire State Building collapsed and the 5th Avenue became a sea of fire.</speak>
-            <speak chara="adaNoFace">But the citizens lived.</speak>
+            <speak chara="adaNoFace">As for the ignorant citizens of New York, they thought a 「meteorite rain」 fell on the city.</speak>
+            <speak chara="adaNoFace">The Empire State Building was destroyed and the 5th Avenue became a sea of fire.</speak>
+            <speak chara="adaNoFace">But the citizens are safe.</speak>
             <speak chara="adaNoFace">Aside from certain people who weren't from this city, we managed to achieve 「zero casualties」.</speak>
             <speak chara="adaNoFace">Yes... Truly amazing, but it wasn't a miracle.</speak>
             <speak chara="adaNoFace">Because he knew it would be possible if he did his best.</speak>
@@ -568,45 +568,45 @@
         </scene>
         <scene id="295" background="callaLily.jpg">
             <bgm src="07_20_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="adaNoFace">Winter has passed and Spring has come. Professor Einstein and Tesla woke up one after the other from their hospital beds.</speak>
+            <speak chara="adaNoFace">Winter is over and Spring has come. Professor Einstein and Tesla woke up next to each other in a hospital bed.</speak>
             <speak chara="adaNoFace">It was a bit surprising...</speak>
-            <speak chara="adaNoFace">...How calmly they accepted everything that happened over this Winter.</speak>
+            <speak chara="adaNoFace">...How they accepted everything that happened over this Winter very calmly.</speak>
             <speak chara="adaNoFace">Thanks to Professor Planck's 「Empty City Stratagem」 —— presenting a bold front to conceal a weak defense, Otto took no further hostile actions.</speak>
-            <speak chara="adaNoFace">Using the power of the Herrscher of Reason, Joachim changed his appearance to that of Welt's, and, together with the Professors, accepted numerous interviews by the media.</speak>
-            <speak chara="adaNoFace">We kept our heads down—— But our enemy knew we were still alive, and seemingly as strong as ever.</speak>
+            <speak chara="adaNoFace">Using the power of the Herrscher of Reason, Joachim took Welt's place. Meanwhile, the Professors spent their time being interviewed by the media.</speak>
+            <speak chara="adaNoFace">We tried our best to not stand out—— But our enemy seemed to know we were still alive and as strong as ever.</speak>
             <speak chara="adaNoFace">...That was enough for us.</speak>
             <goto goto="297" change="0"/>
         </scene>
         <scene id="297" background="landscapeSunset.jpg">
             <bgm src="07_20_amazingGrace.mp3" status="continue"></bgm>
-            <speak chara="adaNoFace">And the price we had to pay for that was... the boy who was once known as Joachim...</speak>
+            <speak chara="adaNoFace">And the price we had to pay for that was... a boy once known as Joachim...</speak>
             <speak chara="adaNoFace">...Rather than healing, the wounds in his heart only grew bigger.</speak>
-            <speak chara="adaNoFace">In a single day he not only lost his father, the hero he admired, and even his previous life——</speak>
-            <speak chara="adaNoFace">——but also, the innocence of his childhood.</speak>
+            <speak chara="adaNoFace">In a single day he lost his father, the hero he admired, and even his previous life——</speak>
+            <speak chara="adaNoFace">——And lastly, his innocent time as a child.</speak>
             <goto goto="300" change="#ffffff"/>
         </scene>
         <scene id="300" background="oldTVNewYork.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
             <speak chara="newsNoFace">Today is a very special day.</speak>
-            <speak chara="newsNoFace">For the 53-year-old Architect, John Smith, today is the first Thanksgiving Day he has celebrated in 22 years.</speak>
-            <speak chara="johnSmithNoFace">As someone from Brooklyn... I am proud of what we've accomplished. We managed to rebuild that building.</speak>
+            <speak chara="newsNoFace">John Smith, 53 years old, Architect. Today is the first Thanksgiving Day he celebrates in 22 years.</speak>
+            <speak chara="johnSmithNoFace">As someone from Brooklyn... I take pride on what we accomplished. We managed to rebuild that building.</speak>
             <speak chara="johnSmithNoFace">The former Empire State Building—— Now known as Welt Obelisk.</speak>
             <speak chara="johnSmithNoFace">Now I truly feel like Manhattan is back.</speak>
             <speak chara="newsNoFace">Welt Obelisk is the result of the skyscraper restoration project by ME Company. The design follows the 1930 version of the Empire State Building to the letter.</speak>
             <speak chara="newsNoFace">General Mechatronics went through rough times after the 「Thanksgiving Disaster」, but now reborn as ME Company they've become one of the Fortune 500 companies in the world.</speak>
-            <speak chara="newsNoFace">As both a New York citizen and a ME Company employee, this must not have been easy for him. What he is feeling surely cannot be encapsulated by a slogan like "build back better"./speak>
+            <speak chara="newsNoFace">As a New York citizen and a ME Company employee, John Smith's job must have not been easy. I think this can't be summarized solely with "I became stronger"</speak>
             <speak chara="johnSmithNoFace">At the time I was just an electrician in charge of the building's security.</speak>
-            <speak chara="johnSmithNoFace">When at around 3-4 o'clock, the security guard on duty suddenly started banging on my door.</speak>
-            <speak chara="johnSmithNoFace">I was sleeping and he dragged me out to the street in my pajamas.</speak>
+            <speak chara="johnSmithNoFace">Then suddenly the security guard on duty started banging on my door.</speak>
+            <speak chara="johnSmithNoFace">I was sleeping and he pulled me out to the street while I was still wearing my pajamas.</speak>
             <speak chara="johnSmithNoFace">That's when I realized the city's electric network wasn't working.</speak>
-            <speak chara="newsNoFace">In those chaotic and perilous twilit hours, people like John Smith inspected every corner of the building to eliminate any potential hazards.</speak>
-            <speak chara="johnSmithNoFace">We just followed procedures, really. In situations like that, it's impossible for your brain to figure out what to do, so the only thing we could do was to follow existing disaster management procedures.</speak>
+            <speak chara="newsNoFace">Amid the confusion and danger, John Smith inspected every corner of the building to make sure there weren't any potential risks.</speak>
+            <speak chara="johnSmithNoFace">We just followed the manual, really. We couldn't act on our own after being suddenly thrown in a situation like that, we could only do our best while following the emergency procedures.</speak>
             <speak chara="johnSmithNoFace">But I gotta give thanks to everyone who was in the building, they respected our instructions and evacuated the building without panicking.</speak>
             <speak chara="johnSmithNoFace">Otherwise it would had been impossible for the building to collapse and still have 「zero casualties」.</speak>
-            <speak chara="newsNoFace">As everyone knows, the Empire State Building was hit by a sudden meteorite at exactly 12:55pm and collapsed one hour later.</speak>
-            <speak chara="newsNoFace">According to the expert calculations, most of the meteorites from the 「Thanksgiving Disaster」 burnt up at altitudes of more than 300 metres——</speak>
-            <speak chara="newsNoFace">So besides the meteorite that fell into Raritan Bay, this is the only building in New York that was directly damaged.</speak>
-            <speak chara="newsNoFace">However, the panic brought by this disaster still affected the economy, causing the Dow Jones Index to drop below——</speak>
+            <speak chara="newsNoFace">As everyone knows, the Empire State Building was hit by a sudden meteorite at noon and was destroyed one hour later.</speak>
+            <speak chara="newsNoFace">According to the experts most of the meteorites from the 「Thanksgiving Disaster」 evaporated in the atmosphere——</speak>
+            <speak chara="newsNoFace">Except for the meteorite that fell in Raritan Bay, this is the only building damaged in New York.</speak>
+            <speak chara="newsNoFace">Though the fear brought by this disaster had an impact in the economy, causing the Dow to drop significantly——</speak>
             <goto goto="310" change="0"/>
         </scene>
         <scene id="310" background="hotelLivingroom.jpg">
@@ -614,40 +614,40 @@
             <speak chara="yangNoFace">...Let's go back.</speak>
             <speak chara="adaNoFace">...We are going back?</speak>
             <speak chara="yangNoFace">Yeah.</speak>
-            <speak chara="yangNoFace">Let's go back. To the home where everyone is.</speak>
-            <speak chara="adaNoFace">...You mean 「Anti-Entropy」?</speak>
+            <speak chara="yangNoFace">Let's go back. To where everyone is.</speak>
+            <speak chara="adaNoFace">...You mean 「Negentropy」?</speak>
             <speak chara="yangNoFace">...Yeah.</speak>
-            <speak chara="yangNoFace">Seriously. What am I doing, running away from home. I'm so dumb....</speak>
-            <speak chara="adaNoFace">But when it is time for 「Sovereign of Anti Entropy」 to appear, you have to change your appearance... I don't think they are doing the right thing in the long run.</speak>
+            <speak chara="yangNoFace">Seriously. What I am doing, running away from home. I'm so dumb....</speak>
+            <speak chara="adaNoFace">But when it is time for 「Negentropy's Leader」 to appear, you change your appearance... I do not believe they are doing the right thing in the long run.</speak>
             <speak chara="yangNoFace">Yeah. I don't like that either.</speak>
             <speak chara="yangNoFace">But try to see it this way. Just like the Empire State Building was rebuilt as it were before——</speak>
-            <speak chara="yangNoFace">An organization born from a person's sacrifice has no choice but to follow that person's image.</speak>
-            <speak chara="yangNoFace">...History will inevitably turn a new page.</speak>
+            <speak chara="yangNoFace">An organization born from a person's ego has no choice but to follow that person's image.</speak>
+            <speak chara="yangNoFace">...And now history turns a new page.</speak>
             <speak chara="yangNoFace">But before that we have to admit our mistakes.</speak>
             <speak chara="adaNoFace">...Do you feel bad for running away from home?</speak>
             <speak chara="yangNoFace">Yeah... but not only that.</speak>
             <speak chara="yangNoFace">That battle changed a lot of people.</speak>
             <speak chara="yangNoFace">Welt sacrificed himself to protect everyone.</speak>
-            <speak chara="yangNoFace">Professor Schrodinger's whereabouts have been unknown ever since undergoing Quantization; and the Abyss Flower could not be located after it fell to the bottom of the Atlantic Ocean.</speak>
-            <speak chara="yangNoFace">As for Einstein and Tesla... they had their bodies permanently changed.</speak>
-            <speak chara="yangNoFace">And I, as the only person there fit for it, inherited the core of the 1st Herrscher.</speak>
-            <speak chara="yangNoFace">Having said that, I am, after all, not the original 1st Herrscher.</speak>
+            <speak chara="yangNoFace">I don't know where Professor Schrodinger went after undergoing Quantization, and Abyss Flower is still missing after it fell to the bottom of the Atlantic Ocean.</speak>
+            <speak chara="yangNoFace">Einstein and Tesla... had their bodies permanently changed.</speak>
+            <speak chara="yangNoFace">And I inherited the core of the 1st Herrscher as I was the only person fit for it.</speak>
+            <speak chara="yangNoFace">So in that sense, I'm not the original 1st Herrscher.</speak>
             <speak chara="yangNoFace">The Herrscher core, these decentralized nanobot-like creatures changed my cells into zombie-like machines.</speak>
             <speak chara="yangNoFace">So that I can be prepared against future threats as much as possible.</speak>
-            <speak chara="yangNoFace">And when necessary, to change my body into the one of that hero.</speak>
+            <speak chara="yangNoFace">And when necessary, to change my body into the one of that special hero.</speak>
             <goto goto="320" change="#ffffff"/>
         </scene>
         <scene id="320" background="cloudSky.jpg">
             <bgm src="07_20_bellaCiao.mp3" status="continue"></bgm>
             <speak chara="yangNoFace">Like I told Professor Planck the day I left home——</speak>
-            <speak chara="yangNoFace">This shouldn't have been my burden to carry. Not at all.</speak>
+            <speak chara="yangNoFace">This shouldn't have been my burden to carry. Seriously.</speak>
             <speak chara="yangNoFace">But...</speak>
             <speak chara="yangNoFace">Look at that. That architect that was on TV a moment ago...</speak>
-            <speak chara="yangNoFace">I noticed, walking around for the last 2 years. The scars that were made on that day are still there 20 years later.</speak>
-            <speak chara="yangNoFace">Though blood no longer flows from the wound, the scar still remains.</speak>
-            <speak chara="yangNoFace">Only...there are all these countless people who are braver than I am.</speak>
+            <speak chara="yangNoFace">I noticed after walking around for the last 2 years. The scars that were made on that day are still there 20 years later.</speak>
+            <speak chara="yangNoFace">While blood no longer flows from the wound, the scar doesn't disappear so easily.</speak>
+            <speak chara="yangNoFace">All those countless people are more brave than I am.</speak>
             <speak chara="yangNoFace">.....</speak>
-            <speak chara="yangNoFace">The name of 「Welt」 is not a burden to be cast aside.</speak>
+            <speak chara="yangNoFace">The name of 「Welt」 is not a burden that must be thrown away.</speak>
             <speak chara="yangNoFace">Never.</speak>
             <goto goto="330" change="#ffffff"/>
         </scene>
@@ -664,4 +664,4 @@
             <end last="1" post="U2FsdGVkX1+h4mbmmvyMmba9mr1G"/>
         </scene>
     </story>
-</data>
+</data>	

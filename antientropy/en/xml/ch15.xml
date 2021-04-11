@@ -75,7 +75,7 @@
         <scene id="100" background="CG15-8.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
             <speak chara="ottoNoFace">Ah … </speak>
-            <speak chara="ottoNoFace">Indeed I've given you a bit of a fright, going straight for the jugular like that.</speak> <!-- "开门见山" = "To open the door and see the mountain", to get straight to the point  -->
+            <speak chara="ottoNoFace">Indeed I've given you a bit of a fright, going straight for the jugular like that.</speak> <!-- "开门见山" = "To open the door and see the mountain", to get straight to the point  --> 
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG15-7.jpg">
@@ -205,7 +205,7 @@
         </scene>
         <scene id="290" background="CG15-14.jpg">
             <bgm src="11_3_themeOtto.mp3" status="continue"></bgm>
-            <speak chara="weltNoFace">I can think of others like Adam Smith, Darwin, Clausewitz … </speak> <!-- Chinese text only mentions "Smith" rather than "Adam Smith", but Adam Smith seems to be the likely candidate given the content of conversation. Otherwise, choose from this list: https://en.wikipedia.org/wiki/List_of_people_with_surname_Smith -->
+            <speak chara="weltNoFace">I can think of others like Adam Smith, Darwin, Clausewitz … </speak> <!-- Chinese text only mentions "Smith" rather than "Adam Smith", but Adam Smith seems to be the likely candidate given the content of conversation. Otherwise, choose from this list: https://en.wikipedia.org/wiki/List_of_people_with_surname_Smith --> 
             <speak chara="weltNoFace">But according to your impossibly high standards, none of them could be considered “truly great people”, right?</speak> <!-- The Chinese uses the feminine pronoun, so expect genderbent Clausewitz/Adam Smith stigmata in the future? -->
             <speak chara="ottoNoFace">Exactly.</speak>
             <speak chara="ottoNoFace">These people were all intelligent individuals, who by their own capabilities were able to transform the status quo of their own fields … </speak>
@@ -335,7 +335,7 @@
             <remark post="U2FsdGVkX19fqm4S6R03iCxtPxrm">
                 <p class="article-text-h">Note: </p>
                 <p class="article-text">This text is the last paragraph of “Reflections of a Young Man on The Choice of a Profession”.</p>
-                <p class="article-text">The author is a 17-year old named “Karl Marx” — for the rest of his life, he would work hard to practice this seemingly “Chuuni” concept. (Translators' note: “Chuuni” [“中二”, or “Middle-school, second year”] is a colloquial Japanese term referring to adolescents with delusions of grandeur, a character trope used frequently in Japanese or Japanese-inspired popular fiction e.g. Fischl in Genshin Impact.)  </p>
+                <p class="article-text">The author is a 17-year old named “Karl Marx” — for the rest of his life, he would work hard to practice this seemingly “Chuuni” concept. (Translators' note: “Chuuni” [“中二”, or “Middle-school, second year”] is a colloquial Japanese term referring to adolescents with delusions of grandeur, a character trope used frequently in Japanese or Japanese-inspired popular fiction e.g. Fischl in Genshin Impact.)  </p> 
             </remark>
             <goto goto="450" change="0"/>
         </scene>
@@ -384,4 +384,4 @@
             <end post="U2FsdGVkX1+AlvvhouB8t0rZkK+K"/>
         </scene>
     </story>
-</data>
+</data>	
