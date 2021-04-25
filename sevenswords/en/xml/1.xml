@@ -4,27 +4,27 @@
     <scene id="10" type="block" prev="09" title="传剑">
       <se id="01-20拿出轩辕剑"/>
       <motion chara="002" action="img_trans" img="素裳-专注-持剑-近景"/>
-      <text>女孩不紧不慢地掀开旧布，取出家传之剑，细细端详。</text>
+      <text>The girl gently opened up the old cloth, taking out the family sword, and examined it carefully.</text>
       <motion chara="002" action="hide"/>
       <se id="01-21轩辕剑氛围声"/>
       <cg img="氛围_通用_轩辕剑"/>
-      <text>古剑 - 轩辕。</text>
-      <text>剑长二尺一寸，剑身呈金黄色，两边开刃，饰有暗灰色花纹图样。</text>
+      <text> The Ancient Sword-Xuanyuan </text>
+      <text> The sword was two feet one inch long, its colour golden yellow, with blades on both sides decorated with dark gray patterns.</text>
       <text>材质不明，既非精铁也非寒钢，却是轻若无物，吹毛断发，论及锋利与坚硬，完全配得上名剑的标准。</text>
       <cg/>
       <transition mode="clock" in="1" stop="0.5" out="1" color="#000000"/>
       <bgm id="久远时光中"/>
       <bg img="忆剑山庄"/>
-      <text>母亲将这把剑传予她时，曾如此告诫：</text>
+      <text> When her mother passed the sword to her, she had warned her as such:</text>
       <dialog chara="009">
-        <p>「这把剑是你太师父遗留之物，乃我最珍爱的传家之宝。</p>
-        <p>你要将它收好，贴身保存，绝不可让剑离身。」</p>
+        <p>"This sword is the legacy of my master, and it is my most cherished family heirloom.</p>
+        <p>You must always keep it safe, keep it close to you, and never let the sword leave yourself."</p>
       </dialog>
       <dialog chara="009">
-        <p>「『太虚剑气』的真正秘谛不在功法也不在招数，而在这把剑中。</p>
-        <p>领悟剑意后，你自会明白娘的意思。」</p>
+        <p>" The true secret of "Taixu Jianqi" lies within this sword.</p>
+        <p> After comprehending true the meaning of this sword, you will understand what your mother meant. "</p>
       </dialog>
-      <text>秦素衣说着，捏了捏女孩的脸颊，又柔声道：</text>
+      <text> Qin Suyi squeezed the girl's cheek, and softly said: </text>
       <dialog chara="009">「……但若你领悟不了，那也没有关系。[\s]剑意难测，我们七个中只有你师父未得意蕴；可论起武功造诣，咱们谁又比得过了？」</dialog>
       <text>母亲忽然叹了口气：</text>
       <dialog chara="009">「凌霜一向淡泊，对利字看得极蔑……可是十多年了，人是会变的。」</dialog>

@@ -11,17 +11,17 @@
             <text>You are lying next to a tear in the ground.</text>
             <text remark="next">You struggle to get up. As you move you look to your left, and notice the Spree River flowing.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">施普雷河（Spree）发源于捷克境内，从德国首都柏林穿城而过，之后汇入易北河，注入北海。</p>
-                <p class="article-text">p.s. 冷战时期，施普雷河与哈弗尔河（Havel）的河面是“柏林墙”的少数几个缺口之一。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The River Spree originated in the Czech Republic and passed through the city from Berlin, the capital of Germany, before flowing into the Elbe River and into the North Sea.</p>
+                <p class="article-text">p.s. During the Cold War, the rivers of the Spree and Havel were one of the few gaps in the "Berlin Wall."</p>
             </remark>
             <!-- SPLIT: You look across the river, towards the Brandenburg Gate at the South—— -->
             <text>You look across the river.</text> 
             <text remark="next">South, towards the Brandenburg Gate——</text>
             <remark post="U2FsdGVkX1984mCWWkKDy8j7g660">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">勃兰登堡门（Brandenburger Tor）位于柏林市中心，是柏林的象征。它由腓特烈“大帝”下令建造，以纪念普鲁士在七年战争（1754 - 1763）中取得的奇迹般胜利。</p>
-                <p class="article-text">p.s. 冷战时期，勃兰登堡门本身即为“柏林墙”的一部分，只有东德边防军可以接近。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The Brandenburg Gate (Brandenburger Tor) is located in the center of Berlin and is a symbol of Berlin. It was built under the order of Frederick "the Great" to commemorate the miraculous victory of Prussia in the Seven Years' War (1754-1763).</p>
+                <p class="article-text">p.s. During the Cold War, the Brandenburg Gate itself was part of the "Berlin Wall" and only the East German Border Guards could approach it.</p>
             </remark>
             <text>The fire created black smoke, swaying in the air like black mud.</text>
             <text>January 1st of 1952.</text>
@@ -37,9 +37,9 @@
             <text>Suddenly, something big was blown out to the sky by an explosion, and made a loud noise as it fell near you.</text>
             <text remark="next">It was a T-54, one of the best Soviet tanks, turned upside down.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“T-54”（这里的“T”是西里尔字母，读作“te”）是由苏联设计的中型坦克，于1947年开始量产。此后，T-54及其姊妹型T-55，迅速成为华约各国的装甲主力，并被输出到众多国家，参加了20世纪后半叶的几乎所有武装冲突。T-54/55是被认为是历史上产量最大的坦克，其总数可能高达十万辆左右。</p>
-                <p class="article-text">p.s.著名的“五对负重轮”——59式坦克，就是T-54的一款改进型。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"T-54" (here "T" is Cyrillic, pronounced "te") is a medium tank designed by the Soviet Union and mass production began in 1947. Since then, T-54 and its sister T-55, quickly became the main armored force of the Warsaw Pact countries, and were exported to many countries, participating in almost all armed conflicts in the second half of the 20th century. The T-54/55 is considered to be the largest production tank in history, and its total number may be as high as 100,000.</p>
+                <p class="article-text">p.s. The famous "five pairs of road wheels"-Type 59 tank, is an improved version of T-54.</p>
             </remark>
             <goto goto="30" change="#ffffff"/>
         </scene>
@@ -50,19 +50,19 @@
             <text>A piece of barbed wire attached to wooden piles fell from the sky.</text>
             <text remark="next">It originally belonged to a fence which divided the occupied area——</text>
             <remark post="U2FsdGVkX19jzpMoIyJvJmTjXOLz">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">1945年5月8日纳粹德国向盟军宣告无条件投降后，盟军将德国分为四个占领区，分别归苏、美、英、法四国管制，在占领区内实施民主化、非军事化和非纳粹化。</p>
-                <p class="article-text">冷战开始后，美、英、法三国管区合称为“西柏林”，被东德建设的“柏林墙”团团围住，是西方阵营在东方阵营中的孤岛。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">After Nazi Germany announced its unconditional surrender to the Allies on May 8, 1945, the Allies divided Germany into four occupation zones, which were under the control of the Soviet Union, the United States, Britain, and France, and implemented democratization and demilitarization in the occupied zones. And de-Nazification.</p>
+                <p class="article-text">After the beginning of the Cold War, the three jurisdictions of the United States, Britain, and France were collectively called "West Berlin". They were surrounded by the "Berlin Wall" built by East Germany. They were isolated islands of the Western camp in the Eastern camp.</p>
             </remark>
             <text>There are no more living beings here, there is no need for fences anymore.</text>
             <text>A broken ■■ pierced through a pair of pants, revealing its white figure.</text>
             <text>Jet-black ■■ flows from under a shirt. Not even the flies dare to look at it.</text>
             <text remark="next">Not even 7 years ago, at the end of the Battle of Berlin, this city was as desolated as it was today.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">柏林战役（1945年4月16日 - 1945年5月2日），是第二次世界大战中，欧洲战场的最后一场重大战役。是役苏波联军伤亡三十六万余人；德军伤亡三十一万余人，另有四十八万余人投降或被俘。</p>
-                <p class="article-text">4月30日21时50分，红军将胜利旗插上了柏林国会大厦圆顶，这标志着纳粹的彻底战败。</p>
-                <p class="article-text">5月8日，德国正式签署无条件投降协议，欧洲战事宣告结束。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The Battle of Berlin (April 16, 1945-May 2, 1945) was the last major battle on the European battlefield in World War II. There were more than 360,000 casualties of Soviet-Polish coalition forces; more than 310,000 German casualties, and more than 480,000 people surrendered or were captured.</p>
+                <p class="article-text">At 21:50 on April 30, the Red Army planted the victory flag on the dome of the Reichstag in Berlin, which marked the complete defeat of the Nazis.</p>
+                <p class="article-text">On May 8, Germany formally signed the unconditional surrender agreement, and the war in Europe came to an end.</p>
             </remark>
             <text>If war is what creates hell on Earth...</text>
             <text>Then Berlin today is a graveyard where not even wandering lost souls remain.</text>
@@ -150,69 +150,69 @@
         </scene>
         <scene id="100" background="CG18-1.jpg">
             <bgm src="12_15_1946.mp3" status="continue"></bgm>
-            <speak chara="einNoFace">醒了吗？</speak>
-            <speak chara="einNoFace">你好像，做了个噩梦呢。</speak>
+            <speak chara="einNoFace">are you awake?</speak>
+            <speak chara="einNoFace">You seemed to had a nightmare.</speak>
             <speak chara="weltNoFace">……</speak>
-            <speak chara="weltNoFace">（我好像是在一辆车里……）</speak>
-            <speak chara="weltNoFace">（躺在她的腿上……）</speak>
-            <speak chara="weltNoFace">（特斯拉……在开车吗……）</speak>
-            <speak chara="weltNoFace">——我、我怎么了？是、是“神之键”做了什么吗？</speak>
+            <speak chara="weltNoFace">(I seem to be in a car...)</speak>
+            <speak chara="weltNoFace">(Head lying on her lap...)</speak>
+            <speak chara="weltNoFace">(Tesla...is driving...)</speak>
+            <speak chara="weltNoFace">...What happened to me? The Divine Key...did it do something?</speak>
             <goto goto="105" change="0"/>
         </scene>
         <scene id="105" background="CG18-2.jpg">
-            <speak chara="einNoFace">不……我猜……应该和“神之键”没有关系。</speak>
+            <speak chara="einNoFace">No... I guess not... it should have nothing to do with the "Divine Key".</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG18-2.jpg">
             <bgm src="8_24_war.mp3" status="start"></bgm>
-            <speak chara="einNoFace">击倒你的，恐怕是自然灾害。</speak>
-            <speak chara="weltNoFace">自然灾害？</speak>
-            <speak chara="einNoFace">在你昏过去的时候，发生了地震。</speak>
-            <speak chara="weltNoFace">地、地震？我是因为地震受伤了吗？</speak>
-            <speak chara="einNoFace">不，不是你想象的那样。震感不是很强。波士顿应该不会有什么人受伤。</speak>
-            <speak chara="weltNoFace">那……</speak>
-            <speak chara="einNoFace">根据艾妲的对余震的监测，震中应该在纽约市区，曼哈顿一带。</speak>
-            <speak chara="weltNoFace">曼哈顿？那不是……</speak>
-            <speak chara="einNoFace">嗯……是爱迪生她们工作的地方。</speak>
-            <speak chara="einNoFace">不过……</speak>
-            <speak chara="einNoFace">……这还不是最值得担忧的部分。</speak>
-            <speak chara="einNoFace">在你晕倒的同时，艾妲也发生了短时间的故障。</speak>
-            <speak chara="einNoFace">根据它自检的结果，是高频率的能量脉冲导致了此次异常。</speak>
-            <speak chara="weltNoFace">能量……脉冲？</speak>
-            <speak chara="einNoFace">是的。</speak>
-            <speak chara="einNoFace">有我们相对熟悉的电磁脉冲……</speak>
-            <speak chara="einNoFace">以及，陌生而可怕的……</speak>
-            <speak chara="einNoFace">……崩坏脉冲。</speak>
-            <speak chara="weltNoFace">什……</speak>
-            <speak chara="einNoFace">最坏情况下……柏林发生的事情，可能会在纽约再次发生一次。</speak>
+            <speak chara="einNoFace">I'm afraid it was a natural disaster that knocked you down.</speak>
+            <speak chara="weltNoFace">Natural disaster?</speak>
+            <speak chara="einNoFace">There was an earthquake, when you passed out.</speak>
+            <speak chara="weltNoFace">Earth... earthquake? Did anyone get injured because of that?</speak>
+            <speak chara="einNoFace">No, it was not as bad as you think. The tremor wasnt very strong. No one should be injured in Boston.</speak>
+            <speak chara="weltNoFace">How...</speak>
+            <speak chara="einNoFace">According to Ada's monitoring of aftershocks, the epicenter should be in the New York City area and Manhattan.</speak>
+            <speak chara="weltNoFace">Manhattan? Isnt that……</speak>
+            <speak chara="einNoFace">Hmm... it's where Edison and the others were working.</speak>
+            <speak chara="einNoFace">But……</speak>
+            <speak chara="einNoFace">....That's not the most worrying part.</speak>
+            <speak chara="einNoFace">When you fainted, Ada also had a short-term breakdown.</speak>
+            <speak chara="einNoFace">According to the results of its self-test, it was a high-frequency energy pulse that caused the abnormality.</speak>
+            <speak chara="weltNoFace">Energy...pulse?</speak>
+            <speak chara="einNoFace">Yes.</speak>
+            <speak chara="einNoFace">These are electromagnetic pulses that are quite familiar...</speak>
+            <speak chara="einNoFace">As well as，strange and terrible……</speak>
+            <speak chara="einNoFace">...Honkai Enegry pulses</speak>
+            <speak chara="weltNoFace">What...</speak>
+            <speak chara="einNoFace">In the worst case scenario... what happened in Berlin may happen again in New York.</speak>
             <goto goto="120" change="#ffffff"/>
         </scene>
         <scene id="120" background="carNight.jpg">
             <bgm src="11_17_tatakau.mp3" status="start"></bgm>
-            <text>1955年11月24日，凌晨4时许。</text>
-            <text remark="next">1号国道，罗德岛州和马萨诸塞州交界的布莱克斯通河畔。</text>
+            <text>November 24, 1955, 4 o'clock in the morning.</text>
+            <text remark="next">State Highway 1, on the Blackstone River at the border of Rhode Island and Massachusetts.</text>
             <remark post="U2FsdGVkX19ohxbd4UVhPVop55vD">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">美国1号国道（U.S. Route 1），南起佛罗里达州的基韦斯特（Key West，美国本土最南端的城镇，距离对岸的古巴首都哈瓦那仅171公里）海岸，北至缅因州的肯特堡（Fort Kent）与加拿大新不伦瑞克省161号公路（New Brunswick Route 161，简称NB-161）连接，全长3846公里，是连接美国东海岸15个州的主要公路之一。从1957年起，1号国道的职能逐渐被新建的95号洲际公路（Interstate 95，简称I-95）取代。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">US Route 1 starts from the coast of Key West, Florida (Key West, the southernmost town in the continental United States, and only 171 kilometers away from the capital of Cuba, Havana, on the other side) to Fort Kent, Maine in the north (Fort Kent) is connected with New Brunswick Route 161 (NB-161) in Canada, with a total length of 3846 kilometers. It is one of the main roads connecting the 15 states on the east coast of the United States. Since 1957, the functions of National Highway No. 1 were gradually replaced by the newly built Interstate 95 (I-95).</p>
             </remark>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <text>全名为芙蕾德莉卡·尼古拉·特斯拉的42实验室研究员，正全神贯注地握着方向盘。</text>
-            <text>事实上，若不是集中注意力在开车上，她有理由相信，自己才会是情绪最不稳定的那一个。</text>
+            <text>The Researcher from Lab 42, whose full name is Frederica Nikola Tesla, is holding the steering wheel intently.</text>
+            <text>In truth, if she hadn't been so focused on driving, she had reason to believe that she would be the more emotionally volatile.</text>
             <text>不中用的家伙醒来之后……前因后果的种种情况，就交给更有责任心的她去解释吧。</text>
             <text>不过，会因为崩坏脉冲而昏倒……也意味着不中用家伙的身体状态，进入了不稳定的阶段吧。</text>
             <text>……不对，现在还不是操心这些的时候。</text>
-            <text>耳机里，可以听见艾妲仍旧在不断地尝试拨号。</text>
-            <text remark="next">也许是刚刚经历了电磁脉冲的缘故，各种号码，全都是拨不通的状态。</text>
+            <text>In the headset was the sound of Ada still trying to dial.</text>
+            <text remark="next"> Maybe it was because of the electromagnetic pulse that had just occurred. It was impossible to reach any numbers.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">在电磁脉冲的影响范围内，任何没有受到保护的电器、或任何连接到电线的东西，如电力系统、电子设备、集成电路等都会遭受无法修复的损坏。与晶体管相比，电子管（真空管） 不容易受到电磁脉冲的攻击——但这也仅仅指电子管本身。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Within the range of an electromagnetic pulse, any unprotected electrical appliances, or anything connected to wires, such as power systems, electronic equipment, integrated circuits, etc., will suffer irreparable damage. Compared to transistors, electron tubes (vacuum tubes) are less susceptible to electromagnetic pulse attacks-but this only pertains to the electron tubes themselves.</p>
             </remark>
-            <text>如果不是为了和艾妲连接而做过特殊强化的话，这台WS No.88，估计也逃不脱在电磁脉冲下短路熔毁的命运。</text>
-            <text>信息的瘫痪意味着社会的瘫痪。</text>
-            <text>难道要让我就这样盲目地开向纽约吗？</text>
+            <text>If it hadnt been specially strengthened for the purpose of connecting with Ada, this WS No. 88 would not escape the fate of short-circuit and meltdown under electromagnetic pulses.</text>
+            <text>The paralysis of information means the paralysis of society.</text>
+            <text>Do you want me to drive blindly into New York like this?</text>
             <text>真希望还有哪个号码能奇迹般地——</text>
             <hide position="center"/>
-            <speak chara="yuriNoNameNoFace">这、这里是紧急应变管理局、普罗维登斯特别联络办公室！请问您是什么部门？</speak>
+            <speak chara="yuriNoNameNoFace">This, this is the Emergency Response Administration and Providence Special Liaison Office! What department are you in?</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
             <text>——我的天啊，这下还真的接通了。</text>
             <goto goto="130" change="#ffffff"/>
@@ -220,51 +220,51 @@
         <scene id="130" background="carNight.jpg">
             <bgm src="11_17_tatakau.mp3" status="continue"></bgm>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">我们是……天命组织直属，帝国研究院42实验室。爱因斯坦博士和特斯拉博士。你可能没有听说过——</speak>
+            <speak chara="teslaNoFace">We are... Directly under the Schicksal Organization, Laboratory 42 of the Imperial Academy. Dr. Einstein and Dr. Tesla. You may not have heard of--</speak>
             <hide position="center"/>
-            <speak chara="yuriNoNameNoFace">怎么可能没有听说过？！天啊，总算有靠谱的人和我联络了！</speak>
-            <text>电话另一头的男青年激动地喊了一声，随后又连连道歉。</text>
-            <speak chara="yuriNoFace">实在对不起……我的名字是尤里·阿姆斯特朗，今天值夜班。</speak>
-            <speak chara="yuriNoFace">突然之间又是地震又是停电、电话也打不通，所以铃声一响，我就特别激动……</speak>
-            <speak chara="yuriNoFace">啊，对了对了……因为你们都在“紧急咨询名单”上，所以我虽然不认识你们，但却很熟悉你们的名字……</speak>
+            <speak chara="yuriNoNameNoFace">How could it not have heard of it?! my God, some reliable people has finally contacted me!</speak>
+            <text>The young man on the other end of the phone yelled excitedly, and then apologized again.</text>
+            <speak chara="yuriNoFace">I'm really sorry...My name is Yuri Armstrong and I am on night shift today.</speak>
+            <speak chara="yuriNoFace">There was an earthquake suddenly and a power outage, and the phone couldn't get through, so when the bell rang, I was very excited...</speak>
+            <speak chara="yuriNoFace">Ah, that's right...although I don't know you, I am very familiar with your names because you are all on the "emergency consultation list"...</speak>
             <show chara="teslaNormalGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">“紧急咨询名单”？那是什么？</speak>
+            <speak chara="teslaNoFace">And what is this "Emergency Consultation List"?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">是政府和天命组织北美支部共同拟定的联络名单，以便有事时，紧急应变管理局的指挥系统能够正常运转。</speak>
-            <speak chara="yuriNoFace">你们的名字分别在第12顺位和第13顺位……呃，这个不重要。</speak>
-            <speak chara="yuriNoFace">总之，在无法联系到更高顺位指挥者的当下，我，乃至普罗维登斯的全体管理局成员……</speak>
-            <speak chara="yuriNoFace">……将全权接受你们的指挥。</speak>
+            <speak chara="yuriNoFace">It is a contact list jointly drawn up by the government and the North American branch of Schicksal Organization, so that the command system of the Emergency Response Administration can operate normally when something happens.</speak>
+            <speak chara="yuriNoFace">Your names are at No. 12 and No. 13 respectively... Well, it doesn't matter.</speak>
+            <speak chara="yuriNoFace">In short, at the moment when the higher-ranking commander cannot be contacted, I, and even all the members of the Administration of Providence...</speak>
+            <speak chara="yuriNoFace">...Will accept your command with full authority.</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">等等等等……你们不是政府部门吗？</speak>
-            <speak chara="teslaNoFace">接受我们的指挥是什么意思？</speak>
+            <speak chara="teslaNoFace">Wait, wait... Are you not a government department?</speak>
+            <speak chara="teslaNoFace">Accept our command, what does that mean exacly?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">呃……你问我什么意思……</speak>
-            <speak chara="yuriNoFace">章程就是这样规定的啊……</speak>
-            <speak chara="yuriNoFace">……连我们特别联络办公室，都是在爱迪生小姐特别建议之下，由总统先生签署特别条令成立的啊。</speak>
-            <speak chara="yuriNoFace">要我读给你听的话，名单的第一位是总统先生，第二位是爱迪生小姐，第三位是普朗克小姐，第四位是——</speak>
+            <speak chara="yuriNoFace">Um...... you're ask me about that....</speak>
+            <speak chara="yuriNoFace">This is how the regulations were stipulated...</speak>
+            <speak chara="yuriNoFace">...Even our special liaison office was established by Mr. President under the special suggestion of Miss Edison.</speak>
+            <speak chara="yuriNoFace">If I want me to read it to you, the first on the list is Mr. President, the second is Miss Edison, the third is Miss Planck, and the fourth is—</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">好了好了我大概懂了。</speak>
+            <speak chara="teslaNoFace">Okay, Okay, I think I kind of understand.</speak>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">鸡窝头，这帮人需要你去发号施令喽。</speak>
+            <speak chara="teslaNoFace">Mophead, these people need you to give orders.</speak>
             <show chara="einFoolWinterClose-up" position="center"/>
-            <speak chara="einNoFace">特斯拉博士，不听完人家的解释，这样好吗？</speak>
+            <speak chara="einNoFace">Dr. Tesla, you should let others finish their explanation proper.</speak>
             <show chara="teslaShameGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">我才懒得和政府部门打交道呢……</speak>
+            <speak chara="teslaNoFace">I don't feel like dealing with literal government departments...</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">再说，他还有什么可解释的啊，你的顺位摆明了在我之前——</speak>
+            <speak chara="teslaNoFace">Besides, what more is he to explain? Your rank is clearly ahead of me—</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">等等——特斯拉小姐，你是在和爱因斯坦博士交谈吗？</speak>
+            <speak chara="yuriNoFace">Wait—Miss Tesla, are you talking to Dr. Einstein?</speak>
             <show chara="teslaAngryGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">当然啦，不然还有谁啊？你这个啰嗦鬼！</speak>
-            <speak chara="teslaNoFace">她是12号，我是13号，你们让她发号施令就可以了——我说的不对吗？</speak>
+            <speak chara="teslaNoFace">Of course it's her. who else would it be？你这个啰嗦鬼！</speak>
+            <speak chara="teslaNoFace">She is the 12th, I am the 13th, you can just let her give orders-am I wrong?</speak>
             <hide position="center"/>
             <speak chara="yuriNoFace">……</speak>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
-            <speak chara="teslaNoFace">怎么了？你怎么突然不吭气了？</speak>
+            <speak chara="teslaNoFace">What? Why did you go silent and suddenly sighing?</speak>
             <hide position="center"/>
-            <speak chara="yuriNoFace">特斯拉博士，恕我直言……</speak>
-            <speak chara="yuriNoFace">名单上的第12顺位……</speak>
-            <speak chara="yuriNoFace">……就是您自己啊。</speak>
+            <speak chara="yuriNoFace">Dr. Tesla, with all due respect…</speak>
+            <speak chara="yuriNoFace">The 12th no. on the list...</speak>
+            <speak chara="yuriNoFace">...is you.</speak>
             <end post="U2FsdGVkX1+WKqmGUyb3qMnZ46Is"/>
         </scene>
     </story>
