@@ -62,16 +62,16 @@
         </scene>
         <scene id="90" background="scienceEngineWarning.jpg">
             <bgm src="10_25_noise.mp3" status="start"></bgm>
-            <text>约七个小时前，新泽西州·爱迪生市——</text>
-            <speak chara="schroNoFace">……反应堆功率异常上升！</speak>
-            <speak chara="schroNoFace">临界系数已被突破！</speak>
-            <speak chara="schroNoFace">反应即将失去控制！</speak>
+            <text>About seven hours ago, Edison, New Jersey——</text>
+            <speak chara="schroNoFace">... The reactor power is rising abnormally!</speak>
+            <speak chara="schroNoFace">It's exceeded the exact critical point!</speak>
+            <speak chara="schroNoFace">The reaction is about to go out of control!</speak>
             <speak chara="nokiaNoFace">！</speak>
-            <speak chara="nokiaNoFace">怎么突然——</speak>
-            <speak chara="edisonNoFace">……全体进入避难室！快！</speak>
-            <speak chara="edisonNoFace">不要管别人了，自己快跑！</speak>
-            <speak chara="nokiaNoFace">可是——</speak>
-            <speak chara="edisonNoFace">没时间婆婆妈妈了！给我进去！</speak>
+            <speak chara="nokiaNoFace">How did it suddenly——</speak>
+            <speak chara="edisonNoFace">... Everyone, into the shelter! Quickly!</speak>
+            <speak chara="edisonNoFace">Focus on saving yourself, and just run!</speak>
+            <speak chara="nokiaNoFace">But——</speak>
+            <speak chara="edisonNoFace">There's no time! Get out of here!</speak>
             <goto goto="100" change="#000000"/>
         </scene>
         <scene id="100" background="CG23-3.jpg">
@@ -84,76 +84,76 @@
         <scene id="110" background="cloudSky.jpg">
             <bgm src="11_17_memory.mp3" status="continue"></bgm>
             <text>……</text>
-            <text>半个小时后，某辆被拆掉顶棚的豪华跑车上——</text>
+            <text>Half an hour later, in a hoodless luxury sports car——</text>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="connecticutRoad.jpg">
             <bgm src="11_17_memory.mp3" status="continue"></bgm>
             <show chara="reaLaughArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">……好啦，说句话吧？</speak>
+            <speak chara="reannaNoFace">...Come on, say something？</speak>
             <show chara="reaEmbarraArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">虽然知道你是个沉默寡言的人……但这样也太闷了吧。</speak>
+            <speak chara="reannaNoFace">I know you are a quiet and reserved person,... but surely this is too boring. </speak>
             <show chara="reaEmbarraArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <bgm src="10_20_londonderry_p.mp3" status="start"></bgm>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">……为什么……要救我……</speak>
+            <speak chara="schroNoFace">...Why...did you save me...</speak>
             <show chara="schroShrinkLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaSeriousArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">……为什么？真是的，我总不能眼睁睁地看着你们做傻事吧。</speak>
+            <speak chara="reannaNoFace">...Why? Seriously, I couldn't just watch you do something stupid.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">听好了。你体内的崩坏能，已经被“白花”全部限制在那条右臂上——</speak>
-            <speak chara="reannaNoFace">等这次的事件解决后，你的伙伴们，有的是时间来治好你。</speak>
+            <speak chara="reannaNoFace">Listen carefully. The Honkai energy in your body has already been sealed by the「White Flower」to your right arm——</speak>
+            <speak chara="reannaNoFace">Once this is all over, your friends will have plenty of time to cure you.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">……但是……我……</speak>
+            <speak chara="schroNoFace">...But...I...</speak>
             <show chara="schroShrinkLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">被崩坏侵蚀的人，难免会受到崩坏意志的挑衅，做出一些愚蠢透顶的事情。</speak>
+            <speak chara="reannaNoFace">Those infected by the Honkai will inevitably be provoked by the Will of the Honkai, and do something stupid.</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">……但是对你来说，这没有关系。</speak>
+            <speak chara="reannaNoFace">...But to you, this is not an issue.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">被侵蚀到几乎失去半边身体，却仍然能够进行理性的思考——</speak>
+            <speak chara="reannaNoFace">Being infected to the point of almost losing half your body, yet still able to think rationally——</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">——这已经比99.9%的人要顽强多了，你明白吗，薛定谔博士？</speak>
+            <speak chara="reannaNoFace">——that is already stronger than 99.9% of people, do you understand, Dr. Schrödinger?</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">……</speak>
+            <speak chara="schroNoFace">......</speak>
             <show chara="schroShrinkLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaSeriousArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">……当然，这不代表我认可你的做法。</speak>
+            <speak chara="reannaNoFace">...Of course, this doesn't mean I approve of your methods.</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">伤害无辜者的事情暂且不谈——不管怎么样，你都不太可能击败真正的律者。</speak>
+            <speak chara="reannaNoFace">Disregarding the matter of hurting innocents for the time being——no matter what, you wouldn't have been able to defeat a true Herrscher.</speak>
             <show chara="reaSeriousArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">如果瓦尔特站在崩坏那边，你这是自寻死路；</speak>
+            <speak chara="reannaNoFace">If Welt stood on the side of the Honkai, then you would have gotten yourself killed;</speak>
             <show chara="reaNormalArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">而如果他站在我们这边——就像现在这样——你就是在让他背上“杀人”的诅咒。</speak>
+            <speak chara="reannaNoFace">and if he stood on our side——like he does now——then you would have forced onto him the burden of being a "killer".</speak>
             <show chara="reaSeriousArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">这是多么恶劣的事情，你明白吗？</speak>
+            <speak chara="reannaNoFace">Do you understand how vile something like that is?</speak>
             <show chara="reaSeriousArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">……</speak>
+            <speak chara="schroNoFace">......</speak>
             <show chara="schroShrinkLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">不过，你也别太有压力……</speak>
+            <speak chara="reannaNoFace">However, don't stress yourself too much...</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">事情已经过去了，不是吗？</speak>
+            <speak chara="reannaNoFace">It's already over, isn't it?</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">今后，你还有的是时间，可以和他们好好相处呢。</speak>
+            <speak chara="reannaNoFace">You still have time, you can go and mend your ties with them.</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left" opacity="0.7"/>
             <show chara="schroShrinkLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">蕾安娜小姐……</speak>
+            <speak chara="schroNoFace">Miss Reanna... </speak>
             <show chara="schroNormalLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">我……</speak>
-            <speak chara="schroNoFace">我不知道能不能做到……</speak>
-            <speak chara="schroNoFace">……</speak>
+            <speak chara="schroNoFace">I...</speak>
+            <speak chara="schroNoFace">I don't know if I can do it...</speak>
+            <speak chara="schroNoFace">......</speak>
             <show chara="schroSmileLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">……但是我会努力的。</speak>
-            <speak chara="schroNoFace">……努力去达到，您这样的境界。</speak>
+            <speak chara="schroNoFace">...But I will try.</speak>
+            <speak chara="schroNoFace">...Try my best to become someone like you.</speak>
             <show chara="schroSmileLanceClose-up" position="right" opacity="0.7"/>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">哈哈……我可算不上什么榜样啊。</speak>
+            <speak chara="reannaNoFace">Haha...I am not any kind of role model.</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">之前交手的时候……你应该已经发现了吧？</speak>
+            <speak chara="reannaNoFace">The last time we fought...you must have realised already, right?</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
             <speak chara="reannaNoFace">我可是个……比你还“变本加厉”的家伙呢。</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
@@ -333,4 +333,4 @@
             <end post="U2FsdGVkX1+x3U0ZNdcph971qhGD"/>
         </scene>
     </story>
-</data>	
+</data>
