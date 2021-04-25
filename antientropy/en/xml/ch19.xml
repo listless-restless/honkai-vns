@@ -8,19 +8,19 @@
         </scene>
         <scene id="10" background="streetProvidence.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
-            <text>面前的街道上满是积水。</text>
+            <text>The street in front of him was throughly waterlogged.</text>
             <text>与11月的隆冬天气相反，积水一点儿也不冰冷——甚至还能让人感受到一股暖意。</text>
             <text>早起的野鸭，甚至反季节地，在积水上惬意地游来游去。</text>
             <text>不过……</text>
             <text>世界上所有真实发生的事情，都不可能像少数感官片面感知地那样美好。</text>
             <text>就如同这积水下的路面，坑洼不平，滑溜溜、黏糊糊、还夹杂着尖锐的硬物，简直让人无法行走。</text>
             <show chara="einFoolWinterClose" position="center"/>
-            <speak chara="einNoFace">找到爆胎的罪魁祸首了。</speak>
+            <speak chara="einNoFace">Found the culprit behind our punctured tires.</speak>
             <hide position="center"/>
-            <text>青年顺着少女指向的位置看去，只见有几片巨大、尖锐的“贝壳”，硬生生地扎在跑车干瘪的右后轮上。</text>
+            <text>The young man looked along where the girl was pointing, and saw a few huge, sharp “shells” pierced into the shriveled right rear wheel of the sports car.。</text>
             <text>被车轮搅浑的积水渐渐澄清了一些，瓦尔特能看到那里生长着一些密密麻麻的诡异生物。</text>
             <text>灰白色与绀紫色相间的“贝壳”——和扎在车胎上一样的石灰质尖锐锥体——毫无规律地挤在一起。</text>
-            <text>说不上是软体动物还是什么东西。</text>
+            <text>Can't say whether it was mollusk or something else.</text>
             <text>总之，如果把地狱里所有魔鬼的爪子都砍下来，并像沙丁鱼一样叠在一起——大概就是眼前的这个样子。</text>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace" remark="next">从结论来说……这水泥路面上……长着比平常大好几倍的藤壶。</speak>
