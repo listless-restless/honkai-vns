@@ -9,59 +9,59 @@
         <scene id="10" background="streetProvidence.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
             <text>The street in front of him was throughly waterlogged.</text>
-            <text>与11月的隆冬天气相反，积水一点儿也不冰冷——甚至还能让人感受到一股暖意。</text>
-            <text>早起的野鸭，甚至反季节地，在积水上惬意地游来游去。</text>
-            <text>不过……</text>
-            <text>世界上所有真实发生的事情，都不可能像少数感官片面感知地那样美好。</text>
-            <text>就如同这积水下的路面，坑洼不平，滑溜溜、黏糊糊、还夹杂着尖锐的硬物，简直让人无法行走。</text>
+            <text>Contrary to the mid winter weather of November, the water was not cold at all - so much so that it even felt warm instead.</text>
+            <text>The wild ducks in the morning, even out of season, was swimming happily on the stagnant water.</text>
+            <text>However……</text>
+            <text>Everything that really happens in the world cannot be as beautiful as the one-sided perception of a few senses.</text>
+            <text>Just like the road under the water, the potholes are uneven, slippery, slimy, and mixed with sharp hard objects that made it simply impossible to walk.</text>
             <show chara="einFoolWinterClose" position="center"/>
             <speak chara="einNoFace">Found the culprit behind our punctured tires.</speak>
             <hide position="center"/>
-            <text>The young man looked along where the girl was pointing, and saw a few huge, sharp “shells” pierced into the shriveled right rear wheel of the sports car.。</text>
-            <text>被车轮搅浑的积水渐渐澄清了一些，瓦尔特能看到那里生长着一些密密麻麻的诡异生物。</text>
-            <text>灰白色与绀紫色相间的“贝壳”——和扎在车胎上一样的石灰质尖锐锥体——毫无规律地挤在一起。</text>
+            <text>The young man looked along where the girl was pointing, and saw a few huge, sharp “shells” pierced into the shriveled right rear wheel of the sports car.</text>
+            <text>The water, stirred by the wheels, gradually cleared up a bit, and Welt could see some of the strange dense creatures growing there.</text>
+            <text>The gray-white and purple "shells" - the same lime-sharp cones that are stuck to the tires - were huddled together irregularly.</text>
             <text>Can't say whether it was mollusk or something else.</text>
-            <text>总之，如果把地狱里所有魔鬼的爪子都砍下来，并像沙丁鱼一样叠在一起——大概就是眼前的这个样子。</text>
+            <text>In short, if you cut off all the devil's claws in hell and fold them together like sardines--probably this is what you would get.</text>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace" remark="next">从结论来说……这水泥路面上……长着比平常大好几倍的藤壶。</speak>
+            <speak chara="teslaNoFace" remark="next">In conclusion... this concrete road... has barnacles several times larger than usual.</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">一般语境下，藤壶泛指节肢动物门、颚足纲、鞘甲亚纲下的一大类动物，营固着生活。它们主要粘附在礁石上，但有时也会粘附在浮木、船底上，蟹类、贝类的外壳上——某些特化的品种，甚至直接寄生在鲸类身上（称为“鲸藤壶”）。</p>
-                <p class="article-text">p.s. 搜索关于藤壶（尤其是鲸藤壶）的图片可能引发不适，请各位玩家谨慎对待自己的好奇心。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Generally speaking, barnacles refer to a large group of animals in Arthropoda, gnathopoda and Coleoptera, which live in a fixed environment. They mainly adhere to reefs, but sometimes they also adhere to driftwood, the bottom of ships, the shells of crabs and shellfish - some specialized species, and even directly parasitize cetaceans (known as "whale barnacles").</p>
+                <p class="article-text">p.s. Searching for pictures of barnacles (especially whale barnacles) may cause discomfort. Please be cautious of your curiosity.</p>
             </remark>
-            <text>打扮时髦的少女咬牙切齿地陈述着，看起来不大能对付这种密集的甲壳类动物。</text>
+            <text>The fashionable girl gritted her teeth and stated that she didn't seem to be able to deal with the dense crustaceans.</text>
             <show chara="teslaBiteGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose" position="right"/>
-            <speak chara="weltNoFace">藤壶……不是海洋生物吗？</speak>
-            <speak chara="weltNoFace">这里……就算离海再近，但也……</speak>
+            <speak chara="weltNoFace">Barnacles... Aren't they Sea creatures?</speak>
+            <speak chara="weltNoFace">It's close to the sea here...however...</speak>
             <show chara="weltEmbarraNewClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">这我当然知道！</speak>
+            <speak chara="teslaNoFace">Of course I know that!</speak>
             <show chara="teslaDisgustedGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">所以才会更可怕啊不是吗！？</speak>
+            <speak chara="teslaNoFace">That's why it's more terrifying, isn't it!?</speak>
             <show chara="teslaAstonishGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">绝不会出现在内陆上的恶心东西，就这样扎爆了我们的轮胎啊！？</speak>
+            <speak chara="teslaNoFace">Those disgusting things that should have never appeared on inland, just burst our tires!?</speak>
             <show chara="teslaAstonishGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose" position="right"/>
-            <speak chara="einNoFace">1861年2月22日，狂风暴雨中，曾经有无数条海鱼在新加坡从天而降。</speak>
-            <speak chara="einNoFace">但固着在这些水洼里的藤壶，不可能是从天而降的。</speak>
-            <speak chara="einNoFace">……我们现在的具体位置是哪里？</speak>
+            <speak chara="einNoFace">On February 22, 1861, countless marine fish fell from the sky in Singapore during a violent storm.</speak>
+            <speak chara="einNoFace">But the barnacles stuck in these puddles could not have fallen from the sky. </speak>
+            <speak chara="einNoFace">....Where are we now?</speak>
             <show chara="einNormalWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">波塔基特大道……霍普街区。</speak>
-            <text>打扮时髦的少女打量着手中的地图——</text>
-            <speak chara="teslaNoFace">左手边不远处是“斯旺波因特”墓地；墓地再向外，则是锡康克河的喇叭形河口。</speak>
-            <speak chara="teslaNoFace">如果我们要实地侦察的话，那么就是这样的一个三角形，从本斯利点到利比特公园，再到布莱克斯通公园——</speak>
+            <speak chara="teslaNoFace">Portage Avenue... Hope street. </speak>
+            <text>The fashionable girl looked at the map in her hand——</text>
+            <speak chara="teslaNoFace">Not far to the left is the Swanpoint Cemetery; Beyond the cemetery lies the trumpet-shaped mouth of the Seekonk River.</speak>
+            <speak chara="teslaNoFace">If we want to do field reconnaissance, it's in a triangle like this, from Bensley point to Libet Park, and then to Blackstone park——</speak>
             <hide position="left"/>
             <hide position="right"/>
             <bgm src="03_03_bostonNight.mp3" status="stop"></bgm>
-            <speak chara="reannaNoNameNoFace">不过核心还是那块墓地吧？</speak>
-            <speak chara="reannaNoNameNoFace">真是的，和你们的缘分，为什么总是与墓地有关啊。</speak>
-            <speak chara="teslaNoFace">谁？</speak>
+            <speak chara="reannaNoNameNoFace">But the core is still the cemetery, right?</speak>
+            <speak chara="reannaNoNameNoFace">Really, why is it the fate for it to be always something related to a cemetery.</speak>
+            <speak chara="teslaNoFace">Who?</speak>
             <show chara="reaSmileArmedClose" position="center"/>
-            <text>完全听不到脚步声的“不速之客”，从头到脚都穿着特制的战斗服——</text>
-            <speak chara="einNoFace">啊……</speak>
-            <speak chara="weltNoFace">……蕾安娜小姐？</speak>
+            <text>The "uninvited guest", completely silent of footsteps, was dressed from head to toe in a special combat uniform --</text>
+            <speak chara="einNoFace">Ah...</speak>
+            <speak chara="weltNoFace">...Miss Reanna?</speak>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="streetProvidence.jpg">
