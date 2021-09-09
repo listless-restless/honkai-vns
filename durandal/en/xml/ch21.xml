@@ -57,7 +57,7 @@
             <show chara="rolandNormalClose" position="right"/>
             <speak chara="_Roland">But personally - Since the other soldiers have to operate something so heavy every day, shouldn’t I as well?</speak>
             <show chara="rolandSeriousClose" position="right"/>
-            <speak chara="_Roland"Without understanding the difficulties the soldiers experience it would be difficult for me to give accurate orders on a battlefield where mobility is needed.</speak>
+            <speak chara="_Roland">Without understanding the difficulties the soldiers experience it would be difficult for me to give accurate orders on a battlefield where mobility is needed.</speak>
             <show chara="rolandNormalClose" position="right"/>
             <speak chara="_Roland">...For as long as one serves as a military commander, a single command they give could determine the life and death of countless people.</speak>
             <show chara="rolandSeriousClose" position="right"/>
