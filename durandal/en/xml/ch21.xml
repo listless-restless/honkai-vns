@@ -8,15 +8,15 @@
         </scene>
         <scene id="10" background="CG20-2.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="start"></bgm>
-            <speak chara="_Roland">TEST TEST TEST BEEP BOOP</speak>
-            <speak chara="_Roland">纪念碑背面刻着的每一个名字，都对应着一位我们无法回收遗体的战士。</speak>
-            <speak chara="_Roland">还有……不可能留下遗体的星语者。</speak>
+            <speak chara="_Roland">This is a memorial monument for unknown soldiers of the Republic.</speak>
+            <speak chara="_Roland">Every name engraved on them corresponds to a soldier whose body we could not recover…</speak>
+            <speak chara="_Roland">...And to Star Whisperers, who can’t leave a body behind.</speak>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="chileRiverMountain.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="continue"></bgm>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">……不可能留下遗体？这、这是字面的那个意思吗？</speak>
+            <speak chara="_Bianka">Can’t leave a body behind? Is that true?</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="rolandNormalClose" position="right"/>
             <speak chara="_Roland">是啊。星语者如果受到致命的伤害，组成身体的物质就会急速衰变……就像沙子一样直接消失。</speak>
