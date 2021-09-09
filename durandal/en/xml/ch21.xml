@@ -50,51 +50,51 @@
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">Speaking of the power armor, I’ve been wondering…</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">如果说罗兰小姐你本身就拥有抵抗崩坏能的天赋——那么你其实根本不需要穿戴这么笨重的防护装置吧？</speak>
+            <speak chara="_Bianka">Miss Roland actually has Honkai resistance, wouldn’t it be better to not wear such heavy armor?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="rolandSmileClose" position="right"/>
-            <speak chara="_Roland">噗……单纯从运动机能上来说，的确是这样呢……</speak>
+            <speak chara="_Roland">Ah… in terms of agility, that would indeed be the case…</speak>
             <show chara="rolandNormalClose" position="right"/>
-            <speak chara="_Roland">不过，我个人觉得——既然士兵们每天都要操纵这种笨重的机械，那么我自己也不应该搞特殊啊？</speak>
+            <speak chara="_Roland">But personally - Since the other soldiers have to operate something so heavy every day, shouldn’t I as well?</speak>
             <show chara="rolandSeriousClose" position="right"/>
-            <speak chara="_Roland">如果平常执行任务的时候不能体会士兵们的难处，那么在真正需要机动灵活的战场上，我就很难正确地给他们下达指令。</speak>
+            <speak chara="_Roland"Without understanding the difficulties the soldiers experience it would be difficult for me to give accurate orders on a battlefield where mobility is needed.</speak>
             <show chara="rolandNormalClose" position="right"/>
-            <speak chara="_Roland">……任何人，只要担任军事指挥员，就意味着每时每刻——都有可能因为仅仅一道命令就决定无数人的生死。</speak>
+            <speak chara="_Roland">...For as long as one serves as a military commander, a single command they give could determine the life and death of countless people.</speak>
             <show chara="rolandSeriousClose" position="right"/>
-            <speak chara="_Roland">所有军人都必须对此保持敬畏。</speak>
+            <speak chara="_Roland">Every soldier must remember that.</speak>
             <show chara="rolandSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="rolandEmbarrassClose" position="right"/>
-            <speak chara="_Roland">啊……真是的，我怎么又绕到沉重的话题上去了。</speak>
+            <speak chara="_Roland">Ah… Why did it have to become a heavy topic again?</speak>
             <show chara="rolandLaughClose" position="right"/>
-            <speak chara="_Roland">走吧！我们去山谷的对面——到隧道和要塞去！</speak>
+            <speak chara="_Roland">Let’s go! Across the valley - To tunnels and fortresses!</speak>
             <goto goto="30" change="#ffffff"/>
         </scene>
         <scene id="30" background="railwayChileValley.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="start"></bgm>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">这是……铁路？是那种跑火车的铁路吗？</speak>
+            <speak chara="_Bianka">Is this… a railway? Are we going by train?</speak>
             <show chara="biankaDressSmileAhClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorSmileClose" position="right"/>
-            <speak chara="_Roland">嗯啊！无论军团还是战备物资，只要不赶时间，都会用铁道先运过来。</speak>
+            <speak chara="_Roland">Indeed. Be it soldiers or supplies, as long as it’s not an emergency, it will first be transported by rail.</speak>
             <show chara="rolandArmorLaughClose" position="right"/>
-            <speak chara="_Roland">毕竟这边是隧道的主入口嘛，带宽比较大。</speak>
+            <speak chara="_Roland">This is the main entrance to the tunnel, so it has more bandwidth.</speak>
             <show chara="rolandArmorLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">……带宽？互联网的那个？</speak>
+            <speak chara="_Bianka">Bandwidth? Like the internet?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorSmileClose" position="right"/>
-            <speak chara="_Roland">有什么问题吗？信息通道的运力，当然是用“带宽”来表示的嘛。</speak>
+            <speak chara="_Roland">Is it surprising? The capacity of data transfer should obviously be called bandwidth.</speak>
             <show chara="rolandArmorEmbarrassClose" position="right"/>
-            <speak chara="_Roland">……啊咧，我之前没有提到过吗？“瓦卡隧道”之所以能从地心连接起地表上的不同地点，就是因为它能把物质信息化，再把信息物质化呀。</speak>
+            <speak chara="_Roland">Ah… Did I not say it before? The reason that the Huaca Tunnel can connect to different places on the surface of the planet is because it can informatize matter and later materialize information.</speak>
             <show chara="rolandArmorEmbarrassClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">这……这不是和格尼乌斯的原理一样嘛！</speak>
+            <speak chara="_Bianka">Wait… That’s the same way the Gnius works!</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorLaughClose" position="right"/>
-            <speak chara="_Roland">啊。原来把你们送来这里的也是类似的技术吗？嘿嘿，这样的话，接下来我们要经历的东西你们肯定会感到似曾相识的！</speak>
+            <speak chara="_Roland">So is the technology that sent you here similar? In that case what you will experience next should feel very familiar!</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="railwayStationSaksaqWaman.jpg">
