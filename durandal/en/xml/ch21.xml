@@ -19,36 +19,36 @@
             <speak chara="_Bianka">Can’t leave a body behind? Is that true?</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="rolandNormalClose" position="right"/>
-            <speak chara="_Roland">是啊。星语者如果受到致命的伤害，组成身体的物质就会急速衰变……就像沙子一样直接消失。</speak>
+            <speak chara="_Roland">Yes. When a Star Whisperer suffers a fatal injury, what makes up their bodies rapidly decays… and crumbles like sand.</speak>
             <show chara="rolandNormalClose" position="right" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="left"/>
             <speak chara="_Rita">……</speak>
             <show chara="ritaVestHesitateClose" position="left" opacity="0.8"/>
             <show chara="rolandEmbarrassClose" position="right"/>
-            <speak chara="_Roland">啊哈哈……我好像一不小心说了很可怕的事情……</speak>
+            <speak chara="_Roland">Ahaha… seems like I let out something terrifying…</speak>
             <show chara="rolandLaughClose" position="right"/>
-            <speak chara="_Roland">不用在意那种无可奈何的事情啦！“马革裹尸”才反而会给别人添麻烦吧？哈哈哈哈。</speak>
+            <speak chara="_Roland">Don’t worry about it! Rather, it actually saves us some trouble, right? Hahaha…</speak>
             <show chara="rolandLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="rolandSmileClose" position="right"/>
-            <speak chara="_Roland">说起来——你们注意到我刚才装在肩膀上的这个了吗？</speak>
+            <speak chara="_Roland">Speaking of which - did you notice what I put on my shoulder?</speak>
             <show chara="rolandSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">这是……军衔吗？</speak>
+            <speak chara="_Bianka"> Is that… a military rank insignia?</speak>
             <show chara="biankaDressNormalClose" position="left" opacity="0.8"/>
             <show chara="rolandLaughClose" position="right"/>
-            <speak chara="_Roland">没错，是“副军级指挥员”哦？去要塞的时候我就会按照规定戴上它们。</speak>
+            <speak chara="_Roland">That’s right, it’s for the “Deputy Army Commander”. When going to the fortress I wear it in accordance with the regulations.</speak>
             <show chara="rolandEmbarrassClose" position="right"/>
-            <speak chara="_Roland">不过啊，要是把这种硬梆梆的东西穿在动力装甲里面……一时还好，时间长了那是真的很不舒服。</speak>
+            <speak chara="_Roland">But wearing this thing while in power armor… It’s ok for a while, but it can get really uncomfortable.</speak>
             <show chara="rolandSmileClose" position="right"/>
-            <speak chara="_Roland">所以我和士兵们一般都把它们摘下来收着！哈哈哈哈。</speak>
+            <speak chara="_Roland">That’s why my soldiers and I usually take them out! Ahaha…</speak>
             <show chara="rolandSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">唔……</speak>
+            <speak chara="_Bianka">About that…</speak>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">其实……说到动力装甲，我有一点疑问……</speak>
+            <speak chara="_Bianka">Speaking of the power armor, I’ve been wondering…</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">如果说罗兰小姐你本身就拥有抵抗崩坏能的天赋——那么你其实根本不需要穿戴这么笨重的防护装置吧？</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
