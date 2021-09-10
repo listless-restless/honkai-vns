@@ -47,143 +47,143 @@
             <speak chara="_ShigureKiraNoName">And… you are?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">美丽的小姐，请问您曾经捡到过一块金色的“爱之宝石”吗？</speak>
+            <speak chara="_SwordDurandalQ">Beautiful girl, have you seen a golden “Jewel of Love”?</speak>
             <show chara="durandalOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">它可以接管使用者身体的部分机能，使它们能够做好您反复练习却又总是无法掌握的事情！</speak>
+            <speak chara="_SwordDurandalQ">It takes over some of the functions of your body to allow you to succeed at things you couldn't do no matter how much you practiced!</speak>
             <show chara="durandalOutstretchStare" position="left"/>
-            <speak chara="_SwordDurandalQ">无论是写字画画，还是唱歌跳舞，全都不在话下！</speak>
+            <speak chara="_SwordDurandalQ">Whether it be writing, painting, singing or dancing, you can do anything with it!</speak>
             <show chara="durandalOutstretchStare" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">……所以呢？</speak>
+            <speak chara="_ShigureKiraNoName">...And?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">我们希望您能够把这块宝石还给我们！</speak>
+            <speak chara="_SwordDurandalQ">We hope you could return the gem to us! </speak>
             <show chara="durandalClose" position="left"/>
-            <speak chara="_SwordDurandalQ">我的名字是“幽兰黛尔”，从红色的“勇气宝石”到紫色的“支配宝石”，原本都是我的零部件！</speak>
+            <speak chara="_SwordDurandalQ">My name is “Durandal”. The red “Jewel of Courage” and the purple “Jewel of Domination” were both originally part of me!</speak>
             <show chara="durandalClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">……然后呢？你打算收齐你的宝石去做什么吗？</speak>
+            <speak chara="_ShigureKiraNoName">...And then what? What will you do once you have gathered all the gems?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">打破支配欧洲的“墙壁”，拯救这整个世界！</speak>
+            <speak chara="_SwordDurandalQ">Break the wall that encases Europe and save the world!</speak>
             <show chara="durandalOutstretchOpen" position="left" opacity="0.8"/>
             <show chara="ShigureKiraAngryClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">……那你知道我，超时空偶像“时雨绮罗”，又正在准备着什么吗？</speak>
+            <speak chara="_ShigureKiraNoName">...And do you know what I, the super idol “Shigure Kira”, am preparing for?</speak>
             <show chara="ShigureKiraAngryClose" position="right" opacity="0.8"/>
             <show chara="durandalWhite" position="left"/>
-            <speak chara="_SwordDurandalQ">准备某种唱歌的表演？对一下嘴型就好的那种？</speak>
+            <speak chara="_SwordDurandalQ"> Some kind of musical performance? The one where you lip-sync?</speak>
             <show chara="durandalWhite" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
-            <speak chara="_ShigureKira">……喂。</speak>
+            <speak chara="_ShigureKira">...Hey.</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOpen" position="left"/>
             <speak chara="_SwordDurandalQ">？</speak>
             <show chara="durandalOpen" position="left" opacity="0.8"/>
             <show chara="ShigureKiraAngryClose" position="right"/>
-            <speak chara="_ShigureKira">……不要小看演唱会啊，你们这些无知的家伙。</speak>
+            <speak chara="_ShigureKira">...Don’t underestimate live concerts, you ignorant sword.</speak>
             <show chara="ShigureKiraQuestionClose" position="right"/>
-            <speak chara="_ShigureKira">后面一起来的将军们——</speak>
+            <speak chara="_ShigureKira">Officers back there--</speak>
             <show chara="ShigureKiraSneerClose" position="right"/>
-            <speak chara="_ShigureKira">——可以拜托你们把这些捣乱的家伙请出去吗？</speak>
-            <speak chara="_ShigureKira">现在是宝贵的准备时间，有什么事大家可以等演唱会结束再谈。</speak>
+            <speak chara="_ShigureKira">--Could you invite these troublemakers out?</speak>
+            <speak chara="_ShigureKira">This is a precious time for my rehearsal. If you have something else to say, I’ll listen after the concert.</speak>
             <show chara="ShigureKiraSneerClose" position="right" opacity="0.8"/>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_Dracula">哎呀，碰到了一个非常的有骨气的人呢。</speak>
+            <speak chara="_Dracula">Talk about a person of focus.</speak>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_Dracula">那我们还是“恭敬不如从命”，先欣赏完这场演出再说吧？</speak>
+            <speak chara="_Dracula">I suppose we should just “accept our fate” and enjoy the performance first?</speak>
             <show chara="DraculaFunnyClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="right"/>
-            <speak chara="_Bianka">喂……一开始难道不是你急吼吼地推着我们过来的？</speak>
+            <speak chara="_Bianka">Hey… I wonder who it was that hurried us to come here?</speak>
             <show chara="biankaDressSighClose" position="right" opacity="0.8"/>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_Dracula">哈哈哈哈，你难道就不喜欢像时雨小姐这样有骨气的人吗？</speak>
+            <speak chara="_Dracula">Hahahahaha, but don’t you like a person as resolute as Shigure?</speak>
             <show chara="DraculaLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="right"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressBiteClose" position="right" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="left"/>
-            <speak chara="_Darwin">啊，虽说有些唐突……</speak>
+            <speak chara="_Darwin">Ah, this might’ve come from nowhere...</speak>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">但既然正好空出来了时间，可以麻烦各位向我们多传授一些对抗崩坏的经验吗？</speak>
+            <speak chara="_Darwin">But since we have time, could you teach us a thing or two about fighting the Honkai?</speak>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">当然，我们也会相应地为大家介绍共和国的战略态势和具体军事部署。</speak>
+            <speak chara="_Darwin">Of course, we will also tell you about the Republic’s strategic structure and military deployment power.</speak>
             <show chara="DarwinNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="right"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="left"/>
-            <speak chara="_Shakespeare">哈哈哈哈，我觉得这样正好啊？反正离演唱会开始还有不少时间吧？</speak>
+            <speak chara="_Shakespeare">Hahahaha, isn’t this just right? There is still a long time until the concert starts.</speak>
             <show chara="DarwinFunnyClose" position="left"/>
-            <speak chara="_Darwin">怎么样，女武神们，方便吗？</speak>
+            <speak chara="_Darwin">Well, Valkyries?</speak>
             <show chara="DarwinFunnyClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="right"/>
-            <speak chara="_Bianka">唔，这方面的交流当然很有必要啦……</speak>
+            <speak chara="_Bianka">Well, information exchange is important, but...</speak>
             <show chara="biankaDressSneerClose" position="right"/>
-            <speak chara="_Bianka">不过你们具体想了解哪方面的东西呢？组织，还是装备？或者是别的什么你们在意的领域？</speak>
+            <speak chara="_Bianka">What do you want to know? Organization? Equipment? Something else entirely?</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">如果方便的话，我希望你们可以从“天命”组织的历史开始讲起。</speak>
+            <speak chara="_Darwin">If you don’t mind, I’d like you to start with the history of “Schiksal”.</speak>
             <show chara="DarwinFunnyClose" position="left"/>
-            <speak chara="_Darwin">这方面的资料，即便是亚历山德里亚的大图书馆，也很少能收集到呢。</speak>
+            <speak chara="_Darwin">Information on it can hardly be found even in the Great Library of Alexandria.</speak>
             <show chara="DarwinFunnyClose" position="left" opacity="0.8"/>
             <show chara="champoBlanketLaughClose" position="right"/>
-            <speak chara="_Champollion">哇哦。既然如此，那么我们要求你们对等地提供一些机密信息，也没有问题吧？</speak>
+            <speak chara="_Champollion">In that case there should be no problem in asking for some of your confidential information.</speak>
             <show chara="champoBlanketLaughClose" position="right"/>
-            <speak chara="_Champollion">——就像借给我这条漂亮的毯子来保暖一样？</speak>
+            <speak chara="_Champollion">The same way you lent me this beautiful blanket.</speak>
             <show chara="champoBlanketLaughClose" position="right" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">哈哈，那当然没问题。毕竟我们从很久以前就期待着像你们这样的人能够到来了。</speak>
+            <speak chara="_Darwin">Of course it’s fine. We have been waiting for people like you for a long time.</speak>
             <show chara="DarwinSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">……从很久以前？</speak>
+            <speak chara="_Bianka">...For a long time?</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">是的。等我讲到相关情况的时候，您自然就明白了。</speak>
+            <speak chara="_Darwin">Yes. That topic will come naturally some time later.</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
-            <text>灯光。节拍。韵律。</text>
-            <text>婉转。铿锵。澎拜。</text>
-            <text>现场不愧是现场。无论是球赛、艺术展还是演唱会，“现场”总有一种魔力，能将人的感性中枢激活到最大的功率。</text>
-            <text>转播或资料固然能够提供最好的视角，却也剥夺了那种能够让观众的感性随心游走的可能性。</text>
-            <text>不知不觉，女武神和将军们停下了低声的讨论，开始全神贯注地欣赏舞台上的表演。</text>
+            <text>The lighting. The rhythm. The music itself.</text>
+            <text>Gentle but strong. Overwhelming.</text>
+            <text>Whether it be a sport, an art exhibition or a musical performance, there is some type of magic related to “being there” that brings human emotions to its extremes. </text>
+            <text>Broadcasting and reporting might give the best angles and perspectives, but it also prevents the viewer’s senses from wandering freely.</text>
+            <text>Subconsciously, both the Valkyries and the Generals stopped discussing and simply enjoyed the performance happening on the stage.</text>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="CG22-1.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
-            <speak chara="_ShigureKira">Калинка♬ калинка♬ калинка моя♪ （雪球花 雪球花 我的雪球花）</speak>
-            <speak chara="_ShigureKira">В саду ягода малинка♬ малинка моя♪ （花园里长满红树莓 我的红树莓）</speak>
-            <speak chara="_ShigureKira">Ах♪ под сосною♬ под зеленою♬ （啊 在松树下 在绿荫下）</speak>
-            <speak chara="_ShigureKira">Спать положите вы меня♪ （助我安眠）</speak>
-            <speak chara="_ShigureKira">Ай-люли♪ люли♬ ай-люли♪ люли♬ （啊啰哩 啰哩 啊啰哩 啰哩）</speak>
-            <speak chara="_ShigureKira">Спать положите вы меня♪ （助我安眠）</speak>
+            <speak chara="_ShigureKira">Калинка ♬ калинка ♬ калинка моя ♪ (Little snowberry, snowberry, snowberry of mine!)</speak>
+            <speak chara="_ShigureKira"> В саду ягода малинка ♬ малинка моя ♪ (Little raspberry in the garden, my little raspberry!)</speak>
+            <speak chara="_ShigureKira">Ах ♪ под сосною ♬ под зеленою ♬ (Ah, under the pine, the green one)</speak>
+            <speak chara="_ShigureKira">Спать положите вы меня ♪ (Lay me down to sleep)</speak>
+            <speak chara="_ShigureKira">Ай-люли ♪ люли ♬ ай-люли ♪ люли ♬ (Rock-a-bye, baby, rock-a-bye, baby)</speak>
+            <speak chara="_ShigureKira">Спать положите вы меня ♪ (Lay me down to sleep)</speak>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="CG22-2.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
-            <speak chara="_ShigureKira">Калинка♬ калинка♬ калинка моя♪ （雪球花 雪球花 我的雪球花）</speak>
-            <speak chara="_ShigureKira">В саду ягода малинка♬ малинка моя♪ （花园里长满红树莓 我的红树莓）</speak>
-            <speak chara="_ShigureKira">Ах♪ сосёнушка♬ ты зеленая♬ （啊 小松树 你这绿色的家伙）</speak>
-            <speak chara="_ShigureKira">Не шуми ты надо мной♪ （请别在我头顶喧闹）</speak>
-            <speak chara="_ShigureKira">Ай-люли♪ люли♬ ай-люли♪ люли♬ （啊啰哩 啰哩 啊啰哩 啰哩）</speak>
-            <speak chara="_ShigureKira">Не шуми ты надо мной♪ （请别在我头顶喧闹）</speak>
+            <speak chara="_ShigureKira">Калинка ♬ калинка ♬ калинка моя ♪ (Little snowberry, snowberry, snowberry of mine!)</speak>
+            <speak chara="_ShigureKira">В саду ягода малинка ♬ малинка моя ♪ (Little raspberry in the garden, my little raspberry!)</speak>
+            <speak chara="_ShigureKira"> Ax ♪ Сосëнушка ♬ ты зеленая ♬ (Oh Little pine, little green one)</speak>
+            <speak chara="_ShigureKira">Не шуми ты надо мной ♪ (Don’t rustle above me)</speak>
+            <speak chara="_ShigureKira">Калинка ♬ калинка ♬ калинка моя ♪ (Little snowberry, snowberry, snowberry of mine!)</speak>
+            <speak chara="_ShigureKira">Не шуми ты надо мной ♪ (Don’t rustle above me)</speak>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG22-3.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
-            <speak chara="_ShigureKira">Калинка♬ калинка♬ калинка моя♪ （雪球花 雪球花 我的雪球花）</speak>
-            <speak chara="_ShigureKira">В саду ягода малинка♬ малинка моя♪ （花园里长满红树莓 我的红树莓）</speak>
-            <speak chara="_ShigureKira">Ах♪ красавица♬ душа-девица♬ （啊 美丽的人 我灵魂中的姑娘）</speak>
-            <speak chara="_ShigureKira">Полюби же ты меня♪ （你快来爱我吧）</speak>
-            <speak chara="_ShigureKira">Ай-люли♪ люли♬ ай-люли♪ люли♬ （啊啰哩 啰哩 啊啰哩 啰哩）</speak>
-            <speak chara="_ShigureKira">Полюби же ты меня♪ （你快来爱我吧）</speak>
+            <speak chara="_ShigureKira">В саду ягода малинка ♬ малинка моя ♪ (Little raspberry in the garden, my little raspberry!)</speak>
+            <speak chara="_ShigureKira">В саду ягода малинка ♬ малинка моя ♪ (Little raspberry in the garden, my little raspberry!)</speak>
+            <speak chara="_ShigureKira">Ax ♪ Красавица ♬ душа-девица ♬ (Ah, you beauty, pretty maiden, )</speak>
+            <speak chara="_ShigureKira">Полюби же ты меня ♪ (Take a fancy to me)</speak>
+            <speak chara="_ShigureKira">Ай-люли ♪ люли ♬ ай-люли ♪ люли ♬ (Rock-a-bye, baby, rock-a-bye, baby)</speak>
+            <speak chara="_ShigureKira">Полюби же ты меня ♪ (Take a fancy to me)</speak>
             <goto goto="70" change="#ffffff"/>
         </scene>
         <scene id="70" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
-            <speak chara="_AudienceLot">绮罗，绮罗，绮罗星！</speak>
-            <speak chara="_AudienceLot">一闪，一闪，亮晶晶！</speak>
+            <speak chara="_AudienceLot">Kira, Kira, our star Kira!</speak>
+            <speak chara="_AudienceLot">Continue to shine!</speak>
             <show chara="ShigureKiraCuteFar" position="center"/>
             <speak chara="_ShigureKira">谢谢大家！最喜欢你们了！</speak>
             <goto goto="80" clockwise="1"/>
