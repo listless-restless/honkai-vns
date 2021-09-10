@@ -100,100 +100,100 @@
         <scene id="40" background="railwayStationSaksaqWaman.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="continue"></bgm>
             <show chara="shakesCasualLaughClose" position="left"/>
-            <speak chara="_Shakespeare">哎呀。好复古的一座车站啊！</speak>
+            <speak chara="_Shakespeare">Wow, what an old station!</speak>
             <show chara="shakesCasualLaughClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorEmbarrassClose" position="right"/>
-            <speak chara="_Roland">那个……因为这堵墙是货真价实的古迹嘛。</speak>
+            <speak chara="_Roland">That’s because… this is a genuine ruin.</speak>
             <show chara="rolandArmorSmileClose" position="right"/>
-            <speak chara="_Roland">古人们基于他们的自然崇拜，在这里修建过神庙——这座屹立了上千年的石墙就是他们虔诚心的证明。</speak>
+            <speak chara="_Roland">The ancients who worshipped nature built these temples - The fact that they are still standing after a thousand years is proof of their devotion.</speak>
             <show chara="rolandArmorLaughClose" position="right"/>
-            <speak chara="_Roland">即使是乘坐运兵车过来的人，也需要在这一站下车，然后在地下换乘隧道内部的专用线路。</speak>
+            <speak chara="_Roland">Even soldiers coming by troop carriers have to get off at this station and transfer to an underground specialized line on the tunnel.</speak>
             <show chara="rolandArmorSmileClose" position="right"/>
-            <speak chara="_Roland">大家请在站台上稍等片刻，我现在去办理一下相关的各种手续。</speak>
+            <speak chara="_Roland">Everyone, please wait a little bit while I deal with all the procedures.</speak>
             <show chara="rolandArmorSmileClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">哦哦，辛苦你啦！</speak>
+            <speak chara="_Shakespeare">Oh, thank you!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <text>骑士驱动着她那笨重的动力装甲走进一个类似检查站的岗亭。远处响起了令人怀念的火车汽笛声。</text>
-            <text>高纬度的清凉秋风吹过自己略有些缭乱的发丝，让比安卡不禁想起了在阿尔汉格尔斯克度过的那几天时光。</text>
+            <text>The knight drove her power armor to a building that resembled a checkpoint. A nostalgic train whistle sounded in the distance.</text>
+            <text>The cool autumn breeze from high latitudes stroked Bianka’s hair, reminding her of the few days she spent in Arkhangelsk.</text>
             <text article="1">
-                <p class="article-text">Архангельск——用拉丁字母来拼写就是Arkh-angel-sk，“大天使之城”。极北支部在这里的地区负责人是一位叫做“米莎”的D级女武神，虽然只是文员却单枪匹马就把整个州的事务都打理得井井有条。</p>
+                <p class="article-text">Архáнгельск - Spelled in the latin alphabet as Arkh-angel-sk, “City of Archangel”. This city from the Far North Branch is under charge of a D-class Valkyrie named “Misha”. Despite being only a clerk, she manages the entire state by herself with no problems.</p>
             </text>
             <text article="1">
-                <p class="article-text">米莎曾经说，如果天命的每个机构都像她这里一样门可罗雀，如果天命的所有事情都像你们女武神接了任务然后消灭掉崩坏兽那样简单——那么这个世界一定会非常美好。因为这意味着所有人都过上了和平的日子。</p>
+                <p class="article-text">Misha once said that if every branch of Shicksal was like hers, if everything was as simple as a Valkyrie accepting a mission and killing the honkai beasts, then the world would be beautiful. It would be a world where everyone is living in peaceful days.</p>
             </text>
-            <text>火车的汽笛声越来越近。想必是给要塞运来了新的物资或者兵源。</text>
-            <text>罗兰从岗亭里出来，手里挥舞着看起来是临时证件的东西。</text>
-            <text>她似乎寄存起了那身笨重的动力装甲——这让她看起来就像米莎一样娇小可爱。</text>
-            <text>比安卡顺着她招呼的方向跑了过去——</text>
-            <text>——在内心为这个世界祈祷着和平。</text>
+            <text>The whistle from the train sounded closer. Probably coming to deliver new supplies and soldiers to the fortress.</text>
+            <text>Roland came out of the building waving what seemed like a passport in her hand.</text>
+            <text>She seemed to have stored the power armor - It made her look small and pretty like Misha.</text>
+            <text>Bianka ran towards the one waving--</text>
+            <text>--Her heart praying for world peace</text>
             <goto goto="50" clockwise="1"/>
         </scene>
         <scene id="50" background="railwayStationTunnel.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="shakesCasualQuestionClose" position="left"/>
-            <speak chara="_Shakespeare">呼……这么长的楼梯爬下来，我感觉自己的膝盖都要不好了。</speak>
+            <speak chara="_Shakespeare">Phew… After climbing down such a long staircase, my knees are going to hurt.</speak>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">不过——这个就是我们接下来要坐的车吗？该怎么说……还挺可爱的？</speak>
+            <speak chara="_Shakespeare">But is this the car we’ll take next? How should I say it… it’s kinda small?</speak>
             <show chara="shakesCasualNormalClose" position="left" opacity="0.8"/>
             <show chara="rolandEmbarrassClose" position="right"/>
-            <speak chara="_Roland">啊哈哈，其实就是用普通的轻型矿车改造的啦。</speak>
-            <speak chara="_Roland">“瓦卡隧道”的内部开掘成本非常高，所以我们为这条线路选择了最轻量级的设计方案。</speak>
+            <speak chara="_Roland">Ahaha, this is actually a modified traditional lightweight minecart.</speak>
+            <speak chara="_Roland">The cost of excavating the inside of the Huaca tunnel is quite high, so we chose the most lightweight design.</speak>
             <show chara="rolandEmbarrassClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">嘛，如果都坐女孩子的话其实刚合适啊？就是那边的老爷爷要辛苦一点啦！</speak>
+            <speak chara="_Bianka">Well, it should be fine if it’s only girls, right? Although it might be hard for the grandpa over there.</speak>
             <show chara="biankaDressSmileAhClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">哈哈哈，你们看那边的士兵，他们可是穿着动力装甲直接坐进去的哦！和那些人比起来，我们稍微低头弯腰一下根本没什么吧？</speak>
+            <speak chara="_Miguel">Hahaha, but look at those soldiers sitting down still wearing power armor! Compared to them, does it matter if we bow down a little?</speak>
             <show chara="champoSweatyClose" position="right"/>
-            <speak chara="_Champollion">而且什么叫“都坐女孩子就刚好合适”啊……站一起比一比的话，咱们中间个子最高的反而是我吧？阿嚏！</speak>
+            <speak chara="_Champollion">And what do you mean “It’s fine if it’s only girls”? If we stand together and compare, I'm the tallest of all of us, right? … Tch!</speak>
             <show chara="champoSweatyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSmileClose" position="left"/>
-            <speak chara="_Bianka">可是你年轻呀！难道你的腰椎已经因为天天坐侦探办公室，变得像老爷爷一样了吗？</speak>
+            <speak chara="_Bianka">But you are young! Did your spine become like a grandpa’s after too much desk work?</speak>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">怪不得我们中间只有你感冒了呢。</speak>
+            <speak chara="_Bianka">No wonder you were the only one to catch a cold.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">不过嘛，机会难得，我们还是赶紧来试试吧！</speak>
+            <speak chara="_Miguel">This is a rare opportunity, let’s get on right now!</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">这让我想起了加莱赛战船的划桨室——只不过这次我们不用贡献肌肉的力量啦，哈哈哈哈！</speak>
+            <speak chara="_Miguel">This reminds me of the Galleass oars - only this time we don’t need to contribute with muscle strength, hahahaha!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">哇哦，划桨室吗？那可真是个汇聚男性荷尔蒙恶臭的地方呢！很有戏剧张力，非常不错！</speak>
+            <speak chara="_Shakespeare">Wow, the paddle rooms? That’s the place where the stench of male hormones gather! So dramatic, so great!</speak>
             <show chara="shakesCasualConfidentClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">哈哈，虽然有个词我即使听了翻译也搞不懂——不过我同意你！汗水是世界上最丑陋也是最美妙的东西之一！</speak>
+            <speak chara="_Miguel">Hahaha, although there is a word that I don’t know even with the translation, I agree with you! Sweat is both one of the ugliest and most beautiful things in the world!</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……文豪的兴趣还真是让普通人难以理解啊。</speak>
+            <speak chara="_Bianka">...It’s hard for ordinary people to understand the interests of a writer.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="right"/>
-            <speak chara="_Rita">艺术家的想法如果全都容易理解的话，那艺术本身也就没有什么深度可言了吧？</speak>
+            <speak chara="_Rita">But if it was easy to understand, then wouldn’t the art have no depth?</speak>
             <show chara="ritaVestSquintClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka" remark="next">哼……就是因为太纵容他们了，所以才会有人直接倒立一个小便器就宣称那是艺术品的吧？</speak>
+            <speak chara="_Bianka" remark="next">Hmm… but people are so indulgent that they can hang an urinal upside down and claim it’s a work of art, right?</speak>
             <remark post="U2FsdGVkX1+TtcIcw6vru39zAYww">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">《喷泉》（Fountain），是美籍法裔艺术家、达达主义大师马塞尔·杜尚（Henri-Robert-Marcel Duchamp，1887－1968）于1917年创作的作品。杜尚在《喷泉》这件作品中使用了在纽约第五大道118号的J·L·莫特铁工坊连锁店购买的贝德福郡型（Bedfordshire）陶瓷小便斗，将其倒立过来命名为“喷泉”，并用涂鸦字体署名“R. Mutt 1917”。</p>
             </remark>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">什么什么？你们那边还有这么前卫的作品吗？我还以为《等待戈多》就已经是登峰造极的荒诞了呢！</speak>
+            <speak chara="_Shakespeare">Wait what? Do you still have such avant-garde works over there? I thought that “Waiting for Godot” was already the pinnacle of absurdity!</speak>
             <show chara="shakesCasualLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">哼哼……说不定就是因为这种人层出不穷，我们的世界里的“崩坏能”才多到爆炸的哦？</speak>
+            <speak chara="_Bianka">Hmm… Maybe it’s because there are so many people like that that there is no shortage of Honkai Energy in our world?</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">嘿，开这种玩笑，小妹妹你这可是有点小心眼了哦？人类的社会就是因为丰富多彩所以才有意义的嘛！</speak>
+            <speak chara="_Shakespeare">Hey, I was just kidding, lighten up a bit ok? Human society is meaningful because it’s so rich and colorful!</speak>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">如果地球对面的某群人也能有这样的审美灵性，我们现在才不需要解决什么能量墙壁的威胁呢！</speak>
+            <speak chara="_Shakespeare">If the people on the other side of the world had this kind of aesthetic spirit, there wouldn’t be a problem with an energy wall for us to solve!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <text>也不知算是知趣还是不知趣，正在比安卡感到世界观受到冲击的当口，“滴滴滴”的车铃同时响了起来。</text>
-            <text>一行人在罗兰的引导下抓紧时间鱼贯而入——随即，引擎的轰鸣声就盖过了任何人正常说话的嗓音。</text>
-            <text>车窗外的水泥墙极速后退，列车像地铁一样驶入了一片黑暗之中。</text>
-            <text>正当比安卡觉得“一切也不过如此”的时候——</text>
+            <text>Whether it was good or bad timing, just when Bianka was feeling the cultural shock, the train bell rang.</text>
+            <text>Right after boarding in with Roland’s guidance, the engine roar overwhelmed everyone’s voices.</text>
+            <text>The concrete wall outside quickly receded and the train was swallowed by darkness.</text>
+            <text>And just when Bianka was wondering if there was nothing more to it--</text>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="trainWindowStrangeLight.jpg">
