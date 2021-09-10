@@ -25,11 +25,11 @@
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
             <speak chara="_ShigureKiraNoName">Because if you were there  ♪ I could’ve been brave ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">Our souls meet ♬</speak>
+            <speak chara="_ShigureKiraNoName">Ten years have already gone by ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
             <speak chara="_ShigureKiraNoName">I only wish we’ll no longer be apart  ♪</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">Our fingertips touch ♬</speak>
+            <speak chara="_ShigureKiraNoName">The four seasons will not stop ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
             <speak chara="_ShigureKiraNoName">I only wish to not forget those moments  ♪</speak>
             <goto goto="20" change="#ffffff"/>
@@ -37,14 +37,14 @@
         <scene id="20" background="stageHuaca.jpg">
             <bgm src="12_29_busyHarbor.mp3" status="start"></bgm>
             <show chara="biankaDressSmileClose" position="left"/>
-            <speak chara="_Bianka">（不愧是真正的艺人……唱得好棒……）</speak>
+            <speak chara="_Bianka">(As expected of a real idol… Her singing is so beautiful...)</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">（不对不对，我明明是过来找宝石的！）</speak>
+            <speak chara="_Bianka">(No, I came here for the gems!)</speak>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">台上的偶像小姐——能占用一点你的时间吗？</speak>
+            <speak chara="_Bianka">Idol on the stage - Could you spare us some of your time?</speak>
             <show chara="biankaDressSmileAhClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">你……你们是？</speak>
+            <speak chara="_ShigureKiraNoName">And… you are?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
             <speak chara="_SwordDurandalQ">美丽的小姐，请问您曾经捡到过一块金色的“爱之宝石”吗？</speak>
