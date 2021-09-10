@@ -9,29 +9,29 @@
         <scene id="10" background="stageHuacaCloseUp.jpg">
             <bgm src="09_13_dannyBoy.mp3" status="start"></bgm>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我的思念♬ 你收到了吗♪</speak>
+            <speak chara="_ShigureKiraNoName">My thoughts ♬ I wonder if you can hear them ♪</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">你的发梢♬ 是仲夏夜的凉风♪</speak>
+            <speak chara="_ShigureKiraNoName">You hair♬ Is like a cool breeze in a midsummer night ♪</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">花瓣布满来路♪</speak>
+            <speak chara="_ShigureKiraNoName">Petals are scattered ♪</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">旅人不知归处♪</speak>
+            <speak chara="_ShigureKiraNoName">A traveler doesn’t know the way back home ♪</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">悸动的心灵无可平复♬</speak>
+            <speak chara="_ShigureKiraNoName">My heart doesn’t stop pounding ♬</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">炽热的毒药甜美如初♬</speak>
+            <speak chara="_ShigureKiraNoName">It’s like a warm and sweet poison ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">因为你♪ 我无比珍惜命运♬</speak>
+            <speak chara="_ShigureKiraNoName">Because if you were there  ♪ I could’ve cherished my fate ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">因为你♪ 我努力变得勇敢♬</speak>
+            <speak chara="_ShigureKiraNoName">Because if you were there  ♪ I could’ve been brave ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">十年已然交错♬</speak>
+            <speak chara="_ShigureKiraNoName">Our souls meet ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我只愿身影不再遥远♪</speak>
+            <speak chara="_ShigureKiraNoName">I only wish we’ll no longer be apart  ♪</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">四季仍在前方♬</speak>
+            <speak chara="_ShigureKiraNoName">Our fingertips touch ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我只愿回忆绚烂依然♪</speak>
+            <speak chara="_ShigureKiraNoName">I only wish to not forget those moments  ♪</speak>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="stageHuaca.jpg">
