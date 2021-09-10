@@ -320,80 +320,80 @@
             <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Anti-Entropy - You already seem to understand what I’m talking about.</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">呃……你们究竟在说些什么？</speak>
+            <speak chara="_Bianka">Well, what are you talking about?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="schroMemoryClose" position="right"/>
             <speak chara="_Schrodinger">……</speak>
             <show chara="schroTalkClose" position="right"/>
-            <speak chara="_Schrodinger">女武神们，你们知道“第一律者”的能力吗？</speak>
+            <speak chara="_Schrodinger">Valkyries, do you know the power of the “First Herrscher”?</speak>
             <show chara="schroTalkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">是说逆熵的“盟主”吗？他可以凭空复制出各种机械装置、圣遗物、甚至神之键，对吧？</speak>
+            <speak chara="_Bianka">You mean the “Sovereign” of Anti-Entropy? He can copy all kinds of mechanical devices, Sacred Relics and even Divine Keys out of thin air, right?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">嗯，概括得不错。不过……如果抠字眼的话，他并不是“凭空”复制出那些东西的。</speak>
+            <speak chara="_Schrodinger"> A good summary, but if we’re being technical… he doesn’t make those copies out of “thin air”.</speak>
             <show chara="schroTalkClose" position="right"/>
-            <speak chara="_Schrodinger">他是通过操控体内富集的崩坏能，来反向构造秩序，制造出这些等同于“负熵”的物品。</speak>
+            <speak chara="_Schrodinger"> On the contrary: By manipulating the Honkai Energy stored in his body he creates reason, making constructs out of something similar to “Anti-Entropy”.</speak>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">一般而言，崩坏能就像脱缰的野马一样难以控制——但那个人是律者，是可以在某一方面完全不按常理出牌的超能力者。</speak>
+            <speak chara="_Schrodinger">Generally speaking, Honkai Energy is almost impossible to control - but he is a herrscher, a superpower beyond human comprehension.</speak>
             <show chara="schroTalkClose" position="right"/>
-            <speak chara="_Schrodinger">达尔文小姐……你们的“以太锚点”也具备类似的力量……只是你们不能随心所欲地去操纵它……是这样吗？</speak>
+            <speak chara="_Schrodinger">Miss Darwin… Your “Ether Anchor” has a similar power, but you can’t manipulate it as you wish, correct?</speak>
             <show chara="schroTalkClose" position="right" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="left"/>
-            <speak chara="_Darwin">唔……准确地说，“以太锚点”本身也根本不具备那种随心所欲的超能力。</speak>
+            <speak chara="_Darwin">Hmm… To be more precise, the “Ether Anchor Point” can’t be controlled at all.</speak>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">它只是能够从量子之海——从这片信息的汪洋之中——“打捞”出自身能够复现的些许信息罢了。</speak>
+            <speak chara="_Darwin">It, by itself, is “salvaging” information that can be restored from the Sea of Quanta - An ocean of data.</speak>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">来到这里的两位女武神想必都经历过自身的物质先被信息化，然后这些信息又再次被物质化的过程。</speak>
+            <speak chara="_Darwin">Those two Valkyries there must have gone through the experience of being informatized and later rematerialized.</speak>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">——这就是一种特殊的、定向的“打捞”。</speak>
+            <speak chara="_Darwin">- That is a specially targeted “salvage”.</speak>
             <show chara="DarwinFunnyClose" position="left"/>
-            <speak chara="_Darwin">这种“打捞”始终保持在“现在进行时”当中，两位的精神和意志都是连续的——因此即使跨越了世界，两位仍然是两位自己。</speak>
+            <speak chara="_Darwin">This type of “salvage” is always happening in the “present continuous”, therefore their spirits and consciousness also remain the same - Even if they show up on the other side of the world, they are still themselves.</speak>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">而“安娜·查尔斯·达尔文”的全部信息早已是“过去完成时”，以太锚点只是偶然从量子之海中读取了这段行将消逝的信息，然后将它再度表达出来而已。</speak>
+            <speak chara="_Darwin">But the information of “Anna Charles Darwin” is already “past perfect”, the Ether Anchor just happened to read this vanishing data from the Sea of Quanta and restore it.</speak>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">……这就是我深知自己只是某个历史人物的复制品的原因。</speak>
+            <speak chara="_Darwin">...That’s why I can be sure I’m just a copy of a historical figure.</speak>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">也许有另一套更复杂的机制可以让死者真正的复活——但显然这个世界的“锚点”没有那种能力。</speak>
+            <speak chara="_Darwin">Perhaps there is a more complex mechanism out there that can truly revive the dead - But this world’s “Anchor” can not.</speak>
             <show chara="DarwinNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSorrowClose" position="right"/>
             <speak chara="_Bianka">……</speak>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">感谢您的坦诚，达尔文小姐。</speak>
+            <speak chara="_Shakespeare">Thank you for being so honest, Miss Darwin.</speak>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">您特地开门见山地告诉我们这些可谓机密的东西——也就意味着你们“共和国”迫切需要我们“喀里多尼亚号”的帮助吧？</speak>
+            <speak chara="_Shakespeare">If you’re not holding back on all of these top secrets, would I be right to presume your “Republic” is in desperate need of help from our Caledonia?</speak>
             <show chara="shakesCasualLaughClose" position="right" opacity="0.8"/>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_DraculaNoName">哈哈哈哈！不愧是纵横七海的红色船长，说话一针见血！我差点就要对你一见钟情了哦？</speak>
+            <speak chara="_DraculaNoName">Hahahaha! Such a sharp tongue, as expected from the Red Captain of the Seven Seas! I just might fall for you at first sight!</speak>
             <show chara="DraculaLaughClose" position="left" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="right"/>
-            <speak chara="_Darwin">喂，伊洛娜，不可以这样突然闯进来、还乱开客人的玩笑啦！</speak>
+            <speak chara="_Darwin">Hey, Llona, don’t suddenly barge in and start making fun of our guests!</speak>
             <show chara="DarwinEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_DraculaNoName">哼哼，安娜你即使当上了国防部长，也还是这么小气啊。</speak>
+            <speak chara="_DraculaNoName">Humph, Anna is still so stingy even after becoming the Minister of Defense.</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_DraculaNoName">我是伊洛娜•德拉库列斯特，第一近卫兵团司令——你们也可以用“德古拉”这个外号来称呼我。</speak>
+            <speak chara="_DraculaNoName">My name is Llona Draculest, Commander of the First Guard- But you can call me Dracula.</speak>
             <show chara="DraculaNormalClose" position="left"/>
-            <speak chara="_Dracula">我和旁边这位“小气”的美少女不一样，是无需“以太锚点”就能独立存在的星语者——</speak>
+            <speak chara="_Dracula">Unlike this beautiful but stingy girl next to me, I’m a Star Whisperer who doesn’t need the Ether Anchor to exist--</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_Dracula">——也就是说从五百年前一直活到了今天哦！怎么样，“吸血鬼”是不是很厉害呢？</speak>
+            <speak chara="_Dracula">--In fact, I have been alive for over 500 years! What do you think, aren’t “vampires” strong?</speak>
             <show chara="DraculaSmileClose" position="left" opacity="0.8"/>
             <show chara="DarwinFunnyClose" position="right"/>
-            <speak chara="_Darwin">噗，那么我就翻译一下吧：“我在量子之海里沉浮了五百年，早就不在意自己究竟是人类还是怪物啦。你们也不用深究哦？”</speak>
+            <speak chara="_Darwin">Let me translate: “After being adrift in the Sea of Quanta for over 500 years I no longer care whether I’m human or a monster, so don’t feel bad for me”.</speak>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">伊洛娜，是这个意思没错吧？</speak>
+            <speak chara="_Darwin">Am I wrong, Llona?</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_Dracula">……好吧，我早就该意识到，你这可恶的家伙每次都要破坏我完美的形象。</speak>
+            <speak chara="_Dracula">...Tch. You always ruin my perfect image.</speak>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_Dracula">罗兰的朋友们，你们是不是也觉得这个达尔文意外地不会说话，总是让别人很难和她对谈下去啊？</speak>
+            <speak chara="_Dracula">Friends of Roland, don’t you also think it’s hard to talk to Darwin?</speak>
             <show chara="DraculaLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="right"/>
-            <speak chara="_Bianka">呃……我倒是觉得自己还挺喜欢这种有话直说的风格？至少比我们那位成天神秘兮兮的主教来得好多了。</speak>
+            <speak chara="_Bianka">Uh… I think I prefer this straightforward style. It’s at least better than our Overseer, always speaking in riddles!</speak>
             <show chara="biankaDressSneerClose" position="right"/>
-            <speak chara="_Bianka">……虽说那个人也算是对我有救命之恩，我这样讲他的坏话也好像也很奇怪。</speak>
+            <speak chara="_Bianka">...It feels weird to talk about him in this way, he did save my life after all.</speak>
             <show chara="schroSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">……我们先不谈另一个世界的事情。</speak>
+            <speak chara="_Schrodinger">damn girl fuck that guy she prolly fucked you up himself</speak>
             <show chara="schroCalmClose" position="right"/>
             <speak chara="_Schrodinger">“印卡共和国”的各位——你们唯一重要的军事目标就是要摧毁地球另一面的那个帝国——我这样概括应该没有问题吧？</speak>
             <show chara="schroCalmClose" position="right" opacity="0.8"/>
