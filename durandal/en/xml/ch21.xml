@@ -198,126 +198,126 @@
         </scene>
         <scene id="60" background="trainWindowStrangeLight.jpg">
             <bgm src="09_13_Sine.mp3" status="start"></bgm>
-            <text>——窗外奇妙的光线吸引了所有初来乍到者的注意力。</text>
+            <text>--A beautiful light shone outside, catching the eyes of everyone visiting for the first time.</text>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="CG21-1.jpg">
             <bgm src="09_13_Sine.mp3" status="continue"></bgm>
-            <speak chara="_Shakespeare">哇哦！这就是世界的“书脊”吗？</speak>
-            <speak chara="_Bianka">好漂亮……</speak>
-            <speak chara="_Roland">对吧？简直就是现实版的银河铁道呢！</speak>
-            <speak chara="_Roland" remark="next">啊……你们知道《银河铁道之夜》吗？是一本据说在原本的世界也没有写完的童话……</speak>
+            <speak chara="_Shakespeare">Wow! Is that the “spine” of this world?</speak>
+            <speak chara="_Bianka">So pretty…</speak>
+            <speak chara="_Roland">Isn’t it? It’s like “Galactic Railroad” has come to life!</speak>
+            <speak chara="_Roland" remark="next">Ah… do you know “Night on the Galactic Railroad”? It’s a fairytale said to not have been finished in the original world…</speak>
             <remark post="U2FsdGVkX182b3s6B7lBgLF40mWY">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">《银河铁道之夜》是日本作家宫泽贤治（1896－1933）于1934年所出版的著名童话作品。因作者离世时全书仍处于草稿阶段，故作品现存4个版本，且不同版本间差异较大。尽管如此，由于作品充满唯美主义的奇思妙想，因此仍受到众多读者的喜爱——宫泽贤治本人更是在他去世多年之后被捧为日本的“国民级”作家。</p>
             </remark>
-            <speak chara="_Bianka">唔……好像听说过……又好像没有……</speak>
-            <speak chara="_Bianka">丽塔知道这个故事吗？</speak>
-            <speak chara="_Rita">嗯。银河铁道是连接地面与天国的灵魂列车……在梦中我们会和最好的朋友一起，乘坐它环游星空。</speak>
-            <speak chara="_Bianka">……这故事也未免太悲伤了吧。</speak>
-            <speak chara="_Rita">童话故事从来都是在悲伤无助与温暖人心之间寻找微妙的平衡点嘛。</speak>
-            <speak chara="_Rita">而且……据说开始创作这个故事的时候，作者的妹妹刚刚过世。</speak>
-            <speak chara="_Bianka">这……</speak>
-            <speak chara="_Bianka">抱歉。我不应该用“悲伤”这种词语去形容这样一部勇敢的作品。</speak>
-            <speak chara="_Shakespeare">哈哈哈哈，你们女武神也太严肃啦。人生中原本就没有任何旅程可以重来，珍惜“一期一会”才是最朴素的浪漫嘛！</speak>
-            <speak chara="_Bianka">“一期一会”？</speak>
-            <speak chara="_Rita">就是“一生中只有一次”的意思。</speak>
-            <speak chara="_Miguel">即使时隔多年能够再度相遇，无论是对方也好、自己也罢，都已全然不是当时的心境。</speak>
-            <speak chara="_Shakespeare">不过这也并不是什么坏事哦？被我们叫做“浪漫”的那个词汇，就正是因为它难以重复才显得更加迷人嘛！</speak>
-            <speak chara="_Shakespeare">“哦罗密欧，罗密欧！为什么你偏偏是罗密欧！”</speak>
-            <speak chara="_Shakespeare">——如果你们没看过我的剧，那这句话也不会有那种让你们揪心的感觉对不对？</speak>
+            <speak chara="_Bianka">Hmm… I think I have, but I’m not sure…</speak>
+            <speak chara="_Bianka">Then what about Rita?</speak>
+            <speak chara="_Rita">Yes. The Milky Way Railroad is a soul train that connects the ground and the heavens… In our dreams, we would ride it among the stars with our best friends.</speak>
+            <speak chara="_Bianka">...Sounds like a sad story.</speak>
+            <speak chara="_Rita">Fairytales always seek the delicate balance between sadness and warmth.</speak>
+            <speak chara="_Rita">And… It is said that the author’s sister had just passed away when he began writing this story.</speak>
+            <speak chara="_Bianka">That’s…</speak>
+            <speak chara="_Bianka">I’m sorry. I should not have used the word “sad” to describe such brave work.</speak>
+            <speak chara="_Shakespeare">Hahaha, you Valkyries are always too serious. Because there is no journey in life that can be repeated, cherishing “Ichi-go ichi-e” is the simplest of the romances!</speak>
+            <speak chara="_Bianka">“Ichi-go ichi-e”?</speak>
+            <speak chara="_Rita">It means “One time, one meeting”.</speak>
+            <speak chara="_Miguel">Even if you meet with the same people in the future, be it yourself or them, you will not be the same as you were then.</speak>
+            <speak chara="_Shakespeare">But that’s not a bad thing, is it? What we call “romance” is so attractive because it can’t easily be replicated!</speak>
+            <speak chara="_Shakespeare">“Oh Romeo, Romeo! Wherefore art thou Romeo!”.</speak>
+            <speak chara="_Shakespeare">If you haven’t seen my play, this line won’t make you sad, right?</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG21-1-2.jpg">
             <bgm src="09_13_Sine.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">……完全不明白你在说什么。</speak>
-            <speak chara="_Rita">比安卡大人请放心，即使我的名字变成布琳希尔德或者奥特琳德，丽塔也仍然是您忠诚的仆人。</speak>
-            <speak chara="_Bianka">喂……！你、你这是公开调戏上司你知道吗？！</speak>
+            <speak chara="_Bianka"> ...I don’t understand you at all.</speak>
+            <speak chara="_Rita">Rest assured, Bianka-sama. Even if my name becomes Brunhilde or Ortlinde, Rita will always be your loyal servant.</speak>
+            <speak chara="_Bianka">Hey...! Don’t make fun of your boss in public!</speak>
             <goto goto="90" clockwise="1"/>
         </scene>
         <scene id="90" background="commandCenterHuaca.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <show chara="DarwinFunnyClose" position="center"/>
-            <speak chara="_DarwinNoName">哎呀，罗兰，看来你和女武神们相处得很不错嘛。</speak>
+            <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Roland.</speak>
             <show chara="DarwinSmileClose" position="center"/>
-            <speak chara="_DarwinNoName">自我介绍一下：我是共和国的国防部长、也是这座要塞的司令——安娜·查尔斯·达尔文。</speak>
+            <speak chara="_DarwinNoName">Let me introduce myself: I am the Minister of the Defense of the Republic and the commander of this fortress - Anna Charles Darwin.</speak>
             <show chara="DarwinFunnyClose" position="center"/>
-            <speak chara="_Darwin" remark="next">各位请坐下来一起品尝马黛茶吧。</speak>
+            <speak chara="_Darwin" remark="next">Everyone, let’s sit down and drink some mate tea together.</speak>
             <remark post="U2FsdGVkX18o9bCa4l1P1Um8gxrF">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">马黛茶（yerba mate）一种传统的南美洲草本茶，富含咖啡因，成分是巴拉圭冬青干燥后的叶子。在阿根廷有“国茶”之称。</p>
             </remark>
             <hide position="center"></hide>
             <text article="1">
-                <p class="article-text">——在“指挥中心”站下车，穿过由专人负责开启和关闭的数道大门，比安卡一行人见到了等候他们多时的国防部长，达尔文。</p>
+                <p class="article-text">--After getting off of the “Command Center” station and passing through several large gates with dedicated gatekeepers, Bianka and her party met the minister of Defense, Darwin, who had been waiting for them.</p>
                 <br />
-                <p class="article-text">对方作了简单的自我介绍，罗兰也反过来一一介绍了比安卡一行人的身份。</p>
+                <p class="article-text">After her brief introduction, Roland introduces Bianka and her group one by one.</p>
             </text>
-            <text>这种官样文章一样的寒暄，让从刚才起就憋着问题的比安卡很是难受。</text>
+            <text>Bianka really hated these kinds of formal greetings, but she waited until it was over.</text>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">那个……我现在可以提问了吧。</speak>
+            <speak chara="_Bianka">Uh… can I ask a question now?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">一直都可以的呀。是什么问题呢？</speak>
+            <speak chara="_Darwin">Go ahead. What’s the matter?</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">刚才……您是说自己姓“达尔文”吧？难、难道是《物种起源》的那位……</speak>
+            <speak chara="_Bianka">Just now… you said your last name was Darwin, right? It wouldn’t be the one from “Origin of the Species”...</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="DarwinFunnyClose" position="right"/>
-            <speak chara="_Darwin">啊哈哈，是说家父吗？在我离开那个世界的时候，他的确正在计划撰写这样一部颠覆性的著作。</speak>
+            <speak chara="_Darwin">Oh, you mean my dad? Indeed, before I left that world he was planning on writing such a book.</speak>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">我很高兴地了解到，这本书在一百多年间改变了许多人看待世界的方式。</speak>
+            <speak chara="_Darwin">I’m happy to learn that his book changed people’s worldview for the following century. </speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">啊……原来是“女儿”吗？</speak>
+            <speak chara="_Bianka">Oh… you’re his “daughter”?</speak>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">不过，这样说来……您看到的《物种起源》，应该是不同世界的查尔斯老先生留下的著作吧？</speak>
+            <speak chara="_Bianka">But in that case, wouldn’t the “Origin of the Species” you read be the work from a different world’s Professor Charles?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="right"/>
-            <speak chara="_Darwin">不是哦。据我所知，成功出版了《物种起源》、并且还娶妻生子了的男性达尔文——在所有已知世界中，也只有家父一人。</speak>
+            <speak chara="_Darwin">Nope. As far as I’m aware, from all known worlds, there is only one Darwin who published “Origin of the Species”, married and had children, who is my father.</speak>
             <show chara="DarwinEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">……唉？</speak>
+            <speak chara="_Bianka">Huh?</speak>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">所、所以您也和尤卡坦的“大祭司”一样，在量子之海里以信息状态度过了很长的时间，所以从结果上来说跳跃到了未来吗？</speak>
+            <speak chara="_Bianka">Then just like the “High Priestess” of the Yucatan, you spent so long in the form of data in the Sea of Quanta that it resulted in an apparent time leap?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="DarwinFunnyClose" position="right"/>
-            <speak chara="_Darwin">……我想，本质上并不是这样的。</speak>
+            <speak chara="_Darwin">...It’s essentially different.</speak>
             <show chara="DarwinFunnyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">可是……你的情况，不可能用“不同世界泡之间时间的起点或流速不同”来解释吧？</speak>
+            <speak chara="_Bianka"> But… in your case we can’t use “Different Bubble Universes have different starting points and different flows of time” as an excuse!</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="DarwinEmbarrassedClose" position="right"/>
-            <speak chara="_Darwin">嗯，的确不是那种情况哦？而且我也没有像你们遇到的那位“蛇”一样，变成长生不老的存在。</speak>
+            <speak chara="_Darwin">Because that’s not the case. And I’m not immortal like the “snake” you met.</speak>
             <show chara="DarwinNormalClose" position="right"/>
-            <speak chara="_Darwin">我说的那些事情中出现了时间上的矛盾，这是只因为——</speak>
+            <speak chara="_Darwin">The reason why there is a time contradiction in what I said is--</speak>
             <show chara="DarwinSeriousClose" position="right"/>
-            <speak chara="_Darwin">——我是从死亡中诞生的星语者。是他人的复制品。</speak>
+            <speak chara="_Darwin">I’m a Star Whisperer born from the death of someone. A mere copy.</speak>
             <show chara="DarwinSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">……“从死亡中诞生”？“复制品”？您、您究竟在说什么？</speak>
+            <speak chara="_Bianka">“Born from death”? “Copy”? What are you talking about?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="DarwinNormalClose" position="right"/>
-            <speak chara="_Darwin">真正的“安娜·查尔斯·达尔文”在10岁的时候就因病去世了。</speak>
-            <speak chara="_Darwin">站在你们面前的这个人——她只是继承了量子之海中的一副残像罢了。</speak>
+            <speak chara="_Darwin">The real “Anna Charles Darwin” died of illness at the age of 10.</speak>
+            <speak chara="_Darwin">The one standing in front of you is just an afterimage inherited from the Sea of Quanta.</speak>
             <show chara="DarwinNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……？！</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">不要误会，这并不是说我是鬼魂或者灵体之类的东西。这只是把以太锚点“复刻世界”的能力用在“人”身上的结果罢了。</speak>
+            <speak chara="_Darwin">Don’t get me wrong, I’m not saying I’m a ghost or a spirit. This is just the result of applying the Ether Anchor’s ability of “copying the world” on “people”.</speak>
             <show chara="DarwinNormalClose" position="right"/>
-            <speak chara="_Darwin">无论是文明成果还是智慧生命，它们都是“负熵”的直观象征。你们可以把“以太锚点”当作“固着”负熵的“培养基”……</speak>
+            <speak chara="_Darwin">Be it the achievements of civilization or intelligent life, they are ultimately an amount of “Anti-Entropy”. You can use the “Ether Anchor” as a “medium” to “balance” the Anti-Entropy.</speak>
             <show chara="DarwinNormalClose" position="right" opacity="0.8"/>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">……而负熵与虚数内能——也就是崩坏能——相伴相生。</speak>
+            <speak chara="_Schrodinger">...And Anti-Entropy and Imaginary Energy - That is, Honkai Energy - are associated with each other.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">理论上，我们确实可以反其道而行，利用可控的崩坏能来制造出新的“负熵”。</speak>
+            <speak chara="_Schrodinger">In theory, we could indeed do the opposite: Use Honkai Energy under control to create new Anti-Entropy.</speak>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">——这正是“月光王座”的最基本的原理。</speak>
+            <speak chara="_Schrodinger">-That is the basic principle behind the “Selene”.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">噗。不愧是提出“负熵”这一概念的薛定谔博士——看来你已经明白事情的来龙去脉了。</speak>
+            <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Anti-Entropy - You already seem to understand what I’m talking about.</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">呃……你们究竟在说些什么？</speak>
