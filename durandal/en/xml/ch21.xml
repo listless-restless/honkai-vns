@@ -393,128 +393,128 @@
             <show chara="biankaDressSneerClose" position="right"/>
             <speak chara="_Bianka">...It feels weird to talk about him in this way, he did save my life after all.</speak>
             <show chara="schroSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">damn girl fuck that guy she prolly fucked you up himself</speak>
+            <speak chara="_Schrodinger">...Let’s leave the talk about the other world for later.</speak>
             <show chara="schroCalmClose" position="right"/>
-            <speak chara="_Schrodinger">“印卡共和国”的各位——你们唯一重要的军事目标就是要摧毁地球另一面的那个帝国——我这样概括应该没有问题吧？</speak>
+            <speak chara="_Schrodinger">Everyone from the Inca Republic - Your only important military goal is to destroy the empire on the other side of the globe - Is that correct?</speak>
             <show chara="schroCalmClose" position="right" opacity="0.8"/>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_Dracula">啊啦，这位就是大名鼎鼎的薛定谔博士吗？</speak>
+            <speak chara="_Dracula">Oh, are you the famous Dr. Schrodinger?</speak>
             <show chara="DraculaSeriousClose" position="left"/>
-            <speak chara="_Dracula">您说的没错。这个共和国本身、其存在的意义，就是为了与那样的“自然灾害”相抗衡。</speak>
+            <speak chara="_Dracula">That would be correct. The Republic itself only exists in order to deal with that “natural disaster”.</speak>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_Dracula">……虽然最近有些捉襟见肘就是了。</speak>
+            <speak chara="_Dracula">...Although I haven’t done much lately.</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_Dracula">所以，您特地将我们的话题拉回最基本的现实——是因为早有一套“达成目标”的方法了吗？</speak>
+            <speak chara="_Dracula">Is the reason why you summed it up in such a way because there is now a method to “achieve that goal”?</speak>
             <show chara="DraculaSmileClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">呵呵，你们可以这样认为。不过我首先要问一个听起来非常不着边际的问题——</speak>
+            <speak chara="_Schrodinger">Hehe, you might say that. But first I need to ask a seemingly irrelevant question…</speak>
             <show chara="schroTalkClose" position="right"/>
-            <speak chara="_Schrodinger">这个共和国里，有“演艺偶像”这样的职业吗？</speak>
+            <speak chara="_Schrodinger">Is there an “idol” working in the Republic?</speak>
             <show chara="schroTalkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">……哈？</speak>
+            <speak chara="_Bianka"> ...What?？</speak>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">你突然问这个做什——</speak>
+            <speak chara="_Bianka">Why would you ask that no--</speak>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">——啊。</speak>
+            <speak chara="_Bianka">--Oh.</speak>
             <show chara="biankaDressNormalClose" position="left" opacity="0.8"/>
             <show chara="DraculaFunnyClose" position="right"/>
-            <speak chara="_Dracula">……这是怎么了？“演艺偶像”和你们有什么特殊的关系吗？</speak>
+            <speak chara="_Dracula">What do you mean? Do you know that “idol” in some way?</speak>
             <show chara="DraculaFunnyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">简单说，我们正在组装一件失传已久的强力兵器。</speak>
+            <speak chara="_Bianka">Simply put, we are trying to reassemble a long-lost powerful weapon.</speak>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">——而这件兵器的某个零件可能正在一位“演艺偶像”的身上。</speak>
+            <speak chara="_Bianka">--And a part of that weapon might be in the hands of that “idol”.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="DraculaLaughClose" position="right"/>
-            <speak chara="_Dracula">哈哈哈哈，这究竟是开玩笑、还是认真的啊？</speak>
+            <speak chara="_Dracula">Hahahaha, you have to be joking, right?</speak>
             <show chara="DarwinSeriousClose" position="right"/>
-            <speak chara="_Darwin">比安卡小姐，你们是在说恢复圣剑“幽兰黛尔”力量的那些宝石吗？</speak>
+            <speak chara="_Darwin">Miss Bianka, could you be talking about the gems that contain the power of the Holy Sword “Durandal”?</speak>
             <show chara="DarwinSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">对啊。小幽凭借它和这些宝石之间的联系，提供了一些影像作为搜索的线索——</speak>
+            <speak chara="_Bianka">That’s right. Thanks to her connection with the gems, Dudu showed us some clues on where to search for--</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">——来了！比安卡大人，来了来了！</speak>
+            <speak chara="_SwordDurandalQ">--Coming! Bianka, it’s coming!</speak>
             <show chara="durandalOutstretchOpen" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">喂！不要突然打断别人说话啊，你这个笨蛋！什么“来了”？</speak>
+            <speak chara="_Bianka">Hey! Don’t interrupt me, you idiot! What is “coming”?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="durandalOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">当然是金色的“爱之宝石”啊！</speak>
+            <speak chara="_SwordDurandalQ">It’s the golden “Jewel of Love”!</speak>
             <show chara="durandalOutstretchOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">我感到它突然出现在这附近的空间里！就好像跳跃了时空一样！</speak>
+            <speak chara="_SwordDurandalQ">I suddenly felt it’s presence near here! Like it jumped through time and space!</speak>
             <show chara="durandalOutstretchOpen" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">哈？</speak>
+            <speak chara="_Bianka">Huh?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="champoQuestionClose" position="right"/>
-            <speak chara="_Champollion">……啊。</speak>
+            <speak chara="_Champollion">Is that so?</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">或许是携带宝石的人也使用了“瓦卡隧道”吧。不是说那个的原理类似于“超空间连接”吗？</speak>
+            <speak chara="_Champollion">Maybe the person with the Jewel used the “Huaca Tunnel”? It’s very much like a “Hyperspace jump”.</speak>
             <show chara="champoSmileClose" position="right"/>
-            <speak chara="_Champollion">——达尔文小姐，今天要塞里有什么特殊的日程安排吗？</speak>
+            <speak chara="_Champollion">Miss Darwin, is there a special event scheduled for today at the fortress?</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>
             <show chara="DarwinNormalClose" position="left"/>
-            <speak chara="_Darwin">现在这个时间段吗？一小时之后有一场慰问演出——</speak>
+            <speak chara="_Darwin">Today? There should be a live concert in an hour-</speak>
             <show chara="DarwinEmbarrassedClose" position="left"/>
-            <speak chara="_Darwin">——等等，难道【那位】明星小姐就是你们正在寻找的“携带宝石的偶像”？！</speak>
+            <speak chara="_Darwin">Wait, could “that” star be the “idol with a gem” you are looking for?!</speak>
             <show chara="DarwinSeriousClose" position="left"/>
-            <speak chara="_Darwin">这个时间……她的确应该刚刚抵达要塞！</speak>
+            <speak chara="_Darwin">This hour… she should have just arrived!</speak>
             <show chara="DarwinSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">“明星小姐”？</speak>
+            <speak chara="_Bianka">“Star”?</speak>
             <show chara="biankaDressScreamClose" position="right"/>
-            <speak chara="_Bianka">……她是梳着一条浅蓝色的、长长的马尾吗？看起来很有活力的样子，对不对？</speak>
+            <speak chara="_Bianka">...Is she an energetic-looking girl with light blue hair in a ponytail?</speak>
             <show chara="biankaDressScreamClose" position="right" opacity="0.8"/>
             <show chara="DraculaFunnyClose" position="left"/>
-            <speak chara="_Dracula">哎呀，你们真的认识她啊？</speak>
+            <speak chara="_Dracula">Oh, so you do know her?</speak>
             <show chara="DraculaFunnyClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="right"/>
-            <speak chara="_Bianka">啊……不，该怎么说呢——</speak>
+            <speak chara="_Bianka">Ah… no, I mean--</speak>
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_Dracula">好啦好啦，那我们还在这里磨磨蹭蹭做什么？赶紧直接去现场呀！</speak>
+            <speak chara="_Dracula">Alright, alright, what are you still doing here? Hurry up and go to the venue!</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_Dracula">你们赶在演出之前有话要问她吧？走啦走啦！战略计划什么的，我们可以等下再慢慢交流嘛！</speak>
+            <speak chara="_Dracula">You need to talk to her before the show, right? Go! Go! We can talk about plans after it’s over!</speak>
             <show chara="DraculaSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="right"/>
-            <speak chara="_Bianka">啊——不、不要推我啦！我自己会走啊！</speak>
+            <speak chara="_Bianka">Ah- don’t push me! I can walk by myself!</speak>
             <goto goto="95" clockwise="1"/>
         </scene>
         <scene id="95" background="stageHuaca.jpg">
             <bgm src="09_13_dannyBoy.mp3" status="start"></bgm>
-            <text>也许是因为还没有允许观众入场，要塞的礼堂比预想之中要安静许多。</text>
-            <text>比安卡正打算径直闯进后台——</text>
-            <text>——忽然，伴奏轻轻地响起，一名艺人打扮的可爱女孩来到前台开始试音。</text>
+            <text>The auditorium of the fort was much quieter than expected, perhaps because the audience had yet to be allowed in.</text>
+            <text>Bianka was about to go straight to the backstage--</text>
+            <text>--But suddenly the accompaniment starts, and a girl in a cute dress begins her rehearsal.</text>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="stageHuacaCloseUp.jpg">
             <bgm src="09_13_dannyBoy.mp3" status="continue"></bgm>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我的声音♬ 你听到了吗♪</speak>
+            <speak chara="_ShigureKiraNoName">My voice ♬ Can you hear it ♪ </speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">你的微笑♬ 是雨过天晴的阳光♪</speak>
+            <speak chara="_ShigureKiraNoName">Your smile ♬ Is like the sunshine after the rain ♪</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">天使降临凡间♪</speak>
+            <speak chara="_ShigureKiraNoName">An angel descending on earth  ♪</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">彩虹是云的翩跹♪</speak>
+            <speak chara="_ShigureKiraNoName">A rainbow between the clouds  ♪</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">温柔的野兽横冲直撞♬</speak>
+            <speak chara="_ShigureKiraNoName">A gentle creature running around ♬</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">剧毒的蔷薇狂野生长♬</speak>
+            <speak chara="_ShigureKiraNoName">A poisonous rose sprouting ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">因为你♪ 我无比珍惜命运♬</speak>
+            <speak chara="_ShigureKiraNoName">Because if you were there  ♪ I could've cherished my fate ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">因为你♪ 我努力变得勇敢♬</speak>
+            <speak chara="_ShigureKiraNoName">Because if you were there  ♪ I could’ve been brave ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">灵魂早已交融♬</speak>
+            <speak chara="_ShigureKiraNoName">Our souls meet ♬</speak>
             <show chara="ShigureKiraSingingPassionFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我只愿身影不再遥远♪</speak>
+            <speak chara="_ShigureKiraNoName">I only wish we’ll no longer be apart  ♪</speak>
             <show chara="ShigureKiraSingingCloseEyeFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">指尖曾经轻触♬</speak>
+            <speak chara="_ShigureKiraNoName">Our fingertips touch ♬</speak>
             <show chara="ShigureKiraSingingLyricalFar" position="center"/>
-            <speak chara="_ShigureKiraNoName">我只愿回忆绚烂依然♪</speak>
+            <speak chara="_ShigureKiraNoName">I only wish to not forget those moments  ♪</speak>
             <end post="U2FsdGVkX18nlZmHoGxgv3pMXtlH"/>
         </scene>
     </story>
