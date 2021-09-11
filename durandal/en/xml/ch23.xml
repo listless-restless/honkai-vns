@@ -9,79 +9,79 @@
         <scene id="10" background="railwayStationL3.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">唔……我们再确认一遍……</speak>
+            <speak chara="_Bianka">Hmm… Let’s check again…</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">先使用瓦卡隧道的L3线路，在P2-“卡哈马卡”站下车；</speak>
+            <speak chara="_Bianka">First take line L3 of the “Huaca Tunnel” and get off at P2-”Cajamarca” Station.</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">然后改乘地表的山地铁路S17次，在车上睡一晚后到达终点站基多车站——全程预计约12个小时。</speak>
+            <speak chara="_Bianka">Then transfer to surface mountain railway S17, spend a night in the train, then get off at the terminal Quito Station. Estimated time of travel is 12 hours.</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">基多是世界上离“锚点”最远的城市之一，我们有相当长的时间都会花在山路上——不过在列车上休息也算是别有风味嘛！</speak>
+            <speak chara="_ShigureKiraNoName">Quito is one of the cities furthest away from the “Anchor Point” and most of the travel is on mountain roads - But sleeping on a train is also fun!</speak>
             <show chara="ShigureKiraSunGlassesLaughClose" position="right"/>
-            <speak chara="_ShigureKiraNoName">毕竟，S17次可是出了名的豪华专列哦！</speak>
+            <speak chara="_ShigureKiraNoName">S17 is a famous luxury train!</speak>
             <show chara="ShigureKiraSunGlassesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">豪华专列……吗？</speak>
+            <speak chara="_Bianka">Luxury Train...?</speak>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">——等等，你、你为什么这么自然地就跟在我们后面啊，时雨绮罗小姐。</speak>
+            <speak chara="_Bianka">--Wait, why are you following us so naturally, Miss Shigure Kira?</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">难道你也要和我们一起去基多吗？</speak>
+            <speak chara="_Bianka">It can’t be you plan on going to Quito with us, right?</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">是啊。</speak>
+            <speak chara="_ShigureKira">That’s right.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">反正接下来的几天我这边也没有什么安排——可以吗？让我代替军务在身的那些将军们，来当大家的导游。</speak>
+            <speak chara="_ShigureKira">I don’t have any plans for the next few days anyway, so why can’t I? Those officers are busy, so let me take their place as the tour guide.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="left"/>
-            <speak chara="_Shakespeare">唔，这应该没什么问题吧？</speak>
+            <speak chara="_Shakespeare">Well, I don't think there's any problem with it.</speak>
             <show chara="shakesCasualLaughClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">……无所谓。挺好的。</speak>
+            <speak chara="_Schrodinger">...It doesn’t matter who does it.</speak>
             <show chara="schroSmileClose" position="right" opacity="0.8"/>
             <show chara="champoBlanketLaughClose" position="left"/>
-            <speak chara="_Champollion">我当然没有意见哦？</speak>
+            <speak chara="_Champollion">I also have no opposition.</speak>
             <show chara="champoBlanketLaughClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel" remark="next">虽然老夫身为道地的西班牙人，却也只是听说过自己那片世界中“卡哈马卡”与“阿塔瓦尔帕”的传说而已。</speak>
+            <speak chara="_Miguel" remark="next">Although I am a legitimate Spaniard, I have only heard of legends such as “Cajamarca” and “Atahualpa” in my old world.</speak>
             <remark post="U2FsdGVkX1+YqWZI3sy8AO4iBMvg">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">1532年11月16日，卡哈马卡战役（Batalla de Cajamarca）爆发，西班牙殖民者皮萨罗率领168名部下（106名步兵，62名骑兵）突袭印加帝国篡位者阿塔瓦尔帕的8万大军，生擒阿塔瓦尔帕，并在追击中杀死数千名印加士兵。印加帝国就此失去独立主权。</p>
             </remark>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">如果可以的话，请务必多多指教啦！我对独立发展成现代国家的“印卡共和国”非常感兴趣！</speak>
+            <speak chara="_Miguel">If you can, please tell me some stories! I am very interested in a “Republic of Inca” that has become an independent modern nation!</speak>
             <show chara="shakesCasualLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="right"/>
-            <speak chara="_Bianka">唔……</speak>
+            <speak chara="_Bianka">Uh...</speak>
             <show chara="biankaDressShyClose" position="right"/>
-            <speak chara="_Bianka">我也觉得，可以当然是可以啦……就是有点奢侈。或者说罪恶感吧。</speak>
+            <speak chara="_Bianka">Of course it’s fine, it’s just that… It feels too extravagant. It makes me feel guilty.</speak>
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="left"/>
-            <speak chara="_Rita">噗。看来比安卡大人已经是绮罗大人的粉丝了呢。</speak>
+            <speak chara="_Rita">Hehe. It would appear that Bianka-sama has already become a fan of Kira-sama.</speak>
             <show chara="ritaVestSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">喂！你不要瞎说啊！</speak>
+            <speak chara="_Bianka">Hey! Don’t talk nonsense!</speak>
             <show chara="biankaDressScreamClose" position="right"/>
-            <speak chara="_Bianka">我、我只是觉得人家身为偶像明星，时间也很宝贵而已！</speak>
+            <speak chara="_Bianka">I-I just think that time is precious for an idol!</speak>
             <show chara="biankaDressScreamClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="left"/>
-            <speak chara="_ShigureKira">哈哈，没有关系、没有关系。</speak>
+            <speak chara="_ShigureKira">Hehe, no worries, it’s fine.</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="left"/>
-            <speak chara="_ShigureKira">虽然这样说可能反而有点生分、或者说怪怪的——</speak>
+            <speak chara="_ShigureKira">It might sound a bit strange, but--</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="left"/>
-            <speak chara="_ShigureKira">但命运已经决定：在目前可见的一段时光中，你们都必定是我最重要的“商业伙伴”！</speak>
-            <speak chara="_ShigureKira">希望我们彼此之间合作愉快！</speak>
+            <speak chara="_ShigureKira">For the foreseeable future you will be my most important “Business partners”.</speak>
+            <speak chara="_ShigureKira">I hope we can cooperate happily!</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="left"/>
-            <speak chara="_ShigureKira">嘿嘿。作为女武神，我也很看好你们俩哦？</speak>
+            <speak chara="_ShigureKira">Hey, you also have expectations of me as a Valkyrie, right?</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="right"/>
             <speak chara="_Bianka">……！</speak>
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="left"/>
-            <speak chara="_ShigureKira">——走喽！去卡哈马卡坐S17次，耶！</speak>
+            <speak chara="_ShigureKira">--Now let’s go to Cajamarca!</speak>
             <goto goto="20" clockwise="1"/>
         </scene>
         <scene id="20" background="trainBedroom.jpg">
