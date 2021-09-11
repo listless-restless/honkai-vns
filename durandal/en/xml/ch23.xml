@@ -325,133 +325,133 @@
         <scene id="40" background="suburbsQuito.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="ShigureKiraSunGlassesLaughClose" position="left"/>
-            <speak chara="_ShigureKira">好啦，各位——欢迎来到共和国的首都，赤道的高山之城，基多！</speak>
+            <speak chara="_ShigureKira">Alright everyone - Welcome to Quito, Mountain City of the Equator and capital of the Republic!</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left"/>
-            <speak chara="_ShigureKira">这里的海拔在2800米左右，大家要小心高原反应哦？</speak>
+            <speak chara="_ShigureKira">The altitude here is roughly 2800 meters above sea level, so be careful of altitude sickness.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">那座雪山叫什么？看起来很高啊！</speak>
+            <speak chara="_Shakespeare">What is the name of the snowy mountain over there? It’s so tall!</speak>
             <show chara="shakesCasualConfidentClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesThinkClose" position="left"/>
-            <speak chara="_ShigureKira">啊，她的名字是“科托帕希”，顶峰的冰雪终年不化，在传统文化中被认为是雨神的居所。</speak>
+            <speak chara="_ShigureKira">Its name is Cotopaxi, and the snow on it’s top never melts. In the local culture it is called the home of the rain god.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left"/>
-            <speak chara="_ShigureKira">言归正传——我们今天的目的地是共和国议会，途中会穿过普通的住宅区街道、顺便还可以参观“赤道纪念碑”。</speak>
+            <speak chara="_ShigureKira">Now back on topic - Our destination is the Parliament of the Republic. On the way there we will pass through the residential area, so you will also be able to see the “Equator Monument”.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left"/>
-            <speak chara="_ShigureKira">这一段路程差不多三公里，我们可以散步过去。没有问题吧？</speak>
+            <speak chara="_ShigureKira">For this part we will go walking. 3 Kilometres should be fine, right?</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left" opacity="0.8"/>
             <show chara="champoBlanketLaughClose" position="right"/>
-            <speak chara="_Champollion">没有问题！</speak>
+            <speak chara="_Champollion">No problem!</speak>
             <show chara="champoBlanketLaughClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesLaughClose" position="left"/>
-            <speak chara="_ShigureKira">好，那我们出发吧！</speak>
+            <speak chara="_ShigureKira">Alright, then let’s go!</speak>
             <goto goto="50" change="#ffffff"/>
         </scene>
         <scene id="50" background="streetEcuador.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">（不行……好在意……）</speak>
+            <speak chara="_Bianka">(So… Is no one curious…?)</speak>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">（“现在还有一点小秘密不能告诉你们”？）</speak>
+            <speak chara="_Bianka">(“There is a secret I can’t tell you yet”?)</speak>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">（说了那样的话，然后自己又装得像无事发生一样，简直太狡猾了！）</speak>
+            <speak chara="_Bianka">(Saying that and then pretending nothing happened. That’s too evil!)</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">比安卡大人……有什么心事吗？</speak>
+            <speak chara="_Rita">Bianka-sama… Is there something on your mind?</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">啊……不……</speak>
+            <speak chara="_Bianka">Oh, no...</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">怎么说呢……</speak>
+            <speak chara="_Bianka">How do I put it...</speak>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">唔，这个距离前面的人应该听不见吧……</speak>
+            <speak chara="_Bianka">Well, I think the people in front can’t hear us…</speak>
             <goto goto="60" clockwise="1"/>
         </scene>
         <scene id="60" background="streetEcuador.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……她当时买了这么一个关子就不往下说了。</speak>
+            <speak chara="_Bianka">...Why bring it up and if you won’t reveal it.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
             <speak chara="_Rita">……</speak>
             <speak chara="_Rita">…………</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">我记得奥托主教曾经给我看过一组奇怪的档案记录。</speak>
+            <speak chara="_Rita">I remember one time the Overseer showed me a set of strange archives.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">是……绮罗前辈的吗？</speak>
+            <speak chara="_Bianka">Were they… about Kira-senpai?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">不，是她的战友，“莎布·尼古拉斯”大人。</speak>
+            <speak chara="_Rita">No, they were about her comrade “Shub Niggurath”.</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">——这当然是一个假名，那是洛夫克拉夫特笔下一个邪神的名字。</speak>
+            <speak chara="_Rita">--Which is obviously a pseudonym. That’s the name of an Outer God from Lovecraft’s writings.</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">不过，女武神使用假名或者代号也不是什么特别稀有的事情，所以这并不是那个记录真正奇怪的地方。</speak>
+            <speak chara="_Rita">But it’s not unusual for a Valkyrie to use a pseudonym or code name. The weird thing in the archives wasn’t that.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHateClose" position="left"/>
-            <speak chara="_Bianka">那么究竟是……</speak>
+            <speak chara="_Bianka">Then what was it...</speak>
             <show chara="biankaDressHateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">非洲支部在1990年年初和年末、南美支部在1992年、极北支部在2000年曾经四次报告过“莎布·尼古拉斯”的阵亡。</speak>
+            <speak chara="_Rita">The African branch reported the death of “Shub Niggurath” twice in early and late 1990s, the South American reported it once in 1992, and the Far North one more time in 2000 for a total of four reported deaths.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">什么？如果前三次都是误报的话，这次数也太多了吧？</speak>
+            <speak chara="_Bianka">What? Even if the first three were false positives, isn’t it a bit too much?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">我也提出过这个问题。奥托主教当时的回答是——</speak>
+            <speak chara="_Rita">I also asked that. The Overseer answered it with--</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">“女武神内部有一两个神秘的过客，我想是很正常的。”</speak>
-            <speak chara="_Rita">“没什么，这种事情其实不要紧，你要学会不去跟进那些与大局无关的信息。”</speak>
+            <speak chara="_Rita">“There will always be one or two mysterious passerbys among us - So I don’t think it’s all that odd”</speak>
+            <speak chara="_Rita">“But that’s not important. You have to learn to not bring up things that don’t matter to the overall situation”.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">可是……“过客”？主教究竟在指什么？</speak>
+            <speak chara="_Bianka">But… “Passerby”? ...What is the Overseer talking about?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">不知道。但是时雨绮罗大人确实是和“莎布·尼古拉斯”大人搭档时间最久的女武神。</speak>
-            <speak chara="_Rita">如果说不只是其中一人，而是两人都携带着某种秘密……</speak>
+            <speak chara="_Rita">I don’t know. But Shigure Kira is with no doubt the Valkyrie who has been partnered with Shub Niggurath for the most time.</speak>
+            <speak chara="_Rita">Maybe not only one of them, but both are carrying a secret...</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">或许，她并不是在故意吊你的胃口——而是事情的真相确实复杂，并不适合在此时此地加以解释。</speak>
+            <speak chara="_Rita">Perhaps she was trying to make you aware of it - But the truth is too complicated to explain it now.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">唔……可是“战斗方式”的变化又能有多复杂呢？</speak>
-            <speak chara="_Bianka">就算是成为“星语者”之后获得了“外星人哔哩哔哩电波”——这也是一两句话就能解释清楚的吧？</speak>
+            <speak chara="_Bianka">Hmmm… But how much can her “Battle style” change?</speak>
+            <speak chara="_Bianka">Even if after becoming a “Star Whisperer” she learned “Alien Youtube radio waves”, can’t that be explained in just a word or two?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNaughtyClose" position="right"/>
-            <speak chara="_Rita">噗。比安卡大人还真是没有耐心呢。</speak>
+            <speak chara="_Rita">Fufu, Bianka-sama is really impatient.</speak>
             <show chara="ritaVestNaughtyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">……讨厌啦。就算是女仆，你也不用每次都专门把主人的缺点戳出来晒吧。</speak>
+            <speak chara="_Bianka">...I hate that. Even if you are a maid, there is no need to point out your master’s shortcomings all the time.</speak>
             <show chara="biankaDressAngryClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="right"/>
-            <speak chara="_Rita">哎呀。我道歉。</speak>
+            <speak chara="_Rita">Oh, I apologize.</speak>
             <show chara="ritaVestSquintClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">好啦。你那种得寸进尺的伎俩，我早都见怪不怪了耶。</speak>
+            <speak chara="_Bianka">Enough. I’m already getting used to your tricks.</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="monumentEquador.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
             <show chara="ShigureKiraSunGlassesLaughClose" position="left"/>
-            <speak chara="_ShigureKira">嗨，大家请看！这里就是共和国首都最富盛名的景观——赤道大纪念碑！</speak>
+            <speak chara="_ShigureKira">Attention everyone! Over here is the most famous attraction in the capital of our Republic - The Equator Monument!</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left"/>
-            <speak chara="_ShigureKira">碑体通高30米，顶部是地球雕塑，从底部穿过它的黄线正是赤道本身；基座上的四个台座则代表了“世界的四方”，是共和国古称“塔万廷苏尤”的含义。</speak>
+            <speak chara="_ShigureKira">The steele is 30 meters tall and sports a sculpture of the Earth on top. The yellow line on the ground is the Equator itself. The four pedestals represent “The four parts of the world”, which you might remember as being the same meaning as the Republic’s old name, “Tawantinsuyu”.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left"/>
-            <speak chara="_ShigureKira">另外值得一提的是，这个广场其实在古代就已经存在了——</speak>
-            <speak chara="_ShigureKira">——当时的国王为了庆祝王子的降生，特地下令铸造了一条两百人才能抬着走的金锁链，让王宫中的全体成员抓着锁链在这个广场上跳舞庆祝！</speak>
+            <speak chara="_ShigureKira">It’s also worth mentioning this square has been around since ancient times</speak>
+            <speak chara="_ShigureKira">--One story says that the king ordered that a gold chain that can only be carried by 200 people be made, and then everyone from the palace would hold it and dance in this square to celebrate the birth of the prince.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">哈哈，不管怎么说，这里比伦敦那些死气沉沉的“塔”看起来是要气派多了！</speak>
+            <speak chara="_Shakespeare">Hahaha, it’s still better than those lifeless “Towers” of London!</speak>
             <show chara="shakesCasualLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">……有吗？我觉得这就是个蛮普通的纪念碑吧？42大厦（Tower 42）难道不比它厉害无数倍吗？</speak>
+            <speak chara="_Bianka">...Do you think so? But isn’t it a pretty ordinary monument? Doesn't Tower 42 exude a much stronger aura?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
-            <speak chara="_Shakespeare">42号塔？是未来的什么神秘建筑吗？用来和外星人沟通的？</speak>
+            <speak chara="_Shakespeare">Tower 42? Is that some mysterious futuristic building you use to communicate with aliens?</speak>
             <show chara="shakesCasualEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……呃？</speak>
+            <speak chara="_Bianka">...Uh?</speak>
             <show chara="ritaVestSmileClose" position="left"/>
-            <speak chara="_Rita" remark="next">莎士比亚大人，42大厦是伦敦的一座商用摩天大楼，和外星人并没有什么关系。</speak>
+            <speak chara="_Rita" remark="next">Shakespeare-sama, Tower 42 is a commercial skyscraper in London and it has nothing to do with aliens.</speak>
             <remark post="U2FsdGVkX18K5DpwbS5JGcPJ79Q+">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">“42大厦”（Tower 42）原名“国民西敏大厦”（National Westminster Tower），在1980年建成时以183米（600英尺）的高度成为伦敦及英国第一高建筑（至今仍是大伦敦地区第13高的建筑）。</p>
@@ -459,78 +459,78 @@
             </remark>
             <show chara="ritaVestSmileClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">哈哈哈哈，原来是这样吗。我还以为“42”一定会和疯狂科学家什么的有关系呢。</speak>
+            <speak chara="_Shakespeare">Hahahaha, is that so? The “42” made me think it would have been the work of a mad scientist.</speak>
             <show chara="shakesCasualLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……唔，“42”和逆熵倒是多半挺般配的。</speak>
+            <speak chara="_Bianka">...Well, “42” does suit Anti-Entropy.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">……噗。</speak>
+            <speak chara="_Schrodinger">Haha...</speak>
             <show chara="schroSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">嗯？你、你刚才……普通的笑了？薛定谔博士？</speak>
+            <speak chara="_Bianka">What? Did-Did you just laugh? Dr. Schrodinger?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroSmileClose" position="right"/>
-            <speak chara="_Schrodinger">是啊。毕竟每个人都有自己的宝贵回忆嘛。</speak>
+            <speak chara="_Schrodinger">Yes. After all, everyone has memories they are fond of.</speak>
             <show chara="schroSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressNormalClose" position="left" opacity="0.8"/>
             <show chara="schroCalmClose" position="right"/>
-            <speak chara="_Schrodinger">啊，你不用在意。不是什么和你们、和现在有关系的事情。</speak>
+            <speak chara="_Schrodinger">Ah, you don’t need to worry. It doesn’t have anything to do with you or even with the present.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="shakesCasualQuestionClose" position="left"/>
-            <speak chara="_Shakespeare">说起来啊——这座城市的确足够特殊，可这个以控制“锚点”而自豪的共和国为什么要把自己的首都固定在“离锚点最远的城市”呢？</speak>
-            <speak chara="_Shakespeare">他们就没有考虑过再迁都吗？历史上也迁过一次的吧，从那个“库斯科老城”？</speak>
+            <speak chara="_Shakespeare">Speaking of which - I’m well aware this city is special, but why does a republic that prides itself in controlling the “Anchor Point”, place it’s capital at the city that is farthest away from it?</speak>
+            <speak chara="_Shakespeare">Did you not think of moving the capital again? It already moved once with “Cusco”.</speak>
             <show chara="shakesCasualQuestionClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesThinkClose" position="right"/>
-            <speak chara="_ShigureKira">啊，这的确是有原因的。</speak>
+            <speak chara="_ShigureKira">Well, they have a reason to keep it here.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">虽然最初共和国改基多为首都只是出于支持率的考量；但后来随着“锚点”上防御压力的增加，“离锚点最远”反而成为了她作为首都在稳定性上的一项优势。</speak>
+            <speak chara="_ShigureKira">At first Quito was made Capital only because of the approval ratings ; But later, as the attacks on the “Anchor Point” increased, “The point furthest away from it” was believed to be a place suited to keep stability as a Capital.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right"/>
-            <speak chara="_ShigureKira">——至少大多数议员是这么认为的。</speak>
+            <speak chara="_ShigureKira">--At least, that is according to the majority of parliamentarians.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right" opacity="0.8"/>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">唔，的确有这种道理。虽然进取心不足，但完全可以理解。</speak>
+            <speak chara="_Champollion">That does make sense. Might not be a common point of view but is understandable.</speak>
             <show chara="champoBlanketLaughClose" position="left"/>
-            <speak chara="_Champollion">大家了解远东的古代史吗？</speak>
+            <speak chara="_Champollion">Say, do you know the story of the Ancient Far East?</speak>
             <show chara="champoBlanketLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="right"/>
-            <speak chara="_Bianka">是说……神州？</speak>
+            <speak chara="_Bianka">You mean Shenzhou?</speak>
             <show chara="biankaDressHesitateClose" position="right" opacity="0.8"/>
             <show chara="champoBlanketNormalClose" position="left"/>
-            <speak chara="_Champollion">不错。更强调防御的长安，居中的洛阳，以及交通更便利的开封——谁更合适来做首都，在当时也是一个争论不休的话题。</speak>
+            <speak chara="_Champollion">You’re right. Chang’an, which is good for defense, Luoyang, which is balanced or Kaifeng, which is best for transportation. At the time, which one should be the capital was a highly controversial debate.</speak>
             <show chara="champoBlanketEmbarrassClose" position="left"/>
-            <speak chara="_Champollion">总而言之，这种问题没有一个必然的答案：现实的选择往往只能基于国民的心理状态，而不是理论家的纸上谈兵。</speak>
+            <speak chara="_Champollion">But in the end, there is no real answer for that: The real choices are made depending on the mental state of the people, not on paper by theorists.</speak>
             <show chara="champoBlanketEmbarrassClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right"/>
-            <speak chara="_ShigureKira">哈哈，商博良老师虽然是考古学者，但说起话来就像政治家一样呢。</speak>
+            <speak chara="_ShigureKira">Haha, Miss Champollion is supposed to be an archeologist, but speaks like a politician.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right" opacity="0.8"/>
             <show chara="champoBlanketLaughClose" position="left"/>
-            <speak chara="_Champollion">哈哈哈哈，人们不都说历史和政治不分家嘛。</speak>
+            <speak chara="_Champollion">Hahahaha, people do say that history and politics go hand in hand.</speak>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">走吧？我们是时候去拜访那位议长姐姐了吧？</speak>
+            <speak chara="_Champollion">Let’s go, it’s time to see the Chairwoman.</speak>
             <show chara="shakesCasualConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">距离上应该也不远了吧？</speak>
+            <speak chara="_Shakespeare">It shouldn’t be too far, right?</speak>
             <show chara="shakesCasualConfidentClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">啊，是的。而且我们有预约过，所以应该很快就能见到她本人的。</speak>
+            <speak chara="_ShigureKira">Ah, yes. I already made an appointment so we can see her right away.</speak>
             <goto goto="80" clockwise="1"/>
         </scene>
         <scene id="80" background="palaceMeetingQuito.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
-            <text>十五分钟后</text>
-            <text>共和国议会·伊比利亚茶室</text>
-            <speak chara="_ThoreauNoName">各位昨晚应该是在火车上休息的吧。</speak>
-            <speak chara="_ThoreauNoName">那么请原谅我用一个哲学发问来做开场白——</speak>
+            <text>Fifteen minutes later.</text>
+            <text>Parliament of the Republic / Iberian Tea Room</text>
+            <speak chara="_ThoreauNoName">Everyone should have rested well on the train last night.</speak>
+            <speak chara="_ThoreauNoName">Please forgive me, but I’ll open with a philosophical question--</speak>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG23-1.jpg">
             <bgm src="theme.mp3" status="continue"></bgm>
-            <speak chara="_Thoreau">每一次，究竟是我们在乘坐铁路，还是铁路在乘坐我们？</speak>
-            <speak chara="_Thoreau">是你们在寻找宝石，还是宝石在驱使你们？</speak>
-            <speak chara="_Thoreau">远方的旅人啊，你们究竟为何而战？</speak>
+            <speak chara="_Thoreau">Are we using the railway, or is the railway using us?</speak>
+            <speak chara="_Thoreau">Are you looking for the gems, or are the gems looking to be found?</speak>
+            <speak chara="_Thoreau">Visitors from a far away land, what is it that you fight for?</speak>
             <end post="U2FsdGVkX19sb2OZkGsm28ubiLsp"/>
         </scene>
     </story>
