@@ -240,7 +240,7 @@
             <show chara="DarwinFunnyClose" position="center"/>
             <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Roland.</speak>
             <show chara="DarwinSmileClose" position="center"/>
-            <speak chara="_DarwinNoName">Let me introduce myself: I am the Minister of the Defense of the Republic and the commander of this fortress - Anna Charles Darwin.</speak>
+            <speak chara="_DarwinNoName">Let me introduce myself: I am the Minister of Defense of the Republic and the commander of this fortress - Anna Charles Darwin.</speak>
             <show chara="DarwinFunnyClose" position="center"/>
             <speak chara="_Darwin" remark="next">Everyone, let’s sit down and drink some mate tea together.</speak>
             <remark post="U2FsdGVkX18o9bCa4l1P1Um8gxrF">
