@@ -87,239 +87,239 @@
         <scene id="20" background="trainBedroom.jpg">
             <bgm src="12_14_Sonnet_18.mp3" status="start"></bgm>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">唔哇……这……这简直和主教的公务车一样豪华啊！</speak>
+            <speak chara="_Bianka">Oh wow… This is as luxurious as the Overseer’s car!</speak>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">我们真的可以坐这样的车吗？连浴室都修得很漂亮啊！</speak>
+            <speak chara="_Bianka">Is it really ok to travel in this? Even the bathroom is great!</speak>
             <show chara="biankaDressSmileAhClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
-            <speak chara="_ShigureKira">主教？</speak>
+            <speak chara="_ShigureKira">Overseer?</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">啊，你是说奥托主教吗？</speak>
+            <speak chara="_ShigureKira">Ah, you mean Overseer Otto?</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">啊，对啊。</speak>
+            <speak chara="_Bianka">Ah, yeah.</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">虽然我觉得那个人看起来也没什么威严，整天吊儿郎当的……怎么看都不像一个“主教”就是了。</speak>
+            <speak chara="_Bianka">He plays around all day and is anything but dignified.. He doesn’t look like an “Overseer” at all.</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">哈哈，那说明他真的很器重你呢！</speak>
+            <speak chara="_ShigureKira">Haha, it seems he likes you a lot.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressNormalClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">你认识德丽莎吧？德丽莎·阿波卡利斯。</speak>
+            <speak chara="_ShigureKira">Do you know Theresa? Theresa Apocalypse.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">唔，算是听说过吧。她好像是主教的“孙女”？</speak>
+            <speak chara="_Bianka"> I’ve heard of her. I think she’s the Overseer’s “Granddaughter”?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">嗯。德丽莎口中的奥托主教，和你口中的奥托主教就很相似。</speak>
+            <speak chara="_ShigureKira">Yes. The Overseer Otto she talks about sounds a lot like the one you talk about.</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
-            <speak chara="_ShigureKira">不过当主教和我们在一起的时候……他那随性的笑容里却总是会多几分令人不寒而栗的东西。</speak>
+            <speak chara="_ShigureKira">But when he stands before us… There is always something chilling behind his casual smile.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">哈哈，不过你应该是真的没有机会见识主教的另一面吧？</speak>
+            <speak chara="_ShigureKira">Heh, that’s one side of him he doesn’t let you see.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">应该是吧……毕竟，之前丽塔也像你这么说过。说主教对待我的态度和其他人是不同的。</speak>
+            <speak chara="_Bianka">Perhaps… Rita said the same thing before. That the Overseer treats me differently from others.</speak>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">——不过我觉得这并不是什么太重要的事情。</speak>
-            <speak chara="_Bianka">反正不管那家伙的本性究竟如何，我自己这边的情况总归是很清楚的。</speak>
+            <speak chara="_Bianka">--But I don’t think that matters.</speak>
+            <speak chara="_Bianka">It doesn’t matter how he is, I know what I need to do.</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">我需要变得更强。我必须变得更强。不然我就什么也不是。</speak>
-            <speak chara="_Bianka">……至少就不算是什么“最年轻的A级女武神”了。</speak>
+            <speak chara="_Bianka">I want to become stronger. I have to become stronger. Otherwise I am nothing.</speak>
+            <speak chara="_Bianka">...I can’t stop at “The youngest A-Rank Valkyrie”.</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
-            <speak chara="_ShigureKira">我说，你真的很适合当偶像啊！</speak>
+            <speak chara="_ShigureKira">You would be a great idol!</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">啊？</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">个人形象没问题。声音也OK。性格虽然不是最容易受欢迎的类型，但也足够有自己的特色。</speak>
+            <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have it’s own charm.</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
-            <speak chara="_ShigureKira">然后就是这股信念！偶像是传递爱的天使，只有“追求最强”的内心才能承担起这份重任！</speak>
+            <speak chara="_ShigureKira">But this belief! Idols are angels meant to convey love, and only a heart with the desire of “reaching the top” can carry such a heavy task!</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
-            <speak chara="_ShigureKira">她需要把自己打造成大家真正需要的存在——</speak>
+            <speak chara="_ShigureKira">She needs to become the person that everyone needs.</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
-            <speak chara="_ShigureKira">对抗自己的缺点和不成熟、对抗自己的私心杂念、对抗自己的审美偏见。</speak>
+            <speak chara="_ShigureKira">She needs to fight against her own shortcomings, immaturity, selfishness and prejudice.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">而且，为了把真正的爱传递到每个人的心里，她还必须像钻石一样，永远不会受伤、永远发光发亮才行。</speak>
+            <speak chara="_ShigureKira">And more than that, in order to convey true love to the hearts of others she must be like an unbreakable diamond, shining forever.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">……这怎么可能？任谁都总有受伤的时候吧！</speak>
+            <speak chara="_Bianka">...How can someone do that? People can be hurt at any time!</speak>
             <show chara="biankaDressScreamClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
-            <speak chara="_ShigureKira">狮子也会受伤，但狮子不会轻易让人看到自己舔舐伤口的样子。</speak>
-            <speak chara="_ShigureKira">狮子就是狮子。</speak>
+            <speak chara="_ShigureKira">Even lions get hurt, but they don’t let themselves be seen licking their wounds.</speak>
+            <speak chara="_ShigureKira">Because a lion is a lion.</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
-            <speak chara="_ShigureKira">啊，到头来，使用了“爱之宝石”来作弊的我……其实是最没有资格这么说的吧。</speak>
+            <speak chara="_ShigureKira">Well, in the end I did use the “Jewel of Love” to cheat… I’m the least qualified person to talk about this.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">不过是在你们面前吹牛而已。</speak>
+            <speak chara="_ShigureKira">In front of you it’s just bragging.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">可是……无论如何，你还是成为了舞台上最闪亮的那颗星，不是吗？</speak>
+            <speak chara="_Bianka">But… you still managed to become the brightest star on stage, did you not?</speak>
             <show chara="biankaDressShyClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">我是孤儿。我是失去过记忆的人。我从很久以前就知道，这是一个只在乎结果的世界。</speak>
+            <speak chara="_Bianka">I’m an orphan who can’t remember her past. I know more than anyone that the world only cares about the results.</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">我不是说过程不重要——但这就像一串数字，没有最左边的“1”，即使有再多右边的“0”也无济于事。</speak>
+            <speak chara="_Bianka">I’m not saying that the process isn’t important - But you need the “1” on the left to give the “0” a meaning.</speak>
             <show chara="biankaDressSmileClose" position="left"/>
-            <speak chara="_Bianka">所以……我发自内心地觉得，每一个能实现自己梦想的人，都非常、非常、非常地，了不起。</speak>
+            <speak chara="_Bianka">So… I really think that anyone who can realize their dreams is someone very, very, amazing.</speak>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">作弊也好，幸运也罢——“时雨绮罗”的确是许许多多人都热爱的偶像，为他们带去了爱，带去了生活的阳光。</speak>
+            <speak chara="_Bianka">Be it by cheating or being lucky, “Shigure Kira” did become an idol loved by everyone and who brings love and sunshine to their lives.</speak>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">这本身就已经很伟大了，不是吗？</speak>
+            <speak chara="_Bianka">That by itself is incredible, don’t you think?</speak>
             <show chara="biankaDressSmileAhClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right"/>
             <speak chara="_ShigureKira">……！</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
-            <speak chara="_ShigureKira">谢谢！</speak>
+            <speak chara="_ShigureKira">Thank you!</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
-            <speak chara="_ShigureKira">你……真的很会鼓励人呢！简直就像塞西莉亚大人一样！</speak>
+            <speak chara="_ShigureKira">You really know how to encourage others! Just like Cecilia!</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">“塞西莉亚”？是那个“游戏机记录保持者”塞西莉亚吗？</speak>
+            <speak chara="_Bianka">“Cecilia”? The “Video Game record holder” Cecilia?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right"/>
-            <speak chara="_ShigureKira">……啊？</speak>
+            <speak chara="_ShigureKira">...Huh?</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
-            <speak chara="_ShigureKira">“游戏机记录保持者”？等等——你、你对塞西莉亚大人的印象就是这个？</speak>
+            <speak chara="_ShigureKira">“Video Game record holder”? Wait -  Is that your impression of Cecilia-sama?</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">啊……不……我只是觉得这样去称呼她，她本人大概会比较开心吧。</speak>
+            <speak chara="_Bianka">Ah… no… I just think that she would be happier being called that.</speak>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">如果冒犯了你，那么我道歉。</speak>
+            <speak chara="_Bianka">Sorry if I offended you.</speak>
             <show chara="biankaDressSorrowClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHateClose" position="left"/>
-            <speak chara="_Bianka">几乎每个天命的女武神都知道——塞西莉亚·沙尼亚特是有史以来最强大的S级女武神之一、是在“第二次崩坏”的战斗中居功至伟的大英雄。</speak>
+            <speak chara="_Bianka">Almost every Valkyrie of Schicksal knows - Cecilia Shariac is one of the strongest S-rank Valkyries from all time and a great hero who made significant contributions in the “Second Eruption”</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">……但是她终究是在最后的战役中牺牲了。</speak>
+            <speak chara="_Bianka">...But she still died in the final battle.</speak>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">我既没有资格、也永远不会去苛责已逝之人——但我觉得，作为以“最强”为目标的一位女武神，她并不希望自己在大家心目中的形象是一位“牺牲者”。</speak>
+            <speak chara="_Bianka">I have no qualification or intention of criticizing the deceased - But I believe that a Valkyrie whose goal is “To be the strongest” would not want to be remembered as a victim.</speak>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">因为那个词汇意味着……那个人……明明离真正的“最强”已经很近很近了……</speak>
+            <speak chara="_Bianka">Because calling her that means… She was close to truly being the “strongest”...</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">……却因为命运的种种捉弄，最终还是没能攀登到真正的顶峰。</speak>
+            <speak chara="_Bianka">...But because of a cruel twist of fate she could not reach the peak.</speak>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">我觉得，这是很令人伤感的一件事。</speak>
+            <speak chara="_Bianka">And I think that is regretful.</speak>
             <show chara="biankaDressSorrowClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
-            <speak chara="_ShigureKira">你……</speak>
+            <speak chara="_ShigureKira">You...</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">嘛，这的确也是一种人生信条呢。</speak>
+            <speak chara="_ShigureKira">Well, that is certainly a way to live.</speak>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right"/>
-            <speak chara="_ShigureKira">不过，“最强”真的值得你付出一切吗？你……才12岁呀。</speak>
+            <speak chara="_ShigureKira">But is it really worth betting everything on becoming “The strongest”? You… You are only 12 years old.</speak>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
-            <speak chara="_Bianka">如果同时计算牺牲和退役两种情况，那么女武神的平均除役年龄小于30岁。</speak>
+            <speak chara="_Bianka">If both death on duty and retirement are accounted for, the average age of a Valkyrie is only 30 years.</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">——12岁已经是其中的一小半了。</speak>
+            <speak chara="_Bianka">--12 years is almost half of that.</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
-            <speak chara="_ShigureKira">……你甚至完全没有想过自己可以不做女武神吗？</speak>
+            <speak chara="_ShigureKira">...Have you ever thought of not being a Valkyrie?</speak>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right"/>
-            <speak chara="_ShigureKira">你的生活中真的就只有战斗吗？！</speak>
+            <speak chara="_ShigureKira">Is there only fighting in your life?!</speak>
             <show chara="ShigureKiraSunGlassesOffShockClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">……绮罗前辈也是有过战友的吧。</speak>
+            <speak chara="_Bianka">...Kira-senpai also had comrades in arms.</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">如果我不去为了这个世界战斗……那么只要想到那些在阿格拉堡牺牲的伙伴，我肯定就会失眠的。</speak>
+            <speak chara="_Bianka">If I don’t fight for this world… I won’t be able to sleep remembering my friends who died at Agra Fort.</speak>
             <show chara="biankaDressSmileClose" position="left"/>
-            <speak chara="_Bianka">——如果有需要的话，我会在消灭崩坏之后再思考“怎么生活”的问题。</speak>
+            <speak chara="_Bianka">--If I need to, I’ll think about “How to live” after I defeat the Honkai.</speak>
             <show chara="biankaDressSmileClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
-            <speak chara="_ShigureKira">你……在旁人看来，注定会活得很辛苦吧。</speak>
+            <speak chara="_ShigureKira">You… In the eyes of others, that is a painful way to live.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">但我曾经见过几个和你类似的人——我明白，这种旁人看来的辛苦，反而是能够让你们获得幸福的唯一道路。</speak>
+            <speak chara="_ShigureKira">But I have seen people like you. What would be painful for everyone else is the only way you can be happy.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">明天，议长小姐一定会很开心见到你的。因为她也属于你们这些“少数派”的一员。</speak>
+            <speak chara="_ShigureKira">You will make the Chairwoman very happy tomorrow. She also belongs to your “minority”.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <text>身着便服的偶像似乎想起了什么往事。</text>
-            <text>她道了声晚安，有些黯然神伤地离开了属于比安卡和丽塔的包间。</text>
+            <text>The idol in casual clothes seemed to be looking back at her memories.</text>
+            <text>She only said goodnight before leaving Bianka’s and Rita’s room with a sad expression.</text>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">我……果然还是说了太多奇怪的话吧。</speak>
+            <speak chara="_Bianka">I… I think I might have said something weird.</speak>
             <show chara="biankaDressShyClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">不。比安卡大人。</speak>
+            <speak chara="_Rita">No, Bianka-sama.</speak>
             <show chara="ritaVestSquintClose" position="right"/>
-            <speak chara="_Rita">正因为您的话无比高尚，才会唤起我们前辈的一些宝贵记忆吧。</speak>
+            <speak chara="_Rita">It was because your words were noble that you evoked precious memories of our senpai.</speak>
             <show chara="ritaVestSquintClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">……果然还是塞西莉亚的事吗？</speak>
+            <speak chara="_Bianka">...Was it because of the Cecilia thing?</speak>
             <show chara="biankaDressSorrowClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNaughtyClose" position="right"/>
-            <speak chara="_Rita">虽然嘴上没有承认，但比安卡大人其实也很崇拜她吧？</speak>
+            <speak chara="_Rita">Although you didn’t admit it, Bianka-sama really admired her, correct?</speak>
             <show chara="ritaVestNaughtyClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShyClose" position="left"/>
-            <speak chara="_Bianka">讨厌啦。被你突然这么一说，我现在感觉浑身都不舒服了。</speak>
+            <speak chara="_Bianka">Please stop. Saying it like that made me feel weird all over.</speak>
             <show chara="biankaDressShyClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSquintClose" position="right"/>
-            <speak chara="_Rita">噗。那么要准备洗个澡吗？需要搓背或者按摩的话，请不要客气哦。</speak>
+            <speak chara="_Rita">Fufu. So will you take a shower? Do not hesitate to ask if you need a back rub or massage.</speak>
             <show chara="ritaVestSquintClose" position="right" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Bianka">不——需——要——啦！！！</speak>
+            <speak chara="_Bianka">I. Don’t. Need. It!</speak>
             <goto goto="30" clockwise="1"/>
         </scene>
         <scene id="30" background="wildVolcano.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
-            <text>第二天清晨。</text>
-            <text remark="next">列车开出了拉塔昆加车站，正在西方科迪勒拉和中央科迪勒拉的山间谷地中平稳地行驶。</text>
+            <text>Early the next morning.</text>
+            <text remark="next">The train departed from Latacunga and traversed the mountain valleys of Western and Central Cordillera.</text>
             <remark post="U2FsdGVkX1+H7Ox4ChPbGiArVaZ1">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">科迪勒拉（Cordillera）在西班牙语中的本意是“山系”，后转化为包括安第斯山和落基山在内的、纵贯美洲的“科迪勒拉山系”之固定称谓。</p>
                 <p class="article-text">在厄瓜多尔及哥伦比亚地区，该山系分为三条相互平行的山脉，因此有“西方科迪勒拉”（Cordillera Occidental）、“中央科迪勒拉”（Cordillera Real / Cordillera Central）以及“东方科迪勒拉”（Cordillera Oriental）之分。</p>
             </remark>
-            <text>距离终点站基多还有不到一个小时的车程，赤道地区四季如春的高山风光宛如一道徐徐展开的画卷映入了乘客们的眼帘。</text>
-            <speak chara="_ShigureKira">在古代，也就是王国时期，曾经只有这样的山间谷地才拥有相对成熟的文明——这种地形风调雨顺，灌溉便利，开荒的成本也比较低廉。</speak>
-            <speak chara="_ShigureKira">那时的国王们每征服一个行省，在建立统治、安顿居民之后，最不遗余力去做的事情就是扩展耕地和牧场。</speak>
-            <speak chara="_ShigureKira">他们专门召集工匠开凿水渠、平整土地，然后把原本过剩或逃难出来的人口安置在这些新村庄里。</speak>
-            <speak chara="_ShigureKira">他们不仅在谷底的平原里这样做，也会选择土质优良的山丘和山坡建立梯田。</speak>
-            <speak chara="_ShigureKira">建梯田时，先用结实的石料沿山体垒起三堵墙，墙体略微向内倾斜，以便能够承受住土的重量；随后便向墙里填土，填到与墙一样高为止。</speak>
-            <speak chara="_ShigureKira">一层梯田建成之后，再以此为基础建立更小的梯田，一直建到山顶为止。</speak>
-            <speak chara="_ShigureKira">后来王国的领土扩展到了沿海的沙漠地带，那里终年无雨，也没有可供开渠的河流；但是人们还是想出了一种奇妙的办法来开荒种地——</speak>
-            <speak chara="_ShigureKira">他们把村庄建在靠近大海的地方，扒开表层的沙砾，根据地段不同挖出一人或两人来深的大坑，一直挖到海平面为止：用这种办法来让作物获得足够的水分。</speak>
-            <speak chara="_ShigureKira">因为这种土地的肥力往往非常贫瘠，所以播种时人们会把沙丁鱼头和种子一起埋在土里。</speak>
-            <speak chara="_ShigureKira">那一带是沙丁鱼的产地，这样一来正好可以变废为宝。</speak>
-            <speak chara="_Bianka">唔……</speak>
-            <speak chara="_Bianka">绮罗前辈知道的好多啊。</speak>
-            <speak chara="_ShigureKira">啊哈哈……因为在几年之前，我其实当过一小段时间的导游啦。</speak>
-            <speak chara="_Bianka">咦？导游？那不是一般来说由本地人才能做好的职业吗？</speak>
-            <speak chara="_ShigureKira">——大概是正因为如此，培养偶像的制作所才专门给我安排了这样的工作吧。</speak>
-            <speak chara="_ShigureKira">活学活用本土文化？熟悉一般人的想法？嗯，就是这些目的啦。</speak>
-            <speak chara="_Bianka">……偶像真的很不容易呢。绮罗前辈就没有想过做回自己的老本行吗？</speak>
-            <speak chara="_ShigureKira">嗯？</speak>
-            <speak chara="_Bianka">你说过……你自己属于“星语者”的一员对吧。</speak>
-            <speak chara="_ShigureKira">……是有这回事。</speak>
-            <speak chara="_Bianka">所以……你难道不想在战场上也帮助这些人吗？你应该挺喜欢这个国度的不是吗？</speak>
-            <speak chara="_ShigureKira">是啊，所以我才愿意为他们做更多的事情。</speak>
-            <speak chara="_Bianka">咦？可是……</speak>
-            <speak chara="_ShigureKira">我现在能够使用的战斗方式，和身为女武神的时期已经完全不同了。</speak>
-            <speak chara="_ShigureKira">啊——这并不是说我已经失去了直接对抗崩坏的战斗力。只是……</speak>
-            <speak chara="_Bianka">只是？</speak>
-            <speak chara="_ShigureKira">只是，“时雨绮罗”现在还有一点小秘密不能告诉你们。</speak>
+            <text>Less than an hour away from Quito, the mountainous landscape on the equatorial region was like a painting to the passengers.</text>
+            <speak chara="_ShigureKira">In ancient times, civilization could only be nurtured in these valleys - This terrain has good weather, abundance of water and great fertility.</speak>
+            <speak chara="_ShigureKira">As soon as the kings conquered a province, the first thing they would do is focus on increasing farmland and pasture.</speak>
+            <speak chara="_ShigureKira">They would dig canals and level the land, and then the excess people and refugees would be settled into the new village.</speak>
+            <speak chara="_ShigureKira">They wouldn’t stop at only the valleys, but also choose hills and mountains with good soil to build terraces on.</speak>
+            <speak chara="_ShigureKira">They start by building three solid walls along the mountain, slightly inclined inwards to be able to bear the weight of the soil that they would be filled with until it reached the height of the walls.</speak>
+            <speak chara="_ShigureKira">After the first level is complete, you can build a smaller one above them until you reach the top of the mountain.</speak>
+            <speak chara="_ShigureKira">Later the kingdom would expand into coastal deserts where it never rains and where there are no rivers to open canals; But they still found a way to cultivate the land.</speak>
+            <speak chara="_ShigureKira">They would build villages near the sea and dig holes down to the sea level according to each one’s needs; That way the crops would get the water they need.</speak>
+            <speak chara="_ShigureKira">And because the fertility of those lands tends to be poor, they would bury sardine heads alongside the seeds.</speak>
+            <speak chara="_ShigureKira">That area is the same place where sardines are produced, thus they turned waste into treasure.</speak>
+            <speak chara="_Bianka">Wow...</speak>
+            <speak chara="_Bianka">Kira-senpai knows a lot.</speak>
+            <speak chara="_ShigureKira">Ahahaha… That’s because a few years ago I had to work as a guide for a bit.</speak>
+            <speak chara="_Bianka">Huh? As a tourist guide? Isn’t that a job typically reserved for locals?</speak>
+            <speak chara="_ShigureKira">--That’s probably why the Idol training institution arranged that job for me.</speak>
+            <speak chara="_ShigureKira">To learn the culture and way of thinking of the local people.</speak>
+            <speak chara="_Bianka">...Being an idol isn’t easy. Did Kira-senpai never consider going back to her old job?</speak>
+            <speak chara="_ShigureKira">Old job?</speak>
+            <speak chara="_Bianka">Yesterday… You mentioned being a “Star Whisperer”, right?</speak>
+            <speak chara="_ShigureKira">...That’s right.</speak>
+            <speak chara="_Bianka">So… Don’t you want to help them on the battlefield? You like this country, don’t you?</speak>
+            <speak chara="_ShigureKira">Yes, that’s why I’m willing to do more for them.</speak>
+            <speak chara="_Bianka">Huh? But...</speak>
+            <speak chara="_ShigureKira">The way I fight now is different from when I was a Valkyrie.</speak>
+            <speak chara="_ShigureKira">Ah, I don’t mean I lost the ability to fight Honkai. However...</speak>
+            <speak chara="_Bianka">However?</speak>
+            <speak chara="_ShigureKira">However, there is a secret that “Shigure Kira” can’t tell you yet.</speak>
             <speak chara="_Bianka">……？</speak>
-            <speak chara="_ShigureKira">等到时机成熟的时候，你自然会明白的。</speak>
+            <speak chara="_ShigureKira">You’ll understand when the time comes.</speak>
             <goto goto="40" clockwise="1"/>
         </scene>
         <scene id="40" background="suburbsQuito.jpg">
