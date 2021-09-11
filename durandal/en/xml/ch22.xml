@@ -182,8 +182,8 @@
         </scene>
         <scene id="70" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
-            <speak chara="_AudienceLot">Kira, Kira, our star Kira!</speak>
-            <speak chara="_AudienceLot">Continue to shine!</speak>
+            <speak chara="_Audience">Kira, Kira, our star Kira!</speak>
+            <speak chara="_Audience">Continue to shine!</speak>
             <show chara="ShigureKiraCuteFar" position="center"/>
             <speak chara="_ShigureKira">Thanks everyone! I love all of you!</speak>
             <goto goto="80" clockwise="1"/>
