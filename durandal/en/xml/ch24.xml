@@ -37,7 +37,7 @@
             <speak chara="_Shakespeare">Hahaha, did you emphasize the “serious” part because I’m typically not?</speak>
             <show chara="shakesCasualLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">...Not my intention./speak>
+            <speak chara="_Bianka">...Not my intention.</speak>
             <show chara="biankaDressBiteClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="left"/>
             <speak chara="_Shakespeare">Don’t mind it, I was joking.</speak>
