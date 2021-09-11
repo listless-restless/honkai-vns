@@ -264,93 +264,93 @@
             <speak chara="_OttoDr">“Bianka Ataegina”...</speak>
             <show chara="ottoDrNormalClose" position="back"/>
             <speak chara="_OttoDr">Congratulations, from now on, you have your own name.</speak>
-            <speak chara="_Bianka">……医生你大早上就来这里，是要安排什么测试吗？</speak>
+            <speak chara="_Bianka">...Doctor, it’s still early morning. Did you come here for an exam?</speak>
             <show chara="ottoDrFoolishSmileClose" position="back"/>
-            <speak chara="_OttoDr">啊，没有没有。只是过来看看你而已。</speak>
-            <speak chara="_Bianka">……你还真的是很闲啊。不是说外科医生都很容易过劳死的吗？</speak>
+            <speak chara="_OttoDr">Ah, no no. I just came here to see you.</speak>
+            <speak chara="_Bianka">...Looks like you have a lot of free time. Isn’t being a surgeon a job that kills you from overwork?</speak>
             <show chara="ottoDrFoolishSmileClose" position="back"/>
-            <speak chara="_OttoDr">哈哈。大概是因为这所医院的科室恰好分得很细吧？</speak>
+            <speak chara="_OttoDr">Haha, it must be because the departments of this hospital are very finely organized, right?</speak>
             <show chara="ottoDrKindClose" position="back"/>
-            <speak chara="_OttoDr">儿童脑外科——听这个名字就知道我的病人不会很多了吧？</speak>
-            <speak chara="_Bianka">……不是太懂你们医生的事。</speak>
-            <speak chara="_Bianka">话说回来——我什么时候可以全天下床活动啊？</speak>
-            <speak chara="_Bianka">我感觉自己的身体已经没有什么不方便的地方了。</speak>
+            <speak chara="_OttoDr">Pediatric neurosurgery - You can tell by the name I don’t have many patients.</speak>
+            <speak chara="_Bianka">...I don't know much about doctors.</speak>
+            <speak chara="_Bianka">Anyway - When will I be allowed to get out of bed?</speak>
+            <speak chara="_Bianka">I don’t feel anything wrong with my body.</speak>
             <show chara="ottoDrNormalClose" position="back"/>
-            <speak chara="_OttoDr">……嗯，时机正好差不多。</speak>
+            <speak chara="_OttoDr">Well, it’s almost time anyway.</speak>
             <show chara="ottoDrFoolishSmileClose" position="back"/>
-            <speak chara="_OttoDr">今天你先和我一起来散散步怎么样？没什么问题的话，明天我就让你自由活动。</speak>
-            <speak chara="_Bianka">真的吗？</speak>
+            <speak chara="_OttoDr">How about you go for a walk with me? If no problems come up, I will let you move freely tomorrow.</speak>
+            <speak chara="_Bianka">Really?</speak>
             <show chara="ottoDrKindClose" position="back"/>
-            <speak chara="_OttoDr">当然是真的。</speak>
+            <speak chara="_OttoDr">Really.</speak>
             <show chara="ottoDrTrickyClose" position="back"/>
-            <speak chara="_OttoDr">来——“每天一苹果，医生远离我。”</speak>
+            <speak chara="_OttoDr">As the saying goes, “An apple a day keeps the doctor away”.</speak>
             <show chara="ottoDrNormalClose" position="back"/>
-            <speak chara="_OttoDr">把这个苹果吃了我们就出门，怎么样？</speak>
+            <speak chara="_OttoDr">So how about leaving after eating this apple?</speak>
             <goto goto="90" clockwise="1"/>
         </scene>
         <scene id="90" background="beachAzores.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <show chara="ottoDrFoolishSmileClose" position="back"/>
-            <speak chara="_OttoDr" remark="next">我们所在的这个地区在古代叫做“科尔基斯”——没错，就是神话中“阿尔戈号”的目的地，美狄亚公主帮助伊阿宋王子盗取金羊毛的那个地方。</speak>
+            <speak chara="_OttoDr" remark="next">In ancient times this place was called “Colchis” - Yes, the same destination of the mythical “Argo”, and the place where Princess Medea helped Jason steal the Golden Fleece.</speak>
             <remark post="U2FsdGVkX1+M8qDQSorPucbUeTiQ">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">科尔基斯（Κολχίς）位于高加索地区的黑海沿岸（分属今日的俄罗斯、格鲁吉亚、土耳其等国）；一般认为，这块狭长的滨海地带正是格鲁吉亚古老文化的起源地。</p>
             </remark>
             <speak chara="_Bianka">……？</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">唔，你对这个故事不是很熟悉啊。</speak>
+            <speak chara="_OttoDr">Oh, it seems you don’t know this story.</speak>
             <show chara="ottoDrKindClose" position="back"/>
-            <speak chara="_OttoDr">简单来说，就是有一位会魔法的公主爱上了远道而来的、身为船长的王子，因此帮助他偷走了自己国家的神赐之宝“金羊毛”。王子和公主在船上结为夫妇——</speak>
+            <speak chara="_OttoDr">Putting it in simple terms, a magical princess fell in love with a prince who was a captain and helped him steal her country’s god-given treasure, the “Golden Fleece”. The prince and the princess married on the ship later.</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">——但真正的故事从这里才正式开始。</speak>
+            <speak chara="_OttoDr">--The real story starts after that.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">在“阿尔戈号”返航的途中，公主的弟弟为了夺回国宝，追踪而至。</speak>
-            <speak chara="_OttoDr">公主为了王子，毫不手软地杀死了自己的亲弟弟。</speak>
-            <speak chara="_OttoDr">王子带着金羊毛荣归故里，可有言在先、“成功后就归还王位”的篡位者却并不愿意就此让位。</speak>
-            <speak chara="_OttoDr">公主于是施展她擅长的魔法，成功将篡位者骗进“返老还童的魔法锅”，让他被开水活活烫死。</speak>
+            <speak chara="_OttoDr">On the way back to the prince’s country on the “Argo”, the princess’s younger brother chased them down to regain the stolen treasure.</speak>
+            <speak chara="_OttoDr">And for the sake of the prince, the princess killed her brother without mercy.</speak>
+            <speak chara="_OttoDr">The prince returned to his home country with the Golden Fleece, but the usurper who promised to return the throne if he succeeded turned back on his word.</speak>
+            <speak chara="_OttoDr">The princess then used her specialty, magic, and tricked the usurper to enter a “Magical pot of rejuvenation”, causing him to die in the boiling water.</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">可是，公主明明为王子做了如此多的、其他人根本没法做到的事，王子却反而心怀恐惧地离她而去了。</speak>
+            <speak chara="_OttoDr">The princess did so much for the prince, but he ended up leaving her out of fear.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">因为，在王子的眼中，公主的双手早已沾满了血腥，越来越像一个杀人不眨眼的魔鬼。</speak>
-            <speak chara="_OttoDr">王子其实本不期待自己的冒险能真的成功——当公主用不惜一切代价的方式为他实现这一切时，他感到的是惊恐、后怕、乃至厌恶。</speak>
+            <speak chara="_OttoDr">In his eyes, the princess’s blood stained hands resembled that of a devil’s.</speak>
+            <speak chara="_OttoDr">In fact, the prince didn’t even expect his adventure to succeed - But when the princess did all of that for him without worrying about the cost, he felt panic, fear and even disgust.</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">可是公主又有什么错呢？</speak>
+            <speak chara="_OttoDr">But was the princess really in the wrong?</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">名为“爱情”的毒药早已夺取了她的灵魂，她唯一的选择就是不惜一切代价去支持自己的心上人——</speak>
-            <speak chara="_OttoDr">——哪怕为此弄脏自己的双手，哪怕为此成为世界的公敌。</speak>
-            <speak chara="_OttoDr">当爱情夺取了她灵魂的那一刻……她的全部人生，就已经注定是一场悲剧。</speak>
-            <speak chara="_OttoDr">……当然，比起那些一生只能对着心上人单相思的可怜虫，她还是曾经幸福过的。</speak>
+            <speak chara="_OttoDr">A poison named “Love” had taken her soul, and all she could do was give her all to support the one she loved--</speak>
+            <speak chara="_OttoDr">--Even if she stains her hands with blood, even if she becomes an enemy of the world.</speak>
+            <speak chara="_OttoDr">Once love captured her soul… her life was destined to become a tragedy.</speak>
+            <speak chara="_OttoDr">...Of course, she is still happier than the vermin whose life-long love would never be reciprocated.</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">但是她终究还是亲手扼杀了这份幸福仅剩的证明——她和王子的两个孩子。</speak>
+            <speak chara="_OttoDr">But in the end, she still killed her only proof of happiness - Her and the prince’s two children.</speak>
             <speak chara="_Bianka">……</speak>
-            <speak chara="_Bianka">神话故事还真是可怕啊。不过你为什么要专门讲这样一个故事给我听？</speak>
+            <speak chara="_Bianka">That’s a really scary fairy tale. Why did you want to tell it to me?</speak>
             <show chara="ottoDrNormalClose" position="back"/>
-            <speak chara="_OttoDr">因为你……总有一天，会在现实中见识到类似的事情吧。</speak>
+            <speak chara="_OttoDr">Because… One day you might meet someone similar.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">当那个时刻到来的时候……</speak>
+            <speak chara="_OttoDr">And when the time comes...</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">……我希望你不要去同情那名公主。</speak>
+            <speak chara="_OttoDr">...I pray you won't sympathize with the princess.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">她的双脚早已深陷在血腥的沼泽之中——即使她自己想要调头折返，那道路也是同样令人厌倦的。</speak>
-            <speak chara="_Bianka">难道医生你……身边就有这样的人吗？</speak>
+            <speak chara="_OttoDr">She is already knee-deep in a bloody swamp - Even if she wanted to turn back it would be equally as difficult.</speak>
+            <speak chara="_Bianka">Could it be that… You have someone like that around you?</speak>
             <show chara="ottoDrTrickyClose" position="back"/>
-            <speak chara="_OttoDr">哎呀呀，真是那样的话，这世界可就太可怕了。</speak>
+            <speak chara="_OttoDr">God, the world would be a terrible place if that was the case.</speak>
             <show chara="ottoDrKindClose" position="back"/>
-            <speak chara="_OttoDr">……比安卡。</speak>
+            <speak chara="_OttoDr">...Bianka.</speak>
             <show chara="ottoDrColdClose" position="back"/>
-            <speak chara="_OttoDr">这个世界上有各种各样的人，因为各种各样的原因，会去做各种各样的坏事。</speak>
+            <speak chara="_OttoDr">There are all kinds of people who would do all kinds of bad things for all kinds of reasons.</speak>
             <show chara="ottoDrNormalClose" position="back"/>
-            <speak chara="_OttoDr">但是我希望你相信一件事——好心人，终究是要比狠心的家伙多一些的。</speak>
+            <speak chara="_OttoDr">But please believe in one thing - That there are more kind hearted people than there are bad people.</speak>
             <show chara="ottoDrTalkClose" position="back"/>
-            <speak chara="_OttoDr">因为，如果不是这样……早在几百、几千、几万年前，人类应该就已经自己把自己消灭光了。</speak>
+            <speak chara="_OttoDr">Because if that wasn’t the case, then hundreds, thousands, tens of thousands of years ago, humanity would have wiped itself out.</speak>
             <speak chara="_Bianka">……</speak>
             <hide position="back"></hide>
-            <text>金发的医生转身面向大海。</text>
-            <text>他的口中呢喃着少女不曾理解的诗篇。</text>
-            <speak chara="_OttoDr">“那里是坟墓之岛，沉默之岛；那里也有埋葬我青春的坟墓。我要把生命的常青花圈带往那里去。”</speak>
-            <speak chara="_OttoDr">“心中做出如此的决定，我就乘船渡海而去。”</speak>
-            <speak chara="_OttoDr">“你对于我，依然是一切坟墓的破坏者：只有在有着坟墓的地方，才有复活。”</speak>
+            <text>The blonde doctor turned to face the sea.</text>
+            <text>His mouth sang a poem the girl couldn’t understand.</text>
+            <speak chara="_OttoDr">“There is an island of graves, an island of silence; In there my youth is buried. I will return there with a evergreen wreath of life”</speak>
+            <speak chara="_OttoDr">“I made such a decision, took a boat and crossed the sea”</speak>
+            <speak chara="_OttoDr">“For me you will destroy all graves: As only where there are tombs can there be resurrection”</speak>
             <end post="U2FsdGVkX18XUGkE4E5zBPLImNFI"/>
         </scene>
     </story>
