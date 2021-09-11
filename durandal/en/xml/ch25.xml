@@ -9,66 +9,66 @@
         <scene id="10" background="commandCenterHuaca.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>七年前——</text>
+            <text>Seven years ago-</text>
             <show chara="DraculaThinkClose" position="left"/>
-            <speak chara="_Dracula">副部长小姐，麻烦你和大家说明一下目前的状况。</speak>
+            <speak chara="_Dracula">Miss Deputy Minister, please explain the current situation to everyone.</speak>
             <show chara="DraculaThinkClose" position="left" opacity="0.8"/>
             <show chara="thorNormalClose" position="right"/>
-            <speak chara="_Thoreau">是。</speak>
+            <speak chara="_Thoreau">Very well.</speak>
             <show chara="thorAngryClose" position="right"/>
-            <speak chara="_Thoreau">在今天凌晨的例行自动监测中，我们在拉帕努伊岛的位置发现了崩坏能的异常汇聚。</speak>
+            <speak chara="_Thoreau">Early this morning, the automated routine monitoring noticed an abnormal concentration of Honkai Energy on Rapa Nui island.</speak>
             <show chara="thorAngryClose" position="right"/>
-            <speak chara="_Thoreau">与此同时，我们所在的在锚点中心也出现了崩坏能的异常枯竭——我们由此推断这是一例非常罕见的“锚点毛细管堵塞”现象。</speak>
+            <speak chara="_Thoreau">And at the same time, there was an abnormal depletion of Honkai Energy in the center of the Anchor Point, where we are now - It appears to be a rare case of “Anchor capillary blockage”.</speak>
             <show chara="thorAngryClose" position="right" opacity="0.8"/>
             <show chara="DraculaSeriousClose" position="left"/>
             <speak chara="_Dracula">……</speak>
             <show chara="DraculaSeriousClose" position="left"/>
-            <speak chara="_Dracula">YUKI（幸），你怎么看？</speak>
+            <speak chara="_Dracula">What do you think, Yuki?</speak>
             <show chara="DraculaSeriousClose" position="left" opacity="0.8"/>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">这个岛本身只是一座废弃的度假村，崩坏能的聚集不至于直接造成人员伤亡。</speak>
+            <speak chara="_Yukimura">The island is just an abandoned resort, so it’s unlikely any human casualty will occur from the gathering of Honkai Energy.</speak>
             <show chara="yukimuraColdClose" position="right"/>
-            <speak chara="_Yukimura">但锚点中心同时发生了崩坏能异常枯竭……这也就意味着很可能存在着一组毛细通道，它会把这个岛屿和锚点中心联通在一起。</speak>
+            <speak chara="_Yukimura">However, the depletion of Honkai Energy means that it’s likely there is a group of capillary channels connecting the island and the Anchor Point center.</speak>
             <show chara="yukimuraSeriousClose" position="right"/>
-            <speak chara="_Yukimura">如果放任不管，一旦岛屿上积聚了过多的崩坏能之后突然“决堤”，那么将会对锚点中心造成毁灭性的伤害。</speak>
+            <speak chara="_Yukimura">If left unattended and the Honkai “dam” suddenly breaks, it would cause devastating damage to the Anchor Point center.</speak>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">从最坏的角度来说，这有可能就像海啸一样危险——当然，时间还不至于紧迫到需要用分钟或小时来计算。</speak>
+            <speak chara="_Yukimura">In the worst case, it would be a tsunami of Honkai - But of course, it’s not so urgent that it would happen in just a couple of hours.</speak>
             <show chara="yukimuraTalkClose" position="right" opacity="0.8"/>
             <show chara="thorNormalClose" position="left"/>
-            <speak chara="_Thoreau">……那么，根据真田参谋长的建议，我们派出一个三百人的工程小组前往解决此事，可以吗？</speak>
+            <speak chara="_Thoreau">...So going by Chief of Staff Sanda’s suggestions, will it be fine if we send 300 people to solve this matter?</speak>
             <show chara="thorNormalClose" position="left" opacity="0.8"/>
             <show chara="DraculaQuestionClose" position="right"/>
-            <speak chara="_Dracula">三百人？需要那么多吗？</speak>
+            <speak chara="_Dracula">300 people? Is that really necessary?</speak>
             <show chara="DraculaQuestionClose" position="right" opacity="0.8"/>
             <show chara="thorNormalClose" position="left"/>
-            <speak chara="_Thoreau">从卡尔德拉港出发，乘坐工程汽船，最快也需要五天的时间才能赶到拉帕努伊岛。</speak>
+            <speak chara="_Thoreau">Parting from Caldera using a steamboat, it would take 5 days at the fastest to reach Rapa Nui.</speak>
             <show chara="thorSighClose" position="left"/>
-            <speak chara="_Thoreau">今天三个人就能够解决的崩坏能汇聚问题，五天后就需要三十人才能解决，十天后就需要三百人才能解决——这并不奇怪吧？</speak>
+            <speak chara="_Thoreau">Today it only takes three people to solve the issue. Five days later we suddenly will need 30, and ten days later we will need to send 300 -- That’s how it goes.</speak>
             <show chara="thorNormalClose" position="left"/>
-            <speak chara="_Thoreau">考虑到调动本身需要的时间以及恶劣天气可能造成的影响，我认为准备三百人规模的团队是最为稳妥的。</speak>
+            <speak chara="_Thoreau">And considering travel time and possible bad weather, I think it will be appropriate to send a team of 300 right away.</speak>
             <show chara="thorAngryClose" position="left"/>
-            <speak chara="_Thoreau">……说不定，这次行动可能会面临出乎意料的困难。</speak>
+            <speak chara="_Thoreau">...This operation might face unexpected problems.</speak>
             <show chara="thorAngryClose" position="left" opacity="0.8"/>
             <show chara="yukimuraColdClose" position="right"/>
-            <speak chara="_Yukimura">关于这一点——各位，此事请务必让我带队负责。</speak>
+            <speak chara="_Yukimura">About that -- Please let me lead the team in this operation.</speak>
             <show chara="yukimuraColdClose" position="right" opacity="0.8"/>
             <show chara="DraculaQuestionClose" position="left"/>
-            <speak chara="_Dracula">……为什么？</speak>
+            <speak chara="_Dracula">...Why?</speak>
             <show chara="DraculaThinkClose" position="left"/>
-            <speak chara="_Dracula">你是锚点防御系统的设计者之一，我们原则上不能让你亲身犯险。</speak>
+            <speak chara="_Dracula">You are one of the designers of the Anchor Defense System. We shouldn't allow you to take risks personally.</speak>
             <show chara="DraculaThinkClose" position="left" opacity="0.8"/>
             <show chara="yukimuraSmileClose" position="right"/>
-            <speak chara="_Yukimura">正是因为我足够了解防御系统的结构和性能，才有足够的判断力来随机应变，选择正确的策略。</speak>
+            <speak chara="_Yukimura">It’s precisely because I’m familiar with the structure and performance of the Defense System that I will be able to react to any sudden change and make the right decision.</speak>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">另外，这个世界上没有一个人有处理锚点毛细管堵塞的经验——从避免灾害扩大化的角度出发，您也应该派遣一位足够熟悉锚点、又有足够的特种兵和工程兵经验的星语者带队压阵。</speak>
+            <speak chara="_Yukimura">Besides, no one in this world has experience with Anchor Carpilary Blocking. To minimize damage you should let a Star Whisperer who is both used to Anchors and the battlefield lead this expedition.</speak>
             <show chara="yukimuraSmileClose" position="right"/>
-            <speak chara="_Yukimura">……而且，这也正是我报答各位平日里关照的一个好机会呀。</speak>
+            <speak chara="_Yukimura">...This is also a good opportunity to repay you all for taking care of me.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
             <show chara="thorNormalClose" position="left"/>
             <speak chara="_Thoreau">……</speak>
             <show chara="thorNormalClose" position="left" opacity="0.8"/>
             <show chara="yukimuraSmileClose" position="right"/>
-            <speak chara="_Yukimura">保险起见，司令员，我还需要你帮我借一样东西。</speak>
+            <speak chara="_Yukimura">But just to be safe, Commander, I want to borrow something from you.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
             <show chara="DraculaQuestionClose" position="left"/>
             <speak chara="_Dracula">……？</speak>
