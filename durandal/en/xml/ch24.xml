@@ -223,175 +223,175 @@
         </scene>
         <scene id="50" background="beachRapaNui.jpg">
             <bgm src="06_01_Tuluum.mp3" status="start"></bgm>
-            <text>——两天后，南太平洋深处。</text>
+            <text>--Two days later, deep in the South Pacific.</text>
             <show chara="caravaArrogantClose" position="center"/>
-            <speak chara="_CaravaggioNoName">……哟。</speak>
-            <speak chara="_CaravaggioNoName">欢迎来到拉帕努伊岛。</speak>
-            <speak chara="_CaravaggioNoName">叫我“卡拉瓦乔”吧。</speak>
+            <speak chara="_CaravaggioNoName">...Yo.</speak>
+            <speak chara="_CaravaggioNoName">Welcome to Rapa Nui island.</speak>
+            <speak chara="_CaravaggioNoName">Call me “Caravaggio”.</speak>
             <hide position="center"></hide>
             <show chara="caravaArrogantClose" position="left" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="right"/>
-            <speak chara="_Bianka">唔……你好，卡拉瓦乔小姐。</speak>
+            <speak chara="_Bianka">Uh… Hello, Miss Caravaggio.</speak>
             <show chara="biankaDressNormalClose" position="right" opacity="0.8"/>
             <show chara="caravaFocusClose" position="left"/>
-            <speak chara="_Caravaggio">事情我已经听说了。</speak>
+            <speak chara="_Caravaggio">I already heard what is going on.</speak>
             <show chara="caravaColdClose" position="left"/>
-            <speak chara="_Caravaggio">我们上山吧。“繁盛结晶”就在接近山顶的位置。</speak>
+            <speak chara="_Caravaggio"> Let’s climb the mountain. The “Gem of Prosperity” is near the top.</speak>
             <goto goto="60" change="#ffffff"/>
         </scene>
         <scene id="60" background="treeRapaNui.jpg">
             <bgm src="06_01_Tuluum.mp3" status="continue"></bgm>
             <show chara="ritaVestNormalClose" position="left"/>
-            <speak chara="_Rita">听说卡拉瓦乔大人是专门守卫“繁盛结晶”的星语者……这颗宝石如今很危险吗？</speak>
+            <speak chara="_Rita">I heard Caravaggio-sama is a “Star Whisperer” specialized in guarding the “Gem of Prosperity”... Does that mean the jewel is now dangerous?</speak>
             <show chara="ritaVestNormalClose" position="left" opacity="0.8"/>
             <show chara="caravaColdClose" position="right"/>
-            <speak chara="_Caravaggio">不。它从来都不危险。</speak>
+            <speak chara="_Caravaggio">Nah, it’s not dangerous.</speak>
             <show chara="caravaFocusClose" position="right"/>
-            <speak chara="_Caravaggio">基本来说，只是能让一个人的生命力变得更顽强罢了。</speak>
+            <speak chara="_Caravaggio">It basically only strengthens a person’s vitality.</speak>
             <show chara="caravaFocusClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">咦？那为什么它需要被专人看守在如此偏僻的一座小岛上？</speak>
+            <speak chara="_Bianka">Huh? Then why does it need to be guarded on such a remote island?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="caravaSurpriseClose" position="right"/>
-            <speak chara="_Caravaggio">啊，这你就搞错了。</speak>
+            <speak chara="_Caravaggio">Ah, it seems you’re mistaken.</speak>
             <show chara="caravaArrogantClose" position="right"/>
-            <speak chara="_Caravaggio">不是“繁盛结晶被人专门看守在偏僻的拉帕努伊岛上”——</speak>
+            <speak chara="_Caravaggio">It’s not that “The Gem of Prosperity is strictly guarded on the remote Easter Island”--</speak>
             <show chara="caravaFocusClose" position="right"/>
-            <speak chara="_Caravaggio">而是“繁盛结晶只能留在偏僻的拉帕努伊岛上，并且有个人在看守着它”。</speak>
+            <speak chara="_Caravaggio">But “The Gem of Prosperity can’t leave the remote Easter Island, so someone is watching it”.</speak>
             <show chara="caravaFocusClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="caravaFocusClose" position="right"/>
-            <speak chara="_Caravaggio">没事。听不懂没关系。毕竟凡事百闻不如一见。</speak>
+            <speak chara="_Caravaggio">It doesn’t matter if you don’t get it. Seeing it in person is better than hearing me explain.</speak>
             <show chara="caravaArrogantClose" position="right"/>
-            <speak chara="_Caravaggio">我的老本行是画家，不像某些下了海的红发剧团长那样能说会道。</speak>
+            <speak chara="_Caravaggio">I was originally a painter, so I’m not as talkative as that red-haired playwright who crosses the sea.</speak>
             <show chara="caravaArrogantClose" position="right" opacity="0.8"/>
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">等等——这句话的感觉——难道你和莎士比亚船长原本就认识？</speak>
+            <speak chara="_Bianka">Wait - The way you said that - Do you and Captain Shakespeare know each other?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="caravaFocusClose" position="right"/>
-            <speak chara="_Caravaggio">……唔，谁知道呢。</speak>
+            <speak chara="_Caravaggio">...Who knows.</speak>
             <show chara="caravaDisgustedClose" position="right"/>
-            <speak chara="_Caravaggio">这种陈芝麻烂谷子一样的事情，还是由你们的船长自己来揭底比较好。</speak>
+            <speak chara="_Caravaggio">It’s better asking your Captain for things as old as that.</speak>
             <show chara="caravaDisgustedClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
-            <speak chara="_Shakespeare">别看我呀。我可不记得自己哪年哪月见义勇为时候冤枉过一个暴躁画家啊。</speak>
+            <speak chara="_Shakespeare">Don’t look at me. I don’t remember doing anything to this short-fused painter.</speak>
             <show chara="caravaSurpriseClose" position="right"/>
-            <speak chara="_Caravaggio">呵。看见了吧，这家伙也就这么点出息了。</speak>
+            <speak chara="_Caravaggio">Ah, there it is. That’s how this gal is.</speak>
             <show chara="caravaArrogantClose" position="right"/>
-            <speak chara="_Caravaggio">各位，现在有没有突然想起来什么，以前被她稀里糊涂糊弄过去的事情啊？</speak>
+            <speak chara="_Caravaggio">Everyone, did you ever suddenly realize she changed topics to hide something?</speak>
             <show chara="caravaArrogantClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">——啊！</speak>
+            <speak chara="_Bianka"> --Ah!</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">……等等，还真有？</speak>
+            <speak chara="_Shakespeare">...Well, did you?</speak>
             <show chara="shakesCasualQuestionClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">船长，这次可不许你再瞎扯了——</speak>
+            <speak chara="_Bianka"> Captain, I won’t allow you to talk nonsense this time--</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">——还记得当初我们刚见面的时候，你是怎么说明“幽兰黛尔”的来历的吗？</speak>
+            <speak chara="_Bianka">--Do you remember how you explained finding “Durindana” when we first met?</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
-            <speak chara="_Shakespeare">“捡来的”？</speak>
+            <speak chara="_Shakespeare">“I picked it up”?</speak>
             <show chara="shakesCasualEmbarrassedClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">对，没错，“捡来的”。就是这么荒唐。既然——</speak>
+            <speak chara="_Bianka">Yes that’s it! “Picked up” sounds so ridiculous now that--</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <bgm src="11_29_themeTesla.mp3" status="start"></bgm>
             <show chara="durandalWhite" position="right"/>
-            <speak chara="_SwordDurandalQ">等等，新主人。很抱歉打断您。</speak>
+            <speak chara="_SwordDurandalQ">Wait, Bianka-Sama. Sorry to interrupt you.</speak>
             <show chara="durandalWhite" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">——怎么了？</speak>
+            <speak chara="_Bianka">--What now?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="durandalClose" position="right"/>
-            <speak chara="_SwordDurandalQ">……那件事是真的。我真的是被她偶然捡到的。</speak>
+            <speak chara="_SwordDurandalQ">...That part is true. She did pick me up by accident.</speak>
             <show chara="durandalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">……啥？</speak>
+            <speak chara="_Bianka">...What?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="durandalOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">来到这个世界的时候我不是和薛定谔博士分开了吗？</speak>
+            <speak chara="_SwordDurandalQ">Remember how I separated from Dr. Schrodinger when I came to this world?</speak>
             <show chara="durandalClose" position="right"/>
-            <speak chara="_SwordDurandalQ">——莎士比亚船长就是在那段时间里捡到我的。</speak>
+            <speak chara="_SwordDurandalQ">--Captain Shakespeare picked me up during that time.</speak>
             <show chara="durandalWhite" position="right"/>
-            <speak chara="_SwordDurandalQ">至于后来……</speak>
+            <speak chara="_SwordDurandalQ">As for after that...</speak>
             <show chara="durandalOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">咦？我的记录里显示……当时系统发生过一次致命错误……</speak>
+            <speak chara="_SwordDurandalQ">Huh? My records show… A fatal error occured in the system at the time.</speak>
             <show chara="durandalWhite" position="right"/>
-            <speak chara="_SwordDurandalQ">奇怪，为什么我的意识层面没有相关的记忆？难道是错误太严重以至于连记忆都丢失了？</speak>
+            <speak chara="_SwordDurandalQ">Strange, why are there no memories on the conscious level? Was the system error so serious I even lost my memory?</speak>
             <show chara="durandalWhite" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">呃……</speak>
+            <speak chara="_Bianka">Uh...</speak>
             <show chara="biankaDressAngryClose" position="left"/>
-            <speak chara="_Bianka">你自己的问题先不谈……</speak>
+            <speak chara="_Bianka">Putting aside your own problems...</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">总而言之，你真的就是这个红毛矮子……运气好捡到的？</speak>
+            <speak chara="_Bianka">You’re saying that all in all, was this red-head dwarf really just… lucky to find you?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="durandalOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">嗯。这一点，千真万确哦。</speak>
+            <speak chara="_SwordDurandalQ">Yup. That’s certainly true.</speak>
             <show chara="durandalOpen" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……而薛定谔博士也是后来偶然遇见的？</speak>
+            <speak chara="_Bianka">...And was Dr. Schrodinger’s also a meeting by chance?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="durandalClose" position="right"/>
-            <speak chara="_SwordDurandalQ">唔……这个我就不太清楚了。当时“理智结晶”正被别人挪作他用，所以我是没有相关记忆的。</speak>
+            <speak chara="_SwordDurandalQ">Hmm… I’m not really sure. At the time my “Gem of Reason” was being used for something else, so I have no memories.</speak>
             <show chara="schroCalmClose" position="right"/>
-            <speak chara="_Schrodinger">是我找到船长的。</speak>
+            <speak chara="_Schrodinger">I’m the one who found the Captain.</speak>
             <show chara="schroTalkClose" position="right"/>
-            <speak chara="_Schrodinger">那时候她就像个暴发户一样扛着把大宝剑招摇过市——不管被什么人找到都只是时间问题吧？</speak>
+            <speak chara="_Schrodinger">At the time she was like a nouveau riche, making a show of the sword on the market. It was really just a matter of time before I found it.</speak>
             <show chara="schroTalkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">你不要说得这么形象啊！我脑内又出现她以前傻笑的那个蠢样了！</speak>
+            <speak chara="_Bianka">What’s with the descriptions! I can imagine her making that stupid smirk too clearly!</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">哈哈哈哈。没心没肺地傻笑可是我的“天字第一号”招牌哦？</speak>
+            <speak chara="_Shakespeare">Hahahaha, it might be a stupid smirk, but it was a sign of finding something one of a kind!</speak>
             <show chara="shakesCasualLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">……你怎么这么欠揍啊？！</speak>
+            <speak chara="_Bianka">...Why are you so proud?!</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="rockRapaNui.jpg">
             <bgm src="06_01_Tuluum.mp3" status="start"></bgm>
-            <text>山路盘旋而上，海拔越高，地面的沙化便越厉害。</text>
-            <text remark="next">“我们这边有几尊那种叫做‘摩埃’的石像，”土人打扮的星语者耸着肩膀说道，“不过它们都是异世界的仿制品。”</text>
+            <text>Going along the road, it was noticeable that the higher the altitude, the more desert-like the ground became. </text>
+            <text remark="next">“There are several stones called Moai in here”, said the shrugging Star Whisperer in native clothing, “All imitations of another world”</text>
             <remark post="U2FsdGVkX1+zb5o1703+UTqcrTik">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">摩艾（Moai）是令拉帕努伊岛（Rapa Nui，旧称复活节岛）闻名世界的一类巨型石雕人像。全岛已知有887尊摩艾石像，多半只有头，少数有肩膀、手臂以及躯干，还有一些未完成即被遗弃。</p>
                 <p class="article-text">今日的拉帕努伊岛树木稀疏、土地贫瘠、水土流失严重，一片荒凉的景象。但考古学显示，这里曾是一个自然生态的天堂——是当地人毫无节制的大兴土木导致了环境灾难，并使得曾经繁盛的文明（一度拥有文字和远洋航海技术）最终退化消亡。</p>
             </remark>
-            <speak chara="_Caravaggio">有一段时间，这个国家的人们喜欢复制所有来自异世界的东西。按照我们议长的说法——</speak>
-            <speak chara="_Caravaggio">“我们是宁愿花更多的钱于布置的奢侈上，而不在乎安全和便捷的。”</speak>
-            <speak chara="_Caravaggio">“我们的家园仿佛一个后现代客厅，有印度的躺椅，土耳其的软床，阿拉伯的纱帐；</speak>
-            <speak chara="_Caravaggio">“我们把千百种来自另一个世界的花样一股脑都搬到自己家里：而那些花样原本的用途，是连大卫王和他的朋友们听了都要觉得害臊的。”</speak>
-            <speak chara="_Caravaggio">——当然，她说这段话的时候自己还没有成为议长。那时她可以毫不顾忌地说，“一个人除了吃三餐饭、睡一张床之外，便不需要任何多余的奢侈之物了”。</speak>
-            <speak chara="_Caravaggio">跑题了。对你们即将见到的东西而言，这不是什么有价值的话题。</speak>
-            <speak chara="_Caravaggio">当然，它和你们船长过去的馊事也没有任何关系。</speak>
-            <speak chara="_Caravaggio">……那并不是任何一个【个人】的错误。</speak>
+            <speak chara="_Caravaggio">The people from this world like to copy everything from others. In the words of our Chairwoman--</speak>
+            <speak chara="_Caravaggio"> “We would rather spend money on the luxury of furnishings than on safety and convenience.”</speak>
+            <speak chara="_Caravaggio">“Our houses are like a post-modern living room, with Indian lounge chairs, Turkish beds and Arabian canopies.”</speak>
+            <speak chara="_Caravaggio">“We have put thousands of things from other worlds into our homes: Things which their original purpose would make King David roll on his grave.”</speak>
+            <speak chara="_Caravaggio"> --Of course, when she said this she had yet to become the Chairwoman. At that time she could say with no hesitation that “A person needs no luxury beyond three meals a day and a bed.”</speak>
+            <speak chara="_Caravaggio">I went on a tangent. That story has nothing to do with what you’re about to see.</speak>
+            <speak chara="_Caravaggio">It also has nothing to do with your Captain’s past.</speak>
+            <speak chara="_Caravaggio">...It has nothing to do with any “Individual”.</speak>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="moaiRapaNui.jpg">
             <bgm src="12_14_fadeAway.mp3" status="start"></bgm>
-            <text>山顶的平地上没有一丝一毫的风。</text>
-            <text>但尽管如此，崩坏能的漩涡却让每个人都感受到了明显的窒息感——</text>
+            <text>There was no trace of wind on the mountaintop’s flat ground.</text>
+            <text>But in spite of that, the vortex of Honkai energy was enough to make everyone feel suffocated--</text>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG24-1.jpg">
             <bgm src="12_14_fadeAway.mp3" status="continue"></bgm>
-            <text>——这漩涡的最深处并不是一尊雕塑。</text>
-            <text>那个人还活着。</text>
-            <text>从很久以前开始就活着。</text>
+            <text>--And in the center of the vortex was not a sculpture.</text>
+            <text>That person is still alive.</text>
+            <text>She has been alive for a long time.</text>
             <end post="U2FsdGVkX18wG6R8wEzF+R78AexS"/>
         </scene>
     </story>
