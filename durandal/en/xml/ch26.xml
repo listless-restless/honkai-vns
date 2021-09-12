@@ -24,7 +24,7 @@
             <speak chara="_Rita">Overseer, I didn’t know you could joke.</speak>
             <show chara="ottoSuitsSad" position="back"/>
             <speak chara="_OttoPapa">No, I’m not kidding.</speak>
-            <speak chara="_OttoPapa">An organization such as Schiksal isn’t suitable for the growth of middle-level personnel… After all, I always have the final say.</speak>
+            <speak chara="_OttoPapa">An organization such as Schicksal isn’t suitable for the growth of middle-level personnel… After all, I always have the final say.</speak>
             <show chara="ottoSuitsFun" position="back"/>
             <speak chara="_OttoPapa">Of course, it has its own advantages, so I’m not changing it.</speak>
             <show chara="ottoSuitsConfident" position="back"/>
