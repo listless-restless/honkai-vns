@@ -301,7 +301,7 @@
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualMercyClose" position="left"/>
             <speak chara="_Shakespeare">“A woman was looking at the sea, when below the empty beer cans and dead barracudas she saw a huge, white spine.”</speak>
-            <speak chara="_Shakespeare">“It had a huge tailfin attached to it. Once the strong east wind continued to make waves outside the harbor, the tail was swept along with the tide.”</speak>
+            <speak chara="_Shakespeare">“It had a huge tailfin attached to it. Once the strong east wind continued to make waves outside the harbor, the tail would be swept away along with the tide.”</speak>
             <speak chara="_Shakespeare">“‘What’s that?’ The woman asked a waiter and pointed to the long spine of the big fish. It was now more just waste waiting to be swept away.”</speak>
             <speak chara="_Shakespeare">“‘Tiburon’, said the waiter, ‘Sorry, It means shark’. He wanted to explain the situation.”</speak>
             <speak chara="_Shakespeare">“‘Oh, I never realized that a shark tail would be so beautiful and elegant.’”</speak>
@@ -391,7 +391,7 @@
             <show chara="wattRelievedClose" position="right"/>
             <speak chara="_Watt">But on the other hand, we can also help you, right?</speak>
             <show chara="manfredSmileClose" position="right"/>
-            <speak chara="_Manfred">Yeah. According to you, this is being done to save the world.。</speak>
+            <speak chara="_Manfred">Yeah. According to you, this is being done to save the world.</speak>
             <show chara="neithComplainClose" position="right"/>
             <speak chara="_Neith">Or will you come up with an excuse for us to not help?</speak>
             <show chara="neithComplainClose" position="right" opacity="0.8"/>
