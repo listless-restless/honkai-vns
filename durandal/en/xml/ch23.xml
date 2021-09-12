@@ -139,7 +139,7 @@
             <speak chara="_ShigureKira">You would be a great idol!</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">啊？</speak>
+            <speak chara="_Bianka">Wha?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
             <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have it’s own charm.</speak>
@@ -333,7 +333,7 @@
             <speak chara="_Shakespeare">What is the name of the snowy mountain over there? It’s so tall!</speak>
             <show chara="shakesCasualConfidentClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesThinkClose" position="left"/>
-            <speak chara="_ShigureKira">Its name is Cotopaxi, and the snow on it’s top never melts. In the local culture it is called the home of the rain god.</speak>
+            <speak chara="_ShigureKira">Its name is Cotopaxi, and the snow on its top never melts. In the local culture it is called the home of the rain god.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left"/>
             <speak chara="_ShigureKira">Now back on topic - Our destination is the Parliament of the Republic. On the way there we will pass through the residential area, so you will also be able to see the “Equator Monument”.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left"/>
@@ -370,7 +370,7 @@
             <bgm src="10_10_kalinka.mp3" status="continue"></bgm>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">...Why bring it up and if you won’t reveal it.</speak>
+            <speak chara="_Bianka">...Why bring it up if you won’t reveal it.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
             <speak chara="_Rita">……</speak>
@@ -436,7 +436,7 @@
             <show chara="ShigureKiraSunGlassesConfidentClose" position="left"/>
             <speak chara="_ShigureKira">The steele is 30 meters tall and sports a sculpture of the Earth on top. The yellow line on the ground is the Equator itself. The four pedestals represent “The four parts of the world”, which you might remember as being the same meaning as the Republic’s old name, “Tawantinsuyu”.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left"/>
-            <speak chara="_ShigureKira">It’s also worth mentioning this square has been around since ancient times</speak>
+            <speak chara="_ShigureKira">It’s also worth mentioning this square has been around since ancient times.</speak>
             <speak chara="_ShigureKira">--One story says that the king ordered that a gold chain that can only be carried by 200 people be made, and then everyone from the palace would hold it and dance in this square to celebrate the birth of the prince.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
