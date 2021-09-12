@@ -122,7 +122,7 @@
             <speak chara="_Bianka">What do you want to know? Organization? Equipment? Something else entirely?</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">If you don’t mind, I’d like you to start with the history of “Schiksal”.</speak>
+            <speak chara="_Darwin">If you don’t mind, I’d like you to start with the history of “Schicksal”.</speak>
             <show chara="DarwinFunnyClose" position="left"/>
             <speak chara="_Darwin">Information on it can hardly be found even in the Great Library of Alexandria.</speak>
             <show chara="DarwinFunnyClose" position="left" opacity="0.8"/>
