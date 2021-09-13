@@ -213,257 +213,257 @@
             <show chara="schroNoSwordTalkClose" position="right"/>
             <speak chara="_Schrodinger">However, telling you about our history won’t do you any good, and it has nothing to do with the point I was trying to make.</speak>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">比安卡，到目前为止，你只是在顺着船长或者议长的计划行动——你并没有认真思考过，你本人在整个事件中究竟有着怎样的意义。</speak>
+            <speak chara="_Schrodinger">Bianka, until now you have just been following the Captain’s or the Chairwoman’s plan - You haven’t thought about your place in this matter.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">无处安放的责任感——这才是你当下紧张情绪的本源所在。</speak>
+            <speak chara="_Schrodinger">You have nothing to feel responsible about - And that’s the source of your tension.</speak>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">你始终觉得自己是一个外来者。你生怕自己辜负了这些异世界人殷切的期待。</speak>
+            <speak chara="_Schrodinger">You feel like an outsider. You are afraid of failing to meet the expectations of the people from this world.</speak>
             <show chara="schroNoSwordSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHateClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressHateClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">我向丽塔打听过一些你以前的事。你是一个非常上进的女武神——</speak>
+            <speak chara="_Schrodinger">I asked Rita about you. She said you are a very motivated Valkyrie--</speak>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">——但是能给你带来喜悦的，却永远只是任务和事件的结果，而不是它们的过程本身。</speak>
+            <speak chara="_Schrodinger">--But what brings you joy is not the process, but the result of the missions.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">……我觉得，这样很辛苦，而且也没有必要。</speak>
+            <speak chara="_Schrodinger">...And I think that’s a painful and unnecessary way to think.</speak>
             <show chara="schroNoSwordTalkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">可是——</speak>
+            <speak chara="_Bianka">But--</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">比安卡，从结果上看，这世界上有不计其数的事情都没有意义。……或者至少说不清意义。</speak>
+            <speak chara="_Schrodinger">Bianka, if you only look at the results, there are plenty of things in this world that are meaningless… Or at least their meaning is unclear.</speak>
             <show chara="schroNoSwordCalmClose" position="right"/>
-            <speak chara="_Schrodinger">出生有什么意义？死亡有什么意义？自我有什么意义？人类、世界、宇宙又分别有什么意义？</speak>
+            <speak chara="_Schrodinger">What is the meaning of being born? The meaning of death? What about the “self”? Does mankind, the world and the universe have any meaning?</speak>
             <show chara="schroNoSwordCalmClose" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……你是想说这些事情本来就没有意义吗。</speak>
+            <speak chara="_Bianka">...Are you telling me that these things don’t have any meaning?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">不，它们有意义。只是那不属于结果论，仅此而已。</speak>
+            <speak chara="_Schrodinger">No, they do. But learning their meaning can't be achieved by consequentialism, that’s all.</speak>
             <show chara="schroNoSwordSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">举例来说，你，比安卡·阿塔吉娜，你的存在意义就是【你自己本身】。</speak>
+            <speak chara="_Schrodinger">For example, Bianka, the meaning of your existence is “Yourself”.</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">对于女武神前辈们来说，你是一种“后生可畏”的激励；</speak>
+            <speak chara="_Schrodinger">For your senior Valkyries, you are a “motivation” by forcing them to chase after you;</speak>
             <show chara="schroNoSwordCalmClose" position="right"/>
-            <speak chara="_Schrodinger">对于那个主教来说，你是难得的锻炼样本；</speak>
+            <speak chara="_Schrodinger">For your overseer, you are a rare specimen;</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">对于这个世界泡里的人们来说，你是行侠仗义的超人；</speak>
+            <speak chara="_Schrodinger">For the people in this Bubble Universe, you are a heroic superwoman;</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">对于你自己来说，你从零开始，以“比安卡”之名重新书写了自己的人生。</speak>
+            <speak chara="_Schrodinger">And for yourself, it’s the life that you started from scratch under the name “Bianka”.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">所有的这一切都不是什么“结果”，它们只会起始与“无”，又消失于“无”。</speak>
+            <speak chara="_Schrodinger">None of them are a “result”, they started from “nothing” and will end with “nothing”.</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">比安卡。这个世界泡所期待的“拯救”，不是一个结果，而是一段过程、一篇乐章。</speak>
+            <speak chara="_Schrodinger"> Bianka, the “salvation” that this Bubble seeks is not a result, but a process, a movement.</speak>
             <show chara="schroNoSwordSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">……乐章？</speak>
+            <speak chara="_Bianka">...A movement?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">是的。那是一种名为“超级英雄”的精神图腾，一座活在大家心中的精神圣殿。</speak>
+            <speak chara="_Schrodinger">Yes. A spiritual totem named “Superhero”, a temple living in everyone’s hearts.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">——就像瓦格纳或者理查·施特劳斯的乐章一样。</speak>
+            <speak chara="_Schrodinger">--Like the movement of Wagner or Richard Strauss.</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">……换个角度来说，这和时雨绮罗小姐的偶像工作，也颇有相似之处。</speak>
+            <speak chara="_Schrodinger">...From another perspective, it’s quite similar to Shigure Kira’s idol work.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">女武神，你有能力在“世界舞台”上完成属于自己的“世界级表演”——</speak>
+            <speak chara="_Schrodinger">Valkyrie, you have the ability to complete your “world-class performance” on the “Stage of the World”--</speak>
             <show chara="schroNoSwordCalmClose" position="right"/>
-            <speak chara="_Schrodinger">这和你是不是这个世界的一员，根本没有哪怕一个基本粒子的关系。</speak>
+            <speak chara="_Schrodinger">--And it doesn’t matter that not even one atom of yours is from this world.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">明白了吗？按博伽梵的说法，我们每个人都是一位被名为“命运”的【导演】所选中的【演员】——</speak>
+            <speak chara="_Schrodinger">Do you understand? According to Bhagavan, each one of us is an “actor” chosen by the “director” named “Destiny”--</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">——只要在舞台上尽情释放自己的能量就可以了！用我们每个人最熟悉的方式就可以！</speak>
+            <speak chara="_Schrodinger">--Just release your energy on the stage to your heart’s content! Use the method you are most familiar with!</speak>
             <show chara="schroNoSwordSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">……就、就这么简单？</speak>
+            <speak chara="_Bianka">...Is it that simple?</speak>
             <show chara="biankaDressScreamClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">就这么简单。这就是所谓“命运的剧本”。</speak>
+            <speak chara="_Schrodinger">It’s that simple. That is the so-called “Fate’s screenplay”.</speak>
             <show chara="schroNoSwordCalmClose" position="right"/>
-            <speak chara="_Schrodinger">在这里从来都没有什么“天命的女武神”；有的只是“精神圣殿”里的“艺术家”，或者“世界舞台”上的“偶像明星”。</speak>
+            <speak chara="_Schrodinger">There was never a “Valkyrie of Schicksal” in here; Only artists in the “Spiritual Temple” and “idols” on the “Stage of the World”.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">记住：只要做好你自己，你就是最完美的。</speak>
+            <speak chara="_Schrodinger">Remember: As long you are yourself, you are perfect.</speak>
             <show chara="schroNoSwordSmileClose" position="right"/>
-            <speak chara="_Schrodinger">而且，“做好自己”也恰恰是一种最符合“导演预期”的行为——我这样从执行层面上来解释，你会更明白一点吗？</speak>
+            <speak chara="_Schrodinger">Besides, “being yourself” is the kind of behavior that best meets “the director’s expectations”, if I explain it like that you understand it better?</speak>
             <show chara="schroNoSwordSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">……！</speak>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">是的！您这样说，我非常明白！</speak>
+            <speak chara="_Bianka">Yes! If you explain it like that, I understand it very clearly!</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">不管怎么说，凡事都勇往直前才是我自己真正的作风嘛！</speak>
+            <speak chara="_Bianka">In my case, I’m the kind who charges forward courageously at everything!</speak>
             <show chara="biankaDressSmileAhClose" position="left"/>
-            <speak chara="_Bianka">谢谢你，薛定谔博士！现在我好像一下子就全想明白了！</speak>
+            <speak chara="_Bianka">Thank you, Dr. Schrodinger! I feel like I understand everything now!</speak>
             <goto goto="80" change="#ffffff"/>
         </scene>
         <scene id="80" background="chileRiverMountain.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
-            <text>一小时后——</text>
+            <text>One hour later--</text>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">议长！这个红色的武士，一根头发都不少——我现在把她还给你啦！</speak>
+            <speak chara="_Bianka">Chairwoman! This red samurai has been brought back without losing a single strand of hair - I will return her to you now.</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="thorSmileClose" position="right"/>
-            <speak chara="_Thoreau">噗。谢谢你，女武神。你们果然找到了一个两全齐美的解决方法。</speak>
+            <speak chara="_Thoreau">Fufu. Thank you, Valkyrie. Sure enough, you have found a method that combines the best of both worlds.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">……真田。这些年辛苦你了。</speak>
+            <speak chara="_Thoreau">...Sanada. Thank you for all your hard work.</speak>
             <show chara="thorConfidentClose" position="left" opacity="0.8"/>
             <show chara="yukimuraColdClose" position="right"/>
-            <speak chara="_Yukimura">“辛苦”是武士与真田家的宿命。在下不敢当。</speak>
+            <speak chara="_Yukimura">“I’m afraid that “hard work” is the fate of both the samurais and of the Sanada clan.</speak>
             <show chara="yukimuraSmileClose" position="right"/>
-            <speak chara="_Yukimura">不过，话虽这样说……如果现在有热腾腾的荞麦可以吃，那就真的再好不过啦。</speak>
+            <speak chara="_Yukimura">Having said that… It would be great if I had some hot soba to eat now.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
             <show chara="thorSmileClose" position="left"/>
-            <speak chara="_Thoreau">荞麦有点难……年轮蛋糕你介意吗？</speak>
+            <speak chara="_Thoreau">Hot soba would be a bit too hard.. Do you mind if it’s Baumkuchen instead?</speak>
             <show chara="thorSmileClose" position="left" opacity="0.8"/>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">什么？年轮蛋糕？那不是难得的绝品吗？</speak>
+            <speak chara="_Yukimura">Baumkuchen? Isn’t that exquisite?</speak>
             <show chara="yukimuraTalkClose" position="right" opacity="0.8"/>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">当然是特地为你准备的呀。怎么，你会下不了口吗？</speak>
+            <speak chara="_Thoreau">It’s a special occasion for you. What, does it not suit your tastes?</speak>
             <show chara="thorConfidentClose" position="left" opacity="0.8"/>
             <show chara="yukimuraSmileClose" position="right"/>
-            <speak chara="_Yukimura">哈哈，那怎么会。武士就算到死前最后一刻都不应该亏待自己的胃口——这很久以前治部大人教给我的道理。</speak>
+            <speak chara="_Yukimura">Haha, don’t worry. A samurai should treat their appetite with care, even before their death - That’s what my teacher taught me long ago.</speak>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">啊，你们应该不太清楚我过去的事吧……</speak>
+            <speak chara="_Yukimura">Ah, you don’t know about my past...</speak>
             <show chara="yukimuraTalkClose" position="right" opacity="0.8"/>
             <show chara="thorNormalClose" position="left"/>
-            <speak chara="_Thoreau">你是说石田三成吗？</speak>
+            <speak chara="_Thoreau">Do you mean Ishida Mitsunari?</speak>
             <show chara="thorNormalClose" position="left" opacity="0.8"/>
             <show chara="yukimuraTalkClose" position="right"/>
-            <speak chara="_Yukimura">咦？</speak>
+            <speak chara="_Yukimura">Huh?</speak>
             <show chara="yukimuraTalkClose" position="right" opacity="0.8"/>
             <show chara="thorSighClose" position="left"/>
-            <speak chara="_Thoreau">唉，你应该对自己的名气更自信一点啊，极东之地最富盛名的红色武士。</speak>
+            <speak chara="_Thoreau">Alas, you should be more confident in your reputation, “Crimson Demon of War”.</speak>
             <show chara="thorNormalClose" position="left"/>
-            <speak chara="_Thoreau">言归正传，比安卡——</speak>
+            <speak chara="_Thoreau">Back on topic, Bianka--</speak>
             <show chara="thorNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">……是？</speak>
+            <speak chara="_Bianka">….Yes?</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">这是我许诺的两块宝石。请收下。</speak>
+            <speak chara="_Thoreau">Here are the gems I promised. Take them.</speak>
             <show chara="thorSmileClose" position="left"/>
-            <speak chara="_Thoreau">至于那位见证了你们行动的偶像小姐——</speak>
+            <speak chara="_Thoreau">As for the idol who witnessed your actions--</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="left"/>
-            <speak chara="_ShigureKira">——我当然也没有问题。</speak>
+            <speak chara="_ShigureKira">--Of course, no problem.</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="left"/>
-            <speak chara="_ShigureKira">比安卡，这是代表了爱与完美的“偶像之石”。</speak>
+            <speak chara="_ShigureKira">Bianka, this is the “Idol Stone” that represents love and perfection.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="left"/>
-            <speak chara="_ShigureKira">我现在正式把它借给你。</speak>
+            <speak chara="_ShigureKira">I am now officially lending it to you.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="right"/>
-            <speak chara="_Bianka">……谢谢。</speak>
+            <speak chara="_Bianka">….Thanks.</speak>
             <show chara="biankaDressSmileAhClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">那么各位——事不宜迟，我现在就不客气地把它们照单全收了？</speak>
+            <speak chara="_SwordDurandalQ">So without further ado, should I take them all unceremoniously?</speak>
             <show chara="durandalOutstretchOpen" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileClose" position="right"/>
-            <speak chara="_Bianka">嗯。七颗宝石，此时此刻，全部物归原主。</speak>
+            <speak chara="_Bianka">Yes. The seven gems, at this moment, will be returned to their original owner.</speak>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">传说中的圣剑！让大家再次看看你真正的样子吧！</speak>
+            <speak chara="_Shakespeare">The Holy Sword! Let everyone see your true appearance once more!</speak>
             <goto goto="90" change="#ffffff"/>
         </scene>
         <scene id="90" background="CG1.jpg">
             <bgm src="11_22_Tiger.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>红色的勇气结晶，象征勇敢与冒险的决心；</text>
+            <text>The red Gem of Courage symbolizes the determination to be brave and adventurous;</text>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="CG2-3.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>橙色的直觉结晶，象征自信与探索的梦想；</text>
+            <text>The orange Gem of Intuition symbolizes the dream of self-confidence and exploration;</text>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG4-3.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>金色的自由结晶，象征博爱与自我的完美；</text>
+            <text>The golden Gem of Freedom symbolizes the perfection and love of yourself;</text>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="CG7-2.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>绿色的伦理结晶，象征善良与正义的力量；</text>
+            <text>The green Gem of Ethics symbolizes the power of kindness and justice;</text>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG16-1-2.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>青色的繁盛结晶，象征活力与生命的顽强；</text>
+            <text>The cyan Gem of Prosperity symbolizes the vitality and tenacity of life;</text>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="CG21-1.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>蓝色的理智结晶，象征理性与洞察的智慧；</text>
+            <text>The blue Gem of Reason symbolizes the wisdom of reason and insight;</text>
             <goto goto="150" change="0"/>
         </scene>
         <scene id="150" background="CG25-2.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>紫色的支配结晶，象征高贵与万物一统的彼方。</text>
+            <text>The purple Gem of Dominance symbolizes nobility and the unification of all things.</text>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="CG27-2.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
-            <text>“平息吧！宇宙之归宿！”</text>
-            <text>“我是时空本身，”</text>
-            <text>“是摧毁一切的力量之源，”</text>
-            <text>“我的责任就是将诸般世界归于湮灭。”</text>
+            <text>“Quiet! I’m the foundation of the universe!”</text>
+            <text>“I am time and space itself, ”</text>
+            <text>“The source of power to destroy everything, ”</text>
+            <text>“My duty is to annihilate all worlds.”</text>
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="CG27-3.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">你……原来是一柄这么强大的武器吗，“小幽”？</speak>
-            <speak chara="_HolySwordDurandal">这是因为我有一个强大的主人，比安卡·阿塔吉娜小姐。</speak>
-            <speak chara="_HolySwordDurandal">在您的手中，我无疑具备毁灭这个世界泡里任意一片土地的力量。</speak>
-            <speak chara="_HolySwordDurandal">我希望您明白：一切武器，它的职能都是毁灭与暴力——即使是所谓的“圣剑”也不例外。</speak>
-            <speak chara="_Bianka">……我明白。</speak>
-            <speak chara="_Bianka">女武神的教育让我从很早之前就了解：暴力具有自己的原罪，但除此之外，它本身并没有什么额外的善恶。</speak>
-            <speak chara="_Bianka">……真正的善恶在于暴力的动机与暴力的结果。</speak>
+            <speak chara="_Bianka">You… turned out to be such a powerful weapon, Dudu!</speak>
+            <speak chara="_HolySwordDurandal">It’s because I have a strong master, Miss Bianka Ataegina.</speak>
+            <speak chara="_HolySwordDurandal">In your hands, I undoubtedly have the power to destroy any land on this Bubble Universe.</speak>
+            <speak chara="_HolySwordDurandal">But I hope you understand: Every weapon’s function is destruction and violence. Even the so-called “Holy Sword” is no exception.</speak>
+            <speak chara="_Bianka">...I know that.</speak>
+            <speak chara="_Bianka">The Valkyrie education made me understand that long ago: Violence has its original sin, but beyond that, it has no good or evil in itself.</speak>
+            <speak chara="_Bianka">...The real good and evil lies in the motives and consequences of using violence.</speak>
             <goto goto="180" change="0"/>
         </scene>
         <scene id="180" background="chileRiverMountain.jpg">
             <bgm src="12_21_dannyBoy_p.mp3" status="start"></bgm>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">子曰，“唯仁者能好人，能恶人。”</speak>
+            <speak chara="_Champollion">Confucius said, “"Only the virtuous can be benevolent to the wicked.</speak>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">“苟志于仁矣，无恶也。”</speak>
+            <speak chara="_Champollion">There is no evil in pursuing benevolence."</speak>
             <show chara="champoBlanketNormalClose" position="left"/>
-            <speak chara="_Champollion">伏尔泰之所以推崇孔子，就是因为他在孔子的身上看到了他理想中“人类立法者”的影子。</speak>
+            <speak chara="_Champollion">Voltaire admired Confucius because he saw the shadow of his ideal “Human Legislator” in him.</speak>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">他认为，孔子的“仁”象征着个人与社会在道德上的调和，代表着人类最真实的善意和自由。</speak>
+            <speak chara="_Champollion">He believed that Confucius’s “benevolence” symbolized the moral harmony between individual and society, and represented the true kindness and freedom of mankind.</speak>
             <show chara="champoBlanketSmileClose" position="left"/>
-            <speak chara="_Champollion">比安卡……现在的你，就代表着这种“仁义”的力量；伏尔泰一定会觉得你是最完美的一位“女武神”。</speak>
+            <speak chara="_Champollion">Bianka… You now represent that power of “benevolence and righteousness”; Voltaire would certainly praise you as being the most perfect “Valkyrie”.</speak>
             <show chara="champoBlanketSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShyClose" position="right"/>
-            <speak chara="_Bianka">商博良博士……你、你不要突然这样抬举我啊。太不好意思了。</speak>
-            <speak chara="_Bianka">我……我几乎什么都还没有做啊。</speak>
+            <speak chara="_Bianka">Dr. Champollion… Don’t praise me so suddenly. You’re embarrassing me.</speak>
+            <speak chara="_Bianka">I… I haven’t even done anything yet.</speak>
             <show chara="biankaDressShyClose" position="right" opacity="0.8"/>
             <show chara="champoBlanketLaughClose" position="left"/>
-            <speak chara="_Champollion">哈哈哈哈，原谅我吧。我的心情实在是有些激动，一不小心就带上了某个时代的吹牛风气。</speak>
+            <speak chara="_Champollion">Hahaha, forgive me. My mood is a bit agitated, and I accidentally took on the bragging atmosphere of a certain era.</speak>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">“于万物主宰有大信心者，可以吃一切存在之事物。”</speak>
+            <speak chara="_Thoreau">“One man has faith that he may eat all things.”</speak>
             <show chara="thorSmileClose" position="left"/>
-            <speak chara="_Thoreau">太阳只不过是一颗晨星；而反过来，你也不必太在意他人的溢美之词。</speak>
+            <speak chara="_Thoreau">The Sun is just one more star; And similarly, you don’t need to care too much about the praise of others.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="thorConfidentClose" position="center"/>
-            <speak chara="_Thoreau">此时此刻，真正重要的事实其实只有一点：</speak>
+            <speak chara="_Thoreau">At this moment, only one thing matters:</speak>
             <show chara="thorAngryClose" position="center"/>
-            <speak chara="_Thoreau">五十多年来——不，有史以来，我们第一次拥有了那个能在战略上消灭敌人的力量。</speak>
+            <speak chara="_Thoreau">For the first time in fifty years - no, in history, we have the power to strategically eliminate the enemy.</speak>
             <show chara="thorNormalClose" position="center"/>
-            <speak chara="_Thoreau">——因此，事不宜迟，我现在将宣布“帕查库特克行动”的具体战术计划。</speak>
+            <speak chara="_Thoreau"> --We should strike while the iron is hot. I will now announce the specific tactical plan of “Operation Pachakutiq”.</speak>
             <show chara="thorConfidentClose" position="center"/>
-            <speak chara="_Thoreau" remark="next">各位，以“大地震撼者”之名，让我们给这个世界动一个大手术吧！</speak>
+            <speak chara="_Thoreau" remark="next">In the name of the “Reformer of the world”, let’s perform an earth-shaking operation!</speak>
             <remark post="U2FsdGVkX19MJFfogqWmorFMiux7">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">帕查库特克（Pachakutiq，直译“翻转天地的人”，通译“大地震撼者”）是印加帝国最伟大的一位“萨帕·印卡”（相当于“皇帝”）：“他登基前，印加人还只是生活在简朴的村社群落里；到他去世时，印加人已管理着一个扩张主义的大帝国了”。</p>
