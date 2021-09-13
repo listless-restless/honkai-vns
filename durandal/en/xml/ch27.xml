@@ -315,7 +315,7 @@
             <speak chara="_Thoreau">...Sanada. Thank you for all your hard work.</speak>
             <show chara="thorConfidentClose" position="left" opacity="0.8"/>
             <show chara="yukimuraColdClose" position="right"/>
-            <speak chara="_Yukimura">“I’m afraid that “hard work” is the fate of both the samurais and of the Sanada clan.</speak>
+            <speak chara="_Yukimura">I’m afraid that “hard work” is the fate of both the samurais and of the Sanada clan.</speak>
             <show chara="yukimuraSmileClose" position="right"/>
             <speak chara="_Yukimura">Having said that… It would be great if I had some hot soba to eat now.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
