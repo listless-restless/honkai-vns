@@ -59,10 +59,11 @@ Since this is, as far as I am aware, the only active fork for this project (with
 ### Durandal
 
 
-| Chapters | Translators     | Progress                                                     |
-| -------- | --------------- | ------------------------------------------------------------ |
-| 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
-| 21-31    |                 | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
+| Chapters | Translators                                                  | Progress                                                     |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1-20     | Aiatar and zklm                                              | Complete, but may require further edits                      |
+| 21-27    | sacron and [soricfetita](https://github.com/soricfetita/honkai-vns) | Mostly complete                                              |
+| 28-31    |                                                              | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
 
 ### Seven swords
 
