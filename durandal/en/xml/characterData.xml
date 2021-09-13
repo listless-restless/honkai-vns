@@ -12,7 +12,7 @@
         <character name="Worried Voice" color="#dddddd" id="_ShadowA" src=""/>
         <character name="Reassuring Voice" color="#dddddd" id="_ShadowB" src=""/>
         <character name="Angry Voice" color="#dddddd" id="_ShadowC" src=""/>
-        <character name="场下观众" color="#dddddd" id="_AudienceLot" src=""/>
+        <character name="Audience" color="#dddddd" id="_AudienceLot" src=""/>
         <character name="Librarian" color="#dddddd" id="_Librarian" src=""/>
         <character name="Librarian" color="#dddddd" id="cowGirlLibrarian" src="01_18_cowGirlLibrarian.png"/>
         <character name="回忆" color="#dddddd" id="memoryLoading" src="11_16_memoryLoading.png"/>
