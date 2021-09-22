@@ -247,7 +247,7 @@
             <show chara="thorNormalClose" position="left"/>
             <speak chara="_Thoreau">Remember what Confucius said?</speak>
             <show chara="thorConfidentClose" position="left"/>
-            <speak chara="_Thoreau">“At fifteen I set my heart upon learning. At thirty, I had planted my feet firm upon the ground. At forty, I no longer suffered from perplexities. At fifty, I knew what were the biddings of Heaven. At sixty, I heard them with a docile ear. At seventy, I could follow the dictates of my own heart; for what I desired no longer overstepped the boundaries of right.”</speak>
+            <speak chara="_Thoreau">“At fifteen I set my heart upon learning. At thirty, I had planted my feet firm upon the ground. At forty, I no longer suffered from perplexities. At fifty, I knew what were the biddings of Heaven. At sixty, I heard them with docile ear. At seventy, I could follow the dictates of my own heart; for what I desired no longer overstepped the boundaries of right.”</speak>
             <show chara="thorSmileClose" position="left"/>
             <speak chara="_Thoreau">--According to my understanding, what he really wanted to teach is: A person who does not have spiritual freedom, does not have the elegance and power needed to stand upright.</speak>
             <show chara="thorSmileClose" position="left" opacity="0.8"/>
@@ -287,63 +287,63 @@
         </scene>
         <scene id="60" background="CG28-1.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
-            <text>女武神从锚点入口的正上方一跃而下。</text>
-            <text>强风吹拂。</text>
-            <text>圣剑的力量与她逐渐融合，浑然一体。</text>
-            <text>深渊中那能量起伏的永恒之井，将正午的暮色与子夜的黎明混合在了一起。</text>
+            <text>The Valkyrie jumped down from directly above the entrance of the Anchor Point.</text>
+            <text>The strong wind blows.</text>
+            <text>The power of the Holy Sword gradually merges with her, becoming one.</text>
+            <text>The eternal well of energy undulating in the abyss mixes with the twilight of noon and the dawn of midnight.</text>
             <goto goto="70" change="#000000"/>
         </scene>
         <scene id="70" background="CG28-2.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
-            <text>如跳水一般，自由落体的惯性将女武神助推进这光与暗的夹缝。</text>
-            <text>圣剑在漆黑中释放出令人安定的光芒。</text>
-            <text>跟随着来自遥远深空的电波指引，比安卡·阿塔吉娜到达了预定的攻击位置。</text>
+            <text>Like diving, the inertia of the free fall pushed the Valkyrie into the gap between light and darkness.</text>
+            <text>The Holy Sword released a calm light in the darkness.</text>
+            <text>Following the guidance of the radio waves from a distant deep space, Bianka Ataegina reached the predetermined attack position.</text>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="underSpaceBlue.jpg">
             <bgm src="01_21_1-second-of-silence.mp3" status="start"></bgm>
-            <speak chara="_Bianka">那么……现在就开始吧。</speak>
+            <speak chara="_Bianka">Alright… let’s start now.</speak>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="fractalBigBang.jpg">
             <bgm src="01_04_Miracle.mp3" status="start"></bgm>
-            <text>能量在瞬间释放，女武神与圣剑化身光的飓风。</text>
-            <text>空间的根系，仿佛睡美人的荆棘一般，毫不留情地被烈火斩断。</text>
-            <text>在锚点的核心，不同维度的空间原本像纠缠的野草一样杂乱无章地绕结在一起——</text>
-            <text>然而，圣剑燃过之处，大千世界，直断如镜。</text>
+            <text>The energy was released in an instant, the Valkyrie and the Holy Sword becoming a hurricane of light.</text>
+            <text>The roots of space, like the thorns of the Sleeping Beauty, were mercilessly cut off by the fire.</text>
+            <text>At the core of the Anchor Point, the spaces of different dimensions were originally intertwined in a disorderly manner, like tangles weeds-</text>
+            <text>However, wherever the Holy Sword burned, the world’s surface became as smooth as a mirror.</text>
             <goto goto="100" change="0"/>
         </scene>
         <scene id="100" background="fractalBurn.jpg">
             <bgm src="01_04_Miracle.mp3" status="continue"></bgm>
-            <text>不知穿梭了多少个令人眼花缭乱的空间。</text>
-            <text>不知冲破了多少次令人窒息的维度屏障。</text>
-            <text>体内的崩坏能仿佛在血管里沸腾，狼奔豕突般冲向手中那致命武器的尖端。</text>
-            <text>她知道自己可以坚持下来。</text>
-            <text>她知道自己必须坚持下来。</text>
-            <text>就在时间仿佛已经凝固的那一刻——</text>
+            <text>How many dizzying spaces had she gone through?</text>
+            <text>How many times had she broken the suffocating dimension barrier?</text>
+            <text>The Honkai Energy in her body seemed to boil in her blood vessels, it rushed to the tip of the deadly weapon in her hand.</text>
+            <text>She knew she could do it.</text>
+            <text>She knew she had to hold on.</text>
+            <text>And when time seemed to have frozen--</text>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="spaceHole.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
-            <text>——一片星空在远方奇异地扩张开来。</text>
-            <text>那是世界泡的视界。</text>
-            <text>是一切扭曲维度的边界、是微缩宇宙的背景贴图。</text>
-            <text>体力渐渐不支的女武神咬紧牙关，露出了会心地微笑——</text>
-            <text>切割作业已然完成。</text>
-            <text>是时候通知地表的人们，让他们去执行那毁灭性的最后一击了。</text>
+            <text>--A starry sky oddly expanded in the distance.</text>
+            <text>This is the horizon of the Bubble Universe.</text>
+            <text>It is the boundary of all the distorted dimensions, as well as the “background texture” of the microverse.</text>
+            <text>The Valkyrie, who was losing her strength, gritted her teeth and smiled knowing--</text>
+            <text>The cutting operation was completed.</text>
+            <text>It’s time to inform the people on the surface to let them execute the devastating final blow.</text>
             <goto goto="120" change="#000000"/>
         </scene>
         <scene id="120" background="railGun.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
             <show chara="rolandArmorQuestionClose" position="left"/>
-            <speak chara="_Roland">……各单位注意！指挥部收到“女武神信号”！</speak>
+            <speak chara="_Roland">...Attention, all units! HQ has received the “Valkyrie’s signal”!</speak>
             <show chara="rolandArmorSmileClose" position="left"/>
-            <speak chara="_Roland">重复一遍——各单位注意！指挥部收到“女武神信号”！</speak>
+            <speak chara="_Roland">I repeat - Attention, all units! HQ has received the “Valkyrie’s signal”!</speak>
             <show chara="rolandArmorSmileClose" position="left" opacity="0.8"/>
             <show chara="DarwinSeriousClose" position="right"/>
-            <speak chara="_Darwin">列车炮阵列，进入零级准备状态！</speak>
+            <speak chara="_Darwin">The train cannon array enters zero-level deployment state!</speak>
             <show chara="DarwinSeriousClose" position="right"/>
-            <speak chara="_Darwin">射击诸元，根据最新信号校准！随时准备开火！</speak>
+            <speak chara="_Darwin">Calibrate the unit’s aim according to the latest signal! Be ready to fire at any time!</speak>
             <show chara="DarwinSeriousClose" position="right" opacity="0.8"/>
             <show chara="thorAngryClose" position="left"/>
             <speak chara="_Thoreau">10……</speak>
@@ -368,43 +368,43 @@
         </scene>
         <scene id="125" background="railGunInside.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_Darwin">目标出现！开火！</speak>
+            <speak chara="_Darwin">Target in sight! Fire!</speak>
             <shake position="all" time="250"></shake>
             <goto goto="130" change="#ffffff"/>
         </scene>
         <scene id="130" background="benghuai4.jpg">
             <bgm src="11_22_Tiger.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>“你所看见的兽，先前有，如今没有，将要从无底坑里上来，又要归于沉沦。”</text>
+            <text>“The beast, which you saw, once was, now is not, and yet will come up out of the Abyss and go to its destruction.”</text>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="benghuai1.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>“凡住在地上、名字从创世以来没有记在生命册上的，见先前有、如今没有、以后再有的兽，就必希奇。”</text>
+            <text>“The inhabitants of the earth whose names have not been written in the book of life from the creation of the world will be astonished when they see the beast, because it once was, now is not, and yet will come.”</text>
             <goto goto="150" change="0"/>
         </scene>
         <scene id="150" background="benghuai0.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>“他们与羔羊争战，羔羊必胜过他们，因为羔羊是万主之主、万王之王。”</text>
+            <text>“They will wage war against the Lamb, but the Lamb will triumph over them because he is Lord of lords and King of kings.”</text>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="benghuai3.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>“同着羔羊的，就是蒙召、被选、有忠心的，也必得胜。”</text>
+            <text>“And with him will be his called, chosen and faithful followers.”</text>
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="spaceHole.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
-            <text>“我观看，见天开了。有一匹白马，骑在马上的称为诚信真实，他审判，争战，都按着公义。”</text>
+            <text>“I saw heaven standing open and there before me was a white horse, whose rider is called Faithful and True. With justice he judges and wages war.”</text>
             <goto goto="180" change="0"/>
         </scene>
         <scene id="180" background="spaceNight.jpg">
             <bgm src="11_22_Tiger.mp3" status="continue"></bgm>
-            <text remark="next">“他的眼睛如火焰，他头上戴着许多冠冕；又有写着的名字，除了他自己没有人知道。”</text>
-            <text remark="next">“他穿着溅了血的衣服；他的名，称为神之道。”</text>
+            <text remark="next">“His eyes are like blazing fire, and on his head are many crowns. He has a name written on him that no one knows but he himself.”</text>
+            <text remark="next">“He is dressed in a robe dipped in blood, and his name is the Word of God.”</text>
             <remark post="U2FsdGVkX1+rDZDnzSkp+xX6SRMM">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">以上引文来自《新约圣经·启示录》。</p>
@@ -416,24 +416,24 @@
             <text>……</text>
             <text>…………</text>
             <text>………………</text>
-            <speak chara="_Dracula">白昼的星空……</speak>
-            <speak chara="_Dracula">……这样就成功结束了吗？</speak>
-            <speak chara="_Thoreau">不知道。不过目前还没有偏离计划的事物出现。</speak>
-            <speak chara="_Thoreau">（按钮声）丽塔小姐，这里是指挥部。你是否已经接应到比安卡小姐？情况如何？</speak>
-            <speak chara="_Rita">（电波声）丽塔报告指挥部。比安卡大人已经成功着陆，平安无事。</speak>
-            <speak chara="_Thoreau">很好。她现在应该处于体力透支的状态，请你照顾好她的健康。</speak>
+            <speak chara="_Dracula">A midday starry sky...</speak>
+            <speak chara="_Dracula">...Did we succeed?</speak>
+            <speak chara="_Thoreau">I don’t know. However, there’s been no deviation from the plan until now.</speak>
+            <speak chara="_Thoreau">*Button sound* Miss Rita, this is HQ. Have you caught Miss Bianka? How is she doing?</speak>
+            <speak chara="_Rita">*Radio sound* This is Rita reporting to HQ. Bianka-sama has safely landed and nothing has happened.</speak>
+            <speak chara="_Thoreau">Very good. She should be physically exhausted now, so take care of her.</speak>
             <goto goto="200" change="0"/>
         </scene>
         <scene id="200" background="spaceHole.jpg">
             <bgm src="07_07_wind.mp3" status="start"></bgm>
-            <text>这个世界泡那完好的五分之四，此刻正在人们的脚下重组。</text>
-            <text>曾作为“欧洲”而存在的五分之一则被圣剑切碎，又被猛烈的炮火进一步瓦解、打散。</text>
-            <text>一切顺利，一切仿佛都在大家的掌控之中——</text>
+            <text>The four-fifths of the still intact world began to rearrange under the people’s feet.</text>
+            <text>The one fifth that was once called “Europe” was shredded by the Holy Sword, and further disintegrated by the fierce artillery fire. </text>
+            <text>Everything was going well, and seemed to be under control--</text>
             <goto goto="210" change="0"/>
         </scene>
         <scene id="210" background="CG28-3.jpg">
             <bgm src="01_18_horror.mp3" status="start"></bgm>
-            <text>——在这个奇异的怪物降落到地表之前。</text>
+            <text>--Until a strange monster landed on the surface of the earth.</text>
             <end post="U2FsdGVkX1/Wk+VLMh83RsyJpkDD"/>
         </scene>
     </story>
