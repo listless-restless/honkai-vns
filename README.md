@@ -15,25 +15,27 @@ The standalone VN viewers made by zklm are available below:
 
 ### How to use - for readers
 
-To use the latest translation e.g. for  **Anti-Entropy**: 
+To use the latest translation for  **Anti-Entropy**: 
 
 1. Go to https://zklm.github.io/honkai-vn-antientropy/ 
 2. Top right gear icon 
-3. Change Custom EN XML Source to https://raw.githubusercontent.com/listless-restless/honkai-vns/main/antientropy/en/xml/ for the latest final branch, or https://raw.githubusercontent.com/listless-restless/honkai-vns/test/antientropy/en/xml/ for my own (listless-restless) active test branch.
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/listless-restless/honkai-vns/main/antientropy/en/xml/ for the latest final branch, or https://raw.githubusercontent.com/listless-restless/honkai-vns/test/antientropy/en/xml/ for listless-restless' active test branch.
+4. Refresh
+
+
+To use the latest translation for  **Durandal**:
+
+1. Go to https://zklm.github.io/honkai-vn-durandal/
+2. Top right gear icon 
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/soricfetita/honkai-vns/main/durandal/en/xml/
 4. Refresh
 
 ### How to use - for translators
 
 1. Create a fork of my  `main` branch.
 2. Do your edits in the relevant .xml documents.
-3. Create a pull request, and I'll get to merging it when I have time.
 
-I have created a separate fork from zklm's original branch, but will initiate pull requests to his `master` once I have received confirmation from zklm that his project is still active. As of time of updating this readme, I have yet to hear from him.
-
-For now, everything will remain in this fork, and I will continue to merge edits from the `test`("active") branch with my own `master` ("final") branch.
-
-Since this is, as far as I am aware, the only active fork for this project (with other child forks/branches from contributing translators), I would advise any future translators to fork and request pulls from here first.
-
+If you have any questions feel free to message delialala#8801 in discord or catch me in lore chat on the official Honkai discord server. I won't merge with listless-restless' repostitory just yet because we haven't finished working on the Durandal vn.
 
 
 ### Known issues
@@ -62,17 +64,8 @@ Since this is, as far as I am aware, the only active fork for this project (with
 | Chapters | Translators     | Progress                                                     |
 | -------- | --------------- | ------------------------------------------------------------ |
 | 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
-| 21-31    |                 | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
-
+| 21-29    |delialala#8801 and Sacron#6623| Complete|
+| 30-31    |                 | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
 ### Seven swords
 
 Currently untranslated
-
-
-
-## Other miscellany
-
-Please note that while I am of Asian background, I am not a native Mandarin speaker, nor am I 100% fluent in Chinese. All translation from my end was done with a healthy dose of Google Translate, mdbg.net, and what I could remember from Chinese School and TVB dramas. If there are any corrections/suggestions, please create an issue and I'll get to it when I can. Do note that you are also free to generate your own fork and create your own edits, provided full credit is given to all translators.
-
-Personally, I am currently only working on the Anti-Entropy VN. However, other volunteers have started looking into the other VNs as well. I will upload what I have previously translated into each of the chapters of the Anti-Entropy VN (up to Chapter 12). If time and energy permits, and if there is public interest, I may also contribute to the remaining chapters and VNs, adding to the work already done so far.
-
