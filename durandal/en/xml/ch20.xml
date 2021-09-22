@@ -324,7 +324,7 @@
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">The closest words in our language make for a very poetic name——</speak>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">——「Moonlight Throne」.</speak>
+            <speak chara="_Schrodinger">——The「Selene」.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
             <speak chara="_Rita">...!</speak>
@@ -336,7 +336,7 @@
             <speak chara="_Rita">.....</speak>
             <show chara="ritaVestNormalClose" position="right"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Rita">As far as I know, the 「Moonlight Throne」 is an anti-Honkai weapon of mass destruction, and the main weapon of the mobile combat weapon 「Arahato」.</speak>
+            <speak chara="_Rita">As far as I know, the 「Selene」 is an anti-Honkai weapon of mass destruction, and the main weapon of the mobile combat weapon 「Arahato」.</speak>
             <speak chara="_Rita">...Which is under the control of the 「Enforcers」 named 「Tesla」 and 「Einstein」.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
@@ -354,12 +354,12 @@
             <speak chara="_Schrodinger">It's nothing, I was just reminiscing about the past. Let's get back on track.</speak>
             <show chara="schroTalkClose" position="left"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Schrodinger">Strictly speaking, the 「Moonlight Throne」 is not a weapon. It's just an energy conversion device that turns Honkai energy into regular energy that can be manipulated.</speak>
+            <speak chara="_Schrodinger">Strictly speaking, the 「Selene」 is not a weapon. It's just an energy conversion device that turns Honkai energy into regular energy that can be manipulated.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">The previous civilization managed to create such technology, but by then it was already too late.</speak>
             <show chara="schroMemoryClose" position="left"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Schrodinger">Had they managed to keep their pace of development for 10 more years, the mass produced 「Moonlight Throne」 should have been able to absorb Honkai energy on a world wide scale.</speak>
+            <speak chara="_Schrodinger">Had they managed to keep their pace of development for 10 more years, the mass produced 「Selene」 should have been able to absorb Honkai energy on a world wide scale.</speak>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">The one called 「ⵀⵤⴺⵚⴽ ⴳⴶⴱⴹⴽⴸⴱ ⵥⵛⵌⴱ-ⴸⵖⴱⵎ」—— Was a prototype made 50.000 years ago.</speak>
             <show chara="schroCalmClose" position="left"/>
@@ -376,7 +376,7 @@
             <speak chara="_Michel">According to my sources, the birth of this world was made possible thanks to an artificial expansion caused by the 「Ether Anchor」. And that is also the fundamental reason as to why this world is stuck in the state of 「bubble world」.</speak>
             <show chara="micheArrogantCloseE" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">That crucial energy source—— Came from a prototype of similar nature to the 「Moonlight Throne」?</speak>
+            <speak chara="_Schrodinger">That crucial energy source—— Came from a prototype of similar nature to the 「Selene」?</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="micheFocusCloseE" position="right"/>
             <speak chara="_Michel">That used to be the case at first, yes.</speak>
