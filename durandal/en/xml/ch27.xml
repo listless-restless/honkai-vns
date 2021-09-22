@@ -130,7 +130,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <bgm src="05_01_themeEin.mp3" status="start"></bgm>
-            <speak chara="_SchrodingerNoName">“You need to know:”</speak>
+            <speak chara="_SchrodingerNoName">“This much you should understand:”</speak>
             <speak chara="_SchrodingerNoName">“The immortal is omnipresent”</speak>
             <speak chara="_SchrodingerNoName">“Nothing can kill him”</speak>
             <speak chara="_SchrodingerNoName">“It is immovable, solid and eternal”</speak>
@@ -138,11 +138,11 @@
             <speak chara="_Bianka">--Huh, Dr. Schrodinger?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">“I am the beginning”</speak>
+            <speak chara="_Schrodinger">“It birthed all creation”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger"> “And the end”</speak>
+            <speak chara="_Schrodinger">“I am the origin of all things”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">“And also the middle”</speak>
+            <speak chara="_Schrodinger">“And I am the destroyer of all things”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
             <speak chara="_Schrodinger">“O, Arjuna”</speak>
             <show chara="schroNoSwordTalkClose" position="right" opacity="0.8"/>
