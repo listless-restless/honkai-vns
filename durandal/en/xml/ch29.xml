@@ -8,105 +8,105 @@
         </scene>
         <scene id="10" background="parisPalace.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
-            <text>每个人都在自己的生命中频繁地抛弃着自己的过去。</text>
+            <text>Everyone abandons their past in the process of their lives.</text>
             <text article="1">
-                <p class="article-text">随着年龄的增长，我们渐渐离开了母亲的子宫和乳房，离开了温暖而舒适的摇篮，离开了养育自己的家园故土，一步步变成了一个和过去的自己毫无相似之处的人。</p>
+                <p class="article-text">As we grow older, we gradually leave our mother’s womb and breasts, the warm and comfortable cradle, leave the place where we were raised, and eventually we become a person with no semblance of our past selves.</p>
             </text>
             <text article="1">
-                <p class="article-text">霜月27日。</p>
-                <p class="article-text">葡月13日。</p>
-                <p class="article-text">获月13日。</p>
-                <p class="article-text">雾月18日和19日。</p>
-                <p class="article-text">风月8日。</p>
+                <p class="article-text">Shimotsuki 27th.</p>
+                <p class="article-text">13 of the Portuguese month.</p>
+                <p class="article-text">13th of the month.</p>
+                <p class="article-text">18th and 19th of Brumaire.</p>
+                <p class="article-text">Fengyue 8th.</p>
             </text>
             <text article="1">
-                <p class="article-text">正是这一系列对过去的背叛，让名为“拿破仑·波拿巴”的这个男人，最终成为了历史所书写的那个版本。</p>
+                <p class="article-text">It was this series of betrayals that made the man named “Napoleon Bonaparte” finally become the version written in history.</p>
             </text>
-            <text>他早已习惯了这种对自我的背叛，并始终以之为荣。</text>
-            <text>不论沦落到如何的境地……只要还有机会卷土重来，他就一定会继续前进。</text>
-            <text>——他的字典里从来就没有“失败”这个词汇。</text>
-            <text>在从前的战争中，受限于装备、补给、士气、时运，他也有过无奈的投降，有过见不到东山再起之日的恐惧。</text>
-            <text>但是，所有的这一切，时至今日，都不过是早已被他踏平的历史罢了。</text>
-            <text>他曾被俄国的“冬将军”击溃，敌人的联军长驱直入，径直占领了巴黎——</text>
-            <text>但转眼之间，他又从厄尔巴岛潜回故土，波旁的军队如潮水一般向他倒戈。</text>
-            <text>然而，紧随其后的滑铁卢决战却使得百日王朝匆匆结束，他本人被加倍惩罚，流放到遥远的南大西洋——</text>
-            <text>但就在所有人都认为这位皇帝的人生已经不会再有任何波澜的时候，已入暮年的他竟然又被卷入“蛇”的试验，并阴差阳错地在异境重塑了自己的威权。</text>
-            <text>可是，新人生的顺风顺水却因为他自己的贪欲平添波澜：为了永久掌握这股强大的力量，他试图激活远古文明控制这个微缩世界的装置……</text>
-            <text>……并因此把自己的所有臣民都变成了彻底非人的存在。</text>
+            <text>He had long gotten accustomed to being betrayed, and was even proud of it.</text>
+            <text>No matter what the situation is… as long as there was a chance for a comeback, he would definitely continue to move forward.</text>
+            <text>--The word “failure” was never in his dictionary.</text>
+            <text>In previous wars, limited by equipment, supplies, morale and luck, he also had to helplessly surrender, and was afraid that a comeback would not be possible.</text>
+            <text>However, all of that, to this day, is nothing more than history he has long trampled on.</text>
+            <text>He was defeated by the Russian “General Winter”, and the enemy’s coalition commander drove straight and directly occupied Paris.</text>
+            <text>But in the blink of an eye, he sneaked out of Elba Island and went back to his homeland, with all of Bourbon's army turning to his side.</text>
+            <text>However, the subsequent battle of Waterloo brought the Hundred Days to a hasty end. He was punished with exile for the second time, now to the distant South Atlantic Ocean--</text>
+            <text>But just when everyone thought that the Emperor’s life would not bring any new upheavals, he who was in his twilight years, was involved in the experiments of the “Snake” and sent to another world by mistake. He regained his throne.</text>
+            <text>However, his life that should have been smooth sailing was corrupted by greed: In order to permanently master this mighty power, he tried to activate the ancient civilization’s device to control this microverse.</text>
+            <text>...Therefore turning all of his subjects into inhuman existences. </text>
             <goto goto="20" change="0"/>
         </scene>
         <scene id="20" background="parisPalaceDark.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
-            <text>但即使如此，皇帝仍然没有气馁。</text>
-            <text>在短暂的悲痛之后，他便意识到这不过是一段更加伟大的旅程的起点——</text>
-            <text>自己和幸存的臣民，只不过是从一种“消耗化学能”的生命形式，转化为了另一种“消耗崩坏能”的生命形式。</text>
-            <text>皇帝的位置仍然稳固。帝国的军力更胜往昔。</text>
-            <text>在短暂的纷争之后，如今的人民一心同体，这份赤诚比起以往的“圣歌时代”还要热烈雄壮。</text>
-            <text>尽管新生的人们需要“墙壁”来逐步改造脚下的土地——但对于永生不死的皇帝，这种缓慢而确实的扩张，不吝是一种别样的从容。</text>
+            <text>But even so, the emperor did not give up.</text>
+            <text>After a brief period of grief, he realized that this was just the beginning of a greater journey--</text>
+            <text>He and his surviving subjects had just transformed from a lifeform that “consumes chemical energy” into another liforme that “consumes Honkai Energy”.</text>
+            <text>The position of emperor remains solid. The empire's military power was better than ever.</text>
+            <text>After a brief dispute, the subjects of today became single-hearted, with a sincerity more enthusiastic and majestic than the previous “Era of Hymns”</text>
+            <text>Although the new subjects needed a “Wall” to gradually transform the land under their feet - But to the emperor, this slow but sure expansion brought a different kind of calmness.</text>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="spaceNight.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
-            <text>也正因为如此，现在的皇帝，可以说极为愤怒。</text>
-            <text>他本以为，随着这个世界逐渐被改造成更适合他的子民生活的家园，他的敌人只会越来越弱小、越来越缺乏攻击性——</text>
-            <text>可是，那些只会固守在要塞中的蝼蚁、像吉伦特党一样的乌合之众、抱残守缺不肯接受崭新生命形式的蠢人……</text>
-            <text>他们竟然能够做到将世界的一部分解体。竟然能够毁灭帝国神圣而充满能量的领土。</text>
-            <text>竟然能够不费一兵一卒而将皇帝逼入绝境。</text>
+            <text>Which is why, currently the emperor can be said to be extremely angry.</text>
+            <text>He originally thought that, as the world gradually turned into one more suitable for his people’s lives, his enemies would only become weaker and less aggressive--</text>
+            <text>However, those ants that only stay in their nest, the Girondin-like mobs, the stupid humans incapable of accepting the new form of life…</text>
+            <text>They were able to disintegrate part of the world. They were able to destroy the sacred and energy filled territory of his empire.</text>
+            <text>They were able to push the emperor into despair without losing a single soldier.</text>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="CG28-3.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
-            <text>……但皇帝并没有因此而动摇。</text>
-            <text>他的人生足够漫长，而这仅仅是一次新的“绝境”而已。</text>
-            <text>敌人似乎认为，帝国存在的根本，是其神圣的领土。</text>
-            <text>“皮之不存，毛将焉附”——一般而言确实如此。</text>
-            <text>不过，在“墙”的阻隔下，他们仅凭有限的接触，自然也不可能推断出……</text>
-            <text>……帝国的皇帝和臣民早已是牢不可破的一体，即使在虚空中零落四方，也一样有办法保存下最核心的机能。</text>
+            <text>...But that did not waver the emperor.</text>
+            <text>He had lived for so long, that this was just a new form of “despair”.</text>
+            <text>The enemy seemed to believe that the foundation of the empire’s existence was its sacred territory. </text>
+            <text>“Without a land, a country cannot exist” - Usually, that would be true.</text>
+            <text>However, thanks to the barrier of the “wall”, they could not infer that…</text>
+            <text>...The emperor and his subjects had already become inseparable, and even if they were scattered in the void, there is still a way to preserve the core functions.</text>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="01_19_scienceEngineWarning.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <text>帝国是以“新生命”为原则构筑起来的。</text>
-            <text>它终将破茧成蝶，突破这名为“世界”的牢笼。</text>
-            <text>没有疾病、没有迫害、没有困窘、没有死亡。</text>
-            <text>——而后，还将有绝对的理解、绝对的自由。</text>
-            <text>它将达成先知与选民们约定的复活，它将为一切更低级的生命降下最终的审判。</text>
-            <text>事到如今，那既是臣民又是皇帝的唯一生物，它唯一不明白的事实仅仅是……</text>
-            <text>……为何这份炽热的力量，直到今天，才有人将它继承与发扬。</text>
-            <text>毕竟，这力量的源头，并不是“拿破仑·波拿巴”、或者任何一个与他类似时代的智者——</text>
-            <text>这力量源自数万年前的隐秘，它像日食中的朝阳，在晨曦第一次渐露之时便不幸夭折；</text>
-            <text>却要一直等到星移斗转之后，才终于有机会，在彼岸的子夜中雄壮地升起。</text>
+            <text>The empire was built upon the principle of the “new life”.</text>
+            <text>It would eventually break out of its cocoon and become a butterfly, breaking through the cage called “the world”.</text>
+            <text>There will be no disease, no discrimiation, no poverty, and no death.</text>
+            <text>--And after that, an absolute understanding and absolute freedom.</text>
+            <text>They will reach the resurrection promised by the prophet to the people, and they will bring judgement to all lower lifeforms.</text>
+            <text>As of now, it is a creature that is both the emperor and his subjects. The only thing it did not understand is…</text>
+            <text>...Why this blazing power, until today, had not been inherited and carried forward by anyone?</text>
+            <text>After all, the source of this power was not “Napoleon Bonaparte” or any wise man from his era-</text>
+            <text>This power originated from a secret from tens of thousands of years in the past. It is like a rising sun in the eclipse, unfortunately dying before it could give off light.</text>
+            <text>However, it had to wait for nightfall before it could shine majestically on the other side of the shore.</text>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="lavaEarth.jpg">
             <bgm src="12_14_moonLight.mp3" status="continue"></bgm>
             <show chara="wristClose-up" position="left"/>
-            <text>……它抛弃了一切不必要的杂质，只留下了生命中最健壮、最朴素、最本源的部分。</text>
-            <text>不需要语言，不需要美貌，仅仅是它的存在本身，便是一种真理的象征。</text>
-            <text>——这毫无疑问乃是一切生命的终极形态。</text>
-            <text>试图将它杀死在摇篮里的人，只会在面对这股力量之际，自取其辱。</text>
-            <text>更何况对方的布阵过于依赖这个世界中的“管道”——</text>
-            <text>——在皇帝看来，对方从一开始，就已经输了。</text>
+            <text>...It discarded all forms of impurity, leaving only the strongest, simplest, and most original part of life.</text>
+            <text>No language, no beauty. Just its existence was a symbol of truth.</text>
+            <text>--This is undoubtedly the ultimate lifeform.</text>
+            <text>Those who try to kill it in the cradle will only be humiliated in the face of this force.</text>
+            <text>What’s more, the opponent’s formation was too dependent on the “pipes” of this world--</text>
+            <text>--In the eyes of the emperor, the opponent had lost from the start.</text>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="lavaFlow.jpg">
             <bgm src="01_04_Miracle.mp3" status="start"></bgm>
-            <text>……战场上四处弥漫着血的味道。</text>
-            <text>士兵的尸体犹如防洪的沙袋般填平了附近的每一条沟壑。</text>
-            <text>然而，身为临时前敌总指挥的人，却无法下令撤退。</text>
-            <text>敌人自空中强行降落，占据了此处通向锚点最主要的入口，截断了每一个人的退路。</text>
-            <text>因此，只要她们这些指挥员不打算扔下自己的士兵先行逃跑——</text>
-            <text>——她们就必须在“向敌人发起冲锋”和“坐以待毙”之间，为包括她们自己的所有人选择一种方案。</text>
-            <text>敌人牢牢占据着我方的咽喉。锚点的通道易守难攻。</text>
-            <text>从世界泡的另一侧投送兵力，只会让那些士兵在展开阵型之前，就被这怪异的敌人成批消灭。</text>
-            <text>……此时此刻，在这北海孤岛上，他们只能孤军奋战。</text>
+            <text>...The smell of blood was permeating the battlefield.</text>
+            <text>The soldier’s bodies filled every nearby gully like sandbags being piled to prevent a flood.</text>
+            <text>However, the temporary commander-in-chief was unable to order a retreat.</text>
+            <text>The enemy landed from the sky, occupying the main entrance to the Anchor Point and cutting off everyone’s retreat.</text>
+            <text>Therefore, as long as these commanders did not plan on leaving their soldiers to escape first-</text>
+            <text>--They must choose for everyone, including themselves, to either “charge at the enemy” or “wait to die”.</text>
+            <text>The enemy is firmly on their throats. The passage of the Anchor Point is easy to defend but difficult to attack.</text>
+            <text>Bringing troops from the other side of the Bubble Universe will only cause them to be wiped out by this weird enemy before they can even get into formation.</text>
+            <text>...At this moment, on this North Sea island, they can only fight alone.</text>
             <goto goto="80" change="0"/>
         </scene>
         <scene id="80" background="CG28-3.jpg">
             <bgm src="01_04_Miracle.mp3" status="continue"></bgm>
-            <text>一开始，当那个门状的怪物出现在星辰背景之中时，士兵们还乐观地认为，那不过是切割世界所留下的某种残渣——</text>
-            <text>——可能是残余的机械装置，也可能是落单的脆弱敌人。</text>
+            <text>At first, when the gate-shaped monster appeared on the starry sky, the soldiers were optimistic that it was just some kind of residue from the cutting of the world--</text>
+            <text>--It might be a leftover mechanical device, or an enemy that is only strong in groups.</text>
             <text>然而，当拦截无效、炮击无效，对方稳如山巅之城一般降落在锚点入口并施放出无数触腕的时候……</text>
             <text>……任谁都能明白，挡在他们面前的，绝非普通的存在。</text>
             <goto goto="90" change="0"/>
