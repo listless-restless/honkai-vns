@@ -155,82 +155,82 @@
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
             <speak chara="reannaNoFace">The last time we fought...you must have realised already, right?</speak>
             <show chara="reaHahArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">我可是个……比你还“变本加厉”的家伙呢。</speak>
+            <speak chara="reannaNoFace">I'm a...someone who is even worse than you.</speak>
             <show chara="reaSmileArmedNoLanceClose-up" position="left"/>
-            <speak chara="reannaNoFace">物理意义上。</speak>
+            <speak chara="reannaNoFace">In the physical sense.</speak>
             <goto goto="130" change="#ffffff"/>
         </scene>
         <scene id="130" background="tankInside.jpg">
             <bgm src="04_20_tank.mp3" status="start"></bgm>
             <show chara="teslaAstonishGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">呃……等等等等……</speak>
-            <speak chara="teslaNoFace">信息量有点大……</speak>
+            <speak chara="teslaNoFace">Uh...Wait, wait...</speak>
+            <speak chara="teslaNoFace">That's a lot of information...</speak>
             <show chara="teslaShoutWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">也就是说……那个一半都变成崩坏兽的阴沉女，是试图唤醒你的能力，才专门来找茬的？</speak>
-            <speak chara="teslaNoFace">专门拆了人家的房子？还连带着把我砸了个七荤八素？</speak>
+            <speak chara="teslaNoFace">That is to say... That gloomy woman who half turned into a Honkai beast, she was trying to awaken your powers, and was here to pick a fight?</speak>
+            <speak chara="teslaNoFace">Demolishing people's houses, And even smashed me into a mess?</speak>
             <show chara="teslaShoutWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltSorryNewClose-up" position="right"/>
-            <speak chara="weltNoFace">是这样……</speak>
+            <speak chara="weltNoFace">That's about it...</speak>
             <show chara="weltSorryNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">所以呢？你的能力究竟是什么？</speak>
+            <speak chara="teslaNoFace">So? What are your abilities? </speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……唉？</speak>
+            <speak chara="weltNoFace">Well...</speak>
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">怎么。既然你仍然是我们的人——那不就应该直接从建设性的问题开始吗？</speak>
+            <speak chara="teslaNoFace">How so. Since you're still one of us -- shouldn't you start with something constructive??</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
-            <speak chara="weltNoFace">不……不愧是特斯拉……</speak>
+            <speak chara="weltNoFace">Er...</speak>
+            <speak chara="weltNoFace">That was a surprisly accepting response...As expected of Tesla...</speak>
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">嘿嘿，能快速接受世界的变化，那可是身为发明家的必要条件！</speak>
+            <speak chara="teslaNoFace">Heh heh, being able to quickly accept changes in the world is a must condition for being an inventor!</speak>
             <show chara="teslaBiteGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">……啧。怎么好像被你拍了马屁一样。</speak>
+            <speak chara="teslaNoFace">...Tsk. Why does it seem like I'm getting flattered. </speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">……总而言之，回答我的问题啦！</speak>
+            <speak chara="teslaNoFace">... Anyways, answer my question first!</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……这个嘛……</speak>
-            <speak chara="weltNoFace">我……我也不是很明白来着……</speak>
+            <speak chara="weltNoFace">Uh, Well...</speak>
+            <speak chara="weltNoFace">I...I don't quite understand it myself...</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAstonishGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">……哈？</speak>
+            <speak chara="teslaNoFace">...Huh?</speak>
             <show chara="teslaAstonishGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose-up" position="right"/>
-            <speak chara="einNoFace">别太着急，特斯拉博士。除了瓦尔特自己拒绝了那个神秘意志……</speak>
+            <speak chara="einNoFace">Take it easy, Dr. Tesla. Except for Welt's own rejection of the mysterious will...</speak>
             <show chara="einNormalWinterClose-up" position="right"/>
-            <speak chara="einNoFace">现在能确定的，第一，是他使用伊甸之星的效果比我们要强很多；第二，是他的体内残留着柏林崩坏事件遇难者的“灵魂残渣”。</speak>
+            <speak chara="einNoFace">What's certain is, number one, that he used Eden star much more effectively than we did; The second is that he carries whithin himself "the residue of the souls" of victims of the Berlin Eruption.</speak>
             <show chara="einSeriousEmWinterClose-up" position="right"/>
-            <speak chara="einNoFace">如果薛定谔对于他是“律者”的判断没有偏差……那么，这两个已知条件，其实没有任何推理价值。</speak>
+            <speak chara="einNoFace">If Schrodinger was correct in her judgment that he is indeed a "Herrscher"... So, these two things, they don't really have any deductive value.</speak>
             <show chara="einSeriousEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">……</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="right"/>
-            <speak chara="einNoFace">“神之键”是使用“律者核心”打造的武装，律者使用起来当然比我们更得心应手；</speak>
+            <speak chara="einNoFace">The Divine keys were built with the Core of Herrschers, and a Herrscher can use them more easily and effectively than we can.</speak>
             <show chara="einSeriousEmWinterClose-up" position="right"/>
-            <speak chara="einNoFace">而那些“灵魂残渣”，应该也只是他真正能力所带来的副效果……否则，他们不会是个七嘴八舌的状态。</speak>
+            <speak chara="einNoFace">And the "residue of souls" is very likley just a side effect of his true abilities... Otherwise, they wouldn't be in such a state of disarray.</speak>
             <show chara="einSmileWinterClose-up" position="right"/>
-            <speak chara="einNoFace">总而言之……想要由此推知更多信息，未免太强人所难了吧？</speak>
+            <speak chara="einNoFace">All in all... It would be quite difficult to infer more information from just this, right?</speak>
             <show chara="einSmileWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaBoringGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">……</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">话是这样说啦。</speak>
+            <speak chara="teslaNoFace">That's the way it is.</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">不过……如果这个笨蛋真的是“律者”，那他也是一开始就是的吧？</speak>
+            <speak chara="teslaNoFace">But... if this idiot really is a "Herrscher", then he was one from the very beginning, right?</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="einSeriousEmWinterClose-up" position="right"/>
-            <speak chara="einNoFace">你是指……</speak>
+            <speak chara="einNoFace">Do you mean...</speak>
             <show chara="einSeriousEmWinterClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">不要忘了……这次的灾害规模估计和柏林那次相当……</speak>
-            <speak chara="teslaNoFace">也就是说，既然笨蛋瓦尔特是律者，而闷葫芦薛定谔又不是——</speak>
-            <speak chara="teslaNoFace">那么，我们在纽约，也就很可能会遭遇另一位“新鲜出炉”的家伙了。</speak>
-            <speak chara="teslaNoFace">应该是这样的吧？</speak>
+            <speak chara="teslaNoFace">Don’t forget... the scale of this disaster is estimated to be comparable to the one in Berlin...</speak>
+            <speak chara="teslaNoFace">In other words, since the idiot Welt is a Herrscher, and that idiot Schrödinger is not—-</speak>
+            <speak chara="teslaNoFace">Well, there's a good chance we might have another one appear in New York.</speak>
+            <speak chara="teslaNoFace">That's how it works, right?</speak>
             <goto goto="140" change="#ffffff"/>
         </scene>
         <scene id="140" background="connecticutRoad.jpg">
@@ -271,9 +271,9 @@
             <show chara="schroNormalLanceClose-up" position="right"/>
             <speak chara="schroNoFace">But what can I say is, that wasn't power a human could have obtained by themselves.</speak>
             <show chara="schroSmileLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">However it doesn't belong to the same system as the Houkai.</speak>
+            <speak chara="schroNoFace">However it doesn't belong to the same system as the Honkai.</speak>
             <show chara="schroNormalLanceClose-up" position="right"/>
-            <speak chara="schroNoFace">I can tell. Even now Edison-san is fighting against the Houkai using that power.</speak>
+            <speak chara="schroNoFace">I can tell. Even now Edison-san is fighting against the Honkai using that power.</speak>
             <show chara="schroShrinkLanceClose-up" position="right"/>
             <speak chara="schroNoFace">...But I believe she has reached a domain none of us can get close to.</speak>
             <goto goto="150" change="#ffffff"/>
@@ -291,9 +291,9 @@
             <show chara="dollarFranklinEmFar" position="center"/>
             <speak chara="dollarFranklinNoFace" remark="next">It'll be problematic if you forget. The moment you borrowed the power of ■■■■ and decided to use the 「Interferometer」, it stopped being connected to "that" 11-dimensional space—— That's why I can have a conversation with you like this.</speak>
             <remark post="U2FsdGVkX1+X733EXSLz1fznthEa">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">理论物理中的“弦理论”（后发展为“M理论”）认为，所有的基本粒子都可以【表述】为某种特殊空间（十维）上的特殊【波动】（称之为“弦”，“弦”在M理论中被更本质的“膜”所表示）。因此，它是建立在十一维时空（十维空间加一维时间）上的。</p>
-                <p class="article-text">“人们非常幸运地发现了一种崭新的对称。……一种方式是讲，时空除了我们所体验到的维以外还有额外的维。这些维被称为格拉斯曼维，因为它们是用所谓的格拉斯曼变量的数而不用通常的实数来度量。……对于我这样的一名实证主义者而言，‘额外维的确存在吗？’的问题是没有意义的。人们最多只能问：具有额外维的数学模型能很好地描述宇宙吗？”——史蒂芬·霍金，《果壳中的宇宙》</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The "string theory" in theoretical physics (later developed as "M theory") believes that all elementary particles can be [expressed] as special [waves] in a special space (ten-dimensional) (called "strings") , "String" is represented by the more essential "membrane" in M theory). Therefore, it is based on eleven-dimensional space-time (ten-dimensional space plus one-dimensional time).</p>
+                <p class="article-text">"People are very fortunate to discover a new kind of symmetry.... One way is to say that time and space have additional dimensions besides the dimensions we experience. These dimensions are called Glassman dimensions because they are used The number of the so-called Grassmann variable is not measured by the usual real numbers.... For a positivist like me, the question of'do extra dimensions really exist?' is meaningless. People can only ask at most : Can a mathematical model with extra dimensions describe the universe well?" -Stephen Hawking, "The Universe in a Nutshell"</p>
             </remark>
             <show chara="dollarFranklinAhFar" position="center"/>
             <speak chara="dollarFranklinNoFace">I intend to convey my thoughts in a way even you can understand. I'll say it again, I'm just one of ■■■■'s creations. I'm not any different than you right now.</speak>
