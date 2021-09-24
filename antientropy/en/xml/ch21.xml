@@ -36,7 +36,7 @@
             <text>...I am lowering my guard around these people?</text>
             <text remark="next">Thankfully, it hasn't been that long since I passed out. After taking a short breath, I noticed the smell of carbolic acid in the air.</text>
             <remark post="U2FsdGVkX195uGGwk19hRG2IpYlg">
-                <p class="article-text-h">注：</p>
+                <p class="article-text-h">Note：</p>
                 <p class="article-text">石炭酸（Carbolic acid），即苯酚（化学式：PhOH），是最简单的酚类有机物；其稀溶液是现代医学中最早投入使用的消毒药剂。苯酚是一种不安全的消毒剂，它的浓溶液对皮肤具有极强的渗透、腐蚀能力，且毒性较强；在当代，其主要用途在于化工合成，如制造阿司匹林、酚醛树脂等。</p>
             </remark>
             <text>The bright light from the morning Sun entered diagonally from a small window at the end of the hallway. The strong contrast of light and darkness gave this questionable clinic a strange atmosphere.</text>
@@ -45,82 +45,82 @@
         <scene id="30" background="wallClinic.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoNameNoFace">你好。</speak>
+            <speak chara="morganNoNameNoFace">Hi.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">你、你好。</speak>
+            <speak chara="reannaNoFace">Hello</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <text>对方面无表情地伸出了一只手……</text>
-            <text>……似乎是打算握手的意思。</text>
-            <speak chara="morganNoNameNoFace">米卡里·摩根。这家诊所的负责人。</speak>
+            <text>Holding out a hand to the side expressionlessly...</text>
+            <text>...Seems like she meant to shake hands.</text>
+            <speak chara="morganNoNameNoFace">Mikari Morgan. The person in charge of this clinic.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">蕾安娜·布里甘缇亚。天命的女武神。</speak>
+            <speak chara="reannaNoFace">Reanna Brigantia, Valkyrie of Schicksal.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">你的同伴正在隔壁补充能量……需要来一点吗？高热量食品。</speak>
+            <speak chara="morganNoFace">Your companion is repercurating thier energy next door...Do you need some? High calorie foods.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">啊，不必了。我……早饭吃得很饱，哈哈。</speak>
+            <speak chara="reannaNoFace">Oh, no need. I...I had a full breakfast, haha.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">是吗……那我就自己享用喽。</speak>
-            <text>说着，她剥开一块巧克力丢进嘴里。</text>
-            <speak chara="morganNoFace">对了。</speak>
-            <speak chara="morganNoFace">感谢你及时救治了伊莱恩。那个蠢货，之前要是没有我们，估计已经死了好几回了。</speak>
-            <speak chara="morganNoFace">不过，我好奇的是——你们的“野战医疗设备”，究竟是什么东西？</speak>
+            <speak chara="morganNoFace">I see, then I'll enjoy it myself I guess.</speak>
+            <text>With that, she peeled a piece of chocolate and threw it in her mouth.</text>
+            <speak chara="morganNoFace">Right.</speak>
+            <speak chara="morganNoFace">Thank you for helping Elaine in time. That idiot, if we hadn't been here before, would've been dead several times.</speak>
+            <speak chara="morganNoFace">However, what I am curious about is-what exactly is your "field medical equipment"?</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">啊哈哈……这个嘛……</speak>
+            <speak chara="reannaNoFace">Ahaha...that..</speak>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="livingroomClinic.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="einSmileWinterClose" position="left"/>
-            <speak chara="einNoFace">唔……这鱼子酱的味道真不错。面包的质感也正好。</speak>
+            <speak chara="einNoFace">Well...This caviar tastes really good. The texture of the bread is just right.</speak>
             <show chara="einSmileWinterClose" position="left" opacity="0.7"/>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">我说吧？他们总有办法搞到一些特别好吃的玩意儿。</speak>
-            <speak chara="elaineNoFace" remark="next">像是这个里海欧鳇鱼子酱啦，之前的伊斯特拉白松露啦，还有伊比利亚橡实火腿……</speak>
+            <speak chara="elaineNoFace">Right? They always have a way to get some really good stuff.</speak>
+            <speak chara="elaineNoFace" remark="next">Like this Caspian Urga caviar, the Istraya truffle, the Iberian Oak ham...</speak>
             <remark>
-                <p class="article-text-h">注：</p>
+                <p class="article-text-h">Note：</p>
                 <p class="article-text">欧洲鳇（学名：Huso huso）为鲟科鳇属的鱼类，俗名“欧鳇”，亦有因其产地而称为“黑海鳇”、“里海鳇”的。欧洲鳇是世界上最大的淡水鱼品种之一，也是鲟鱼中最大、最珍贵的品种，体长可长达8米多、体重可达1吨以上。欧洲鳇（尤其是伏尔加河“入海口”阿斯特拉罕出产的）的鱼子酱，卵粒肥硕、口感柔滑、回味持久，是所有鱼子酱中最美味、最名贵的品种。</p>
             </remark>
             <show chara="elaineSmileClose" position="right" opacity="0.7"/>
             <show chara="teslaSurpriseGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">什么？摩根医生这么有钱的吗？</speak>
+            <speak chara="teslaNoFace">Huh? Is Dr. Morgan that rich?</speak>
             <show chara="teslaSurpriseGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="elaineNormalClose" position="right"/>
-            <speak chara="elaineNoFace">唔……该说有钱呢……还是认识的人多呢……</speak>
+            <speak chara="elaineNoFace">Hmm...Should I say that I have money...or that I know more people...</speak>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">嗯哼……山珍海味再好，也是没法填饱肚子的吧？</speak>
-            <speak chara="hellawesNoNameNoFace">来，久等啦——香蕉巧克力蛋糕。</speak>
+            <speak chara="hellawesNoNameNoFace">Uh-huh... No matter how good the delicacies of the mountains and the sea are, it can't fill your stomach, right?</speak>
+            <speak chara="hellawesNoNameNoFace">Come on, wait a minute — banana chocolate cake.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaStarGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">唔哇，好香！</speak>
+            <speak chara="teslaNoFace">Ugh, it smells so good!</speak>
             <show chara="teslaStarGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="mbembaClose" position="right"/>
-            <speak chara="mbembaNoFace">唔嗯嗯，比我妈妈烤的还香！</speak>
+            <speak chara="mbembaNoFace">Mhm, its even better than the ones my mom used to bake!</speak>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">那当然喽，你们当我是白穿这一身兔女郎啦。</speak>
+            <speak chara="hellawesNoNameNoFace">Of course, you treat me as a bunny girl for nothing.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaEatGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">我不客气啦！</speak>
+            <speak chara="teslaNoFace">You're welcome!</speak>
             <show chara="teslaEatGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">噗……慢点吃，别噎着哦。</speak>
+            <speak chara="einNoFace">Cough...Eat slowly, so you don't choke.</speak>
             <show chara="einSlyWinterClose" position="right"/>
-            <speak chara="einNoFace">啊……需要我给你拍拍嗝吗？</speak>
+            <speak chara="einNoFace">Do you need me to pat away your hiccups?</speak>
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">……要你管啦！啰嗦。</speak>
+            <speak chara="teslaNoFace">...You are one to talk Mophead.</speak>
             <show chara="teslaBiteGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">嗯哼……她说的没错哦？即使着急赶路，那也要细嚼慢咽嘛。</speak>
+            <speak chara="hellawesNoNameNoFace">Uh huh...She's right though. Even if you are in a hurry, you should eat slowly.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">……说起来啊，赫拉薇丝小姐，你究竟是帮摩根医生做什么的？</speak>
+            <speak chara="teslaNoFace">... Speaking of which, Miss Hellawes, what exactly are you doing for Dr. Morgan?</speak>
             <show chara="teslaErGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
             <speak chara="hellawesNoFace">此时此刻的话……当然是兼职护士啦。</speak>
