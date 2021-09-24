@@ -90,7 +90,7 @@
             <show chara="kallenChristMercyFar" position="center"/>
             <speak chara="kallenNoNameNoFace" remark="next">Your life is "Macbeth" without its supporting cast.</speak>
             <remark post="U2FsdGVkX18BqSCxNHLELV1rn82a">
-                <p class="article-text-h">注：</p>
+                <p class="article-text-h">Note：</p>
                 <p class="article-text">“卡莲”所说的每句带引号台词，都是莎士比亚名作《麦克白》里的成句。</p>
             </remark>
             <show chara="kallenChristSilentFar" position="center"/>
@@ -335,12 +335,12 @@
             <cg src="CG26-7.jpg" bg="CG26-7.jpg" fadeIn="0" fadeOut="1"></cg>
             <speak chara="reannaNoNameNoFace" remark="next">「Theseus' Ship」 is called that because of Theseus!</speak>
             <remark post="U2FsdGVkX19qTSI4PtT67p6CeBN5">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">有一位雅典人的英雄叫做忒修斯。他很伟大，所以当地人把他曾经驾驶的船供奉了起来，当作纪念碑一样。</p>
-                <p class="article-text">但是时间无情，制造那艘船的木材，渐渐都腐朽不堪。为了不让这艘伟大的船最后只能当作祭品被烧掉，人们想出了一个好方法——每隔若干年，就检查一遍船上的所有部件，如果有朽烂的，就重做新的换掉。</p>
-                <p class="article-text">于是，很多年后，当一位哲学家前来参观的时候，船上的所有部件，都已经换过至少两次了。</p>
-                <p class="article-text">哲学家听说了这件事之后很沮丧，他质问当地人：“这还是原本的那艘船吗？”</p>
-                <p class="article-text">而当地人却满不在乎的回答：“如果您说不是的话，哲学家先生，您觉得它是什么时候开始不是的呢？您要知道，即使是在出海途中，船只也是需要时不时更换部件的呀。”</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">There was a hero of the Athenians named Theseus. He was so great that the locals consecrated the ship he sailed as a monument.</p>
+                <p class="article-text">But time is merciless, and the wood from which the ship was made gradually decayed. So that the great ship would not end up being burned as a sacrifice, they came up with a good idea: every few years, all the parts of the ship should be inspected, and if any were rotten, they would be replaced with new ones.</p>
+                <p class="article-text">So, many years later, when a philosopher came to visit, all the parts on the ship had been replaced at least twice.</p>
+                <p class="article-text">When the philosopher heard of this, he was very upset. He asked the local people, "Is this still the same ship?”</p>
+                <p class="article-text">The locals replied nonchalantly: "If you say no, Mr. Philosopher, when do you think it started not to be? You have to know that even when going out to sea, ships need to replace parts from time to time.”</p>
             </remark>
             <goto goto="210" change="0"/>
         </scene>
