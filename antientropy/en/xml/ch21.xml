@@ -37,7 +37,7 @@
             <text remark="next">Thankfully, it hasn't been that long since I passed out. After taking a short breath, I noticed the smell of carbolic acid in the air.</text>
             <remark post="U2FsdGVkX195uGGwk19hRG2IpYlg">
                 <p class="article-text-h">Note：</p>
-                <p class="article-text">石炭酸（Carbolic acid），即苯酚（化学式：PhOH），是最简单的酚类有机物；其稀溶液是现代医学中最早投入使用的消毒药剂。苯酚是一种不安全的消毒剂，它的浓溶液对皮肤具有极强的渗透、腐蚀能力，且毒性较强；在当代，其主要用途在于化工合成，如制造阿司匹林、酚醛树脂等。</p>
+                <p class="article-text">Carbolic acid, or phenol (chemical formula: PhOH), is the simplest phenolic organic substance; its dilute solution is the earliest disinfectant used in modern medicine. Phenol is an unsafe disinfectant. Its concentrated solution has a strong ability to penetrate and corrode the skin, and is highly toxic; in modern times, its main use is in chemical synthesis, such as the manufacture of aspirin and phenolic resin.</p>
             </remark>
             <text>The bright light from the morning Sun entered diagonally from a small window at the end of the hallway. The strong contrast of light and darkness gave this questionable clinic a strange atmosphere.</text>
             <goto goto="30" change="0"/>
@@ -123,13 +123,13 @@
             <speak chara="teslaNoFace">... Speaking of which, Miss Hellawes, what exactly are you doing for Dr. Morgan?</speak>
             <show chara="teslaErGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoFace">此时此刻的话……当然是兼职护士啦。</speak>
-            <speak chara="hellawesNoFace">别看我这副打扮——人家可是真的有执照的哦？</speak>
-            <speak chara="hellawesNoFace">平常诊所里不需要那么多人手……不过，总有例外的时候，你说是吧？</speak>
+            <speak chara="hellawesNoFace">Right now......Part-time nurse, of course.</speak>
+            <speak chara="hellawesNoFace">Don't look at me like that -- I'm actually licensed, alright.</speak>
+            <speak chara="hellawesNoFace">Usually there is no need for so many people in a clinic... However, there's always some room for exceptions, no?</speak>
             <show chara="elaineNormalClose" position="right"/>
-            <speak chara="elaineNoFace">从昨天半夜突然断电的时候起，摩根医生就把我们都叫来这里了——</speak>
+            <speak chara="elaineNoFace">Since the sudden power failure in the middle of last night, Dr. Morgan has called all of us here—</speak>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">如你所见，旁边这家伙，上夜班的衣服都还没有换掉呢。</speak>
+            <speak chara="elaineNoFace">As you can see, the guy next to me hasn't even changed his clothes for the night shift.</speak>
             <show chara="elaineSmileClose" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="left"/>
             <speak chara="weltNoFace">等等……所以你们本来就是一个固定的……“组织”？</speak>
@@ -140,13 +140,13 @@
             <speak chara="hellawesNoFace">我和帕西瓦尔负责打听消息，伊莱恩负责跑生意和放债讨债，至于摩根医生——她当然是负责动脑子啦。</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="weltNervousNewClose" position="left"/>
-            <speak chara="weltNoFace">呃……你们这难道是……</speak>
+            <speak chara="weltNoFace">Ah... could it be that...</speak>
             <show chara="weltNervousNewClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoFace">嗯哼？我们可没做任何违法的事情哦？</speak>
+            <speak chara="hellawesNoFace">Huh? We didn't do anything illegal, did we?</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">嘿嘿，你们想太多了吧？</speak>
+            <speak chara="elaineNoFace">Heh, you're thinking too much again, aren't you?</speak>
             <speak chara="elaineNoFace">就他们几个，哪有胆子去干提着脑袋的买卖？……唔，蛋糕吃完了耶！</speak>
             <speak chara="elaineNoFace">小赫拉，去开那个吧！那个！“塞纳之花”！</speak>
             <goto goto="50" change="0"/>
@@ -252,8 +252,8 @@
             <show chara="einSlyWinterClose" position="right"/>
             <speak chara="einNoFace" remark="next">“银色子弹”。</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">银色子弹（silver bullet）是一种由白银制成的火枪弹丸。在欧洲中世纪的民间传说中，银制品，如银刀、银叉等，是唯一能和狼人、女巫以及其他怪物对抗的利器。因此，在引申含义中，“银弹”也意味着强有力的、一劳永逸的、适应各种场合的“万能王牌”。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">A silver bullet is a musket bullet made of silver. In European medieval folklore, silver products, such as silver knives, silver forks, etc., are the only weapons that can fight against werewolves, witches and other monsters. Therefore, in the extended meaning, "silver bullet" also means a powerful, once and for all, "all-purpose trump card" suitable for various occasions.</p>
             </remark>
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="elaineNormalClose" position="left"/>
@@ -264,9 +264,9 @@
             <show chara="einSmileWinterClose" position="right"/>
             <speak chara="einNoFace" remark="next">“阿斯特拉弹”是使用这位特斯拉博士发明的合金制作的弹药。对崩坏兽的破甲效果相当不错。</speak>
             <remark post="U2FsdGVkX18Mxo5Y1tbHXcnS6m3z">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">"Astra"（梵语: अस्त्र）是印度神话中，一类由神赐予的超自然武器的统称。</p>
-                <p class="article-text">例如，“兽主法宝”（Pashupatastra），即是湿婆（Shiva，印度神话的“破坏神”，亦是百兽之神）赐予阿周那的 "Astra"，其法力据说强到可以毁灭宇宙。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"Astra" (Sanskrit: अस्त्र) is a general term for a class of supernatural weapons bestowed by gods in Indian mythology.</p>
+                <p class="article-text">For example, "Pashupatastra" (Pashupatastra), that is, Shiva (Shiva, the god of destruction in Indian mythology, and the god of beasts) bestowed on Ajuna's "Astra", whose power is said to be strong enough to destroy the universe.</p>
             </remark>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose" position="right"/>
@@ -274,10 +274,10 @@
             <show chara="teslaShameGlassWinterClose" position="right"/>
             <speak chara="teslaNoFace" remark="next">话说回来，这子弹虽然是破甲弹，却是.45规格的……你们有适合装填的家伙么？</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">.45 Auto（.45自动手枪弹），也称.45 ACP（Automatic Colt Pistol，柯尔特自动手枪），是美国多种手枪及冲锋枪所使用的弹种，其重弹头在亚音速下，能够轻易对缺乏防护的目标造成致命杀伤……</p>
-                <p class="article-text">……不过，在我们的故事中，特斯拉另辟蹊径，她利用提尔合金的自锐效应——即铀在高速旋转摩擦下能够实现液化穿刺的特殊性能，反其道而行之，发明了这一款轻型枪械也能使用的.45超音速破甲弹。</p>
-                <p class="article-text">p.s. “.45”是指其这款子弹的弹头直径约为0.45英寸。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">.45 Auto (.45 automatic pistol bullet), also known as .45 ACP (Automatic Colt Pistol, Colt automatic pistol), is a type of ammunition used by many pistols and submachine guns in the United States. Easily cause fatal damage to unprotected targets...</p>
+                <p class="article-text">...However, in our story, Tesla took a different approach. She took advantage of the self-sharpening effect of Tyre alloy—that is, the special properties of uranium that can achieve liquefaction and puncture under high-speed rotating friction. This is a .45 supersonic armor-piercing bullet that can also be used with a light firearm.</p>
+                <p class="article-text">p.s. ".45" means that the diameter of its bullet is about 0.45 inches.</p>
             </remark>
             <goto goto="80" change="#ffffff"/>
         </scene>
@@ -290,8 +290,8 @@
             <show chara="mbembaClose" position="right"/>
             <speak chara="mbembaNoFace" remark="next">哦哦，汤普森啊！有这家伙在手上，可就什么都不怕啦。</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“芝加哥打字机”是汤普森冲锋枪的俗称，因其开火声类似打字机、又是1930年代芝加哥黑帮的标志性武器而得名。汤普森系列出众的近距离杀伤力，使其成为当时世界上最受欢迎的冲锋枪之一——仅次于苏联的“波波沙”系列。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"Chicago Typewriter" is the common name of the Thompson submachine gun. It is named because it fires like a typewriter and is the iconic weapon of the Chicago gang in the 1930s. The outstanding close-range lethality of the Thompson series made it one of the most popular submachine guns in the world at that time-second only to the "Bobosha" series of the Soviet Union.</p>
             </remark>
             <show chara="mbembaClose" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="left"/>
