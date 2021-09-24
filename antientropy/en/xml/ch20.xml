@@ -8,67 +8,67 @@
         </scene>
         <scene id="10" background="tankInside.jpg">
             <bgm src="mid-lude.mp3" status="stop"></bgm>
-            <text>当日，上午8时左右。</text>
+            <text>That day, around 8 o'clock in the morning.</text>
             <bgm src="04_20_tank.mp3" status="start"></bgm>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">好啦，现在已经不需要再盯着瞭望镜了哦，“临时车长”？</speak>
+            <speak chara="teslaNoFace">Well, there's no need to stare at the lookout mirror now, "Temporary Chief"?</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose-up" position="right"/>
-            <speak chara="weltNoFace">已经……彻底安全了吗？</speak>
+            <speak chara="weltNoFace">Already... Is it completely safe?</speak>
             <show chara="weltNervousNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaSmileGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">这里又不是灾难的中心，没必要自己吓自己啦。</speak>
+            <speak chara="teslaNoFace">This is not the epicenter of the disaster, there is no need to be worried for yourself.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">退一万步说，就算会有敌袭，那也是视野更好的蕾安娜，会首先发现端倪吧？</speak>
+            <speak chara="teslaNoFace">At the very least, even if there's going to be an attack, it's going to be Reanna with a better view who's going to see it first, no?</speak>
             <show chara="teslaErGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">我们可是专门帮她把劳斯莱斯的顶棚拆了，搞成敞篷跑车的哦？</speak>
+            <speak chara="teslaNoFace">We were there to help her tear down the roof of the Rolls-Royce and make it a convertible sports car after all</speak>
             <show chara="teslaErGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltSighNewClose-up" position="right"/>
-            <speak chara="weltNoFace">唔……说的也是……</speak>
+            <speak chara="weltNoFace">Well... That's also...</speak>
             <show chara="weltSighNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">所以你就快点从那上面下来吧？</speak>
+            <speak chara="teslaNoFace">So why don't you just get down from there quickly?</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">机会难得，我们抓紧时间学习学习。</speak>
+            <speak chara="teslaNoFace">This is a rare opportunity, so let's hurry up and seize the chance to learn more.</speak>
             <show chara="teslaSnickerGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">学习？</speak>
+            <speak chara="weltNoFace">Learn?</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="einSlyWinterClose-up" position="left"/>
-            <speak chara="einNoFace">嗯。学习“神之键”的使用方法。</speak>
+            <speak chara="einNoFace">Mhm. Learn how to use the Divine Key.</speak>
             <show chara="einSlyWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……什么？</speak>
+            <speak chara="weltNoFace">....What?</speak>
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="einNormalWinterClose-up" position="left"/>
-            <speak chara="einNoFace">“伊甸之星”。</speak>
-            <speak chara="einNoFace">由前世代“岩之律者”的“律者核心”打造的致命武器。</speak>
-            <speak chara="einNoFace">我们都应该了解它的能力，以及使用方法。</speak>
+            <speak chara="einNoFace">"Star of Eden".</speak>
+            <speak chara="einNoFace">A powerful weapon created by using the "Herrscher Core" of the previous era's "Herrscher of Earth".</speak>
+            <speak chara="einNoFace">We should all know what it is capable of and how to use it.</speak>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">艾妲已经帮我们把说明书解析完成了——</speak>
+            <speak chara="teslaNoFace">Ada has finished parsing the instructions for us——</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">——趁着我们和总部的女武神之间隔着这层装甲，赶快开始吧。</speak>
+            <speak chara="teslaNoFace">---Let's get started while we have this layer of barrier between us and the Valkyries at the headquarters.</speak>
             <show chara="teslaShameGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose-up" position="right"/>
-            <speak chara="weltNoFace">……啊？</speak>
+            <speak chara="weltNoFace">...Huh?</speak>
             <show chara="weltAstonishNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaAngryGlassWinterClose-up" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="teslaNoFace">“啊”什么“啊”，你是榆木脑袋吗？</speak>
+            <speak chara="teslaNoFace">"Huh" what's to "huh" here, are you a bonehead?</speak>
             <show chara="teslaDisgustedGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">蕾安娜再怎么烂好人，那也是你直接顶撞过的奥托——一言九鼎的“天命”主教——人家的部下！</speak>
+            <speak chara="teslaNoFace">No matter how good Reanna is, she works for Otto, the Overseer of Schicksal, who you directly confronted!</speak>
             <show chara="teslaAstonishGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">我们做了这么多他八成会反感的事儿，总该适当提防一下，准备点手段的吧？</speak>
+            <speak chara="teslaNoFace">We have done so many things that he would absolutely hate, so we should be careful and prepare some means for any eventualities, right?</speak>
             <show chara="teslaBiteGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">况且，万一爱迪生那边倒了血霉，被天灾也好人祸也好一锅端了——</speak>
+            <speak chara="teslaNoFace">And besides, if Edison were to suffer some kind of disaster, either natural or man-made --</speak>
             <show chara="teslaDisgustedGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">——那种情况下，我们除了自己，还能依靠谁？</speak>
+            <speak chara="teslaNoFace">Who else can we rely on in that case but ourselves?</speak>
             <shake position="left" time="250"></shake>
             <show chara="teslaAngryGlassWinterClose-up" position="left"/>
-            <speak chara="teslaNoFace">难道你真以为，人家和你一样，都是只知道吃喝玩乐的蠢蛋吗？</speak>
+            <speak chara="teslaNoFace">Do you really think they're just like you, a bunch of Happy-go-lucky idiots?</speak>
             <show chara="teslaAngryGlassWinterClose-up" position="left" opacity="0.7"/>
             <show chara="weltEmbarraNewClose-up" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
+            <speak chara="weltNoFace">Er...</speak>
             <show chara="weltEmbarraNewClose-up" position="right" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterClose-up" position="left"/>
             <speak chara="teslaNoFace">Listen carefully.</speak>
@@ -100,12 +100,12 @@
         </scene>
         <scene id="20" background="roadMontana3.jpg">
             <bgm src="8_24_war.mp3" status="start"></bgm>
-            <speak chara="reannaNoFace">……以上就是我知道的所有情况。</speak>
+            <speak chara="reannaNoFace">...That's all I know.</speak>
             <speak chara="reannaNoFace">……</speak>
-            <speak chara="reannaNoFace">我的建议？不要再像三年前一样，贸然派出没有作战经验的部队了。</speak>
+            <speak chara="reannaNoFace">My advice? Don't rush to send in troops with no combat experience like you did three years ago.</speak>
             <speak chara="reannaNoFace">那、根、本、不、可、能、有、任、何、意、义。</speak>
-            <speak chara="reannaNoFace">……北美的地方组织看起来有能力做好侦察。</speak>
-            <speak chara="reannaNoFace">何况，他们很清楚自己战斗力弱小，反而不会因为冒进而造成不必要的牺牲。</speak>
+            <speak chara="reannaNoFace">... Local organizations in North America seem capable of doing a good job of reconnaissance.</speak>
+            <speak chara="reannaNoFace">...Moreover, they are well aware that their weakness regarding combat effectiveness, So they will not make unnecessary sacrifices because of rashed advance</speak>
             <speak chara="reannaNoFace">……</speak>
             <speak chara="reannaNoFace">No way.</speak>
             <speak chara="reannaNoFace">But if that's true...</speak>
