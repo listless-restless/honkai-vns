@@ -105,6 +105,7 @@
             <show chara="teslaShameGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">It was a mistake, -- but there's no need to worry too much about it.</speak>
             <speak chara="teslaNoFace">再稍微等一会儿，我们可就神——啊不对，鸟枪换炮啦。</speak>
+            <!--  Needs some revisions.   -->
             <show chara="teslaShameGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="right"/>
             <speak chara="weltNoFace">？？？</speak>
@@ -194,7 +195,7 @@
             <speak chara="teslaNoFace">...It's really the sort of bad idea that person would come up with.</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">...Do you know what that person makes me feel about this? </speak>
-            <speak chara="teslaNoFace">明明不知道自己面对的究竟是散兵游勇还是马克沁机枪，却觉得“我们”就是有办法获胜的祖鲁战士</speak>
+            <speak chara="teslaNoFace">Obviously I don’t know whether I’m facing a straggler or a Maxim, but I feel that "we" are the Zulu fighters who have a way to win.</speak>
             <show chara="teslaShameGlassWinterClose" position="left"/>
             <speak chara="teslaNoFace">......Forget it if you don't understand.</speak>
             <speak chara="teslaNoFace">…In short, as the saying goes, "It's better than nothing". Under certain conditions, I don't deny that you can help——</speak>
