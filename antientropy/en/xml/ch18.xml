@@ -215,7 +215,7 @@
             <hide position="center"/>
             <speak chara="yuriNoNameNoFace">This, this is the Emergency Response Administration and Providence Special Liaison Office! What department are you in?</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
-            <text>——Oh my God, it's really connected somewhere.</text>
+            <text>——Oh my God, it really connected somewhere.</text>
             <goto goto="130" change="#ffffff"/>
         </scene>
         <scene id="130" background="carNight.jpg">
