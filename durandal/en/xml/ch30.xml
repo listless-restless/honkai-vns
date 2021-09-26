@@ -8,8 +8,8 @@
         </scene>
         <scene id="10" background="white.jpg">
             <bgm src="x_DLC_UI7.mp3" status="start"></bgm>
-            <text>在地心深处，少女正做着零碎的梦。</text>
-            <text>梦与梦的夹缝中，无常的诗篇散布于幽谷之间。</text>
+            <text>In the depths of the earth, the girl dreamt fragmented dreams.</text>
+            <text>In the gaps between each dream, impermanent poems are scattered.</text>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="CG3-1.jpg">
@@ -17,10 +17,10 @@
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <text article="1">
                 <p class="article-text">The flower that smiles today</p>
-                <p class="article-text">（今朝欢笑的鲜花）</p>
+                
                 <br />
                 <p class="article-text">Tomorrow dies;</p>
-                <p class="article-text">（明日凋零；）</p>
+                
             </text>
             <text article="1">
                 <p class="article-text">All that we wish to stay,</p>
