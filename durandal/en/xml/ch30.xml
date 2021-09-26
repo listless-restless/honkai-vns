@@ -592,7 +592,7 @@
             <speak chara="_ShigureKira">That’s...</speak>
             <show chara="ShigureKiraVNSadClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">Hello! I said now is not the time to share this kind of knowledge! Did you not just tell me to not stay in a daze?</speak>
+            <speak chara="_Bianka">Hello! Now is not the time to share this kind of knowledge! Did you not just tell me to not stay in a daze?</speak>
             <show chara="biankaDressBiteClose" position="left"/>
             <speak chara="_Bianka"> Doctor, this “power” that you said is eroding the “Ether Anchor”, can we stop it?</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
