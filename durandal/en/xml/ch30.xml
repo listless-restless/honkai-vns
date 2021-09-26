@@ -739,23 +739,23 @@
         </scene>
         <scene id="270" background="fortControlRoomDark.jpg">
             <bgm src="x_ruin.mp3" status="start"></bgm>
-            <text>星语者们的遗骸渐渐消散，能够调控整个锚点的中央监控室，此刻寂静无声。</text>
-            <text>从旧王遗骸中新生的魔君，如蜘蛛一般安居在世界泡的中心，细细地品味着猎物的味道。</text>
+            <text>The remains of the Star Whisperers gradually dissipated, and the central monitoring room that could control the entire Ether Anchor was silent at this moment.</text>
+            <text>The demon born in the body of the old king lives in the center of the Bubble Universe like a spider, savoring its prey.</text>
             <show chara="RolandBSKSmile" position="center"/>
-            <speak chara="_laNinaNoName">……在彻底与旧世界告别之前，你们终究还是找到我们了呢。</speak>
+            <speak chara="_laNinaNoName">You managed to find us before we bid farewell to the old world, after all.</speak>
             <show chara="RolandBSKNormal" position="center"/>
-            <speak chara="_laNinaNoName">而距离我们成为超越这个世界的神明……还有五分钟。</speak>
+            <speak chara="_laNinaNoName">And before we become a god that transcends this world… five minutes remain.</speak>
             <show chara="RolandBSKSmile" position="center"/>
-            <speak chara="_laNinaNoName">呵呵，我们倒是很有兴致看一看，你们几个人究竟还能做到什么。</speak>
+            <speak chara="_laNinaNoName">Fufu, we are very interested in seeing what else you can do.</speak>
             <goto goto="280" change="#000000"/>
         </scene>
         <scene id="280" background="fortTunnelRed.jpg">
             <bgm src="x_Night.mp3" status="start"></bgm>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">奇怪……这里会怎么连一个人都没有……</speak>
+            <speak chara="_Bianka">Weird… How come there’s nobody here...</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">比安卡大人——你看对面！</speak>
+            <speak chara="_Rita">Bianka-sama, look over there!</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
             <speak chara="_Bianka">？！</speak>
@@ -764,53 +764,53 @@
         <scene id="290" background="fortTunnelRedRS.jpg">
             <bgm src="x_Night.mp3" status="continue"></bgm>
             <show chara="ShigureKiraVNShockClose" position="left"/>
-            <speak chara="_ShigureKira">比安卡、丽塔？你们怎么从对面——</speak>
+            <speak chara="_ShigureKira">Bianka? Rita? How are you on this side--</speak>
             <show chara="ShigureKiraVNShockClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">——这是我想问的吧！</speak>
+            <speak chara="_Bianka">--That’s what I want to ask as well!</speak>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">我们不是从降落点兵分两路去搜寻罗兰的下落吗？为什么竟然会迎面相遇！这条通道应该不是环形的啊！？</speak>
+            <speak chara="_Bianka">Didn’t we divide the troops after landing to search for Rowland’s whereabouts? Why did we meet head on! This passage shouldn’t be circular!</speak>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">我们不是还让龙和瓦特他们守在出发位置来接应吗？！</speak>
+            <speak chara="_Bianka">Didn’t we even leave the General Dragon and Watt behind to meet at the starting point?!</speak>
             <show chara="biankaDressShoutClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="left"/>
             <speak chara="_Schrodinger">……</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">你们……是不是一路上也没有遇到任何人？</speak>
+            <speak chara="_Schrodinger">You… didn’t meet anyone along the way?</speak>
             <show chara="schroNoSwordTalkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="right"/>
-            <speak chara="_Bianka">是啊，连个警备人员都没有！可如果说崩坏已经攻陷了要塞，又怎么会连战场都打扫得这么——</speak>
+            <speak chara="_Bianka">Yeah, not a single guard! But if Honkai already captured this fortress, why would the battlefield be so clean?</speak>
             <show chara="biankaDressSighClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">崩坏当然不会刻意去打扫战场。</speak>
+            <speak chara="_Schrodinger">Indeed, Honkai is not one to deliberately clean the battlefield.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">既然我们用自己的双脚证明了这条通道是环形，那么在我的思考能力以内，就只有一种可能的情况了——</speak>
+            <speak chara="_Schrodinger">And since we proved with our feet that this passage is circular, there is only one possibility I can think of--</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">在我们脚下的这一部分要塞，很可能已经脱离了由“锚点”组织的正常秩序。</speak>
+            <speak chara="_Schrodinger">The part of the fortress where we are standing may have broken away from the normal order organized by the “Anchor”.</speak>
             <show chara="schroNoSwordSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">……什么意思？</speak>
+            <speak chara="_Bianka">...What do you mean?</speak>
             <show chara="biankaDressBiteClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">比安卡，请你这样想。</speak>
+            <speak chara="_Schrodinger">...Bianka, think of it like this.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">这座地心要塞，原本就修建在最接近“锚点”的地方。而“锚点”本身是什么呢？</speak>
+            <speak chara="_Schrodinger">The underground fortress was originally built on the place closest to the “Ether Anchor”. And what is the “Anchor” itself?</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">是组织起这个大型世界泡的核心，是让诸多不同的、如书页般的微小空间，有序组织起来的“书脊”。</speak>
+            <speak chara="_Schrodinger">It’s the core that organizes this large-scale Bubble Universe, the “book spine” that organizes many different, small spaces tidely like pages.</speak>
             <show chara="schroNoSwordCalmClose" position="left"/>
-            <speak chara="_Schrodinger">……不，这种状况下，或许用电子计算机里那乱麻一般的数据线来打比方，可能还更合适。</speak>
+            <speak chara="_Schrodinger">...No, in this case, a messy data cable on a computer might be a better analogy.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">总之，由于要塞离锚点过近，所以它其实很容易被拆解成一个个微小的独立空间，每一个都近似于单独的世界碎片。</speak>
+            <speak chara="_Schrodinger">In short, because the fortress is too close to the Anchor Point, it’s actually very easy for it to be disassembled into tiny independent pieces, each of which is very similar to a  separate World Fragment.</speak>
             <show chara="schroNoSwordCalmClose" position="left"/>
-            <speak chara="_Schrodinger">换句话说，我们的相遇，其实就是各自从相反的方向绕了“一个世界 ”的半圈。</speak>
+            <speak chara="_Schrodinger">In order words, our encounter is a half-circle of a world in opposite directions.</speak>
             <show chara="schroNoSwordCalmClose" position="left" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">这……难道说，要塞本身已经解体，而我们还找错了应该前往的那部分碎片吗？</speak>
+            <speak chara="_Bianka">So… are you saying that this fortress has already been disassembled, and we got the wrong fragment?</speak>
             <show chara="biankaDressBiteClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">……不。前半句对，后半句似乎不对。</speak>
+            <speak chara="_Schrodinger"> ...No. The first half of what you said is correct, but the second half isn't.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">时雨绮罗，你身上的那个……“尼古拉斯”……是不是也拥有可以感知崩坏能的器官？</speak>
+            <speak chara="_Schrodinger">Shigure Kira, the… “Niggurath” in your body… does it also have an organ that can sense Honkai Energy?</speak>
             <show chara="schroNoSwordTalkClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraVNShockClose" position="right"/>
             <speak chara="_ShigureKira">器官？你的话总是不太好理解……不过是的，“尼古拉斯”是有办法告诉我周遭崩坏能的大致分布状况。</speak>
