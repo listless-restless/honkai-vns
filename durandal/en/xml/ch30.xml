@@ -764,7 +764,7 @@
         <scene id="290" background="fortTunnelRedRS.jpg">
             <bgm src="x_Night.mp3" status="continue"></bgm>
             <show chara="ShigureKiraVNShockClose" position="left"/>
-            <speak chara="_ShigureKira">Bianka? Rita? How are you on this side--</speak>
+            <speak chara="_ShigureKira">Bianka? Rita? How come you are on this side--</speak>
             <show chara="ShigureKiraVNShockClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="right"/>
             <speak chara="_Bianka">--That’s what I want to ask as well!</speak>
