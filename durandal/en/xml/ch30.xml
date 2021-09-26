@@ -386,7 +386,7 @@
             <speak chara="_ShigureKira">It’s just that I was hit by a sudden shockwave and lost consciousness, causing Niggurath in my body to produce a stress response.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">...A sudden shockwave?/speak>
+            <speak chara="_Bianka">...A sudden shockwave?</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNSadClose" position="left"/>
             <speak chara="_ShigureKira">Yes. It’s shameful to say it, but I didn’t even get close to the crystals. I lost consciousness without knowing what happened.</speak>
