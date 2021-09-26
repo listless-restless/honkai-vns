@@ -107,8 +107,8 @@
             <bgm src="01_04_Miracle.mp3" status="continue"></bgm>
             <text>At first, when the gate-shaped monster appeared on the starry sky, the soldiers were optimistic that it was just some kind of residue from the cutting of the world--</text>
             <text>--It might be a leftover mechanical device, or an enemy that is only strong in groups.</text>
-            <text>然而，当拦截无效、炮击无效，对方稳如山巅之城一般降落在锚点入口并施放出无数触腕的时候……</text>
-            <text>……任谁都能明白，挡在他们面前的，绝非普通的存在。</text>
+            <text>However, when neither the interception nor the bombardment worked, the enemy landed at the entrance of the Anchor Point like a city atop of a mountain and extended countless tentacles…</text>
+            <text>...Everyone understood that what was standing before them was by no means an ordinary existence.</text>
             <goto goto="90" change="0"/>
         </scene>
         <scene id="90" background="CG29-1.jpg">
@@ -116,70 +116,70 @@
             <sound src="01_19_claw.mp3"/>
             <cg src="01_19_bloodWhite.jpg" bg="CG29-1.jpg" fadeIn="0" fadeOut="1"></cg>
             <bgm src="01_04_Miracle.mp3" status="start"></bgm>
-            <text>共和国的士兵们作战得很英勇。</text>
-            <text>他们前仆后继，只为了给同伴争取足够的时间。</text>
-            <text>新婚者、初为父母者、独子、年轻人……</text>
-            <text>滞留在这北海孤岛上的兵团，正在按照这样的顺序，使用仍在他们控制之下的备用通道，一个、一个地疏散着自己的战友。</text>
-            <text>如果用信息通量来对比，这备用的锚点通道的“带宽”只有主通道的万分之一左右——</text>
-            <text>这意味着前线的士兵坚持一个小时，也只能换来大约二十名同伴的成功撤退。</text>
-            <text>——而今天，为了完美实施切割世界泡的计划，在这座不大的北海岛屿上，集中了将近三千名共和国最精锐的战士。</text>
-            <text>……也就是说，即使前线士兵们能够一直支撑下去，他们也需要一周的时间才能从岛上完全撤离。</text>
-            <text>的确，他们还有“喀里多尼亚号”可以从水下穿越这个世界独有的狂风巨浪——</text>
-            <text>但是这唯一的额外手段，满打满算，也只能每两天转移走五十个幸运儿罢了。</text>
+            <text>The soldiers of the Republic fought bravely.</text>
+            <text>They fought as hard as they could, just to buy time for their companions.</text>
+            <text>Newlyweds, new parents, only children, young people…</text>
+            <text>The corps stranded on the island followed that order, using the channels still under their control to evacuate their comrades one by one.</text>
+            <text>If you compare the information flux, the “bandwidth” of this alternate Anchor Channel is only about 1/10000th of the main channel--</text>
+            <text>That means that for every hour that the soldiers persist on the frontline, only 20 people can successfully retreat.</text>
+            <text>--And today, in order to perfectly implement the plan of cutting the Bubble Universe, on this small North Sea island, nearly 3000 of the most elite warriors of the Republic have gathered.</text>
+            <text>...That is to say, even if the frontline soldiers can continue to support them, it would still take them a week to be completely evacuated from the island.</text>
+            <text>Of course, they also have the “Caledonia” that can traverse this world’s unique underwater gusts and waves--</text>
+            <text>But even this extra means, at full capacity, can only transfer 50 lucky people every two days.</text>
             <goto goto="100" change="#000000"/>
         </scene>
         <scene id="100" background="CG29-2.jpg">
             <bgm src="07_07_wind.mp3" status="start"></bgm>
-            <speak chara="_ThinkerChampollion">——比安卡和圣剑在之前的行动中都消耗了太多的能量，即使有丽塔的照顾，她们似乎也很难在短时间内苏醒。</speak>
-            <speak chara="_ThinkerChampollion">你麾下的星语者们，甚至是“喀里多尼亚号”的船员们，凡是自认能够在战场上存活下来的家伙，都已经冲上了前线。</speak>
-            <speak chara="_ThinkerChampollion">他们每个人都很英勇……但是他们自己或许最为明白——</speak>
-            <speak chara="_ThinkerChampollion">——他们只不过是在打一场必输无疑的战斗。</speak>
-            <speak chara="_ThoreauNoName">……所以呢？</speak>
-            <speak chara="_ThoreauNoName">如果你有什么能够扭转局面的方法，那就不要在这里绕弯子了。</speak>
-            <speak chara="_ThoreauNoName">有话直说。</speak>
-            <speak chara="_ThinkerChampollion">我想……如果十天前我向薛定谔咨询过的事情确实成立，那么我的确有办法杀死那个门——</speak>
-            <speak chara="_ThinkerChampollion">——但是我需要你命令所有人都退出战场。</speak>
+            <speak chara="_ThinkerChampollion">--Bianka and the holy sword have consumed too much energy in the previous operation. Even with Rita’s care, she seems unable to wake up in a short time.</speak>
+            <speak chara="_ThinkerChampollion">The Star Whisperers under your command, and even the crew of the “Caledonia”, who think they can survive on the battlefield, have already rushed to the front line.</speak>
+            <speak chara="_ThinkerChampollion">Every one of them is brave… But they should know it best-</speak>
+            <speak chara="_ThinkerChampollion">--They are fighting a losing battle.</speak>
+            <speak chara="_ThoreauNoName">...So what?</speak>
+            <speak chara="_ThoreauNoName">If you have an idea that can change the situation around, don’t be afraid.</speak>
+            <speak chara="_ThoreauNoName">Tell it to me now.</speak>
+            <speak chara="_ThinkerChampollion">I think… if the things I consulted with Dr. Schrodinger ten days ago are indeed true, then I have a way to kill that gate--</speak>
+            <speak chara="_ThinkerChampollion">--But I need you to order everyone to leave the battlefield.</speak>
             <goto goto="110" change="#000000"/>
         </scene>
         <scene id="110" background="CG29-3.jpg">
             <bgm src="noise.mp3" status="start"></bgm>
-            <speak chara="_Dracula">……你说什么？撤退？退出战线？</speak>
-            <speak chara="_Dracula">你疯了吗？我们现在可是背水一战，你让我往哪里退？</speak>
-            <speak chara="_Dracula">——难道要放弃这一片仅有的防御阵地，直接退到你的指挥部去吗？</speak>
-            <speak chara="_Dracula">你这样才是真正的军事自杀，你知道吗？</speak>
+            <speak chara="_Dracula">...What did you say? Retreat? Leave the battle?</speak>
+            <speak chara="_Dracula">Are you crazy? We are now fighting each other, where do you want me to retreat to?</speak>
+            <speak chara="_Dracula">--Do you want me to abandon the only defensive position and retreat directly to headquarters?</speak>
+            <speak chara="_Dracula">This is military suicide, you know?</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="CG29-4.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
-            <speak chara="_ChampollionNotSure">……不要慌张，瓦拉几亚人。</speak>
-            <speak chara="_ChampollionNotSure">议长命令你们后撤是有原因的——</speak>
-            <speak chara="_ChampollionNotSure">——因为接下来，会由我来负责消灭这个敌人。</speak>
+            <speak chara="_ChampollionNotSure">...Don’t panic, Wallachian.</speak>
+            <speak chara="_ChampollionNotSure">The Chairwoman ordered you to retreat for a reason--</speak>
+            <speak chara="_ChampollionNotSure">--Because now, I will be responsible for destroying this enemy.</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG29-3.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_Dracula">……你？一个考古学家？</speak>
-            <speak chara="_Dracula">你难道靠换了一身衣服就说服她们了吗？</speak>
-            <speak chara="_Dracula">……你究竟打算做什么？</speak>
+            <speak chara="_Dracula">...You? An archeologist?</speak>
+            <speak chara="_Dracula">Did you convince her by changing your clothes a little?</speak>
+            <speak chara="_Dracula">...What on earth are you going to do?</speak>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="CG29-4.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_ChampollionNotSure">首先，我要向你们道歉——</speak>
-            <speak chara="_ChampollionNotSure">因为我在你们面前一直使用的“商博良”这个名字，其实只是从某个后辈同胞那里借来的而已。</speak>
-            <speak chara="_ChampollionNotSure">重新自我介绍一下吧，顽强的战士们、英勇的军人们——</speak>
-            <speak chara="_ThinkerChampollion">我的名字是“拿破仑”，我的姓氏是“波拿巴”——我来自科西嘉岛。</speak>
-            <speak chara="_NapoleonNotSure">我并不是普通的“星语者”；我是被你们眼前的怪物，在它二十五岁时就断然抛弃了的“普通人的人生”——</speak>
-            <speak chara="_NapoleonNotSure">——是无数早已被它遗忘的“背叛”中，那最初、也是最本源的成分。</speak>
-            <speak chara="_NapoleonNotSure">借用备用通道、通过锚点调整之后，我已经回到了被这个怪物所抛弃时的最初状态，并刻意让身体结构的虚数极性完全反转。</speak>
-            <speak chara="_NapoleonNotSure">简单来说，此时此刻，你们面前的这个怪物伤不到我的一丝一毫——</speak>
-            <speak chara="_NapoleonNotSure">——而我，却可以通过简单的接触，就能将它彻底摧毁。</speak>
+            <speak chara="_ChampollionNotSure">First of all, I want to apologize to you--</speak>
+            <speak chara="_ChampollionNotSure">Because the name “Champollion” I have been using in front of you is actually just borrowed from a compatriot of a younger generation.</speak>
+            <speak chara="_ChampollionNotSure">Let me introduce myself again, strong warriors and brave soldiers--</speak>
+            <speak chara="_ThinkerChampollion">My name is “Napoleon”, and my surname is “Bonaparte” - I am from Corsica.</speak>
+            <speak chara="_NapoleonNotSure">I am not an ordinary “Star Whisperer”. I am the “life of the ordinary people” that was discarded by the monster in front of you when he was twenty five years old--</speak>
+            <speak chara="_NapoleonNotSure">--I am the first and the source of the countless “betrayals” that it has long forgotten.</speak>
+            <speak chara="_NapoleonNotSure">After borrowing the spare channel and adjusting myself with the Anchor Point, I have returned to the original state from when I was abandoned by this monster, and have deliberately reversed the Imaginary Polarity of my body structure.</speak>
+            <speak chara="_NapoleonNotSure">To put it simply, at this moment, the monster in front of you can’t hurt me at all--</speak>
+            <speak chara="_NapoleonNotSure">--But I can completely destroy it with a single touch.</speak>
             <goto goto="150" change="0"/>
         </scene>
         <scene id="150" background="CG29-3.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
-            <speak chara="_Dracula">这……</speak>
-            <speak chara="_Dracula">如果真有这么方便的事情，你为什么现在才站出来？！</speak>
+            <speak chara="_Dracula">That’s...</speak>
+            <speak chara="_Dracula">If there was such a convenient way, why are you only doing this now?!</speak>
             <speak chara="_Dracula">……你知道我们已经牺牲了多少人吗？！</speak>
             <goto goto="160" change="0"/>
         </scene>
