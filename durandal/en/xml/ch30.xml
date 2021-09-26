@@ -242,96 +242,96 @@
         <scene id="90" background="fortTunnel.jpg">
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="biankaDressSighClose" position="center"/>
-            <speak chara="_Bianka">虽然之前已经来过一次……但这个保卫“锚点”的中央要塞还真是够大啊。</speak>
+            <speak chara="_Bianka">Although I’ve been here before… It still surprises me how big the central fortress to defend the “Anchor Point” is.</speak>
             <hide position="center"></hide>
             <show chara="rolandLNEmbarrassClose" position="left"/>
-            <speak chara="_RolandNoName">啊，太好了，赶上了！</speak>
+            <speak chara="_RolandNoName">Oh, good, I caught up!</speak>
             <show chara="rolandLNEmbarrassClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">……罗兰？你从崩坏能晶体那边回来了吗？</speak>
+            <speak chara="_Bianka">...Rowland? Did you come back from the Honkai Crystal site?</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">罗兰大人，难道——发生什么意外了吗？</speak>
+            <speak chara="_Rita">Rowland-sama, could it be that an accident happened?</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="rolandLNEmbarrassClose" position="left"/>
-            <speak chara="_Roland">啊，不……不至于有“意外”那么夸张啦。</speak>
+            <speak chara="_Roland">Ah, no - It’s nothing so big like an “accident”.</speak>
             <show chara="rolandLNSmileClose" position="left"/>
-            <speak chara="_Roland">是薛定谔博士监测到晶体的崩坏能出现异常波动，所以派我回来找议长商量对策。</speak>
+            <speak chara="_Roland">It’s just that Dr. Schrodinger detected abnormal fluctuations in the Honkai Energy of the crystals, so she sent me back to discuss countermeasures with the Chairwoman.</speak>
             <show chara="rolandLNEmbarrassClose" position="left"/>
-            <speak chara="_Roland">因为切割行动后世界本身还处于不稳定的状态，岛上的通信也没有恢复——所以我也只能像这样用人力传递消息了。</speak>
+            <speak chara="_Roland"> The world is still in an unstable state after the cutting operation, and the communication with the island hasn’t been restored - So we need to use human power to deliver these messages.</speak>
             <show chara="rolandLNNormalClose" position="left"/>
-            <speak chara="_Roland">……啊。你们现在要赶去北海那边支援吗？</speak>
+            <speak chara="_Roland">...Wait, could you help with the Honkai site now?</speak>
             <show chara="rolandLNNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="right"/>
-            <speak chara="_Bianka">当然。我们本来就打算这么做。</speak>
+            <speak chara="_Bianka">Of course, we planned on that anyway.</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="rolandLNSmileClose" position="left"/>
-            <speak chara="_Roland">那太好了。如果有比安卡小姐在场的话，时雨绮罗小姐也……</speak>
+            <speak chara="_Roland">That’s great. If Miss Bianka is present, then Shigure Kira would also...</speak>
             <show chara="rolandLNShockClose" position="left"/>
-            <speak chara="_Roland">啊，不，没什么。应该是我多虑了吧。</speak>
+            <speak chara="_Roland">Ah, no, it’s nothing. I’m just worrying too much.</speak>
             <show chara="rolandLNShockClose" position="left" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="right"/>
             <speak chara="_Bianka">……？</speak>
             <show chara="biankaDressHesitateClose" position="right" opacity="0.8"/>
             <show chara="rolandLNSeriousClose" position="left"/>
-            <speak chara="_Roland">她在调查晶体的时候不小心被“烫”伤了，手臂和眼睛似乎都有一些被崩坏能侵蚀的迹象。</speak>
+            <speak chara="_Roland">She got accidentally “burned” while investigating the crystals, and her eyes and arms seemed to show some sign of corruption.</speak>
             <show chara="rolandLNEmbarrassClose" position="left"/>
-            <speak chara="_Roland">虽然她本人说没有关系……</speak>
+            <speak chara="_Roland">She said she was fine, but...</speak>
             <show chara="rolandLNEmbarrassClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
             <speak chara="_Rita">……</speak>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">啧。可千万别出什么麻烦啊。</speak>
+            <speak chara="_Bianka">That’s a problem...</speak>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">罗兰，具体情况就麻烦你通知议长她们了。我和丽塔现在直接赶去时雨绮罗那边！</speak>
+            <speak chara="_Bianka">Rowland, please report it to the Chairwoman what happened. Rita and I are heading directly to Shigure Kira!</speak>
             <show chara="biankaDressShoutClose" position="right" opacity="0.8"/>
             <show chara="rolandLNShockClose" position="left"/>
-            <speak chara="_Roland">事态可能会很严重吗？</speak>
+            <speak chara="_Roland">Could that be serious?</speak>
             <show chara="rolandLNSeriousClose" position="left"/>
-            <speak chara="_Roland">……那么，向议长报告之后，我会争取让能帮上忙的人都赶去那边。这样可以吗？</speak>
+            <speak chara="_Roland">...Then after reporting to the Chairwoman, should I get everyone available to rush over there?</speak>
             <show chara="rolandLNSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">好，拜托你了！</speak>
+            <speak chara="_Bianka">Yes, please!</speak>
             <goto goto="100" clockwise="1"/>
         </scene>
         <scene id="100" background="fireGroundNorth.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="start"></bgm>
-            <text>在东方有一种形容旱灾的词汇，叫做“赤地千里”。</text>
-            <text>而如今，这座北海的小岛，因为切割世界泡的行动和之后的混战而化为一片炼狱——</text>
-            <text>——尚未凝结的熔岩，恰如那个成语让人产生的字面误解。</text>
+            <text>In the East there is a term for drought, “Thousands of miles of red land”.</text>
+            <text>And now, this small island in the North Sea has turned into a purgatory because of the action of cutting the Bubble Universe and the subsequent melee-</text>
+            <text>--The overflowing of lava makes one think of that idiom.</text>
             <show chara="ShigureKiraVNShockClose" position="center"/>
             <speak chara="_ShigureKiraNoName">……</speak>
-            <speak chara="_Rita">那、那是——</speak>
+            <speak chara="_Rita">That- is that--</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="swordTrail.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="continue"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="_Bianka">坚持住！时雨绮罗！不要让崩坏侵蚀掉你的意志！</speak>
+            <speak chara="_Bianka">Hold on tightly! Shigure Kira! Don’t let the Honkai erode your will!</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="CG30-2.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="continue"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="_ShigureKira">冷静！比安卡！</speak>
-            <speak chara="_ShigureKira">你搞错目标了！我才没有被崩坏侵蚀！</speak>
-            <speak chara="_Bianka">绮罗前辈！</speak>
-            <speak chara="_Bianka">你的身体已经被侵蚀的很严重了！难道你自己看不见吗？！</speak>
-            <speak chara="_ShigureKira">我哪里被侵蚀了？我身上难道有——</speak>
+            <speak chara="_ShigureKira">Calm down, Bianka!</speak>
+            <speak chara="_ShigureKira">You got the wrong idea! I haven’t been corrupted by the Honkai!</speak>
+            <speak chara="_Bianka">Senior Kira!</speak>
+            <speak chara="_Bianka">Your body has been badly corrupted! Can’t you even see it yourself?</speak>
+            <speak chara="_ShigureKira">Where am I being corrupted? Do I have...</speak>
             <goto goto="130" change="0"/>
         </scene>
         <scene id="130" background="CG30-2B.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="continue"></bgm>
-            <speak chara="_ShigureKira">（……啧。原来如此吗。）</speak>
-            <speak chara="_ShigureKira">（虽然这只能浪费更多的时间……但没办法，该解释的还是得解释才行。）</speak>
+            <speak chara="_ShigureKira">(...Tsk. So that’s what it is)</speak>
+            <speak chara="_ShigureKira">(Although it will only waste more time… It can’t be helped, I have to explain it)</speak>
             <goto goto="140" change="0"/>
         </scene>
         <scene id="140" background="CG30-2.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="continue"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="_ShigureKira">听好了，自以为是的后辈！</speak>
-            <speak chara="_ShigureKira">我周身的这些印记，它并非来自崩坏！</speak>
-            <speak chara="_ShigureKira">它是活生生的外星生命，我用战友名字的一半来称呼它——</speak>
-            <speak chara="_ShigureKira">——“尼古拉斯”！</speak>
+            <speak chara="_ShigureKira">Listen up, self-righteous junior!</speak>
+            <speak chara="_ShigureKira">It’s not Honkai that is covering my body!</speak>
+            <speak chara="_ShigureKira">It’s a living alien, I call it by the second half of the name of my comrade-in-arms --</speak>
+            <speak chara="_ShigureKira">--”Niggurath”!</speak>
             <goto goto="150" change="0"/>
         </scene>
         <scene id="150" background="fireBoomNorth.jpg">
@@ -341,127 +341,127 @@
             <speak chara="_Bianka">……？！</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">“尼古拉斯”……这个名字是来自和您同属雪狼小队的“莎布·尼古拉斯”吗？</speak>
+            <speak chara="_Rita">“Niggurath”... Does this name come from “Shub Niggurath” who belonged to the Snow Wolf Squad alongside you?</speak>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">——那个传说中曾数次“复活”的女武神？</speak>
+            <speak chara="_Rita">--The Valkyrie who is rumoured to have “resurrected” several times?</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNNormalClose" position="left"/>
-            <speak chara="_ShigureKira">……是的。</speak>
+            <speak chara="_ShigureKira">...Yes.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">这孩子能够用自己的细胞修复取代宿主损坏的器官和组织——这就是“莎布·尼古拉斯”能够数次复活的秘密。</speak>
+            <speak chara="_ShigureKira">This child can use its own cell repair to replace damaged organs and tissues of the host - That is the secret behind “Shub Niggurath”’s several resurrections.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">你说什么？</speak>
+            <speak chara="_Bianka">What did you say?</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNNormalClose" position="left"/>
-            <speak chara="_ShigureKira">别急着惊讶……请你先听我讲完。</speak>
+            <speak chara="_ShigureKira">Don’t be surprised yet… Listen to me first.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">尽管尼古拉斯能够增强特定适格者的生命力，但是它自己的生存也要依赖宿主本身。</speak>
+            <speak chara="_ShigureKira">Although Niggurath can enhance the vitality of the chosen person, its own survival also depends on the host itself.</speak>
             <show chara="ShigureKiraVNThinkClose" position="left"/>
-            <speak chara="_ShigureKira">在第二次崩坏的战场上，当“莎布·尼古拉斯”的身体完全崩溃之后……它便选择了我。</speak>
+            <speak chara="_ShigureKira">On the battlefield of the Second Eruption, when “Shub Niggurath”’s body completely collapsed… It chose me.</speak>
             <show chara="ShigureKiraVNSadClose" position="left"/>
-            <speak chara="_ShigureKira">那时我已经失去了意识，所以自己也不清楚究竟发生了什么。</speak>
+            <speak chara="_ShigureKira">At the time I had lost consciousness, so I didn’t know what happened.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">只是等到再度醒来的时候，我已经来到了另一个世界。</speak>
-            <speak chara="_ShigureKira">而尼古拉斯的“意识”……或者说“情绪”……就开始在我的脑海中共鸣。</speak>
+            <speak chara="_ShigureKira">When I woke up, I was in another world.</speak>
+            <speak chara="_ShigureKira">And Niggurath’s “Consciousness” or “Emotions”... Began to resonate in my mind.</speak>
             <show chara="ShigureKiraVNSadClose" position="left"/>
-            <speak chara="_ShigureKira">我很难描述这种感觉，因为尼古拉斯并不是具备复杂思维的生物，它只是把自己的各种本能都投射进了人的意识而已。</speak>
+            <speak chara="_ShigureKira">It’s difficult to describe this feeling, because Niggurath is not a creature with complex thinking. It just projects its various instincts on the human consciousness.</speak>
             <show chara="ShigureKiraVNThinkClose" position="left"/>
-            <speak chara="_ShigureKira">我只能说……我知道它把我带来这个世界是为了躲避风险，我知道它和我身体的结合度出乎意料的好。</speak>
+            <speak chara="_ShigureKira">All I know is… It brought me to this world to avoid risks, and it's surprisingly compatible with my body.</speak>
             <show chara="ShigureKiraVNNormalClose" position="left"/>
-            <speak chara="_ShigureKira">这个世界的人们把我当作了由“锚点”复制而生的“星语者”，我也就顺水推舟接受了这个新身份。</speak>
+            <speak chara="_ShigureKira">People in this world regarded me as a “Star Whisperer” copied by the “Ether Anchor”, and I accepted my new identity along the way.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">毕竟……在经历过那样一场残酷的战争之后……</speak>
+            <speak chara="_ShigureKira">After all… After experiencing such a cruel war...</speak>
             <show chara="ShigureKiraVNThinkClose" position="left"/>
-            <speak chara="_ShigureKira">……说实话，我自己也不是很想再回去原来的世界了。</speak>
+            <speak chara="_ShigureKira">...To be honest, I don’t really want to go back to my original world.</speak>
             <show chara="ShigureKiraVNThinkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">这么说……你从那时起，就一直……</speak>
+            <speak chara="_Bianka">So… You have been here… Ever since.</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNShockClose" position="left"/>
-            <speak chara="_ShigureKira">……糟糕，现在不是回顾这些东西的时候。</speak>
+            <speak chara="_ShigureKira">...Oops, now is not the time to go over those things.</speak>
             <show chara="ShigureKiraVNSeriousClose" position="left"/>
-            <speak chara="_ShigureKira">我刚才解释了那么多，只是为了说明我自己并没有被崩坏能侵蚀——</speak>
+            <speak chara="_ShigureKira"> I only explained this much to show that I have not been corrupted by the Honkai Energy--</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">只是某种突如其来的冲击波让我失去了意识，使我体内的尼古拉斯产生了应激反应罢了。</speak>
+            <speak chara="_ShigureKira">It’s just that I was hit by a sudden shockwave and lost consciousness, causing Niggurath in my body to produce a stress response.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">……突如其来的冲击波？</speak>
+            <speak chara="_Bianka">...A sudden shockwave?/speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNSadClose" position="left"/>
-            <speak chara="_ShigureKira">嗯。说起来丢人，我根本没有接近那些晶体，甚至都不知道发生了什么，就整个人失去了意识……</speak>
+            <speak chara="_ShigureKira">Yes. It’s shameful to say it, but I didn’t even get close to the crystals. I lost consciousness without knowing what happened.</speak>
             <show chara="ShigureKiraVNShockClose" position="left"/>
-            <speak chara="_ShigureKira">……等到我清醒过来的时候，发现自己竟然在尼古拉斯的保护之下漂浮在岩浆里。</speak>
+            <speak chara="_ShigureKira">...When I woke up, I found myself floating in lava under Niggurath’s protection.</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">罗兰小姐和薛定谔博士也不知所踪。我甚至担心她们是不是已经——</speak>
+            <speak chara="_ShigureKira">Miss Rowland and Dr. Schrodinger were also missing. I worry that they are already...</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">——不好！</speak>
+            <speak chara="_Rita">This isn't good!</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">怎么了，丽塔？</speak>
+            <speak chara="_Bianka">What’s the matter, Rita?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">比安卡大人，您忘了吗，我们刚才还见过罗兰大人……</speak>
+            <speak chara="_Rita">Bianka-sama, did you forget? We met Rowland-sama not long ago...</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">啊！</speak>
+            <speak chara="_Bianka">Ah!</speak>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">怎么会这样？罗兰说的是——</speak>
+            <speak chara="_Bianka">How can that be? </speak>
             <goto goto="160" change="0"/>
         </scene>
         <scene id="160" background="fortTunnel.jpg">
             <bgm src="01_21_1-second-of-silence.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <show chara="rolandLNSeriousClose" position="back"/>
-            <speak chara="_Roland">她在调查晶体的时候不小心被烫伤了，手臂和眼睛似乎都有一些被崩坏能侵蚀的迹象。</speak>
+            <speak chara="_Roland">She got accidentally “burned” while investigating the crystals, and her eyes and arms seemed to show some sign of corruption.</speak>
             <show chara="rolandLNEmbarrassClose" position="back"/>
-            <speak chara="_Roland">虽然她本人说没有关系……</speak>
+            <speak chara="_Roland">She said she was fine, but...</speak>
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="fireGroundNorth.jpg">
             <bgm src="x_BGM32_boss4.mp3" status="start"></bgm>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">……恐怕，不幸被崩坏侵蚀了意志的人，正是罗兰自己吧。</speak>
+            <speak chara="_Schrodinger">...I’m afraid that the person who had their will corrupted by the Honkai was Miss Rowland herself.</speak>
             <show chara="schroNoSwordSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="right"/>
-            <speak chara="_Bianka">博士！你没事吧？</speak>
+            <speak chara="_Bianka">Doc! You’re ok?</speak>
             <show chara="biankaDressSmileAhClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordSmileClose" position="left"/>
-            <speak chara="_Schrodinger">我没事。</speak>
+            <speak chara="_Schrodinger">I’m fine.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">这副身体虽然容易在能量的冲击下丧失幺正性，却也没有那么容易留下不可逆的损伤。</speak>
+            <speak chara="_Schrodinger">Although this body is prone to losing unity after energy impacts, it’s not easy to leave irreversible damage.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">……只是凝结回这个人形需要一些时间罢了。</speak>
+            <speak chara="_Schrodinger">...It just takes some time to condense back to this human form.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">刚才你们的对话我都听到了。就让我补充一份证言吧——</speak>
+            <speak chara="_Schrodinger">I heard your conversation just now. Let me add a testimony--</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">袭击我和时雨绮罗的冲击波，是正罗兰本人释放出来的。</speak>
+            <speak chara="_Schrodinger">The shockwave that hit Kira and me was released by Rowland herself.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">紧贴着我的身体，把我炸了个粉碎。</speak>
+            <speak chara="_Schrodinger">It clung to my body and blasted me to pieces.</speak>
             <show chara="schroNoSwordSeriousClose" position="left" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="right"/>
-            <speak chara="_Bianka">不、不可能……</speak>
+            <speak chara="_Bianka">No, that’s impossible...</speak>
             <show chara="biankaDressBiteClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNShockClose" position="left"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">罗兰没有任何道理做这一切……除非——</speak>
+            <speak chara="_ShigureKira">Rowland has no reason to do this… Unless--</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">——除非她已经被崩坏侵蚀了。</speak>
+            <speak chara="_Schrodinger">--Unless she was corrupted by Honkai.</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">我在凝聚身体的时间里搜查了整座岛屿。哪里都没有我们之前监视的那些崩坏能晶体。</speak>
+            <speak chara="_Schrodinger">I searched the entire island while gathering my body. The crystals we monitored before are nowhere to be seen.</speak>
             <show chara="schroNoSwordTalkClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">那……难道说……</speak>
+            <speak chara="_Bianka">Then… Could it be that...</speak>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">罗兰……她………</speak>
+            <speak chara="_Bianka">Rowland...</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="eyeSwordShock" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">……我的天啊。</speak>
+            <speak chara="_eyeDurandalQDurandal">Oh my god!</speak>
             <show chara="eyeSwordShock" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">我们就那样毫不在意地把她放进了要塞！</speak>
+            <speak chara="_eyeDurandalQDurandal">We carelessly let her into the fortress!</speak>
             <goto goto="180" clockwise="1"/>
         </scene>
         <scene id="180" background="fortTunnelRed.jpg">
