@@ -137,7 +137,7 @@
             <speak chara="_Bianka">...Why do I feel like your past is a collection of black histories?</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="right"/>
-            <speak chara="_Shakespeare">Hahahaha, it would be a bit mean to joke about the people who founded the “King’s Troupe”!</speak>
+            <speak chara="_Shakespeare">Hahahaha, it would be a bit mean to joke about the people who founded the “King’s Men”!</speak>
             <show chara="shakesCasualEmbarrassedClose" position="right"/>
             <speak chara="_Shakespeare">Hehe, just kidding. About myself… As you know, I’m the reason why everyone in Caledonia crossed all over the earth.</speak>
             <show chara="shakesCasualEmbarrassedClose" position="right" opacity="0.8"/>
