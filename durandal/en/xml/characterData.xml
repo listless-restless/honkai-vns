@@ -556,7 +556,7 @@
         <character name="Zahhak" color="#b6dcb5" id="_zahhak" src=""/>
         <character name="Old Dragon" color="#aeb5ae" id="_bertrand" src=""/>
         <character name="???" color="#aeb5ae" id="_bertrandYNoName" src=""/>
-        <character name="贝特朗" color="#aeb5ae" id="_bertrandY" src=""/>
+        <character name="Bertrand" color="#aeb5ae" id="_bertrandY" src=""/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
