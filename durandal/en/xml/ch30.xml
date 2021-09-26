@@ -541,12 +541,12 @@
             <shake position="left" time="250"></shake>
             <speak chara="_ShigureKira">Don’t stay there in a daze, Valkyries!</speak>
             <show chara="ShigureKiraVNTalkClose" position="left"/>
-            <speak chara="_ShigureKira">快回总部！我担心事情已经要来不及了！</speak>
+            <speak chara="_ShigureKira">Let’s head back to headquarters! I worry that it's already too late!</speak>
             <show chara="ShigureKiraVNTalkClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
             <speak chara="_Schrodinger">！</speak>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">时雨绮罗！当心脚下！</speak>
+            <speak chara="_Schrodinger">Shigure Kira! Watch your feet!</speak>
             <show chara="schroNoSwordSeriousClose" position="right" opacity="0.8"/>
             <show chara="ShigureKiraVNShockClose" position="left"/>
             <shake position="left" time="250"></shake>
@@ -556,185 +556,185 @@
         <scene id="220" background="lavaBreak.jpg">
             <bgm src="x_REV.mp3" status="start"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="_ShigureKira">这……这是……</speak>
+            <speak chara="_ShigureKira">Thi-This is...</speak>
             <shake position="all" time="250"></shake>
-            <speak chara="_Bianka">……地震？还是火山爆发？</speak>
+            <speak chara="_Bianka">...Earthquake? Or a volcanic eruption?</speak>
             <goto goto="230" change="0"/>
         </scene>
         <scene id="230" background="fireGroundNorth.jpg">
             <bgm src="x_REV.mp3" status="continue"></bgm>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">……糟糕，事情好像越来越失去控制了。</speak>
+            <speak chara="_Schrodinger">...That’s not it. It seems like things are getting more and more out of control.</speak>
             <show chara="schroNoSwordSeriousClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">您知道究竟发生了什么吗，薛定谔博士？</speak>
+            <speak chara="_Rita">What happened, Dr. Schrodinger?</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">不知道。但不管来源为何……</speak>
+            <speak chara="_Schrodinger">I’m not sure, but whatever it is...</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">……有一种力量，此时此刻，似乎正在侵蚀“锚点”本身。</speak>
+            <speak chara="_Schrodinger">...Some kind of power, right now, is eroding the “Ether Anchor” itself.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">对于这个世界泡而言——也许这就是“世界末日”了吧。</speak>
+            <speak chara="_Schrodinger">For this Bubble Universe - It means the “end of the world”.</speak>
             <show chara="schroNoSwordSeriousClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraVNShockClose" position="right"/>
-            <speak chara="_ShigureKira">你是说……这个世界泡，马上就要变成一片火海了吗？像这里一样？</speak>
+            <speak chara="_ShigureKira">Are you saying… This Bubble Universe will become a sea of fire? Like here?</speak>
             <show chara="ShigureKiraVNShockClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">不一定。或者说，大部分地区并不会那么惨。</speak>
+            <speak chara="_Schrodinger">That’s uncertain. In fact, I think most areas won’t.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">但无论如何，如果这个特殊的“锚点”系统崩塌了……世界泡就很容易内卷为时空碎片，最终衰变消失。</speak>
+            <speak chara="_Schrodinger">In this case, if the special “Anchor Point” system collapses… The Bubble Universe will likely become space-time fragments that will eventually decay and disappear.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">在量子之海的底部，有许多这样的世界残骸。</speak>
+            <speak chara="_Schrodinger">At the bottom of the Sea of Quanta, there are many such World Fragments.</speak>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">比如说……人们只能像囚犯一样生活在一栋大楼的断片里，无休无止地重复着同一天的时光。</speak>
+            <speak chara="_Schrodinger">It would be like… If people could only live in the wreckage of a building like prisoners, repeating the same day endlessly.</speak>
             <show chara="schroNoSwordTalkClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraVNSadClose" position="right"/>
-            <speak chara="_ShigureKira">这……</speak>
+            <speak chara="_ShigureKira">That’s...</speak>
             <show chara="ShigureKiraVNSadClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">喂！我说你们，现在不是分享这种知识的时候吧？刚才还说不要让我发呆呢！</speak>
+            <speak chara="_Bianka">Hello! I said now is not the time to share this kind of knowledge! Did you not just tell me to not stay in a daze?</speak>
             <show chara="biankaDressBiteClose" position="left"/>
-            <speak chara="_Bianka">既然博士你说侵蚀“锚点”的是一股“力量”，那么我们把它阻止住不就好了吗？</speak>
+            <speak chara="_Bianka"> Doctor, this “power” that you said is eroding the “Ether Anchor”, can we stop it?</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordSeriousClose" position="right"/>
-            <speak chara="_Schrodinger">……理论上是这样。但是，现在“锚点”的通道已经起伏不定，我们甚至很难有办法回到正确的地方去解决问题。</speak>
+            <speak chara="_Schrodinger">...Theoretically. However, now that the “Anchor Point” channel has become unstable, it’s difficult for us to even return there to solve the problem.</speak>
             <show chara="schroNoSwordSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">我之前难道不是直接从这里跳下去了吗？</speak>
+            <speak chara="_Bianka">Didn’t I just jump from here?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">那是在锚点还很稳定的时候！</speak>
+            <speak chara="_Schrodinger">That was when the Anchor was stable!</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">现在能量的波动如此剧烈，你要如何在空中灵活调整，让自己不被时空的裂隙撕扯殆尽？</speak>
+            <speak chara="_Schrodinger">Now the energy fluctuations are so intense, how could we ever adjust flexibly in the air to not be torn apart by the rifts of time and space?</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">即使——</speak>
+            <speak chara="_Schrodinger">Even though--</speak>
             <show chara="schroNoSwordTalkClose" position="right" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="left"/>
-            <speak chara="_Rita">诸位！快看！好像有什么飞过来了！</speak>
+            <speak chara="_Rita">Everyone, look! Something is flying towards here!</speak>
             <goto goto="240" change="0"/>
         </scene>
         <scene id="240" background="lavaBreak.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
             <shake position="all" time="250"></shake>
-            <speak chara="_bertrandYNoName">嗷嗷嗷嗷嗷嗷嗷——</speak>
+            <speak chara="_bertrandYNoName">Oooooooooooooooooooooooooooooooooooooooooo!</speak>
             <show chara="BertrandNormal" position="center"/>
-            <speak chara="_bertrandY">女武神们、旅行者们！你们遇到什么危机了吗？你们需要特别的救援吗？</speak>
+            <speak chara="_bertrandY">Valkyries, travelers! Do you face any crisis? Do you need help?</speak>
             <show chara="BertrandSmile" position="center"/>
-            <speak chara="_bertrandY">化身为龙的贝特朗准将，在此向你们报道！我觉得自己每天都能年轻二十岁！</speak>
+            <speak chara="_bertrandY">Brigadier General Bertrand, turned dragon, is reporting! I feel like I get 20 years younger every day!</speak>
             <show chara="BertrandSmile" position="center" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="center"/>
-            <speak chara="_Bianka">龙将军？太好了，你来的正是时候！</speak>
+            <speak chara="_Bianka">General Dragon? Great, you arrived at the perfect time!</speak>
             <show chara="biankaDressHesitateClose" position="center"/>
-            <speak chara="_Bianka">不过……你、你怎么刚好会出现在这里？</speak>
+            <speak chara="_Bianka">But… Why are you here?</speak>
             <show chara="biankaDressHesitateClose" position="center" opacity="0.8"/>
             <show chara="BertrandThink" position="center"/>
-            <speak chara="_bertrandY">我在尤卡坦感到了崩坏能的异常波动，担心你们是不是已经与皇帝开战——</speak>
+            <speak chara="_bertrandY">I felt the abnormal Honkai Energy fluctuations from the Yucatan, and was worried that you had already gone to war with the emperor--</speak>
             <show chara="BertrandAnger" position="center"/>
-            <speak chara="_bertrandY">——没想到我在飞行的途中误入了世界的裂缝！等到冲出来的时候，眼前便是这一番炼狱的光景！</speak>
+            <speak chara="_bertrandY">--Unexpectedly, I fell into the cracks of the world while flying! And after crawling out of it, the sight of purgatory was in front of me!</speak>
             <show chara="BertrandNormal" position="center"/>
-            <speak chara="_bertrandY">——你们果然遇到什么难题了吗？</speak>
+            <speak chara="_bertrandY">--So is there really a problem?</speak>
             <show chara="BertrandNormal" position="center" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="center"/>
-            <speak chara="_Bianka">……长话短说吧，龙将军！现在我们需要闯进一个要塞去拯救世界，但是空间隧道很不稳定，我们没有办法直接跳进去！</speak>
+            <speak chara="_Bianka">...Long story short, General Dragon! Now we need to break into a fortress to save the world, but the space tunnel is very unstable, so we can’t just jump in it!</speak>
             <show chara="biankaDressShoutClose" position="center" opacity="0.8"/>
             <show chara="BertrandThink" position="center"/>
-            <speak chara="_bertrandY">唔……虽然我不是很清楚具体应该怎么做……</speak>
+            <speak chara="_bertrandY">Hmm… Although I’m not sure what to do...</speak>
             <show chara="BertrandAnger" position="center"/>
-            <speak chara="_bertrandY">……但为了回报你们的恩情，载几个人去穿越个把“空间隧道”，我想应该不成问题！</speak>
+            <speak chara="_bertrandY">...But in return for your kindness, I think there should be no problem with carrying a few people through the “space tunnel”!</speak>
             <show chara="BertrandAnger" position="center" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="center"/>
-            <speak chara="_Bianka">太好了！我们这就上来！</speak>
+            <speak chara="_Bianka">Thank you! We’ll get on you right away!</speak>
             <show chara="biankaDressSneerClose" position="center" opacity="0.8"/>
             <show chara="BertrandNormal" position="center"/>
-            <speak chara="_bertrandY">啊，等等——</speak>
+            <speak chara="_bertrandY">Ah, wait--</speak>
             <show chara="BertrandNormal" position="center" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="center"/>
-            <speak chara="_Bianka">——嗯？</speak>
+            <speak chara="_Bianka">--What?</speak>
             <show chara="biankaDressHesitateClose" position="center" opacity="0.8"/>
             <show chara="BertrandSmile" position="center"/>
-            <speak chara="_bertrandY">——你们应该还有其他的帮手，也在朝这里赶过来。</speak>
+            <speak chara="_bertrandY">--You still have other allies heading here.</speak>
             <show chara="BertrandThink" position="center"/>
-            <speak chara="_bertrandY">……看。</speak>
+            <speak chara="_bertrandY">...Look.</speak>
             <goto goto="250" change="0"/>
         </scene>
         <scene id="250" background="fireGroundNorth.jpg">
             <bgm src="12_14_Hero.mp3" status="continue"></bgm>
             <show chara="wattInspiredClose" position="left"/>
             <shake position="left" time="250"></shake>
-            <speak chara="_Watt">比安卡，好久不见！</speak>
+            <speak chara="_Watt">Bianka, long time no see!</speak>
             <show chara="wattInspiredClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
-            <speak chara="_Bianka">吉米？还有飞行员先生？</speak>
+            <speak chara="_Bianka">Jimmy? And Mr. Pilot?</speak>
             <show chara="biankaDressShockClose" position="right" opacity="0.8"/>
             <show chara="manfredSmileClose" position="left"/>
-            <speak chara="_Manfred">哈哈，区区空间波动，怎么能阻挡得住“红男爵”的翅膀呢？</speak>
+            <speak chara="_Manfred">Haha, these are merely space fluctuations, how could it stop the wings of the “Red Baron”?</speak>
             <show chara="manfredSadClose" position="left"/>
-            <speak chara="_Manfred">不过机械毕竟没有真正的龙那样灵活……我们本来还飞在他前面的，结果为了寻找能降落的地方，反而花了更多的时间。</speak>
+            <speak chara="_Manfred">But the machine is not as flexible as a real dragon… We were flying ahead of him, but it took longer to find a place to land.</speak>
             <show chara="manfredSadClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="right"/>
-            <speak chara="_Bianka">这有什么关系！我们可是完全没想到你们会出现在这里啊？！</speak>
+            <speak chara="_Bianka">It doesn’t matter! We didn’t even expect you to be here at all!</speak>
             <show chara="biankaDressSmileAhClose" position="right" opacity="0.8"/>
             <show chara="wattRelievedClose" position="left"/>
-            <speak chara="_Watt">比安卡、博士——现在是什么安排？</speak>
+            <speak chara="_Watt">Bianka, Doctor - What is the current situation?</speak>
             <show chara="wattRelievedClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSneerClose" position="right"/>
-            <speak chara="_Bianka">我们要穿越“锚点”，回到“瓦卡隧道”的核心区域！没错吧，薛定谔？</speak>
+            <speak chara="_Bianka">We have to cross the “Anchor Point” and return to the core area of the “Huaca Tunnel”! Right, Dr. Schrodinger?</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="left"/>
-            <speak chara="_Schrodinger">……嗯。趁现在还来得及。</speak>
+            <speak chara="_Schrodinger">...Yes. Before it’s too late.</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">你和丽塔借助贝特朗将军返回，时雨绮罗和我则搭乘“红男爵”的改进型飞机——</speak>
+            <speak chara="_Schrodinger">You and Rita go back with the help of General Bertrand, Shigure Kira and I will board on the improved “Red Baron”--</speak>
             <show chara="schroNoSwordSeriousClose" position="left"/>
-            <speak chara="_Schrodinger">——无论谁先抵达，优先发布警报，并且搜寻罗兰的下落！</speak>
+            <speak chara="_Schrodinger">--No matter who arrives first, give priority to the issue and search for Rowland’s whereabouts!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="schroNoSwordTalkClose" position="center"/>
-            <speak chara="_Schrodinger">时间就是一切。</speak>
+            <speak chara="_Schrodinger">This is a race against time.</speak>
             <show chara="schroNoSwordSeriousClose" position="center"/>
-            <speak chara="_Schrodinger">现在可能是拯救整个世界的最后机会！任何人的疑问，都稍后再解释！</speak>
+            <speak chara="_Schrodinger">This may be our last shot at saving this world! Any remaining questions will be answered later!</speak>
             <goto goto="260" clockwise="1"/>
         </scene>
         <scene id="260" background="CG30-4.jpg">
             <bgm src="01_04_Darken-4.mp3" status="start"></bgm>
-            <speak chara="_bertrandY">……世事无常啊。不到半天的功夫，竟然足以发生如此之多的事情。</speak>
-            <speak chara="_bertrandY">虽然为时已晚，但我还是想对皇帝陛下说一句——</speak>
-            <speak chara="_bertrandY">——果然，青春年少时代的那个“波拿巴”，其实一直都生活在您内心的深处吧。</speak>
+            <speak chara="_bertrandY">...Everything is impermanent. So many things happened in less than a day’s work.</speak>
+            <speak chara="_bertrandY">Although it’s too late, I still would like to say some things to His Majesty the Emperor--</speak>
+            <speak chara="_bertrandY">--That sure enough, the “Bonaparte” from your youth, has always been in the depths of your heart.</speak>
             <speak chara="_Bianka">……</speak>
-            <speak chara="_bertrandY">啊，你们年轻人，不必和我这样的老朽一起感伤。</speak>
-            <speak chara="_bertrandY">尽管我们彼此都失去了一些故人：但我的故事，多半已没有什么波澜；而你们的故事，实际上才刚刚开始。</speak>
+            <speak chara="_bertrandY">Ah, youngsters, you don’t need to get sentimental over an old man like me.</speak>
+            <speak chara="_bertrandY">Although we have both lost someone close to us, my story has little to no ups and downs now, while yours has, in fact, only begun.</speak>
             <speak chara="_Rita">……</speak>
-            <speak chara="_bertrandY">当皇帝还是皇帝的时候，只要他还在工作，我们就无法从他的身上看到名为“悲伤”的情绪。</speak>
-            <speak chara="_bertrandY">他说，这个世界上最伟大的一种人，叫做“积极行动的悲观主义者”。</speak>
-            <speak chara="_bertrandY">他首先是悲观主义者：他知道，人类必须不断奋斗才能生存，从来就没有什么悲天悯人的力量在暗中护佑我们。</speak>
-            <speak chara="_bertrandY">但在此基础上，他又绝不消极，绝不退缩：即使明知自己力量卑微，也会向着目标毅然前行。</speak>
-            <speak chara="_bertrandY">因为他深深明白：在这个世界上，只有行动才能带来意义，只有行动才能改变命运。</speak>
-            <speak chara="_bertrandY">而一切不包括行动的思想，都只不过是一种自以为是的傲慢罢了。</speak>
-            <speak chara="_Rita">“知易行难”。我记得在东方有这样的说法。</speak>
-            <speak chara="_bertrandY">是这样。皇帝以前常常告诫我们：没有行动的思想，没有思想的行动——这两者一样危险。</speak>
-            <speak chara="_bertrandY">前者只会坐而论道，满腹牢骚；后者只会意气用事，乱上添乱。</speak>
-            <speak chara="_bertrandY">皇帝说，这种平衡其实很难掌握——他自己也仅仅是在组织编纂《民法典》的时候表现得比较出色。</speak>
-            <speak chara="_bertrandY">他说，他的那部《民法典》是思辨和行动力的完美结合，绝对不会被历史抛弃。</speak>
-            <speak chara="_Bianka">……女武神的工作就是拯救世界。她们也绝对不会被历史抛弃。</speak>
-            <speak chara="_bertrandY">哈哈哈哈，你说得很对。你们的事业是一切的基础，只要你们不背叛她，就绝对值得最多人的赞颂。</speak>
-            <speak chara="_bertrandY">你们知道，皇帝为了自己的利益、法国的利益而牺牲了整个欧洲……这也最终成为了他身上的致命污点。</speak>
-            <speak chara="_bertrandY">贝多芬甚至愤而撕掉了为他创作的交响曲的标题，把上面的“波拿巴”涂改成了“一位英雄”。</speak>
-            <speak chara="_bertrandY">毕竟，和全世界比起来……区区一个皇帝，区区数千万的法国人，都不过是少数中的少数而已。</speak>
-            <speak chara="_Bianka">可是……</speak>
-            <speak chara="_Bianka">……我们其实谁也不能保证自己做的事情，就一定符合人类的利益、文明的进步吧？</speak>
-            <speak chara="_bertrandY">你能想到这一层，真的很好。</speak>
-            <speak chara="_bertrandY">从你们转述的事情来看，皇帝或许正是为了彻底避免这一点，而选择与自己的臣民一道，融合进某种新的生命形式。</speak>
-            <speak chara="_bertrandY">但代价是什么呢？这些臣民正是过去他最忠心、最激进的仆从，他和他们的结合，只不过是让一群人更加心无旁骛地在偏执的道路上飞奔下去罢了。</speak>
-            <speak chara="_bertrandY">也许拾捡全人类的碎片，将他们统统融合在一起，不失为一种超越崩坏的途径——</speak>
-            <speak chara="_bertrandY">——但我们眼前的这个粗暴例子，绝对是负面中的负面，是从个人的畸形欲望中孳生而来的孽胎。</speak>
-            <speak chara="_bertrandY">……只可惜皇帝陛下真正的另一半已经和它同归于尽，而剩下的残渣余孽却似乎还要变本加厉地兴风作浪。</speak>
+            <speak chara="_bertrandY">When the Emperor was still the emperor, as long as he was working, you would not find the emotion called “sadness” in him.</speak>
+            <speak chara="_bertrandY">He said that the greatest kind of people in this world are the “Positively acting pessimists”.</speak>
+            <speak chara="_bertrandY">He was the greatest of all pessimists: He knows that mankind will continue to struggle to survive, and that there is no benevolent power helping us in secret.</speak>
+            <speak chara="_bertrandY">But even then he doesn’t act negatively or scared: Even if he knows he is weak, he continues to move forward towards his goal.</speak>
+            <speak chara="_bertrandY">Because he knows deep down: In this world, only actions mean anything, and only actions can change destiny.</speak>
+            <speak chara="_bertrandY">Any thought without action is just self-righteous arrogance.</speak>
+            <speak chara="_Rita">“It’s easier said than done”, I remember there was such a saying in the East.</speak>
+            <speak chara="_bertrandY">That’s right. The emperor often warned us before: Thought without action and action without thought - They are equally as dangerous.</speak>
+            <speak chara="_bertrandY">The former can only sit back and complain; The latter gets stubborn and fans the flames.</speak>
+            <speak chara="_bertrandY">The Emperor said that this kind of balance is difficult to grasp - He himself only performed well when compiling the “Civil Code”.</speak>
+            <speak chara="_bertrandY">He said that the “Civil Code” was the perfect combination of thought and action, and would never be abandoned by history.</speak>
+            <speak chara="_Bianka">...The job of a Valkyrie is to save the world. They will also not be abandoned by history.</speak>
+            <speak chara="_bertrandY">Hahahaha, you’re right. Your career is the cornerstone of everything. As long as you don’t betray it, you deserve the praise of most people.</speak>
+            <speak chara="_bertrandY">As you know, the Emperor sacrificed the entirety of Europe for his own interests, and for the interests of France… That eventually became a fatal stain on him.</speak>
+            <speak chara="_bertrandY">Beethoven even ripped off the title of the symphony composed for him and changed “Bonaparte” to “A hero”.</speak>
+            <speak chara="_bertrandY">After all… compared to the whole world, an Emperor and tens of millions of French people are just a small few.</speak>
+            <speak chara="_Bianka">But...</speak>
+            <speak chara="_Bianka">...None of us can guarantee that what we are doing is in line with the interest of mankind and the progress of civilization, right?</speak>
+            <speak chara="_bertrandY">That’s a good way to think.</speak>
+            <speak chara="_bertrandY">Judging from what you reported, the emperor may have chosen to integrate with his subjects into a new form of life just to avoid that.</speak>
+            <speak chara="_bertrandY">But for what price? These subjects were his most loyal and radical servants in the past. Combining with them only allowed a group of people to rush down the road of paranoia even more quickly.</speak>
+            <speak chara="_bertrandY">Perhaps, picking up the fragments of mankind and fusing them all together is a way to transcend Honkai--</speak>
+            <speak chara="_bertrandY">--But this example before us is definitely the worst of the worst. It’s a child born from personal and deformed desires.</speak>
+            <speak chara="_bertrandY">...It’s a pity that His Majesty the Emperor’s other half has died with him, and the remaining parts seem to be causing an even bigger disaster.</speak>
             <speak chara="_Bianka">……</speak>
-            <speak chara="_eyeDurandalQDurandal">主人，现在还不是伤心和愤怒的时候。</speak>
-            <speak chara="_Bianka">我明白。在真正拯救这个世界之前，我们每个人……都不能失去自己的冷静。</speak>
+            <speak chara="_eyeDurandalQDurandal">Master, this is not the time to be angry or sad.</speak>
+            <speak chara="_Bianka"> I know. Before we save the world… None of us can lose our cool.</speak>
             <bgm src="11_22_Tiger.mp3" status="start"></bgm>
-            <speak chara="_Rita">比安卡大人、贝特朗将军——看起来，我们已经十分接近空间裂缝的入口了。</speak>
-            <speak chara="_Bianka">了解。就这么笔直冲进去。</speak>
-            <speak chara="_Bianka">小幽，注意探查“锚点”的波动，即时校正目标定位。</speak>
-            <speak chara="_eyeDurandalQDurandal">……包在我身上！</speak>
+            <speak chara="_Rita"> Bianka-sama, General Bertrand - It seems that we are very close to the entrance of the space crack.</speak>
+            <speak chara="_Bianka">Got it. Let’s just rush straight in.</speak>
+            <speak chara="_Bianka">Durandal, pay attention to the fluctuations of the “Anchor Point”, and correct the target position in real time.</speak>
+            <speak chara="_eyeDurandalQDurandal">...Leave it to me!</speak>
             <goto goto="270" clockwise="1"/>
         </scene>
         <scene id="270" background="fortControlRoomDark.jpg">
