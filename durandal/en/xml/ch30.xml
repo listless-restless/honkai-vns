@@ -24,17 +24,13 @@
             </text>
             <text article="1">
                 <p class="article-text">All that we wish to stay,</p>
-                <p class="article-text">（我们想要留下的，）</p>
                 <br />
                 <p class="article-text">Tempts and then flies.</p>
-                <p class="article-text">（诱惑我们，飞散不见。）</p>
             </text>
             <text article="1">
                 <p class="article-text">What is this world's delight? Lightning that mocks the night,</p>
-                <p class="article-text">（什么是这世上的喜悦？是戏弄黑夜的闪电，）</p>
                 <br />
                 <p class="article-text">Brief even as bright.</p>
-                <p class="article-text">（明亮，而同短暂。）</p>
             </text>
             <goto goto="30" change="#ffffff"/>
         </scene>
@@ -43,24 +39,18 @@
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <text article="1">
                 <p class="article-text">Virtue, how frail it is!</p>
-                <p class="article-text">（美德，它是多么地脆弱！）</p>
                 <br />
                 <p class="article-text">Friendship how rare!</p>
-                <p class="article-text">（友情又何等稀有！）</p>
             </text>
             <text article="1">
                 <p class="article-text">Love, how it sells poor bliss</p>
-                <p class="article-text">（爱，它竟出卖可怜的幸福）</p>
                 <br />
                 <p class="article-text">For proud despair!</p>
-                <p class="article-text">（只为虚荣的绝望！）</p>
             </text>
             <text article="1">
                 <p class="article-text">But we, though soon they fall, Survive their joy and all</p>
-                <p class="article-text">（但我们仍要活着，即使欢悦转瞬即逝）</p>
                 <br />
                 <p class="article-text">Which ours we call.</p>
-                <p class="article-text">（还有称之为“我们的”一切。）</p>
             </text>
             <goto goto="40" change="#ffffff"/>
         </scene>
@@ -69,190 +59,184 @@
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <text article="1">
                 <p class="article-text">Whilst skies are blue and bright,</p>
-                <p class="article-text">（趁着天空湛蓝明媚，）</p>
                 <br />
                 <p class="article-text">Whilst flowers are gay,</p>
-                <p class="article-text">（趁着花朵轻盈自在，）</p>
             </text>
             <text article="1">
                 <p class="article-text">Whilst eyes that change ere night</p>
-                <p class="article-text">（趁着黑夜未至，双眸未改）</p>
                 <br />
                 <p class="article-text">Make glad the day,</p>
-                <p class="article-text">（仍停留在白昼的开心一刻）</p>
             </text>
             <text article="1">
                 <p class="article-text">Whilst yet the calm hours creep, Dream thou – and from thy sleep</p>
-                <p class="article-text">（趁平稳的时光还在缓缓流淌，愿你入梦——沉沉睡去吧）</p>
                 <br />
                 <p class="article-text">Then wake to weep.</p>
-                <p class="article-text">（待到醒来时再哭泣。）</p>
             </text>
             <goto goto="50" change="#000000"/>
         </scene>
         <scene id="50" background="black.jpg">
             <bgm src="x_DLC_UI7.mp3" status="continue"></bgm>
-            <text>梦如同黎明的泡沫一样渐渐消失。</text>
-            <text>少女感到某种清冽的气体正通向自己的肺部。</text>
-            <text>眼皮格外沉重。手指和脚趾似乎也没有清醒过来。</text>
-            <text>她努力驱赶着脑中的睡意，和自己缺乏控制的身体就这样斗争了三分钟——或者半小时。</text>
+            <text>The dream gradually disappeared like a bubble at dawn.</text>
+            <text>The girl felt the fresh air coming into her lungs.</text>
+            <text>Her eyelids were heavy, and her limbs didn’t want to wake up.</text>
+            <text>She tried to fight off the drowsiness in her mind, and struggled for control for three minutes… Or maybe it was half an hour.</text>
             <goto goto="60" change="0"/>
         </scene>
         <scene id="60" background="CG30-1.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <show chara="eyeOpening" position="center" opacity="1.0"/>
-            <speak chara="_Rita">啊……</speak>
-            <speak chara="_Rita">请您先不要动，比安卡大人。</speak>
+            <speak chara="_Rita">Ah...</speak>
+            <speak chara="_Rita">Please don’t move yet, Bianka-sama.</speak>
             <hide position="center"></hide>
-            <speak chara="_Rita">您昏迷了约3小时45分钟——而这是治疗的最后一针。</speak>
-            <speak chara="_Rita">所以，在注射完成前，请您继续保持平卧的姿势。</speak>
-            <speak chara="_Bianka">唔……是主教在出发前让你随身携带的那种药剂吧……</speak>
-            <speak chara="_Bianka">我记得原理是……用稀释到极低浓度的圣血——</speak>
-            <speak chara="_Rita">……嘘。我现在将对您进行静脉推注，需要您尽可能地保持安静和放松。</speak>
-            <speak chara="_Bianka">啊……不好意思。</speak>
-            <speak chara="_Bianka">这样的话……我就只确认一个问题好了……</speak>
-            <speak chara="_Bianka">切割世界泡的行动……成功了吗？</speak>
-            <speak chara="_Rita">……对世界泡切割可以说非常成功。只不过——</speak>
-            <speak chara="_Rita">——可能还有一些遗留问题需要我们来解决。所以，现在先请您配合治疗。</speak>
-            <speak chara="_Rita">没关系。很快就结束了。</speak>
+            <speak chara="_Rita">You were in a coma for about 3 hours and 45 minutes - This is the last shot of the treatment.</speak>
+            <speak chara="_Rita">So until the injection is completed, please maintain a supine position.</speak>
+            <speak chara="_Bianka">Uh… This is the kind of medicine that the Overseer told you to bring before we set off...</speak>
+            <speak chara="_Bianka">I remember the principle behind it was… Holy Blood diluted to a very low concentration--</speak>
+            <speak chara="_Rita">Shhh… I will now give you an intravenous injection, so I need you to be as quiet and relaxed as possible.</speak>
+            <speak chara="_Bianka">Ah… I’m sorry.</speak>
+            <speak chara="_Bianka">In that case… I only want to confirm one thing...</speak>
+            <speak chara="_Bianka">The plan to cut the Bubble Universe… was it successful?</speak>
+            <speak chara="_Rita">...The cutting itself can be said to have been very successful. Only--</speak>
+            <speak chara="_Rita">--There may be some remaining problems we need to solve. So please, cooperate with the treatment for now.</speak>
+            <speak chara="_Rita">It’s ok. It’ll be over soon.</speak>
             <goto goto="70" clockwise="1"/>
         </scene>
         <scene id="70" background="fortHospital.jpg">
             <bgm src="x_3_6_Talkbgm3.mp3" status="start"></bgm>
             <show chara="biankaDressSmileClose" position="left"/>
-            <speak chara="_Bianka">……这药还真厉害。我感觉自己简直比倒下之前还要健康。</speak>
+            <speak chara="_Bianka">...This medicine is really powerful. I feel like I’m healthier than before I collapsed.</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">所以呢？情况现在怎么样了？还有……我们现在这是在哪里？</speak>
+            <speak chara="_Bianka">So what’s the situation now? And... where are we?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">这里是地底深处，“要塞指挥中心”的附属医务室。我们现在正处于距离“锚点”最近的地方。</speak>
+            <speak chara="_Rita">This is the infirmary of the “Fortress Command Center” deep underground. We are now at the closest point to the “Anchor Point”.</speak>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">您之前参与其中的、切割世界泡的“帕查库特克行动”已经结束。根据议长那边的初步统计，有378人在行动中阵亡或失踪……</speak>
+            <speak chara="_Rita">The “Operation Pachakutiq” that you participated in to cut the Bubble Universe has ended. According to preliminary statistics from the chairwoman, 378 people were killed or are missing in action...</speak>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">……其中，包括“喀里多尼亚号”的大副，“让娜·弗朗索瓦·商博良”小姐。</speak>
+            <speak chara="_Rita">...Including the first mate of Caledonia, “Jeanna François Champollion”.</speak>
             <show chara="ritaVestHesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">——什么？</speak>
+            <speak chara="_Bianka">--What?</speak>
             <show chara="biankaDressSorrowClose" position="left"/>
-            <speak chara="_Bianka">她……怎么会……</speak>
+            <speak chara="_Bianka">Why would she...</speak>
             <show chara="biankaDressSorrowClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">“商博良”是她的化名。根据薛定谔博士的说法，这位“考古学家”其实是由聚合态“拿破仑”的信息碎片额外形成的“星语者”。</speak>
+            <speak chara="_Rita">“Champollion” is her pseudonym. According to Dr. Schrodinger, the archeologist is actually a “Star Whisperer” born from information fragments of the collective “Napoleon”.</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">……啥？</speak>
+            <speak chara="_Bianka">...What?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">粗略来说，她就是这个世界上额外存在的另一个拿破仑——而且其实在个性上更接近于我们从历史课本里学到的那一个。</speak>
+            <speak chara="_Rita">Roughly speaking, she is another Napoleon that exists in this world - In fact, her personality is closer to the one we learn about from textbooks in our world.</speak>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">在世界泡被切割开之后，残存在欧洲碎片上的崩坏兽凭借拿破仑的意志形成了聚合体，攻占了那个海岛上最重要的锚点通道，切断了我们的交通线。</speak>
+            <speak chara="_Rita">After the Bubble Universe was cut, the Honkai Beasts remaining on the fragments of Europe formed an aggregate of Napoleon’s will, captured the most important Anchor Channel of the island, and cut off our lines of communication.</speak>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">为了避免岛上的三千多人陷入全军覆没的境地，“商博良”选择了与“拿破仑”同归于尽——她利用锚点将自身调整为特攻武器，湮灭了崩坏兽聚合体当中的“拿破仑”成分。</speak>
+            <speak chara="_Rita">In order to prevent the annihilation of the more than 3000 people on the island, “Champollion” chose to die with “Napoleon” - She used the Anchor to turn herself into a special attack weapon, and annihilated the “Napoleon parts” in the Honkai Beast Aggregate.</speak>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">她用自己的牺牲挽救了其余的两千多人，挽救了重伤的德拉库列斯特将军、真田幸村将军、以及卡拉瓦乔小姐……</speak>
+            <speak chara="_Rita">She used her own sacrifice to save the remaining two thousand people, and saved the seriously wounded General Draculesti, General Sanada Yukimura, and Miss Caravaggio...</speak>
             <show chara="ritaVestHesitateClose" position="right"/>
-            <speak chara="_Rita">……也避免了我启动格尼乌斯，将你强行带回原本世界的可能。</speak>
+            <speak chara="_Rita">...It also avoided the need to forcibly activate the Genius to bring you back to our original world.</speak>
             <show chara="ritaVestHesitateClose" position="right" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaDressBiteClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">不过，崩坏兽聚合体虽然已经不复存在，但它积攒起来的崩坏能并没有完全消失。</speak>
+            <speak chara="_Rita">However, although the Honkai Beast Aggregate no longer exists, its Honkai Energy has not completely disappeared.</speak>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">在距离它湮灭地点不远的地方，薛定谔博士发现了一些新产生的巨型晶体。</speak>
+            <speak chara="_Rita">Not far from where it was defeated, Dr. Schrodinger found some newly formed giant crystals.</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">为此，博士本人、时雨绮罗前辈、罗兰小姐目前都还留在那座岛上进行监视。</speak>
+            <speak chara="_Rita">For this reason, Dr. Schrodinger herself, Shigure Kira-senpai and Rowland-sama are still staying on the island for surveillance.</speak>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">……这也是我之前所说的，可能需要我们才能解决的“遗留问题”。</speak>
+            <speak chara="_Rita">...This is the “remaining problem” I mentioned before, and it might need our help.</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">……你打算怎么做？</speak>
+            <speak chara="_Bianka">...What do we need to do?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">用崩坏能攻击来测试这种晶体的稳定性。</speak>
+            <speak chara="_Rita">Use a Honkai Energy attack to test the crystal’s stability.</speak>
             <show chara="ritaVestSmileClose" position="right"/>
-            <speak chara="_Rita">如果这种晶体足够稳定，那么无论是把它深埋地下、还是发射到太空，都将是不错的选择。</speak>
+            <speak chara="_Rita">If the crystals are stable, it’s a good idea to bury them deep underground or throw them into space.</speak>
             <show chara="ritaVestSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">……可是，万一这种晶体比较脆弱、容易泄露呢？</speak>
+            <speak chara="_Bianka">...And what if the crystals are fragile and easily leak Honkai Energy?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestAngryClose" position="right"/>
-            <speak chara="_Rita">那我们就把它们全部引爆。</speak>
+            <speak chara="_Rita">Then we blow them all up.</speak>
             <show chara="ritaVestAngryClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">这……这要怎么做？</speak>
+            <speak chara="_Bianka">That’s… How do we do that?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="eyeSwordNormal" position="right"/>
-            <speak chara="_eyeDurandalQNoName">嘿嘿……那当然是靠我啦。</speak>
+            <speak chara="_eyeDurandalQNoName">Hehehe… that’s where I come in, of course.</speak>
             <show chara="eyeSwordNormal" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">你是……小幽吗？</speak>
+            <speak chara="_Bianka">Are you… Dudu?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="eyeSwordSmile" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">没错，当然就是我！</speak>
-            <speak chara="_eyeDurandalQDurandal">“喀里多尼亚号”上唯一的机械种族，马泰奥·马里亚·博亚尔多·路德维希奥·阿里奥斯托十二世！</speak>
-            <speak chara="_eyeDurandalQDurandal">啊，那个名字是我随口瞎编的，不用在意。</speak>
+            <speak chara="_eyeDurandalQDurandal">Yes, of course it’s me!</speak>
+            <speak chara="_eyeDurandalQDurandal">The only member of the mechanical race in Caledonia, Matteo Maria Boiard Ludwig Aristotle XII!</speak>
+            <speak chara="_eyeDurandalQDurandal">Oh, I just made that name up on the spot, so don’t think too much about it.</speak>
             <show chara="eyeSwordNormal" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">总之，这是我恢复了完整机能之后能够使用的人偶形态，是不是比之前威风了不少呢？</speak>
+            <speak chara="_eyeDurandalQDurandal">In short, this is the anthropomorphic form I can use after having all of my functions restored. Isn’t it a lot more prestigious than before?</speak>
             <show chara="eyeSwordNormal" position="right" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="left"/>
-            <speak chara="_Bianka">……大、大概吧。</speak>
+            <speak chara="_Bianka">...Yeah, kinda.</speak>
             <show chara="biankaDressSighClose" position="left" opacity="0.8"/>
             <show chara="eyeSwordNormal" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">我比主人早恢复意识35分钟28秒，所以已经帮你们设定好净化那些晶体的程序了。</speak>
+            <speak chara="_eyeDurandalQDurandal">I woke up 35 minutes and 28 seconds earlier than my master, so I already set up the crystal purification procedures for you.</speak>
             <show chara="eyeSwordSmile" position="right"/>
-            <speak chara="_eyeDurandalQDurandal">事不宜迟，我们现在就出发吧？</speak>
+            <speak chara="_eyeDurandalQDurandal">So without further ado, should we get going?</speak>
             <goto goto="80" clockwise="1"/>
         </scene>
         <scene id="80" background="commandCenterHuaca.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">呀。身体恢复了吗？</speak>
+            <speak chara="_Shakespeare">Ah, is your body fine now?</speak>
             <show chara="shakesCasualNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="right"/>
-            <speak chara="_Bianka">船长！爷爷！你们都没事吧？</speak>
+            <speak chara="_Bianka">Captain! Old man! Are you safe?</speak>
             <show chara="biankaDressSmileAhClose" position="right" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">嗯，我们都被保护得很好……托流血牺牲的英雄们的福。</speak>
+            <speak chara="_Miguel">Yes, we were well protected… thanks to the heroes who shed their blood and sacrificed their lives.</speak>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">……所以，你们现在是要带着“圣剑”返回战场吗？</speak>
+            <speak chara="_Shakespeare">...So, are you going back to the battlefield with the “Holy Sword”?</speak>
             <show chara="shakesCasualNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileClose" position="right"/>
-            <speak chara="_Bianka">嗯。小幽说它有能力处理残余的崩坏能。</speak>
+            <speak chara="_Bianka">Yes. Dudu said it has the ability to deal with the residual Honkai Energy.</speak>
             <show chara="biankaDressSmileClose" position="right" opacity="0.8"/>
             <show chara="shakesCasualNormalClose" position="left"/>
-            <speak chara="_Shakespeare">加油。那的确是只有你们才能做到最好的事情。</speak>
+            <speak chara="_Shakespeare">Then go ahead. This is probably the best thing that only you can do.</speak>
             <show chara="cervantesNormalClose" position="left"/>
             <speak chara="_Miguel">……</speak>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">我听说在东方的哲学里有一种讲法，说每个人都是带着“宿命”降生到这个世界上的。</speak>
+            <speak chara="_Miguel">I heard that there is a saying in Eastern philosophy that everyone is born with a “fate”.</speak>
             <show chara="cervantesNormalClose" position="left"/>
-            <speak chara="_Miguel">不过，与预言家口中的“宿命”不同，这种人皆有之的“宿命”，大多数时候其实都被琐碎的人生给埋没了。</speak>
+            <speak chara="_Miguel">However, unlike the “fate” from prophecies, this kind of “fate” is almost always buried by trivial life.</speak>
             <show chara="cervantesGazeClose" position="left"/>
-            <speak chara="_Miguel">只有拥有真正的智慧与勇敢的人，才能从只有一次的人生中察觉到自己的“宿命”——</speak>
+            <speak chara="_Miguel">Only those with true wisdom and bravery can perceive their “fate” on a once in a lifetime chance--</speak>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">——并利用它去创造，那些在局外人的口中被称为“奇迹”与“不可能”的东西。</speak>
+            <speak chara="_Miguel">--And use it to create something that will be called “impossible” or “a miracle” by outsiders.</speak>
             <show chara="cervantesSeriousClose" position="left"/>
-            <speak chara="_Miguel">也许，有时候“奇迹”令人付出沉重的代价；</speak>
+            <speak chara="_Miguel">Perhaps, sometimes this “miracle” comes at a heavy price;</speak>
             <show chara="cervantesSeriousClose" position="left"/>
-            <speak chara="_Miguel">也许，有时候“宿命”的实现方式让我们扼腕叹息——</speak>
+            <speak chara="_Miguel">Perhaps, sometimes realizing our “fate” will make us sigh and grieve; </speak>
             <show chara="cervantesGazeClose" position="left"/>
-            <speak chara="_Miguel">但它们都是被这个世界选择的历史，是从无数可能性当中，因为种种的机缘巧合，而最终降临在我们身边的“命运”。</speak>
+            <speak chara="_Miguel">But it is still the history chosen by this world, from countless possibilities, because of various coincidences, that finally became our “destiny”.</speak>
             <show chara="cervantesNormalClose" position="left"/>
-            <speak chara="_Miguel">孩子们，我真正想说的是……</speak>
+            <speak chara="_Miguel">Kid, what I really want to say is...</speak>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">不论在什么样的哲学里，“改变命运”都远远比“祈求命运”或是“诅咒命运”要来得重要，来得更有意义。</speak>
+            <speak chara="_Miguel">No matter the philosophy, “changing fate” is far more important than “praying for fate” or “cursing fate”.</speak>
             <show chara="cervantesNormalClose" position="left"/>
-            <speak chara="_Miguel">时间不能倒流。世界不能重启。与其诉说悲伤的理由，倒不如细数能做到的事情。</speak>
+            <speak chara="_Miguel">Time can’t go backwards. The world can’t be reset. Rather than talking about your reasons of sadness, it’s better to count the things that can be done.</speak>
             <show chara="cervantesGazeClose" position="left"/>
-            <speak chara="_Miguel">孩子们，你们的征途才刚刚开始……也许有无数的世界、无数的险阻，还在前方等待着你们。</speak>
+            <speak chara="_Miguel">Kid, your journey has only begun… Maybe there are countless worlds and countless obstacles still waiting for you.</speak>
             <show chara="cervantesSmileClose" position="left"/>
-            <speak chara="_Miguel">所以，加油吧。对故人最好的纪念，就是在他们开辟的道路下前进下去。</speak>
+            <speak chara="_Miguel">So do your best. The best way to commemorate the deceased is to go forward on the path they have opened up.</speak>
             <show chara="cervantesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSmileAhClose" position="right"/>
-            <speak chara="_Bianka">……是！</speak>
+            <speak chara="_Bianka">...I will!</speak>
             <show chara="ritaVestSmileClose" position="right"/>
-            <speak chara="_Rita">非常感谢您，塞万提斯大人。</speak>
+            <speak chara="_Rita">Thank you very much, Sir Cervantes.</speak>
             <goto goto="90" clockwise="1"/>
         </scene>
         <scene id="90" background="fortTunnel.jpg">
