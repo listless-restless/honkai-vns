@@ -307,17 +307,17 @@
             <show chara="DarwinSmileClose" position="right"/>
             <speak chara="_Darwin">Don’t get me wrong, I’m not saying I’m a ghost or a spirit. This is just the result of applying the Ether Anchor’s ability of “copying the world” on “people”.</speak>
             <show chara="DarwinNormalClose" position="right"/>
-            <speak chara="_Darwin">Be it the achievements of civilization or intelligent life, they are ultimately an amount of “Anti-Entropy”. You can use the “Ether Anchor” as a “medium” to “balance” the Anti-Entropy.</speak>
+            <speak chara="_Darwin">Be it the achievements of civilization or intelligent life, they are ultimately an amount of “Negentropy”. You can use the “Ether Anchor” as a “medium” to “balance” the Anti-Entropy.</speak>
             <show chara="DarwinNormalClose" position="right" opacity="0.8"/>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">...And Anti-Entropy and Imaginary Energy - That is, Honkai Energy - are associated with each other.</speak>
+            <speak chara="_Schrodinger">...And Negentropy and Imaginary Energy - That is, Honkai Energy - are associated with each other.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">In theory, we could indeed do the opposite: Use Honkai Energy under control to create new Anti-Entropy.</speak>
+            <speak chara="_Schrodinger">In theory, we could indeed do the opposite: Use Honkai Energy under control to create new Negentropy.</speak>
             <show chara="schroMemoryClose" position="left"/>
             <speak chara="_Schrodinger">-That is the basic principle behind the “Selene”.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Anti-Entropy - You already seem to understand what I’m talking about.</speak>
+            <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Negentropy - You already seem to understand what I’m talking about.</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Well, what are you talking about?</speak>
@@ -372,7 +372,7 @@
             <show chara="DraculaFunnyClose" position="left"/>
             <speak chara="_DraculaNoName">Humph, Anna is still so stingy even after becoming the Minister of Defense.</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_DraculaNoName">My name is Llona Draculest, Commander of the First Guard- But you can call me Dracula.</speak>
+            <speak chara="_DraculaNoName">My name is Llona Draculesti, Commander of the First Guard- But you can call me Dracula.</speak>
             <show chara="DraculaNormalClose" position="left"/>
             <speak chara="_Dracula">Unlike this beautiful but stingy girl next to me, I’m a Star Whisperer who doesn’t need the Ether Anchor to exist--</speak>
             <show chara="DraculaSmileClose" position="left"/>
