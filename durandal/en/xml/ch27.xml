@@ -320,7 +320,7 @@
             <speak chara="_Yukimura">Having said that… It would be great if I had some hot soba to eat now.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
             <show chara="thorSmileClose" position="left"/>
-            <speak chara="_Thoreau">Hot soba would be a bit too hard.. Do you mind if it’s Baumkuchen instead?</speak>
+            <speak chara="_Thoreau">Hot soba would be a bit too hard... Do you mind if it’s Baumkuchen instead?</speak>
             <show chara="thorSmileClose" position="left" opacity="0.8"/>
             <show chara="yukimuraTalkClose" position="right"/>
             <speak chara="_Yukimura">Baumkuchen? Isn’t that exquisite?</speak>
@@ -414,10 +414,10 @@
         </scene>
         <scene id="160" background="CG27-2.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
-            <text>“Quiet! I’m the foundation of the universe!”</text>
-            <text>“I am time and space itself, ”</text>
-            <text>“The source of power to destroy everything, ”</text>
-            <text>“My duty is to annihilate all worlds.”</text>
+            <text>“Calm down, foundation of the universe”</text>
+            <text>“I am timespace itself.”</text>
+            <text>“The source of the power that destroys all.”</text>
+            <text>“My role is to obliterate all universes”</text>
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="CG27-3.jpg">
