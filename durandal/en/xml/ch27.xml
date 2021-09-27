@@ -82,7 +82,7 @@
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <show chara="thorSighClose" position="back"/>
-            <speak chara="_Thoreau">We have to admit… Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human. Not even Roland was capable of it.</speak>
+            <speak chara="_Thoreau">We have to admit… Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human. Not even Rowland was capable of it.</speak>
             <show chara="thorConfidentClose" position="back"/>
             <speak chara="_Thoreau">However, you Valkyries are true warriors who fight the honkai: Your possibilities are completely different from us, Captain Shakespeare or Dr. Schrodinger.</speak>
             <show chara="thorConfidentClose" position="back"/>
