@@ -1154,7 +1154,7 @@
             <speak chara="_BiankaVenice">Sweet Portia, If you knew who I gave the ring to——</speak>
             <show chara="BassanioTangled" position="right" opacity="0.8"/>
             <show chara="DressPortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">It’s not a question of who you have it to——</speak>
+            <speak chara="_RitaVeniceM">It’s not a question of who you gave it to——</speak>
             <show chara="DressPortiaAngry" position="left"/>
             <speak chara="_RitaVeniceM">If you had realised the significance of the ring, or half the worth of she who gave you the ring, you wouldn’t have parted with the ring,</speak>
             <show chara="DressPortiaFalseShock" position="left"/>
