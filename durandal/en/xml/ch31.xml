@@ -122,8 +122,6 @@
             <speak chara="_ShakespeareVeniceFather">That’s because our likes and dislikes govern our emotions. No one is their own master.</speak>
             <show chara="ShylockHelplessSmile" position="right"/>
             <speak chara="_ShakespeareVeniceFather">When one’s own likes and dislikes are stimulated, they don’t need a reason, everyone can’t help but show their ugly side.</speak>
-            <show chara="ShylockNormal" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">That’s because our likes and dislikes govern our emotions. No one is their own master.</speak>
             <show chara="ShylockHelplessSmile" position="right"/>
             <speak chara="_ShakespeareVeniceFather">And for me, it is a solid hatred and a loathing that I have for Antonio that makes me pursue this money-losing case against him!</speak>
             <show chara="ShylockProvocative" position="right"/>
