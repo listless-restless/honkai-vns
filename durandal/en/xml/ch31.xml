@@ -8,10 +8,10 @@
         </scene>
         <scene id="10" background="chileIceMountain.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
-            <text remark="next">“在极北的高地上，一个被称做‘斯威斯约德’的国度里，有一座雄伟的山峰。”</text>
-            <text remark="next">“它有一百英里长，一百英里高——”</text>
-            <text remark="next">“一千年一次，会有一只小鸟飞到这座山的山顶，用山岩将它的鸟嘴磨利。”</text>
-            <text remark="next">“而等到这座山峰就这样被小鸟磨平了之后，永恒的日历才终于翻过了薄薄的一页。”</text>
+            <text remark="next">“High in the North in a land called Svithjod there is a mountain.”</text>
+            <text remark="next">“It is a hundred miles long and a hundred miles high”</text>
+            <text remark="next">“And once every thousand years a little bird comes to this mountain to sharpen its beak.”</text>
+            <text remark="next">“When the mountain has thus been torn away, a single day of eternity will have passed.”</text>
             <remark post="U2FsdGVkX1+IG6e9RXnWjaMPClT3">
                 <p class="article-text-h">注：</p>
                 <p class="article-text">以上文字引自房龙（Hendrik Willem van Loon）的作品《人类的故事》（The Story of Mankind）。原文如下：</p>
@@ -23,111 +23,111 @@
                 <br />
                 <p class="article-text">p.s. “Svithjod”是“瑞典”的一个古称，带有古诺斯语的色彩。</p>
             </remark>
-            <text>英雄已经远去。创伤渐渐愈合。</text>
-            <text>生活重归于琐碎，正如永恒的星辰日复一日地东升西落。</text>
-            <text>世界泡中的时间就这样过去了十年。</text>
+            <text>The hero is gone. The wound gradually healed.</text>
+            <text>The everyday life has returned, just like how the eternal stars rise from east to west day after day.</text>
+            <text>Ten years have passed in the Bubble Universe’s time.</text>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DogeNormal" position="left"/>
-            <speak chara="_CervantesVenice">安东尼奥有没有来？</speak>
+            <speak chara="_CervantesVenice">Well? Antonio’s here, is he?</speak>
             <show chara="DogeNormal" position="left" opacity="0.8"/>
             <show chara="AntonioNormal" position="right"/>
-            <speak chara="_ThalesVenice">有。殿下。</speak>
+            <speak chara="_ThalesVenice">Ready, at your pleasure, Your Grace.</speak>
             <show chara="AntonioNormal" position="right" opacity="0.8"/>
             <show chara="DogeSad" position="left"/>
-            <speak chara="_CervantesVenice">我为你感到难过。</speak>
+            <speak chara="_CervantesVenice">I am sorry for you.</speak>
             <show chara="DogeSad" position="left"/>
-            <speak chara="_CervantesVenice">你是来和一个铁石心肠的对手当庭对质：一个不懂得怜悯、没有一丝慈悲之心、丝毫不近人情的恶汉。</speak>
+            <speak chara="_CervantesVenice">You have come to answer a stony adversary, an inhuman wretch, incapable of pity and devoid of even a drop of mercy.</speak>
             <show chara="DogeSad" position="left" opacity="0.8"/>
             <show chara="AntonioHelpless" position="right"/>
-            <speak chara="_ThalesVenice">我听说殿下曾经费劲口舌，只劝他凡事不要做得太过分；可是他固执己见，不肯作一丝一毫的让步。既然没有合法的手段可以使我脱离他的魔爪，那……</speak>
+            <speak chara="_ThalesVenice">I’ve been told Your Grace has taken great pains to dissuade him from his course. But as he’s determined, and as the law can’t help me avoid his revenge, then…</speak>
             <show chara="AntonioShout" position="right"/>
-            <speak chara="_ThalesVenice">……那俗话说得好，不在沉默中爆发，就在沉默中死亡！我——</speak>
+            <speak chara="_ThalesVenice">...The saying fits well, one should die in silence! I...</speak>
             <show chara="AntonioDismay" position="right"/>
-            <speak chara="_ThalesVenice">我……</speak>
+            <speak chara="_ThalesVenice">I...</speak>
             <show chara="AntonioHelpless" position="right"/>
-            <speak chara="_ThalesVenice">说来惭愧，我从来就没有胆量做任何出格的事，所以今天也只好在这里默默迎接自己的悲惨命运了。</speak>
+            <speak chara="_ThalesVenice">I feel ashamed. I have never had the guts to do anything extraordinary, so today I have to quietly welcome my tragic fate.</speak>
             <goto goto="30" change="0"/>
         </scene>
         <scene id="30" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVeniceNoName">……咦？</speak>
+            <speak chara="_BiankaVeniceNoName">...What?</speak>
             <show chara="BassanioDissatisfied" position="left"/>
-            <speak chara="_BiankaVeniceNoName">泰勒斯她……她刚才说的完全不是剧本上的台词吧，船长？</speak>
+            <speak chara="_BiankaVeniceNoName">That… What Thales said wasn’t in the script at all, was it, Captain?</speak>
             <show chara="BassanioDissatisfied" position="left" opacity="0.8"/>
             <show chara="ShylockLaugh" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">哈哈哈哈，那又有什么关系呢？</speak>
+            <speak chara="_ShakespeareVeniceNoName">Hahahaha, does that matter?</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">演员忘词是很常见的事情——只要按着情势说下去就可以了，故事还是会正常发展的。</speak>
+            <speak chara="_ShakespeareVeniceNoName">It is very common for actors to forget their lines. As long as they continue to speak according to the situation, the story will continue to develop normally.</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">对了。在这里要叫我“剧团长”，而不是“船长”——东方人说得好，“名不正则言不顺”。</speak>
+            <speak chara="_ShakespeareVeniceNoName">And I will correct you. In here I am the “Director of the Theater”, not the “Captain”. As the orientals say, “If the name is not right, the words won’t flow well”.</speak>
             <show chara="ShylockSmile" position="right" opacity="0.8"/>
             <show chara="BassanioPrudish" position="left"/>
-            <speak chara="_BiankaVeniceNoName">……啊，抱歉。从前叫习惯了，不好意思。</speak>
+            <speak chara="_BiankaVeniceNoName">...Ah, sorry. I’m just used to it.</speak>
             <show chara="BassanioPrudish" position="left" opacity="0.8"/>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">哈哈。你也不要突然就拘谨起来啊。</speak>
+            <speak chara="_ShakespeareVeniceNoName">Haha, you don’t have to get so cautious all of a sudden.</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">谦逊庄重虽然不是坏事，但我果然还是更喜欢那个更加洒脱一些的你啊。</speak>
+            <speak chara="_ShakespeareVeniceNoName">It’s not bad to be humble, but I prefer the you who was more easygoing.</speak>
             <show chara="ShylockSmile" position="right" opacity="0.8"/>
             <show chara="BassanioHelpless" position="left"/>
-            <speak chara="_BiankaVeniceNoName">……唔。丽塔有时也这样说我。</speak>
+            <speak chara="_BiankaVeniceNoName">...Huh, Rita sometimes says the same thing.</speak>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVeniceNoName">不过，这就是所谓“成长”吧？经历许许多多的事，有所失、有所得——</speak>
+            <speak chara="_BiankaVeniceNoName">However, this is the so-called “growth”, right? I experienced, lost and gained many things--</speak>
             <show chara="BassanioConfident" position="left"/>
-            <speak chara="_BiankaVeniceNoName">最终，你也许在外表上和过去相差甚远；但你知道，你在内心深处守护住了自己在这个世界上最重要的珍宝：</speak>
+            <speak chara="_BiankaVeniceNoName">In the end, it may be very different from the past; But I know, from the depths of my heart, I managed to protect the treasure I cherish the most in this world:</speak>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVeniceNoName">那个许多年前的，最真实的你自己。</speak>
+            <speak chara="_BiankaVeniceNoName">My true self.</speak>
             <show chara="BassanioSmile" position="left" opacity="0.8"/>
             <show chara="ShylockPleased" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">……你真的长大了呢，比安卡。</speak>
+            <speak chara="_ShakespeareVeniceNoName">...You have really grown up, Bianka.</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceNoName">尽管在你们那边，时间的流速要缓慢不少；但是比起我们在这边的十年，果然……</speak>
+            <speak chara="_ShakespeareVeniceNoName">Although on your side, the flow of time is much slower; Compared to the decade that has passed here...</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="SolanioSmile" position="center"/>
-            <speak chara="_ManfredVeniceNoName">剧团长！接下来是您自己的戏啦！</speak>
+            <speak chara="_ManfredVeniceNoName">Director of the Theater, it’s your scene next!</speak>
             <hide position="center"></hide>
             <show chara="ShylockSmile" position="left"/>
-            <speak chara="_ShakespeareVeniceNoName">哎呀。轮到我上场了呢。比安卡，注意和我对台词哦？</speak>
+            <speak chara="_ShakespeareVeniceNoName">Oops, it’s my turn to play. Bianka, can you match your lines with mine?</speak>
             <show chara="ShylockSmile" position="left" opacity="0.8"/>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVeniceNoName">是。</speak>
+            <speak chara="_BiankaVeniceNoName">Of course.</speak>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DogeSerious" position="left"/>
-            <speak chara="_CervantesVenice">债主，你上前来！我们都在等候你改变心意，放弃从这个不幸商人的身上割那一磅肉。</speak>
+            <speak chara="_CervantesVenice">Shylock, come forward! We are all waiting for you to change your mind and give up cutting that pound of meat from this unfortunate businessman.</speak>
             <show chara="DogeSerious" position="left" opacity="0.8"/>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">尊敬的督治殿下，我已经把自己的意思向您禀告过了：</speak>
-            <speak chara="_ShakespeareVeniceFather">我曾对天发誓，一定要按照约定上的白纸黑字来执行处罚。</speak>
+            <speak chara="_ShakespeareVeniceFather">I’ve told Your Grace what my intentions are.</speak>
+            <speak chara="_ShakespeareVeniceFather">I’ve sworn by our holy Sabbath to get the full penalty for failure to pay the debt.</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">殿下，威尼斯的法律，明明白白地支持我的请求。</speak>
+            <speak chara="_ShakespeareVeniceFather">If you deny it you will be undermining your city’s constitution and the rule of law.</speak>
             <show chara="ShylockLaugh" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">如果您非要问我为什么不愿接受三千个金币，也只想拿一块注定要腐烂的臭肉——</speak>
+            <speak chara="_ShakespeareVeniceFather">You’ll ask me why I’d rather have a measure of dead flesh than receive three thousand ducats--</speak>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">——我只能说我喜欢这样，这算不算一个回答？</speak>
+            <speak chara="_ShakespeareVeniceFather">--Just say I feel like it. Is that good enough?</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">要是我的屋子里有了耗子，我高兴出一万个金币找人把它们赶掉——您难道管得了我这样做吗？</speak>
+            <speak chara="_ShakespeareVeniceFather">What if my house were plagued by a rat and it suited me to pay ten thousand ducats to have it poisoned? Isn’t that my freedom?</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">有的人不喜欢哼哼乱叫的猪，有的人一见到猫自己就浑身炸毛，还有人听见人家吹笛子的声音就忍不住想上厕所——</speak>
+            <speak chara="_ShakespeareVeniceFather">There are some men who don’t like the sight of a gaping pig’s head: some who go mad if they see a cat: and others who can’t help wetting themselves when they hear the nasal whine of the bagpipes.</speak>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">——瞧，我们的感情完全受着内心好恶的支配，谁其实也做不了自己的主。</speak>
+            <speak chara="_ShakespeareVeniceFather">That’s because our likes and dislikes govern our emotions. No one is their own master.</speak>
             <show chara="ShylockHelplessSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">所以，如果您一定要打破沙锅问到底的话，那我也只能说：</speak>
+            <speak chara="_ShakespeareVeniceFather">When one’s own likes and dislikes are stimulated, they don’t need a reason, everyone can’t help but show their ugly side.</speak>
             <show chara="ShylockNormal" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">在自己的好恶受到刺激的时候，不需要所谓的“充分理由”，每个人就都会情不自禁地展现出自己的丑相来。</speak>
+            <speak chara="_ShakespeareVeniceFather">That’s because our likes and dislikes govern our emotions. No one is their own master.</speak>
             <show chara="ShylockHelplessSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">至于我个人，正因为我和安东尼奥之间有着深刻的积怨，所以我才会咽不下这口气，向他发起这样一场并不能使我自己赢得利益的诉讼。</speak>
+            <speak chara="_ShakespeareVeniceFather">And for me, it is a solid hatred and a loathing that I have for Antonio that makes me pursue this money-losing case against him!</speak>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">——您向我索要回答，那么这就是我的回答。</speak>
+            <speak chara="_ShakespeareVeniceFather">——Have you got your answer?</speak>
             <show chara="ShylockProvocative" position="right" opacity="0.8"/>
             <show chara="BassanioScold" position="left"/>
             <speak chara="_BiankaVenice">你、你这冷酷无情的家伙！</speak>
