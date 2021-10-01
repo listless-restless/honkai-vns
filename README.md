@@ -49,7 +49,7 @@ Refresh
 | 1-12     | listless-restless                                            | Complete                                                     |
 | 13-15    | listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
 | 16       | [asterae](https://github.com/asterae/honkai-vns) and listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
-| 17-26    | Aiatar, zklm and [asterae](https://github.com/asterae/honkai-vns) | Mostly complete, being worked on by [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns)|
+| 17-26    | Aiatar, zklm and asterae | Complete, but may require further edits, being worked on by [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns)|
 
 
 ### Durandal
