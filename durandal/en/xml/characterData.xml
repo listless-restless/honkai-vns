@@ -146,14 +146,14 @@
         <character name="Man" color="#d0c8c4" id="_MiguelNoName" src=""/>
         <character name="Miguel" color="#d0c8c4" id="_Miguel" src=""/>
         <character name="Cervantes" color="#d0c8c4" id="_Cervantes" src=""/>
-        <character name="Doge" color="#d0c8c4" id="_CervantesVenice" src=""/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
+        <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesSmileClose" src="cervantesSmileClose.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesLaughClose" src="cervantesLaughClose.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesNormalClose" src="cervantesNormalClose.png"/>
