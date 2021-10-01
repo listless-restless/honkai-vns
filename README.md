@@ -2,7 +2,7 @@
 
 Continuation of Chinese-to-English translation work of Honkai Impact VNs, from https://github.com/zklm/honkai-vns, in the form of edits to .xml files that can be loaded via zklm's scripts into the VN viewer.
 
-### How to use - for readers
+### How to use
 
 To use the latest translation for  **Anti-Entropy**: 
 
