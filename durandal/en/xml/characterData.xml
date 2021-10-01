@@ -392,11 +392,11 @@
         <character name="Neith" color="#adbfb9" id="neithShockClose" src="02_21_neithShockClose.png"/>
         <character name="???" color="#ffd0d1" id="_AliceNoName" src=""/>
         <character name="Alice" color="#ffd0d1" id="_Alice" src=""/>
-        <character name="Nelissa" color="#ffd0d1" id="_AliceVeniceM" src=""/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="_AliceVeniceM" src=""/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
         <character name="Alice" color="#4cd760" id="_AliceGreen" src=""/>
         <character name="Alice" color="#ffd0d1" id="AliceStandBlackClose" src="02_01_AliceStandBlackClose.png"/>
         <character name="Alice" color="#ffd0d1" id="AliceSilentFar" src="02_01_AliceSilentFar.png"/>
