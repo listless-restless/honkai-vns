@@ -130,115 +130,115 @@
             <speak chara="_ShakespeareVeniceFather">——Have you got your answer?</speak>
             <show chara="ShylockProvocative" position="right" opacity="0.8"/>
             <show chara="BassanioScold" position="left"/>
-            <speak chara="_BiankaVenice">你、你这冷酷无情的家伙！</speak>
+            <speak chara="_BiankaVenice">You callous man!</speak>
             <show chara="BassanioTeeth" position="left"/>
-            <speak chara="_BiankaVenice">这种丧尽天良的回答，就是你天性残忍的最好注脚！</speak>
+            <speak chara="_BiankaVenice">This is no excuse for your cruelty!</speak>
             <show chara="BassanioTeeth" position="left" opacity="0.8"/>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">我本来也不是为了讨你喜欢才站在这里的。</speak>
+            <speak chara="_ShakespeareVeniceFather">I don’t have to please you with my answers!</speak>
             <show chara="ShylockSmile" position="right" opacity="0.8"/>
             <show chara="BassanioTeeth" position="left"/>
-            <speak chara="_BiankaVenice">你这个疯子！</speak>
+            <speak chara="_BiankaVenice">You are crazy!</speak>
             <show chara="BassanioScold" position="left"/>
-            <speak chara="_BiankaVenice">难道人们对于他们不喜欢的人，就一定要置之死地而后快吗？</speak>
+            <speak chara="_BiankaVenice">Do all men kill the things they dislike?</speak>
             <show chara="BassanioScold" position="left" opacity="0.8"/>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">呵呵。哪一个人会真的憎恨，那些他自己本就不愿意杀死的东西？</speak>
+            <speak chara="_ShakespeareVeniceFather">Wouldn’t every man just love to kill the things he doesn’t like?</speak>
             <show chara="ShylockProvocative" position="right" opacity="0.8"/>
             <show chara="BassanioFindOthersUnreasonable" position="left"/>
-            <speak chara="_BiankaVenice">初次冒犯就引为仇恨？世界上哪有这样的道理？</speak>
+            <speak chara="_BiankaVenice">Every offence causes hatred in the first place? How could that be true?</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left" opacity="0.8"/>
             <show chara="ShylockFalseShock" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">什么？！一次还不够，你还愿意被毒蛇咬第二次吗？</speak>
+            <speak chara="_ShakespeareVeniceFather">What? Would you allow a serpent to sting you twice?</speak>
             <show chara="AntonioHelpless" position="right"/>
-            <speak chara="_ThalesVenice">我的朋友，你现在和这个铁石心肠的人讲理，就好像站在海滩上，要那大海的怒涛自己平息下它奔腾的威力；</speak>
+            <speak chara="_ThalesVenice">Please, don’t forget, you’re arguing with the Jew. You may as well stand on the beach and tell the sea not to reach its usual high point.</speak>
             <show chara="AntonioDismay" position="right"/>
-            <speak chara="_ThalesVenice">就好像责问豺狼，问它为何要害得母羊因为失去自己的孩子而哀鸣；</speak>
+            <speak chara="_ThalesVenice">You may as well ask the wolf why he has made the ewe bleat in bereavement of its lamb.</speak>
             <show chara="AntonioHelpless" position="right"/>
-            <speak chara="_ThalesVenice">或者是叫那山上的松柏，在受到强风吹拂的时候，也不要摇摆不定，发出那种令人害怕的“沙沙”声音。</speak>
+            <speak chara="_ThalesVenice">You may as well forbid the mountain pines to sway or make a noise in the buffeting winds.</speak>
             <show chara="AntonioDisheartened" position="right"/>
-            <speak chara="_ThalesVenice">所以，我的朋友，请你也不用再跟他商量什么条件，不用再替我想什么办法——</speak>
+            <speak chara="_ThalesVenice">So, my friend, I beg you not to try anything else or use any further means——</speak>
             <speak chara="_ThalesVenice">让我爽快地收到判决书，让这个野蛮人满足他的心愿吧。</speak>
             <show chara="AntonioDisheartened" position="right" opacity="0.8"/>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVenice">你、你怎么能就这样自己放弃？</speak>
+            <speak chara="_BiankaVenice">You- How can you give yourself up like this?!</speak>
             <show chara="BassanioHelpless" position="left"/>
-            <speak chara="_BiankaVenice">那边的老先生，您也行行好：他借了你三千块钱，现在我们拿六千块还你好不好？</speak>
+            <speak chara="_BiankaVenice">To the old man over there: If he borrowed three thousand ducats, I will return you six thousand.？</speak>
             <show chara="BassanioHelpless" position="left" opacity="0.8"/>
             <show chara="ShylockFalseShock" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">我刚才说了那么多，你竟然把它们全当耳旁风吗？！</speak>
+            <speak chara="_ShakespeareVeniceFather">I just said so much, did you not listen?!</speak>
             <show chara="ShylockNormal" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">听好了，毛头小子。即使这六千块当中的每一个金币都可以分成六份，而这六份中的每一份都可以再变成那三千块本钱——</speak>
+            <speak chara="_ShakespeareVeniceFather">Listen well, brat. If every ducat in that six thousand were multiplied by six——</speak>
             <show chara="ShylockCold" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">——就算这样，我也不想要这些钱财：我只要按照约定上的白纸黑字来执行处罚。</speak>
+            <speak chara="_ShakespeareVeniceFather">——I would not take the money. I want the punishment done as per the contract.</speak>
             <show chara="ShylockCold" position="right" opacity="0.8"/>
             <show chara="DogeSad" position="left"/>
-            <speak chara="_CervantesVenice">你……你这样一点也不讲慈悲之心，将来还怎么能够希望别人在这公堂之上，对你也讲点慈悲呢？</speak>
+            <speak chara="_CervantesVenice">You… how can you hope for mercy, not giving any yourself?</speak>
             <show chara="DogeSad" position="left" opacity="0.8"/>
             <show chara="ShylockFalseShock" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">你究竟在暗示什么，督治殿下？我平生不干错事，为什么要怕刑罚？</speak>
+            <speak chara="_ShakespeareVeniceFather">What do you mean, Your Grace? What judgment should I fear, not having done anything wrong?</speak>
             <show chara="ShylockNormal" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">你们这些所谓的贵族，买了许多的奴隶，把他们当作畜生一样地看待，叫他们做种种又肮脏又辛苦的活——</speak>
+            <speak chara="_ShakespeareVeniceFather">Between you, many have bought slaves which, treating them like beasts, you use for dirty and difficult jobs.</speak>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">我可不可以对你们说，不要管那些花出去的金钱了，放他们自由，让他们和你们的子女随意结婚？</speak>
+            <speak chara="_ShakespeareVeniceFather">If I were to say: “Free them – marry them to your children, why care about the money spent?</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">让他们的床铺和你们的同样柔软，让他们的的舌头也尝尝你们所享用的佳肴吧——</speak>
-            <speak chara="_ShakespeareVeniceFather">——当我这样发问的时候，你们的慈悲之心又在哪里？</speak>
+            <speak chara="_ShakespeareVeniceFather">Give them beds as soft as yours and good food like your own”——</speak>
+            <speak chara="_ShakespeareVeniceFather">——Where would your compassion be then?</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">既然你们回答道，“这些奴隶是我们的私人财产”——</speak>
-            <speak chara="_ShakespeareVeniceFather">那么我也可以一样说：这个人身上的一磅肉，也是我花了很多钱才买来的，我一定要把它正式搞到手里。</speak>
+            <speak chara="_ShakespeareVeniceFather">You would answer: “The slaves are our property.”——</speak>
+            <speak chara="_ShakespeareVeniceFather">And that’s how I’m answering you. The pound of flesh that I demanded of him was expensive. It’s mine and I’m going to have it!</speak>
             <show chara="ShylockLaugh" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">如果这样您还要拒绝我，那么威尼斯的法律也不过是给这宫殿装点门面的一纸空文而已！</speak>
+            <speak chara="_ShakespeareVeniceFather">If you deny me then shame on your law! It will mean that the laws of Venice are only a piece of paper for decoration!</speak>
             <show chara="ShylockLaugh" position="right" opacity="0.8"/>
             <show chara="DogeAngry" position="left"/>
-            <speak chara="_CervantesVenice">放肆！</speak>
+            <speak chara="_CervantesVenice">How rude!</speak>
             <show chara="DogeAngry" position="left" opacity="0.8"/>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">尊敬的督治殿下，我现在等候着判决。请快些回答我：我到底可不可以拿到这一磅肉？</speak>
+            <speak chara="_ShakespeareVeniceFather">I am waiting for the verdict, Your Grace. Answer me quickly: Will I have it?</speak>
             <show chara="ShylockProvocative" position="right" opacity="0.8"/>
             <show chara="DogeHelpless" position="left"/>
-            <speak chara="_CervantesVenice">……我已经差人去请佩·吉诃德，一位饱学的博士，让他来替我们审判这件案子。</speak>
+            <speak chara="_CervantesVenice">...I have sent someone to ask for Don Quixote, a learned lawyer, to resolve this case.</speak>
             <show chara="DogeHelpless" position="left"/>
-            <speak chara="_CervantesVenice">如果他今天不来，我有权宣布本案延期宣判。</speak>
+            <speak chara="_CervantesVenice">If he does not come today, according to the power invested in me by the state, I’m able to postpone the trial.</speak>
             <goto goto="50" change="0"/>
         </scene>
         <scene id="50" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVeniceSelf">等、等等？</speak>
+            <speak chara="_BiankaVeniceSelf">Wait, wait, wait.</speak>
             <show chara="BassanioDissatisfied" position="left"/>
-            <speak chara="_BiankaVeniceSelf">这个“博士”的名字之前出现过一次，应该是不能随口替换的吧？</speak>
+            <speak chara="_BiankaVeniceSelf">The name of this “Doctor” appeared once before, you can’t change it so casually, right?</speak>
             <show chara="BassanioDissatisfied" position="left" opacity="0.8"/>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">嗯，这回比安卡说得对。故事的细节可以留给演员随机应变，但是架构上的逻辑却没法随意更改。</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Well, Bianka is right on this one. The details can be left to the actors, but the structure cannot be changed at will.</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">“佩拉里奥”是女主角“鲍茜娅”的表兄，这在第三幕“鲍茜娅”的台词里交代过。</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">“Bellario” is the cousin of the heroine, “Portia”, which is explained in the third act named “Portia”.</speak>
             <show chara="ShylockSmile" position="right" opacity="0.8"/>
             <show chara="DogeHelpless" position="left"/>
-            <speak chara="_CervantesVeniceSelf">唉……年纪大了，脑袋确实不好使了。</speak>
+            <speak chara="_CervantesVeniceSelf">Well… I’m getting old, and my head doesn’t work as well as it used to.</speak>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVeniceSelf">刚才一时想不起来这个博士的名字，只好把“堂·吉诃德”给串了进去。</speak>
+            <speak chara="_CervantesVeniceSelf">I couldn’t remember the name of the doctor just now, so I had to put “Don Quixote” in it.</speak>
             <show chara="DogeSmile" position="left" opacity="0.8"/>
             <show chara="ShylockLaugh" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈，那试试这个方法怎么样？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Hahaha, then how about this?</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">这里就给巴萨尼奥加一句台词，让他来补充博士的名字。</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">We give a line to Bassanio, let him add the name of the Doctor.</speak>
             <show chara="ShylockSmile" position="right" opacity="0.8"/>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVeniceSelf">是说让我来提醒吗？</speak>
+            <speak chara="_BiankaVeniceSelf">I have to remind him?</speak>
             <show chara="BassanioShock" position="left" opacity="0.8"/>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">嗯。督治先拖着腔不说名字，“我已经差人去请……”</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Yeah. The governor dragged his tone and did not say the name, “I have sent someone to ask for…”</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">你就马上补充说，“佩拉里奥博士，殿下。”</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">You immediately add “Doctor Bellario, Your Grace.”</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">然后督治就可以继续说下去了，“对、对……佩拉里奥博士，一位饱学之士——我们请他来审判这个案子。”</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Then the governor can go on, “Yes, yes… Doctor Bellario, a learned lawyer, to solve this case.”</speak>
             <show chara="ShylockConfident" position="right" opacity="0.8"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVeniceSelf">哦哦，这个方法不错！</speak>
+            <speak chara="_CervantesVeniceSelf">Oh, that’s a good idea!</speak>
             <show chara="DogeSmile" position="left" opacity="0.8"/>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">那我们就这样继续喽？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Then, let's continue?</speak>
             <goto goto="60" change="#ffffff"/>
         </scene>
         <scene id="60" background="alexandriaPalace.jpg">
