@@ -163,7 +163,7 @@
             <show chara="BassanioShock" position="left"/>
             <speak chara="_BiankaVenice">You- How can you give yourself up like this?!</speak>
             <show chara="BassanioHelpless" position="left"/>
-            <speak chara="_BiankaVenice">To the old man over there: If he borrowed three thousand ducats, I will return you six thousand.？</speak>
+            <speak chara="_BiankaVenice">To the old man over there: If he borrowed three thousand ducats, I will return you six thousand.</speak>
             <show chara="BassanioHelpless" position="left" opacity="0.8"/>
             <show chara="ShylockFalseShock" position="right"/>
             <speak chara="_ShakespeareVeniceFather">I just said so much, did you not listen?!</speak>
