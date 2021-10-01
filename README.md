@@ -37,7 +37,7 @@ If you have any questions feel free to message delialala#8801 on discord.
 | Chapters | Translators     | Progress                                                     |
 | -------- | --------------- | ------------------------------------------------------------ |
 | 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
-| 21-31    |delialala#8801 and Sacron#6623| Complete|
+| 21-31    |delialala#8801 and Sacron#6623| Complete, but may require further edits|
 ### Seven swords
 
 Currently untranslated, check https://drive.google.com/drive/folders/1-3AFbrrKkSXWf60pWqJIpKEGjhS_5I3d for early edits.
