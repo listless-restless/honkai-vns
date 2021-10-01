@@ -749,64 +749,64 @@
         <scene id="120" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVeniceSelf">呼……总算能喘口气了。</speak>
+            <speak chara="_BiankaVeniceSelf">Phew… I can finally take a break.</speak>
             <show chara="BassanioSmile" position="left" opacity="0.8"/>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">虽然我这样说可能有点不客气——不过刚才的这一幕，可还没有结束哦？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Although it may be rude to say this - But the curtain hasn’t fallen yet?</speak>
             <show chara="ShylockConfident" position="right" opacity="0.8"/>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVeniceSelf">……啊。之后还有巴萨尼奥把自己的结婚戒指送给博士的剧情吧。</speak>
+            <speak chara="_BiankaVeniceSelf">...Ah. Is the part after this when Bassanio gives his wedding ring to the doctor?</speak>
             <show chara="BassanioShock" position="left" opacity="0.8"/>
             <show chara="PortiaSneer" position="right"/>
-            <speak chara="_RitaVeniceMSelf">是的，幽兰黛尔——</speak>
+            <speak chara="_RitaVeniceMSelf">Yes, Durandal——</speak>
             <show chara="PortiaShock" position="right"/>
-            <speak chara="_RitaVeniceMSelf">——啊不，比安卡大人。</speak>
+            <speak chara="_RitaVeniceMSelf">——Ah, no, Bianka-sama.</speak>
             <show chara="PortiaShock" position="right" opacity="0.8"/>
             <show chara="BassanioConfident" position="left"/>
-            <speak chara="_BiankaVeniceSelf">没关系啦，我又不介意这些。</speak>
+            <speak chara="_BiankaVeniceSelf">It’s alright, I don’t mind it.</speak>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVeniceSelf">船——不，剧团长的另一个剧本里不就有一段很有名的台词吗？</speak>
+            <speak chara="_BiankaVeniceSelf">Cap - No, Director, isn’t there a famous line in one of your other scripts?</speak>
             <show chara="BassanioInspireOthers" position="left"/>
-            <speak chara="_BiankaVeniceSelf">“姓名又不是手，又不是脚，又不是胳膊，又不是脸，又不是身体的任何其他部分。”</speak>
+            <speak chara="_BiankaVeniceSelf">“A name isn't a hand, a foot, an arm, a face, or anything like that”</speak>
             <show chara="BassanioInspireOthers" position="left"/>
-            <speak chara="_BiankaVeniceSelf">“姓名本来是没有意义的；我们叫做玫瑰的这种花，就算叫了别的名字，它的气味也还是一样的芬芳。”</speak>
+            <speak chara="_BiankaVeniceSelf">“What does a name mean? The flower we call a rose would smell just as sweet if we called it by any other name.”</speak>
             <show chara="BassanioInspireOthers" position="left" opacity="0.8"/>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈。话说回来，你们不是说已经重铸了“圣剑”吗——它有没有抗议你抢了它的名字？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Haha. Having said that, didn’t you say the Holy Sword has been recast? Did it protest that you stole its name?</speak>
             <show chara="ShylockConfident" position="right" opacity="0.8"/>
             <show chara="BassanioHelpless" position="left"/>
-            <speak chara="_BiankaVeniceSelf">……还好吧。</speak>
+            <speak chara="_BiankaVeniceSelf">...Well, no.</speak>
             <show chara="BassanioHelpless" position="left" opacity="0.8"/>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceMSelf">毕竟“圣剑”自己的说法是——</speak>
+            <speak chara="_RitaVeniceMSelf">After all, in the words of the “Holy Sword” itself——</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVeniceSelf">喂——</speak>
+            <speak chara="_BiankaVeniceSelf">Hey——</speak>
             <show chara="BassanioShock" position="left" opacity="0.8"/>
             <show chara="PortiaPersuade" position="right"/>
-            <speak chara="_RitaVeniceMSelf">“不，你应该继续用这个名字呀！先不说其他人能不能习惯你再改回去，我可是很享受能自称是你祖先的感觉啊？”</speak>
+            <speak chara="_RitaVeniceMSelf"> “No, you should continue to use that name! I don’t know if people can get used to it once I get it back, but I really enjoy being able to claim to be your ancestor, you know?”</speak>
             <show chara="PortiaPersuade" position="right" opacity="0.8"/>
             <show chara="ShylockLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈哈哈！它要是能回来看看，想必会更热闹一点吧。</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Hahahaha! It would have been a lot more lively if it could come back here.</speak>
             <show chara="ShylockLaugh" position="left" opacity="0.8"/>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVeniceSelf">……那倒是。</speak>
+            <speak chara="_BiankaVeniceSelf">...That’s true.。</speak>
             <show chara="BassanioInspireOthers" position="right"/>
-            <speak chara="_BiankaVeniceSelf">船长，我们一定会找到办法，把这个世界泡的“反演基线”连接到“虚数之树”上，彻底解决它的稳定性问题。</speak>
+            <speak chara="_BiankaVeniceSelf">Captain, we will definitely find a way to connect the “Inversion baseline” of this Bubble Universe to the “Imaginary Tree” and completely solve its stability problem.</speak>
             <show chara="BassanioConfident" position="right"/>
-            <speak chara="_BiankaVeniceSelf">等到那一天，“圣剑”也能卸下这份重担的时候——我们一定会专程带着它回来看看的。</speak>
+            <speak chara="_BiankaVeniceSelf">When the day that the “Holy Sword” can unload its burden - I will definitely take it back here to have a look.</speak>
             <show chara="BassanioConfident" position="right" opacity="0.8"/>
             <show chara="ShylockConfident" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈，那我们可就一言为定喽？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Hahaha, then is that a promise?</speak>
             <show chara="ShylockConfident" position="left" opacity="0.8"/>
             <show chara="BassanioConfident" position="right"/>
-            <speak chara="_BiankaVeniceSelf">一言为定！</speak>
+            <speak chara="_BiankaVeniceSelf">It's a promise!</speak>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceMSelf">一言为定。</speak>
+            <speak chara="_RitaVeniceMSelf">I promise.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="ShylockLaugh" position="center"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">好了各位！我们还有最后的五分之一——为了在直播的时候能给全世界献上一份惊喜，大家加油吧！</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Alright everyone! We still have one-fifth left to surprise the world on the broadcast, come on!</speak>
             <goto goto="130" change="#ffffff"/>
         </scene>
         <scene id="130" background="alexandriaCityLandscape.jpg">
