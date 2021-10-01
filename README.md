@@ -19,21 +19,16 @@ To use the latest translation e.g. for  **Anti-Entropy**:
 
 1. Go to https://zklm.github.io/honkai-vn-antientropy/ 
 2. Top right gear icon 
-3. Change Custom EN XML Source to https://raw.githubusercontent.com/listless-restless/honkai-vns/main/antientropy/en/xml/ for the latest final branch, or https://raw.githubusercontent.com/listless-restless/honkai-vns/test/antientropy/en/xml/ for my own (listless-restless) active test branch.
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/RaytheonThunder/honkai-vns/master/antientropy/en/xml/
 4. Refresh
 
-### How to use - for translators
+To use the latest translation for Durandal:
 
-1. Create a fork of my  `main` branch.
-2. Do your edits in the relevant .xml documents.
-3. Create a pull request, and I'll get to merging it when I have time.
-
-I have created a separate fork from zklm's original branch, but will initiate pull requests to his `master` once I have received confirmation from zklm that his project is still active. As of time of updating this readme, I have yet to hear from him.
-
-For now, everything will remain in this fork, and I will continue to merge edits from the `test`("active") branch with my own `master` ("final") branch.
-
-Since this is, as far as I am aware, the only active fork for this project (with other child forks/branches from contributing translators), I would advise any future translators to fork and request pulls from here first.
-
+1.Go to https://zklm.github.io/honkai-vn-durandal/
+2.Top right gear icon
+3.Change Custom EN XML Source to https://raw.githubusercontent.com/delialala/honkai-vns/main/durandal/en/xml/
+Refresh
+4.If you have any questions feel free to message delialala#8801 on discord.
 
 
 ### Known issues
@@ -54,21 +49,23 @@ Since this is, as far as I am aware, the only active fork for this project (with
 | 1-12     | listless-restless                                            | Complete                                                     |
 | 13-15    | listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
 | 16       | [asterae](https://github.com/asterae/honkai-vns) and listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
-| 17-26    | Aiatar and zklm                                              | Partial, in progress, being worked on [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns) and [asterae](https://github.com/asterae/honkai-vns) |
+| 17-26    | Aiatar, zklm and [asterae](https://github.com/asterae/honkai-vns) | Mostly complete, being worked on [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns)|
 
 ### Durandal
 
 
-| Chapters | Translators     | Progress                                                     |
-| -------- | --------------- | ------------------------------------------------------------ |
-| 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
-| 21-31    |                 | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
+| Chapters | Translators                                                  | Progress                                                     |
+| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1-20     | Aiatar and zklm                                              | Complete, but may require further edits                      |
+| 21-27    | sacron and [soricfetita](https://github.com/soricfetita/honkai-vns) | Mostly complete                                              |
+| 28-31    |                                                              | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
 
 ### Seven swords
 
 Currently untranslated
 
-
+Check mz's translation document.
+Here - https://drive.google.com/drive/folders/1ukTOARdyw--c4OW5hflNgjalMZOkfIyb
 
 ## Other miscellany
 
@@ -76,3 +73,4 @@ Please note that while I am of Asian background, I am not a native Mandarin spea
 
 Personally, I am currently only working on the Anti-Entropy VN. However, other volunteers have started looking into the other VNs as well. I will upload what I have previously translated into each of the chapters of the Anti-Entropy VN (up to Chapter 12). If time and energy permits, and if there is public interest, I may also contribute to the remaining chapters and VNs, adding to the work already done so far.
 
+-listless-restless
