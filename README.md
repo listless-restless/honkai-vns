@@ -51,20 +51,21 @@ Refresh
 | 16       | [asterae](https://github.com/asterae/honkai-vns) and listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
 | 17-26    | Aiatar, zklm and [asterae](https://github.com/asterae/honkai-vns) | Mostly complete, being worked on by [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns)|
 
+
 ### Durandal
 
+| Chapters | Translators     | Progress                                                     |
+| -------- | --------------- | ------------------------------------------------------------ |
+| 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
+| 21-31    |[delialala](https://github.com/delialala/honkai-vns) and Sacron| Complete, but may require further edits|
 
-| Chapters | Translators                                                  | Progress                                                     |
-| -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1-20     | Aiatar and zklm                                              | Complete, but may require further edits                      |
-| 21-27    | sacron and [soricfetita](https://github.com/soricfetita/honkai-vns) | Mostly complete                                              |
-| 28-31    |                                                              | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
 
 ### Seven swords
 
 Currently untranslated
 
-Check mz's translation document.
+Check mz's translation document for early edits.
+
 Here - https://drive.google.com/drive/folders/1ukTOARdyw--c4OW5hflNgjalMZOkfIyb
 
 ## Other miscellany
