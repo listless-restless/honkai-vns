@@ -19,7 +19,7 @@ To use the latest translation for  **Anti-Entropy**:
 
 1. Go to https://zklm.github.io/honkai-vn-antientropy/ 
 2. Top right gear icon 
-3. Change Custom EN XML Source to https://raw.githubusercontent.com/listless-restless/honkai-vns/main/antientropy/en/xml/ for the latest final branch, or https://raw.githubusercontent.com/listless-restless/honkai-vns/test/antientropy/en/xml/ for listless-restless' active test branch.
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/RaytheonThunder/honkai-vns/master/antientropy/en/xml/
 4. Refresh
 
 
@@ -27,7 +27,7 @@ To use the latest translation for  **Durandal**:
 
 1. Go to https://zklm.github.io/honkai-vn-durandal/
 2. Top right gear icon 
-3. Change Custom EN XML Source to https://raw.githubusercontent.com/soricfetita/honkai-vns/main/durandal/en/xml/
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/delialala/honkai-vns/main/durandal/en/xml/
 4. Refresh
 
 ### How to use - for translators
@@ -55,8 +55,7 @@ If you have any questions feel free to message delialala#8801 in discord or catc
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1-12     | listless-restless                                            | Complete                                                     |
 | 13-15    | listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
-| 16       | [asterae](https://github.com/asterae/honkai-vns) and listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
-| 17-26    | Aiatar and zklm                                              | Partial, in progress, being worked on [RaytheonThunder](https://github.com/RaytheonThunder/honkai-vns) and [asterae](https://github.com/asterae/honkai-vns) |
+| 16-26    | Aiatar, zklm, listless-restless,  [RaytheonThunder] and [asterae] | Complete                                                     |
 
 ### Durandal
 
@@ -64,8 +63,7 @@ If you have any questions feel free to message delialala#8801 in discord or catc
 | Chapters | Translators     | Progress                                                     |
 | -------- | --------------- | ------------------------------------------------------------ |
 | 1-20     | Aiatar and zklm | Complete, but may require further edits                      |
-| 21-29    |delialala#8801 and Sacron#6623| Complete|
-| 30-31    |                 | Untranslated, see [Arylin-Renata](https://github.com/Ayrlin-Renata/honkai-vns) for very early edits |
+| 21-31    |delialala#8801 and Sacron#6623| Complete|
 ### Seven swords
 
 Currently untranslated
