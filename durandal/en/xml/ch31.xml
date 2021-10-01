@@ -862,7 +862,7 @@
             <speak chara="_RitaVeniceM">You were the one who taught me how to beg, and now, it seems, you’re teaching me how a beggar should be treated.</speak>
             <show chara="PortiaAngry" position="left" opacity="0.8"/>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">I……I——</speak>
+            <speak chara="_BiankaVenice">I…… I——</speak>
             <show chara="BassanioTangled" position="right"/>
             <speak chara="_BiankaVenice">Good sir, my wife gave me this ring, and when she put it on my finger she made me promise that I would never sell it or give it away or lose it.</speak>
             <show chara="BassanioTangled" position="right" opacity="0.8"/>
