@@ -813,133 +813,133 @@
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="BassanioInspireOthers" position="right"/>
-            <speak chara="_BiankaVenice">啊，最可尊敬的博士先生！我和我的朋友今天全赖您的智慧，才脱得大难，免去一场无妄之灾。</speak>
+            <speak chara="_BiankaVenice">My dear sir, my friend and I have escaped some serious penalties today, as a result of your wisdom.</speak>
             <show chara="BassanioConfident" position="right"/>
-            <speak chara="_BiankaVenice">所以，先生，为了表示我们的敬意，请您一定要收下这三千个金币。</speak>
+            <speak chara="_BiankaVenice">I have the honour of offering you the three thousand ducats.</speak>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVenice">这些钱原本是打算还给那个夏洛克的，现在正好可以作为谢礼送给您。</speak>
+            <speak chara="_BiankaVenice">They were due to the Jew, but you can have it as payment for the trouble you’ve taken.</speak>
             <show chara="BassanioSmile" position="right" opacity="0.8"/>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">两位，万万不可。我帮你们的忙，是不想让法律本身为虎作伥；我此刻的心满意足就是我最大的报酬，已经不需要再得到任何额外的酬谢了。</speak>
+            <speak chara="_RitaVeniceM">You two, you must not. All I wanted was the law to not be used in a twisted way. In rescuing you, I’ve achieved satisfaction, so I regard myself as having been well paid. I’ve never been interested in money.</speak>
             <show chara="PortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">但愿我们下次再见面的时候，两位仍旧认识我。两位保重，我就此告辞了。</speak>
+            <speak chara="_RitaVeniceM">Please, remember me when we meet again. Good luck. And so, goodbye.</speak>
             <show chara="PortiaSneer" position="left" opacity="0.8"/>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVenice">——等等，先生！</speak>
+            <speak chara="_BiankaVenice">——Wait, sir!</speak>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVenice">好先生，您的大恩大德我们真的无以为报：请您随便从我们身上拿些什么东西去，就算是留个纪念也好。</speak>
+            <speak chara="_BiankaVenice">Dear sir, I really must insist. Take a souvenir, as something to remember us by, not as a fee.</speak>
             <show chara="BassanioInspireOthers" position="right"/>
-            <speak chara="_BiankaVenice">好先生，我只求你原谅我这强人所难的要求，让我们好安心回去——不要连这也一并推辞了。</speak>
+            <speak chara="_BiankaVenice">Grant me two things, I beg of you: not to say no to me, and to pardon my insistence.</speak>
             <show chara="BassanioInspireOthers" position="right" opacity="0.8"/>
             <show chara="PortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">……哎呀。你们这样殷勤，还真让我不好推辞了。</speak>
+            <speak chara="_RitaVeniceM">...You’re very insistent, and therefore I will concede.</speak>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">安东尼奥先生，请您把手套送给我，让我戴着回去留个纪念吧；</speak>
+            <speak chara="_RitaVeniceM">Mr. Antonio, let me have your gloves. I’ll wear them to remember you;</speak>
             <show chara="PortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">而巴萨尼奥先生，为了纪念您的盛情，就让我把这枚戒指拿去吧。</speak>
+            <speak chara="_RitaVeniceM">And Mr. Bassanio, as a token of your goodwill, I’ll take this ring.</speak>
             <show chara="PortiaSneer" position="left" opacity="0.8"/>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVenice">咦？可是——</speak>
+            <speak chara="_BiankaVenice">Eh? But——</speak>
             <show chara="BassanioShock" position="right" opacity="0.8"/>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">先生，请不要缩回您的手，您不是说让我随便从你身上“拿些什么东西去”吗？</speak>
+            <speak chara="_RitaVeniceM">No, don’t pull your hand away, I won’t take anything else. Surely you won’t refuse me?</speak>
             <show chara="PortiaSmile" position="left" opacity="0.8"/>
             <show chara="BassanioShy" position="right"/>
-            <speak chara="_BiankaVenice">可是，这个戒指是我……我……</speak>
+            <speak chara="_BiankaVenice">But this ring is… I...</speak>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">我说！它只不过是个不值钱的装饰品，我不好意思把这东西送给您。</speak>
+            <speak chara="_BiankaVenice">Oh no, it’s worthless. I wouldn’t shame myself by giving it to you.</speak>
             <show chara="BassanioTangled" position="right" opacity="0.8"/>
             <show chara="PortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">……这有什么不好意思的？你这样说，我现在倒非常想把它要过来了。</speak>
+            <speak chara="_RitaVeniceM">...What is so embarrassing about it? If you say that, it really makes me want it now.</speak>
             <show chara="PortiaPersuade" position="left"/>
-            <speak chara="_RitaVeniceM">我什么都不要，就要这戒指。</speak>
+            <speak chara="_RitaVeniceM">I won’t have anything but this ring.</speak>
             <show chara="PortiaPersuade" position="left" opacity="0.8"/>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">……唉。这戒指本身并没有什么价值，可是因为一些其他的关系，我不能把它送给别人。</speak>
+            <speak chara="_BiankaVenice">...Ugh. This ring itself is worthless, but it has sentimental value for me, and I can’t give it to others. </speak>
             <show chara="BassanioInspireOthers" position="right"/>
-            <speak chara="_BiankaVenice">博士，如果您愿意放过我这枚不值钱的戒指，我可以买一枚全威尼斯最贵重的戒指，专程去送给您。</speak>
+            <speak chara="_BiankaVenice">Doctor, I’ll advertise for the most expensive ring in Venice and give it to you. But as for this ring, I beg you to pardon me.</speak>
             <show chara="BassanioInspireOthers" position="right" opacity="0.8"/>
             <show chara="PortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">……先生，你竟然只是个口头上慷慨的人？</speak>
-            <speak chara="_RitaVeniceM">你左手教我怎样伸手乞讨，右手就教我乞讨最常得到的东西究竟是什么。呵呵。</speak>
+            <speak chara="_RitaVeniceM"> I see, sir, that you are very free with your offers.</speak>
+            <speak chara="_RitaVeniceM">You were the one who taught me how to beg, and now, it seems, you’re teaching me how a beggar should be treated.</speak>
             <show chara="PortiaAngry" position="left" opacity="0.8"/>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">我……我——</speak>
+            <speak chara="_BiankaVenice">I……I——</speak>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">好先生，我求求你：这戒指其实是我妻子送给我的，我曾经对她发誓，永远也不会把它转交给别人。</speak>
+            <speak chara="_BiankaVenice">Good sir, my wife gave me this ring, and when she put it on my finger she made me promise that I would never sell it or give it away or lose it.</speak>
             <show chara="BassanioTangled" position="right" opacity="0.8"/>
             <show chara="PortiaNormal" position="left"/>
-            <speak chara="_RitaVeniceM">……在人们吝啬他们的礼物的时候，这是一个很常见的借口。</speak>
+            <speak chara="_RitaVeniceM">...That’s an excuse many men use to avoid giving gifts.</speak>
             <show chara="PortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">让我说得不客气一点吧：如果您夫人不是一个没有理性的疯子，她就知道我是值得您送出这枚戒指的对象；</speak>
-            <speak chara="_RitaVeniceM">即使我现在拿走它，也不会就导致您婚姻破裂、家庭不幸的。</speak>
+            <speak chara="_RitaVeniceM">Unless your wife is mad, knowing how well I deserve this ring, she wouldn’t hold it against you forever that you gave it to me.</speak>
+            <speak chara="_RitaVeniceM">Even if I take it away now, it would not result in the breakdown of your marriage.</speak>
             <show chara="PortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">好了，再见吧，愿你们平安！</speak>
+            <speak chara="_RitaVeniceM">Well, goodbye, and good luck.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVenice">啊，请等等——</speak>
+            <speak chara="_BiankaVenice">Ah, please wait——</speak>
             <show chara="BassanioShock" position="right" opacity="0.8"/>
             <show chara="AntonioHelpless" position="left"/>
-            <speak chara="_ThalesVenice">唉，我的巴萨尼奥少爷，你就让他把那戒指拿去吧——</speak>
+            <speak chara="_ThalesVenice">Let her have the ring, my Lord Bassanio——</speak>
             <show chara="AntonioSmileCloseEye" position="left"/>
-            <speak chara="_ThalesVenice">就像他说的那样，看在他功劳的份上，你和夫人的这个小小约定应该没有那么要紧才对。</speak>
+            <speak chara="_ThalesVenice">Balance his worthiness and my love with your wife’s instruction!</speak>
             <show chara="AntonioSmileCloseEye" position="left" opacity="0.8"/>
             <show chara="BassanioTangled" position="right"/>
             <speak chara="_BiankaVenice">……</speak>
             <show chara="BassanioPrudish" position="right"/>
-            <speak chara="_BiankaVenice">格拉提亚诺，你去追上他们，把这戒指送给博士；如果他们愿意的话，你还可以带他们到安东尼奥的家里去做客。</speak>
+            <speak chara="_BiankaVenice">Run, Gratiano! Catch up with him. Give him the ring, and bring him to Antonio’s house if you can.</speak>
             <show chara="BassanioPrudish" position="right" opacity="0.8"/>
             <show chara="GratianoNormal" position="left"/>
-            <speak chara="_WattVenice">好，我现在就去追他们。</speak>
+            <speak chara="_WattVenice">Yes, I will chase them now.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="BassanioInspireOthers" position="center"/>
-            <speak chara="_BiankaVenice">来吧，安东尼奥，我们现在就回你家去，好好庆祝一下；明天我们再一起赶回贝尔蒙特的别墅。</speak>
+            <speak chara="_BiankaVenice">Come, Antonio. We’ll go to your house to celebrate, and we’ll both set off for Belmont early tomorrow.</speak>
             <goto goto="140" clockwise="1"/>
         </scene>
         <scene id="140" background="alexandriaFair.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="PortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">奈莉莎，快去打听打听夏洛克一家到底住在什么地方，把这份新契约书的文本交给他，让他签个字。</speak>
+            <speak chara="_RitaVeniceM">Nerissa, ask the way to Shylock's house, give him this will and make sure he signs it.</speak>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">我们今天晚上就动身，这样就可以比我们的丈夫早一天到家。洛伦佐他们如果拿到了这份契约，一定会高兴得不得了。</speak>
+            <speak chara="_RitaVeniceM">We’ll leave tonight and be home a day before our husbands. Lorenzo will be very pleased with this document.</speak>
             <show chara="PortiaSmile" position="left" opacity="0.8"/>
             <show chara="GratianoExcited" position="right"/>
-            <speak chara="_WattVenice">博、博士先生！</speak>
+            <speak chara="_WattVenice"> Hi, dear sir!</speak>
             <show chara="GratianoExcited" position="right" opacity="0.8"/>
             <show chara="PortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">嗯？</speak>
+            <speak chara="_RitaVeniceM">Yes?</speak>
             <show chara="PortiaShock" position="left" opacity="0.8"/>
             <show chara="GratianoExcited" position="right"/>
-            <speak chara="_WattVenice">先、先生，我、我可算追上您了。</speak>
+            <speak chara="_WattVenice">I’m glad I’ve caught you.</speak>
             <show chara="GratianoNervous" position="right"/>
-            <speak chara="_WattVenice">巴、巴萨尼奥先生再、再三考虑之后，决、决定派我来把这戒指送给您，还、还要请您和他一道去安东尼奥先生的府上好好地吃一顿。</speak>
+            <speak chara="_WattVenice">My Lord Bassanio, has, on second thoughts, sent you this ring and requests your company at dinner.</speak>
             <show chara="GratianoNervous" position="right" opacity="0.8"/>
             <show chara="PortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">吃饭就不必了；不过他的戒指我收下了，请你替我谢谢他的好意。</speak>
+            <speak chara="_RitaVeniceM">I don’t need to eat; But I will take this ring, thank him for his kindness for me.</speak>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">另外，我还要麻烦你帮我的这位书记带个路，让他能找到那个夏洛克的住处。</speak>
+            <speak chara="_RitaVeniceM">And one last thing: please show my youth the way to old Shylock’s house.</speak>
             <show chara="PortiaSmile" position="left" opacity="0.8"/>
             <show chara="GratianoExcited" position="right"/>
-            <speak chara="_WattVenice">没、没问题！</speak>
+            <speak chara="_WattVenice">N- No problem!</speak>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">博士，麻烦借一步说话。</speak>
+            <speak chara="_AliceVeniceM">Sir, I’d like a word.</speak>
             <show chara="NerissaSneer" position="right"/>
-            <speak chara="_AliceVeniceM">（我想试试我能不能也把我丈夫的戒指拿下来。他也曾发誓过自己要一直戴着它，永不离手。）</speak>
+            <speak chara="_AliceVeniceM">(I’ll see if I can get my husband’s ring – the one I made him swear to keep forever.)</speak>
             <show chara="NerissaSneer" position="right" opacity="0.8"/>
             <show chara="PortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">（噗，你肯定行的。等我们回家以后，一定要看看他们那拼命解释戒指只是送给男人了的窘态；</speak>
-            <speak chara="_RitaVeniceM">但是我们不仅要赢得这场对质，还要让他们比以前更看重这种誓言才行。）</speak>
+            <speak chara="_RitaVeniceM">(That will be easy. We’ll get the old story that they gave the rings to men but we’ll be able to contradict them beautifully;</speak>
+            <speak chara="_RitaVeniceM">But we must not only win, we must make them value their vows even more than before.)</speak>
             <show chara="PortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">没关系，你快去吧；你知道我会在什么地方等你。</speak>
+            <speak chara="_RitaVeniceM">Off you go, hurry up. You know where I’ll be waiting.</speak>
             <show chara="PortiaSmile" position="left" opacity="0.8"/>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">那么先生，就麻烦您为我带路吧。</speak>
+            <speak chara="_AliceVeniceM">Come Sir, will you show me to this house?</speak>
             <show chara="NerissaSmile" position="right" opacity="0.8"/>
             <show chara="GratianoExcited" position="left"/>
-            <speak chara="_WattVenice">请、请这边走，书记先生。</speak>
+            <speak chara="_WattVenice">Please follow me, Mr. clerk.</speak>
             <goto goto="150" change="#ffffff"/>
         </scene>
         <scene id="150" background="stageHuacaCloseUp.jpg">
