@@ -722,7 +722,7 @@
             <show chara="DogeSmile" position="right"/>
             <speak chara="_CervantesVenice">He will do this, or I’ll withdraw the pardon that I’ve just pronounced.</speak>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">Are you satisfied, Shylock? What do you say?<speak>
+            <speak chara="_RitaVeniceM">Are you satisfied, Shylock? What do you say?</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="ShylockShock" position="left"/>
             <speak chara="_ShakespeareVeniceFather">I...</speak>
