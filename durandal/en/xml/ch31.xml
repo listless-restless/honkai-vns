@@ -245,247 +245,247 @@
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DogeHelpless" position="left"/>
-            <speak chara="_CervantesVenice">咳咳。我已经差人去请……请……</speak>
+            <speak chara="_CervantesVenice">*Cough* I have sent someone to ask for… uh...</speak>
             <show chara="DogeHelpless" position="left" opacity="0.8"/>
             <show chara="BassanioHelpless" position="right"/>
-            <speak chara="_BiankaVenice">佩拉里奥博士，殿下。</speak>
+            <speak chara="_BiankaVenice">Doctor Bellario, Your Grace.</speak>
             <show chara="BassanioHelpless" position="right" opacity="0.8"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVenice">对、对……佩拉里奥博士，一位饱学之士——我们请他来审判这个案子。</speak>
+            <speak chara="_CervantesVenice">Yes, yes… Doctor Bellario, a learned lawyer, to solve this case.</speak>
             <show chara="DogeHelpless" position="left"/>
-            <speak chara="_CervantesVenice">如果他今天不来，我有权宣布本案延期宣判。</speak>
+            <speak chara="_CervantesVenice">If he does not come today, according to the power invested in me by the state, I’m able to postpone the trial.</speak>
             <show chara="DogeHelpless" position="left" opacity="0.8"/>
             <show chara="SolanioNormal" position="right"/>
-            <speak chara="_ManfredVenice">启禀督治殿下。</speak>
+            <speak chara="_ManfredVenice">Your Grace the Governor.</speak>
             <show chara="SolanioNormal" position="right" opacity="0.8"/>
             <show chara="DogeNormal" position="left"/>
-            <speak chara="_CervantesVenice">嗯？有什么消息？</speak>
+            <speak chara="_CervantesVenice">What is it?</speak>
             <show chara="DogeNormal" position="left" opacity="0.8"/>
             <show chara="SolanioNormal" position="right"/>
-            <speak chara="_ManfredVenice">外面有一个从帕多瓦赶来的使者，说是带着佩拉里奥博士的书信。</speak>
+            <speak chara="_ManfredVenice">There’s a messenger waiting outside, just arrived from Padua with letters from Doctor Bellario.</speak>
             <show chara="SolanioNormal" position="right" opacity="0.8"/>
             <show chara="DogeSerious" position="left"/>
-            <speak chara="_CervantesVenice">正好。把信拿来给我，叫那使者进来。</speak>
+            <speak chara="_CervantesVenice">Just in time. Bring me the letters and call the messenger in.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="BassanioConfident" position="left"/>
-            <speak chara="_BiankaVenice">高兴起来吧，安东尼奥！</speak>
+            <speak chara="_BiankaVenice">Be happy, Antonio.</speak>
             <show chara="BassanioInspireOthers" position="left"/>
-            <speak chara="_BiankaVenice">我的老兄，你可千万别现在就灰心丧气！</speak>
+            <speak chara="_BiankaVenice">Come on man, be brave.</speak>
             <show chara="BassanioTeeth" position="left"/>
-            <speak chara="_BiankaVenice">这野蛮人可以把我的皮、我的肉、我的骨头、我的一切都拿去——可是我决不让你为了我的缘故流一滴血。</speak>
+            <speak chara="_BiankaVenice">This barbarian will have my flesh, blood, bones and all before you’ll lose one drop of blood for my sake.</speak>
             <show chara="BassanioTeeth" position="left" opacity="0.8"/>
             <show chara="AntonioDismay" position="right"/>
-            <speak chara="_ThalesVenice">唉……我就是羊群里那头最不中用的病羊，被宰杀就是我的宿命；</speak>
-            <speak chara="_ThalesVenice">常言道，“最软的果子最先掉在地上”：让我就这样草草了结我时运不济的一生吧。</speak>
+            <speak chara="_ThalesVenice">I am the runt of the flock and the most vulnerable, it is my destiny to be slaughtered.</speak>
+            <speak chara="_ThalesVenice">The weakest fruit drops earliest to the ground, and so will I. Let me end my life of misfortune this way.</speak>
             <show chara="AntonioDisheartened" position="right"/>
-            <speak chara="_ThalesVenice">巴萨尼奥，只要你活下去，将来能替我写一篇墓志铭，我就万分感激了。</speak>
+            <speak chara="_ThalesVenice">The best thing you can do, Bassanio, is stay alive and write my epitaph.</speak>
             <show chara="AntonioDisheartened" position="right" opacity="0.8"/>
             <show chara="BassanioFindOthersUnreasonable" position="left"/>
-            <speak chara="_BiankaVenice">喂！你不要再说这些自暴自弃的话了！瞧，那位使者已经走过来了。</speak>
+            <speak chara="_BiankaVenice">Hey, stop saying these self-defeating things! Look, the messenger has already come.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">参见督治殿下。</speak>
+            <speak chara="_AliceVeniceM">I greet Your Grace the Governor.</speak>
             <show chara="NerissaSmile" position="right" opacity="0.8"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVenice">你就是那位博士的使者吗？</speak>
+            <speak chara="_CervantesVenice">Have you come from Padua, from that doctor?</speak>
             <show chara="DogeSmile" position="left" opacity="0.8"/>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">是的，殿下。佩拉里奥让我代他向您问好。</speak>
+            <speak chara="_AliceVeniceM">From both, my lord. Bellario sends his compliments to Your Grace.</speak>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">这是他的亲笔信，请您过目。</speak>
+            <speak chara="_AliceVeniceM">This is his handwritten letter, please read it.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
-            <speak chara="_NarrationVenice">呲啦——呲啦——</speak>
-            <speak chara="_NarrationVenice">呲啦——呲啦——呲啦——</speak>
+            <speak chara="_NarrationVenice">Shink-- Shink--</speak>
+            <speak chara="_NarrationVenice">Shink-- Shink-- Shink--</speak>
             <show chara="BassanioScold" position="left"/>
-            <speak chara="_BiankaVenice">喂！吵死了！你这家伙，用那么大力气磨刀做什么？</speak>
+            <speak chara="_BiankaVenice">Hey, you’re being noisy! Why are you sharpening your knife so earnestly?</speak>
             <show chara="BassanioScold" position="left" opacity="0.8"/>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">当然是为了从那个破产的家伙身上，割下属于我的那磅肉来啊？</speak>
+            <speak chara="_ShakespeareVeniceFather">Of course, it’s to cut the meat from that bankrupt guy there that belongs to me.</speak>
             <show chara="ShylockProvocative" position="right" opacity="0.8"/>
             <show chara="GratianoAngry" position="left"/>
-            <speak chara="_WattVenice">你……你这个狠毒的小人，你不是在自己的鞋跟上磨刀，你、你是把刀放在你的铁石心肠上磨！</speak>
+            <speak chara="_WattVenice">You… You cruel Jew! It’s not on your sole that you’re sharpening your knife, you- You are sharpening it on your stone heart!</speak>
             <show chara="GratianoTeeth" position="left"/>
-            <speak chara="_WattVenice">没、没有哪一种钢铁，就、就连刽子手砍头的钢刀，都赶不上你这副心肠一半的坚硬！</speak>
+            <speak chara="_WattVenice">No, no metal – not even the hangman’s axe – is half as hard as your heart!</speak>
             <show chara="GratianoFindOthersUnreasonable" position="left"/>
-            <speak chara="_WattVenice">难、难——难道什么样的恳求都不能打动你吗？</speak>
+            <speak chara="_WattVenice">Can- Can no prayers move you?</speak>
             <goto goto="70" change="0"/>
         </scene>
         <scene id="70" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="BassanioDissatisfied" position="left"/>
-            <speak chara="_BiankaVeniceSelf">……吉米啊，你怎么总是这么紧张呢。</speak>
+            <speak chara="_BiankaVeniceSelf">...Jimmy, you’re too nervous.</speak>
             <show chara="BassanioDissatisfied" position="left" opacity="0.8"/>
             <show chara="GratianoSorry" position="right"/>
-            <speak chara="_WattVeniceSelf">抱、抱歉……我、我一想到这是一段控诉反派的剧情，就……</speak>
+            <speak chara="_WattVeniceSelf">I’m… I’m sorry… When I noticed it was my part to accuse the villain, I just...</speak>
             <show chara="GratianoSorry" position="right" opacity="0.8"/>
             <show chara="ShylockLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈，我觉得这也没有什么不好哦？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Haha, is there something wrong with that?</speak>
             <show chara="ShylockConfident" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">一个胆小怕事、但是骨子里又想坚持自己那套朴素正义观的“格拉提亚诺”，不也很有意思吗？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Isn’t it interesting to have a timid and scared “Gratiano” who wants to stick to his simple sense of justice?</speak>
             <show chara="ShylockConfident" position="left" opacity="0.8"/>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVeniceSelf">啊……抱歉……</speak>
+            <speak chara="_BiankaVeniceSelf">Ah… sorry...</speak>
             <show chara="BassanioHelpless" position="right"/>
-            <speak chara="_BiankaVeniceSelf">我只是看到这样的人，就会忍不住自己着急。</speak>
+            <speak chara="_BiankaVeniceSelf">I just can’t help but feel anxious when I see this type of person.</speak>
             <show chara="BassanioHelpless" position="right" opacity="0.8"/>
             <show chara="ShylockLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">哈哈哈哈。毕竟大家都是临时客串，所以肯定还是要让角色跟着自己的本性走，这样才有把握演好。</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">Ahahaha. Since everyone here is a temporary guest actor, you must let the character follow your own nature, so that you can play it well.</speak>
             <show chara="ShylockSmile" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">那么——我们继续排练吧？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">So, shall we continue with the rehearsal?</speak>
             <show chara="ShylockConfident" position="left"/>
-            <speak chara="_ShakespeareVeniceFatherSelf">毕竟明天的演出，可是要向全世界公开直播的哦？</speak>
+            <speak chara="_ShakespeareVeniceFatherSelf">After all, won’t tomorrow’s performance be broadcast to the whole world?</speak>
             <goto goto="80" change="#ffffff"/>
         </scene>
         <scene id="80" background="alexandriaPalace.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="ShylockCold" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">……不能。无论你，或者你们，说得多么情深意切，都没有用。</speak>
+            <speak chara="_ShakespeareVeniceFather">...None that you’re intelligent enough to make.</speak>
             <show chara="ShylockCold" position="right" opacity="0.8"/>
             <show chara="GratianoTeeth" position="left"/>
-            <speak chara="_WattVenice">你、你这条该下地狱的毒蛇！</speak>
+            <speak chara="_WattVenice">G- Go rot in hell, you heartless dog!</speak>
             <show chara="GratianoTeeth" position="left" opacity="0.8"/>
             <show chara="ShylockProvocative" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">呵呵，除非你能够把我在这张契约上的印章骂掉；不然，你这样尖叫着怨天尤人，只不过是白白气坏了自己而已——何必呢？</speak>
+            <speak chara="_ShakespeareVeniceFather">Hahaha, until the time comes that you can shout the seal from off my contract you’re only hurting your lungs with that noise - Why bother?</speak>
             <show chara="ShylockSmile" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">好孩子，我劝你还是冷静一下，不要继续在这里出丑，对自己或者别人做出什么无法收拾的事情来。</speak>
+            <speak chara="_ShakespeareVeniceFather"> Good boy, I advise you to calm down. Don’t continue to make a fool out of yourself, and don’t do something unimaginable to yourself or others.</speak>
             <show chara="ShylockConfident" position="right"/>
-            <speak chara="_ShakespeareVeniceFather">——督治殿下，我只要求法律最公正的裁判。</speak>
+            <speak chara="_ShakespeareVeniceFather">——Your Grace, I only ask for a fair judgement by the law.</speak>
             <show chara="ShylockConfident" position="right" opacity="0.8"/>
             <show chara="DogeSerious" position="left"/>
-            <speak chara="_CervantesVenice">……这封信上说，博士自己无法出庭，但他推荐了一位年轻有为的同行来担此大任。</speak>
+            <speak chara="_CervantesVenice">...This letter said that the doctor himself could not appear, but he recommended a young and promising lawyer to our court.</speak>
             <show chara="DogeNormal" position="left"/>
-            <speak chara="_CervantesVenice">使者啊，这年轻人也随你一同来了吗？</speak>
+            <speak chara="_CervantesVenice">Messenger, has this young man come with you?</speak>
             <show chara="DogeNormal" position="left" opacity="0.8"/>
             <show chara="NerissaSmile" position="right"/>
-            <speak chara="_AliceVeniceM">正是。他就在外面等候着您的答复——不知道殿下是否允许他进来。</speak>
+            <speak chara="_AliceVeniceM">Yes, he’s waiting nearby, to know your answer - To hear whether you’ll admit him or not.</speak>
             <show chara="NerissaSmile" position="right" opacity="0.8"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVenice">非常欢迎。快，你们去三四个人，把他恭恭敬敬地请到这里来。</speak>
+            <speak chara="_CervantesVenice">With all my heart. Hurry up, three or four of you officials go and escort him here with all due courtesy.</speak>
             <goto goto="90" clockwise="1"/>
         </scene>
         <scene id="90" background="alexandriaPalace.jpg">
             <bgm src="11_29_lab.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVenice">年轻人。你就是从博士先生那里来的吗？</speak>
+            <speak chara="_CervantesVenice">Young man, you’ve come from the doctor?</speak>
             <show chara="DogeSmile" position="left" opacity="0.8"/>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">正是，殿下。</speak>
+            <speak chara="_RitaVeniceM">I have, my lord.</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="DogeSmile" position="left"/>
-            <speak chara="_CervantesVenice">欢迎、欢迎。请上座。</speak>
+            <speak chara="_CervantesVenice">You are welcome. Take your place.</speak>
             <show chara="DogeSerious" position="left"/>
-            <speak chara="_CervantesVenice">您有没有了解过今天我们在这里审理的案子，双方的立场都是什么？</speak>
+            <speak chara="_CervantesVenice">Are you acquainted with the dispute that occupies this court today?</speak>
             <show chara="DogeSerious" position="left" opacity="0.8"/>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">我对于这个案子的情形已经完全知道了。</speak>
+            <speak chara="_RitaVeniceM">I’m fully briefed on the case.</speak>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">你们哪一位是破产的商人，哪一位又是他的债主呢？</speak>
+            <speak chara="_RitaVeniceM">Which is the bankrupt merchant, and which is the creditor?</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="DogeNormal" position="left"/>
-            <speak chara="_CervantesVenice">安东尼奥，夏洛克：你们两人都过来。</speak>
+            <speak chara="_CervantesVenice">Antonio and old Shylock, both come forward.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">你的名字就是夏洛克吗？</speak>
+            <speak chara="_RitaVeniceM">Is your name Shylock?</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="ShylockSmile" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">夏洛克正是我的名字。</speak>
+            <speak chara="_ShakespeareVeniceFather">Shylock is my name.</speak>
             <show chara="ShylockSmile" position="left" opacity="0.8"/>
             <show chara="PortiaThink" position="right"/>
-            <speak chara="_RitaVeniceM">你这场官司打得确实奇怪。不过，按照威尼斯的法律，你的控诉是可以成立的。</speak>
+            <speak chara="_RitaVeniceM">Your suit is an unusual one, but it stands up legally and Venetian law can’t challenge its validity.</speak>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">安东尼奥，你的生死现在操纵在他的手里，是不是？</speak>
+            <speak chara="_RitaVeniceM">Antonio, you’re in some danger from this suit of his, aren’t you?</speak>
             <show chara="PortiaNormal" position="right" opacity="0.8"/>
             <show chara="AntonioDismay" position="left"/>
-            <speak chara="_ThalesVenice">……他是这样说的。</speak>
+            <speak chara="_ThalesVenice">Yes, that’s what he claims.</speak>
             <show chara="AntonioDismay" position="left" opacity="0.8"/>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">那么你自己呢？你承认这个借约吗？</speak>
+            <speak chara="_RitaVeniceM">Do you admit to this debt?</speak>
             <show chara="PortiaNormal" position="right" opacity="0.8"/>
             <show chara="AntonioHelpless" position="left"/>
-            <speak chara="_ThalesVenice">……我只能承认。</speak>
+            <speak chara="_ThalesVenice">I do.</speak>
             <show chara="AntonioHelpless" position="left" opacity="0.8"/>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">既然对方认错，那么我建议债主先生应该慈悲一点。</speak>
+            <speak chara="_RitaVeniceM">Since the other party admitted to being wrong, then I suggest the creditor to be merciful.</speak>
             <show chara="PortiaSmile" position="right" opacity="0.8"/>
             <show chara="ShylockProvocative" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">你们为什么总让我“慈悲一点”？你又有什么新的理由？</speak>
+            <speak chara="_ShakespeareVeniceFather">Why does everyone want me to be “merciful”? On whose authority must I?</speak>
             <show chara="ShylockProvocative" position="left" opacity="0.8"/>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">我是一名学者，所以请原谅我的话听起来有点像说教。</speak>
+            <speak chara="_RitaVeniceM">I’m a scholar, so forgive me if it sounds like a sermon, but...</speak>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">慈悲是一种美德。因此，它绝不是出于一个人的勉强，而是像天降甘霖一样普济众生。</speak>
+            <speak chara="_RitaVeniceM">The quality of mercy is not strained, It drops on to the world as the gentle rain does to all sentient beings.</speak>
             <show chara="PortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">慈悲不但会给予受施舍的人以幸福，也会给予提供施舍的人另一种幸福：它比任何权利和财富都要高贵，也比任何权利和财富都更能够慰藉我们的灵魂。</speak>
+            <speak chara="_RitaVeniceM">It’s doubly blessed, It blesses both the giver and the receiver. And to those who provide mercy, it gives a different type of happiness: One that is more noble and comforting than any right or wealth.</speak>
             <show chara="PortiaPersuade" position="right"/>
-            <speak chara="_RitaVeniceM">先生，我说这番话，是希望你能够从你的原告立场上做一点让步；可如果你坚持原来的要求，那么法律是无私的，我们也就只能宣判那个商人有罪。</speak>
+            <speak chara="_RitaVeniceM">I’ve spoken about this to soften the justice of your plea. If you insist on pure justice, however, then this serious Venetian court has no alternative other than to pronounce sentence against the merchant.</speak>
             <show chara="PortiaPersuade" position="right" opacity="0.8"/>
             <show chara="ShylockCold" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">我不让步。我只要求法律允许我按照约定执行惩罚。</speak>
+            <speak chara="_ShakespeareVeniceFather">I’ll not give in! I only ask that the law allow me to execute the punishment as per the contract.</speak>
             <show chara="ShylockCold" position="left" opacity="0.8"/>
             <show chara="PortiaThink" position="right"/>
-            <speak chara="_RitaVeniceM">那么：这位商人，他是不是绝无可能如约用自己的生意偿还这笔欠款？</speak>
+            <speak chara="_RitaVeniceM">Is he unable to pay you the money?</speak>
             <show chara="PortiaThink" position="right" opacity="0.8"/>
             <show chara="BassanioTeeth" position="left"/>
-            <speak chara="_BiankaVenice">不，我愿意替他当庭还清，就算是翻倍也可以。</speak>
+            <speak chara="_BiankaVenice">No, he can pay. I’m offering it to him here in the court. Indeed, twice the sum.</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left"/>
-            <speak chara="_BiankaVenice">要是那位债主还不满足，那么我愿意签署契约，还十倍的数目，用我的头和心来做抵押；</speak>
-            <speak chara="_BiankaVenice">如果就算这样也不能使他改弦易辙，那只能说对方是要存心谋杀我的朋友了。</speak>
+            <speak chara="_BiankaVenice">If that’s not enough I’m willing to be bound over to pay it ten times over, on the collateral of my hands, my head, my heart;</speak>
+            <speak chara="_BiankaVenice">If that’s still not enough, then it’s not the money that’s at issue – it’s the desire to murder my friend.</speak>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVenice">博士先生，请您合理地运用一下权力，把法律稍稍变通一下——</speak>
+            <speak chara="_BiankaVenice">Doctor, I beg of you, use your authority to bend the law——</speak>
             <show chara="BassanioInspireOthers" position="left"/>
-            <speak chara="_BiankaVenice">用一次小小的错误，来换取一件大大的好事，不要让这个残忍恶魔的欲望得逞，让整个法律成为他杀人的帮凶。</speak>
+            <speak chara="_BiankaVenice">Do a small wrong to bring about a great right and prevent this cruel devil from having his way, or else the whole law will be the accomplice of a murder.</speak>
             <show chara="BassanioInspireOthers" position="left" opacity="0.8"/>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">这可不行。在威尼斯，谁也没有权力在法庭上临时变更既定的法律：一旦开了这种恶例，法律必将成为一纸空文，任何坏事都能找出借口来开脱了。</speak>
+            <speak chara="_RitaVeniceM">It can’t be done, there’s no power in Venice that can circumvent an established law. It would create a precedent and encourage many other irregularities in the court.</speak>
             <show chara="PortiaPersuade" position="right"/>
-            <speak chara="_RitaVeniceM">这是绝对不行的。</speak>
+            <speak chara="_RitaVeniceM">It’s impossible.</speak>
             <show chara="PortiaPersuade" position="right" opacity="0.8"/>
             <show chara="ShylockLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">看啊，多么铁面无私的法官！这位青年的智识简直世所罕见，我同意他所说的每一个字！</speak>
+            <speak chara="_ShakespeareVeniceFather">A Daniel come to deliver justice! The wisdom of this young man is simplicity rare in this world, and I agree with his every word!</speak>
             <show chara="ShylockLaugh" position="left" opacity="0.8"/>
             <show chara="PortiaThink" position="right"/>
-            <speak chara="_RitaVeniceM">债主先生，请让我再看一看那份借据。</speak>
+            <speak chara="_RitaVeniceM">Lender, please let me see the contract.</speak>
             <show chara="PortiaThink" position="right" opacity="0.8"/>
             <show chara="ShylockSmile" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">它就在这里。请您过目，可敬的博士。</speak>
+            <speak chara="_ShakespeareVeniceFather">Here it is, most reverend doctor. Here it is!</speak>
             <show chara="ShylockSmile" position="left" opacity="0.8"/>
             <show chara="PortiaPersuade" position="right"/>
-            <speak chara="_RitaVeniceM">债主先生，你需要再考虑一下吗？他们愿意出三倍以上的钱来还你，那可不是一个小数目。</speak>
+            <speak chara="_RitaVeniceM">Shylock, will you not think of it again? They are willing to repay you with more than three times the money.</speak>
             <show chara="PortiaPersuade" position="right" opacity="0.8"/>
             <show chara="ShylockFalseShock" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">不，不，我早已对天发誓要惩罚这个不守约定的人——我难道可以让自己的灵魂背上毁坏誓言的恶名吗？</speak>
+            <speak chara="_ShakespeareVeniceFather">No, no, I have sworn an oath before heaven. Do you want me to burden my soul with perjury?</speak>
             <show chara="ShylockCold" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">不，不，不！就算你们把整个威尼斯都让给我，我都不能答应。</speak>
+            <speak chara="_ShakespeareVeniceFather">No, no, no! Not even for the whole of Venice would I give it up.</speak>
             <show chara="ShylockCold" position="left" opacity="0.8"/>
             <show chara="PortiaSerious" position="right"/>
-            <speak chara="_RitaVeniceM">好。那么我们就如约处罚。</speak>
+            <speak chara="_RitaVeniceM">Very well. Then we will punish as agreed.</speak>
             <show chara="PortiaSerious" position="right"/>
-            <speak chara="_RitaVeniceM">根据法律，这位债主有权从那位商人的胸口割下一磅肉来。</speak>
+            <speak chara="_RitaVeniceM">The Jew may lawfully claim a pound of flesh, to be cut, by him, from the merchant’s chest.</speak>
             <show chara="PortiaPersuade" position="right"/>
-            <speak chara="_RitaVeniceM">不过……夏洛克先生，我最后再劝你一次：慈悲为怀，把三倍的钱拿到手，让我撕了这张借据吧。</speak>
+            <speak chara="_RitaVeniceM">But… Mr. Shylock, I advise you one last time: Be merciful, take three times the money. Tell me to tear the contract up.</speak>
             <show chara="PortiaPersuade" position="right" opacity="0.8"/>
             <show chara="ShylockNormal" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">等他按照这上面写好的条款接受了惩罚之后，您再撕不迟。</speak>
+            <speak chara="_ShakespeareVeniceFather">When it’s paid, according to its terms, you can tear it up.</speak>
             <show chara="ShylockSmile" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">您是一位很好的法官，您懂得法律中的真理！</speak>
+            <speak chara="_ShakespeareVeniceFather">You appear to be a good judge. You know the law!</speak>
             <show chara="ShylockConfident" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">您讲的话都是那么地有道理，不愧是法律界中一颗冉冉升起的新星——</speak>
-            <speak chara="_ShakespeareVeniceFather">——所以我现在用法律的名义恳请您，请您立即宣判。</speak>
+            <speak chara="_ShakespeareVeniceFather">Your interpretation has been very sound, you are indeed a rising star of the legal world——</speak>
+            <speak chara="_ShakespeareVeniceFather">——In the name of the law, I ask you to proceed to judgment.</speak>
             <show chara="ShylockCold" position="left"/>
-            <speak chara="_ShakespeareVeniceFather">我不想要任何和解与变通，我只想执行这个惩罚条款。</speak>
+            <speak chara="_ShakespeareVeniceFather">I don’t want a reconciliation or accommodation, I just want to enforce the penalty clause.</speak>
             <show chara="AntonioDisheartened" position="left"/>
-            <speak chara="_ThalesVenice">……我这颗绝望的心灵，也请求您用宣判来结束它的煎熬。</speak>
+            <speak chara="_ThalesVenice">...My desperate heart also asks you to use the sentence to end its suffering.</speak>
             <show chara="AntonioDisheartened" position="left" opacity="0.8"/>
             <show chara="PortiaNormal" position="right"/>
-            <speak chara="_RitaVeniceM">……好吧。</speak>
+            <speak chara="_RitaVeniceM">...All right</speak>
             <show chara="PortiaSerious" position="right"/>
-            <speak chara="_RitaVeniceM">那么就是这样：你，被告人安东尼奥，必须准备让原告夏洛克的刀子刺进你的胸膛。</speak>
+            <speak chara="_RitaVeniceM">Well then, this is it: You must prepare your breast for his knife.</speak>
             <show chara="PortiaSerious" position="right" opacity="0.8"/>
             <show chara="ShylockLaugh" position="left"/>
             <speak chara="_ShakespeareVeniceFather">哈哈哈哈！您是最伟大的法官，最优秀的青年！</speak>
