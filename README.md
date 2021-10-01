@@ -29,7 +29,7 @@ If you have any questions feel free to message delialala#8801 on discord.
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1-12     | listless-restless                                            | Complete                                                     |
 | 13-15    | listless-restless, based on previous work by Aiatar and zklm | Complete                                                     |
-| 16-26    | Aiatar, zklm, listless-restless,  [RaytheonThunder] and [asterae] | Complete                                                     |
+| 16-26    | Aiatar, zklm, listless-restless,  RaytheonThunder#3567 and asterae | Complete                                                     |
 
 ### Durandal
 
