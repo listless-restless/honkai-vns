@@ -945,373 +945,373 @@
         <scene id="150" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="JessicaLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceNoName">哈哈哈哈，让真正的情侣来演这种戏，果然很有意思！</speak>
+            <speak chara="_ShakespeareVeniceNoName"> Hahahaha, it’s really interesting to have real couples perform this kind of drama!</speak>
             <show chara="JessicaLaugh" position="left" opacity="0.8"/>
             <show chara="BassanioHelpless" position="right"/>
-            <speak chara="_BiankaVeniceSelf">唔……我倒是很同情吉米，他怎么看都有些紧张过头了。</speak>
+            <speak chara="_BiankaVeniceSelf">Hmm… I sympathize with Jimmy a little too much, he’s too nervous no matter how I look at it.</speak>
             <show chara="BassanioHelpless" position="right" opacity="0.8"/>
             <show chara="JessicaFalseShock" position="left"/>
-            <speak chara="_ShakespeareVeniceNoName">嗯？那你自己呢？</speak>
+            <speak chara="_ShakespeareVeniceNoName">Hm? And what about you?</speak>
             <show chara="JessicaFalseShock" position="left" opacity="0.8"/>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVeniceSelf">我？我有什么——</speak>
+            <speak chara="_BiankaVeniceSelf">Me? Why would I——</speak>
             <show chara="BassanioTeeth" position="right"/>
-            <speak chara="_BiankaVeniceSelf">……喂！你究竟在暗示些什么啦，八卦剧团长！</speak>
+            <speak chara="_BiankaVeniceSelf">...Hey! What are you trying to imply, Director of the Gossip Theatre! </speak>
             <show chara="BassanioTeeth" position="right" opacity="0.8"/>
             <show chara="PortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceMSelf">发生什么事了吗，比安卡大人？</speak>
+            <speak chara="_RitaVeniceMSelf">Did something happen, Bianka-sama?</speak>
             <show chara="PortiaSneer" position="left" opacity="0.8"/>
             <show chara="BassanioShy" position="right"/>
-            <speak chara="_BiankaVeniceSelf">……什么事都没有啦！</speak>
+            <speak chara="_BiankaVeniceSelf">...Nothing!</speak>
             <show chara="BassanioShy" position="right" opacity="0.8"/>
             <show chara="JessicaLaugh" position="left"/>
-            <speak chara="_ShakespeareVeniceNoName">哈哈哈哈。好啦好啦，不开玩笑了。</speak>
+            <speak chara="_ShakespeareVeniceNoName">Hahahaha, okay, okay, I was just joking.</speak>
             <show chara="JessicaConfident" position="left"/>
-            <speak chara="_ShakespeareVeniceNoName">需要换衣服的各位抓紧一下时间，让我们一鼓作气把最后一幕演完吧！</speak>
+            <speak chara="_ShakespeareVeniceNoName">Those who need to change clothes hurry up, let’s finish the last act in one try!</speak>
             <show chara="JessicaConfident" position="left" opacity="0.8"/>
             <show chara="LorenzoHappy" position="right"/>
-            <speak chara="_YukimuraVeniceNoName">遵命，剧团长！</speak>
+            <speak chara="_YukimuraVeniceNoName">Yes, Director of the Theater!</speak>
             <goto goto="160" clockwise="1"/>
         </scene>
         <scene id="160" background="starNight.jpg">
             <bgm src="09_13_dannyBoy.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="LorenzoTender" position="left"/>
-            <speak chara="_YukimuraVenice">多么美丽的星空！微风轻轻地亲吻着树枝，没有发出一点声响；也许就是在这样的一个夜晚——</speak>
+            <speak chara="_YukimuraVenice">What a beautiful starry sky! On such a night as this, when the sweet wind kissed the trees so gently that they didn’t make a sound – it was such a night, I imagine –</speak>
             <show chara="LorenzoTender" position="left" opacity="0.8"/>
             <show chara="JessicaSurprised" position="right"/>
-            <speak chara="_ShakespeareVeniceDaughter">——嘘。你听，有脚步声。</speak>
+            <speak chara="_ShakespeareVeniceDaughter">——Hush. Listen, there are footsteps.</speak>
             <show chara="JessicaSurprised" position="right" opacity="0.8"/>
             <show chara="LorenzoVigilant" position="left"/>
-            <speak chara="_YukimuraVenice">谁在这静悄悄的夜里跑得飞快？</speak>
+            <speak chara="_YukimuraVenice">Who’s that running around here in the silence of the night?</speak>
             <show chara="LorenzoVigilant" position="left" opacity="0.8"/>
             <show chara="StephanoSincere" position="right"/>
-            <speak chara="_RolandVenice">一个朋友！</speak>
+            <speak chara="_RolandVenice">A friend!</speak>
             <show chara="StephanoSincere" position="right" opacity="0.8"/>
             <show chara="JessicaVigilant" position="left"/>
-            <speak chara="_ShakespeareVeniceDaughter">朋友？洛伦佐和我应该都不认识你。</speak>
+            <speak chara="_ShakespeareVeniceDaughter">Friend? Neither Lorenzo nor I know you.</speak>
             <show chara="JessicaVigilant" position="left" opacity="0.8"/>
             <show chara="StephanoTender" position="right"/>
-            <speak chara="_RolandVenice">我的名字是斯丹法诺，我是专程来向你们报信的：我家的女主人在天亮之前就会回来，她会把一个非常好的消息带给你们。</speak>
+            <speak chara="_RolandVenice">My name’s Stephano and I’ve come to tell you that my mistress will be here at Belmont before dawn, and with her, she brings good news.</speak>
             <show chara="StephanoTender" position="right" opacity="0.8"/>
             <show chara="LorenzoSurprised" position="left"/>
-            <speak chara="_YukimuraVenice">什么好消息？</speak>
+            <speak chara="_YukimuraVenice">What good news?</speak>
             <show chara="LorenzoSurprised" position="left" opacity="0.8"/>
             <show chara="StephanoSincere" position="right"/>
-            <speak chara="_RolandVenice">这我可不知道，女主人只是想让我提前通知你们“有好消息”——</speak>
+            <speak chara="_RolandVenice">I don’t know, the mistress just wanted me to inform you in advance that “There will be good news”--</speak>
             <show chara="GobboTalk" position="right"/>
-            <speak chara="_CaravaggioVenice">让开让开！送口信的来了！</speak>
+            <speak chara="_CaravaggioVenice">Get out of the way! I bring news!</speak>
             <show chara="GobboTalk" position="right" opacity="0.8"/>
             <show chara="JessicaSurprised" position="left"/>
-            <speak chara="_ShakespeareVeniceDaughter">……咦？老爷子，你不在家里照顾我爸爸，到这里来送信做什么？</speak>
+            <speak chara="_ShakespeareVeniceDaughter">...What? Shouldn’t you be taking care of my dad at home? Why have you come here to deliver a message?</speak>
             <show chara="JessicaSurprised" position="left" opacity="0.8"/>
             <show chara="GobboSmile" position="right"/>
-            <speak chara="_CaravaggioVenice">啊，杰西卡，你这个好孩子——我这次是帮老爷原本的仇人来送信的，他明天就要来这里，而且会带给你们一个好消息。</speak>
+            <speak chara="_CaravaggioVenice">Ah, Jessica - This time I am helping the master’s enemy to deliver the message. He will be here tomorrow, and he will bring good news.</speak>
             <show chara="GobboSmile" position="right" opacity="0.8"/>
             <show chara="LorenzoSurprised" position="left"/>
-            <speak chara="_YukimuraVenice">什么好消息？</speak>
+            <speak chara="_YukimuraVenice">What good news?</speak>
             <show chara="LorenzoSurprised" position="left" opacity="0.8"/>
             <show chara="GobboTalk" position="right"/>
-            <speak chara="_CaravaggioVenice">这我可不知道。</speak>
+            <speak chara="_CaravaggioVenice">I don’t know.</speak>
             <show chara="GobboTalk" position="right" opacity="0.8"/>
             <show chara="LorenzoHelpless" position="left"/>
-            <speak chara="_YukimuraVenice">……怎么回事，每个人都神秘兮兮的。</speak>
+            <speak chara="_YukimuraVenice">...What is going on, everyone is being so secretive.</speak>
             <show chara="LorenzoSmile" position="left"/>
-            <speak chara="_YukimuraVenice">不过，我们还是都进屋子里去吧：既然这屋子的女主人就要回来了，那我们不好好准备准备可不行呀。</speak>
+            <speak chara="_YukimuraVenice">But let’s all get inside: Since the mistress of this house is coming back, we have to prepare.</speak>
             <goto goto="170" clockwise="1"/>
         </scene>
         <scene id="170" background="starNightNorth.jpg">
             <bgm src="09_13_dannyBoy.mp3" status="continue"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">咦？我们家里怎么亮着灯光，还有美妙的音乐在风中流淌？</speak>
+            <speak chara="_RitaVeniceM">Huh? Why are there lights in our house, and what is this wonderful music flowing in the wind?</speak>
             <show chara="DressPortiaShock" position="left" opacity="0.8"/>
             <show chara="AliceSurprisedClose" position="right"/>
-            <speak chara="_AliceVeniceM">难道……我们的丈夫竟然在我们之前回来了吗？</speak>
+            <speak chara="_AliceVeniceM">Could it be… our husbands came back before us?</speak>
             <show chara="AliceSurprisedClose" position="right" opacity="0.8"/>
             <show chara="DressPortiaThink" position="left"/>
-            <speak chara="_RitaVeniceM">别慌，奈莉莎：你知道他们和那个安东尼奥的关系有多么好，他们昨天晚上一定还在城里大吃大喝呢。</speak>
+            <speak chara="_RitaVeniceM">Don’t panic, Nerissa: You know how good their relationship with Antonio is. They must have been eating and drinking in the city last night.</speak>
             <show chara="DressPortiaThink" position="left" opacity="0.8"/>
             <show chara="LorenzoSmile" position="right"/>
-            <speak chara="_YukimuraVenice">——要是我没有听错，门外这声音分明就是我们女主人的。</speak>
+            <speak chara="_YukimuraVenice">——That’s the mistress’s voice if I’m not mistaken.</speak>
             <show chara="LorenzoSmile" position="right" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">噗。这一定是我的嗓音太难听，所以才一下子就给他听出来了。</speak>
+            <speak chara="_RitaVeniceM">He knows me just as the blind man knows the cuckoo – by its terrible voice.</speak>
             <show chara="DressPortiaSmile" position="left" opacity="0.8"/>
             <show chara="LorenzoSmile" position="right"/>
-            <speak chara="_YukimuraVenice">好夫人，您说笑了。欢迎您回家来！</speak>
+            <speak chara="_YukimuraVenice">Dear lady! Welcome home!</speak>
             <show chara="LorenzoSmile" position="right" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">我们昨天外出为我们的丈夫祈祷平安，希望他们能够因此而时来运转。他们已经回来了吗？</speak>
+            <speak chara="_RitaVeniceM">We’ve been praying for our husbands’ welfare, we hope they’ll be back all the sooner because of those prayers. Are they back?</speak>
             <show chara="DressPortiaSmile" position="left" opacity="0.8"/>
             <show chara="LorenzoSmile" position="right"/>
-            <speak chara="_YukimuraVenice">夫人，他们还没有回来；刚才他们的信使就跟在你们的信使后面过来，一样说自己的主人有好消息要带来——</speak>
+            <speak chara="_YukimuraVenice">Not yet, madam, but there was a messenger who came to announce their imminent arrival, saying they will bring good news——</speak>
             <show chara="LorenzoHelpless" position="right"/>
-            <speak chara="_YukimuraVenice">——却也一样不肯告诉我们，到底是什么好消息。</speak>
+            <speak chara="_YukimuraVenice">——Which they refused to tell me what they were.</speak>
             <show chara="LorenzoHelpless" position="right" opacity="0.8"/>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">……唔，那他们应该也离家不远了。</speak>
+            <speak chara="_RitaVeniceM">...Well, then they should not be far.</speak>
             <show chara="DressPortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">奈莉莎，吩咐所有仆人，让他们都当我们昨天没出去过一样；洛伦佐，也麻烦你和杰西卡帮我们保守秘密：</speak>
+            <speak chara="_RitaVeniceM">Go in, Nerissa, tell my servants not to say a word about our absence. Nor must you, Lorenzo, nor you, Jessica.</speak>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">那个好消息，等一会儿时机合适了我们再告诉你。</speak>
+            <speak chara="_RitaVeniceM">And about the good news, we will tell you when the time is right.</speak>
             <show chara="DressPortiaSmile" position="left" opacity="0.8"/>
             <show chara="LorenzoSmile" position="right"/>
-            <speak chara="_YukimuraVenice">夫人，您放心好了，这里没有喜欢搬弄是非的人。</speak>
+            <speak chara="_YukimuraVenice">Don’t worry, madam, we’re not tell-tales.</speak>
             <show chara="LorenzoSurprised" position="right"/>
-            <speak chara="_YukimuraVenice">啊，你们听——远处好像响起了巴萨尼奥先生吹喇叭的声音。</speak>
+            <speak chara="_YukimuraVenice">And listen - It’s Mr. Bassanio’s trumpet in the distance.</speak>
             <goto goto="180" clockwise="1"/>
         </scene>
         <scene id="180" background="0_studyNight.jpg">
             <bgm src="01_18_tango.mp3" status="start"></bgm>
             <show chara="0curtain" position="back"/>
             <show chara="DressPortiaHappy" position="left"/>
-            <speak chara="_RitaVeniceM">夫君，欢迎回家！</speak>
+            <speak chara="_RitaVeniceM">Welcome home, my husband!</speak>
             <show chara="DressPortiaHappy" position="left" opacity="0.8"/>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVenice">谢谢你，我的夫人。托你的福，事情转危为安了。</speak>
+            <speak chara="_BiankaVenice">Thank you, my wife. Thanks to you, we have returned safely.</speak>
             <show chara="BassanioConfident" position="right"/>
-            <speak chara="_BiankaVenice">请容我正式介绍一下：这位就是安东尼奥，他曾经给过我很多的帮助。</speak>
+            <speak chara="_BiankaVenice">Let me introduce you formally: This is Antonio, to whom I’m eternally indebted.</speak>
             <show chara="AntonioSmile" position="right"/>
-            <speak chara="_ThalesVenice">您好，夫人。</speak>
+            <speak chara="_ThalesVenice">Good evening, madam.</speak>
             <show chara="AntonioSmile" position="right" opacity="0.8"/>
             <show chara="DressPortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">巴萨尼奥，他的确给过你很多的帮助——因为我听说为了你，他差点把命都搭进去了。</speak>
+            <speak chara="_RitaVeniceM">You really are, Bassanio. I heard that because of you, he almost lost his life.</speak>
             <show chara="DressPortiaSneer" position="left" opacity="0.8"/>
             <show chara="AntonioLaugh" position="right"/>
-            <speak chara="_ThalesVenice">这没有什么，现在一切都完美解决了。</speak>
+            <speak chara="_ThalesVenice">It was no more than I was prepared to pay.</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="GratianoNervous" position="center"/>
-            <speak chara="_WattVenice">——等、等一下，请听我解释，奈莉莎！</speak>
+            <speak chara="_WattVenice">——Wa-wait, please listen to my explanation, Nerissa.</speak>
             <show chara="GratianoSorry" position="center"/>
-            <speak chara="_WattVenice">我、我没有撒谎，我真的把它送给了那位法官的书记。</speak>
+            <speak chara="_WattVenice">By the moon above us I swear you’re wronging me. I promise you, I gave it to the judge’s clerk.</speak>
             <show chara="GratianoFindOthersUnreasonable" position="center"/>
-            <speak chara="_WattVenice">那、那真的没有什么！毕、毕竟他只是一个博士的书童而已！</speak>
+            <speak chara="_WattVenice">Th-There really is nothing! A-After all, he is just the doctor’s companion!</speak>
             <hide position="center"></hide>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">咦？你们在争吵些什么？</speak>
+            <speak chara="_RitaVeniceM">A quarrel already? What’s the matter?</speak>
             <show chara="DressPortiaShock" position="left" opacity="0.8"/>
             <show chara="GratianoNervous" position="right"/>
-            <speak chara="_WattVenice">我、我……</speak>
+            <speak chara="_WattVenice">I, I...</speak>
             <show chara="GratianoNervous" position="right" opacity="0.8"/>
             <show chara="AliceHmClose" position="left"/>
-            <speak chara="_AliceVeniceM">哼。当初我给你那枚戒指的时候，你是怎么对我发誓的？</speak>
+            <speak chara="_AliceVeniceM">Humph. Do you remember what you swore when I gave you that ring?</speak>
             <show chara="AliceShockClose" position="left"/>
-            <speak chara="_AliceVeniceM">你说，你要“戴着它一直到死，死了也要和它一起被埋进坟墓”——</speak>
+            <speak chara="_AliceVeniceM">When I gave it to you you promised me that you’d wear it till you died and that you’d take it to the grave with you——</speak>
             <show chara="AliceThinkClose" position="left"/>
-            <speak chara="_AliceVeniceM">——即使不为了我，为了你自己的誓言，你也应该把它看得更重要一些，不管遇到什么事情都好好保存着才对。</speak>
+            <speak chara="_AliceVeniceM">——If not for my sake but because of your vehement oaths you should have been more serious and kept it.</speak>
             <show chara="AliceShockClose" position="left"/>
-            <speak chara="_AliceVeniceM">现在呢？一个小男孩就把这个戒指骗了去，一个小男孩！</speak>
+            <speak chara="_AliceVeniceM">And now what? He lies saying a boy got this ring! A boy!</speak>
             <show chara="AliceShockClose" position="left" opacity="0.8"/>
             <show chara="GratianoFindOthersUnreasonable" position="right"/>
-            <speak chara="_WattVenice">如、如果是女孩的话，问题才更大吧？</speak>
+            <speak chara="_WattVenice">But if it was a girl the problem would be bigger, right?</speak>
             <show chara="GratianoFindOthersUnreasonable" position="right" opacity="0.8"/>
             <show chara="AliceShockClose" position="left"/>
-            <speak chara="_AliceVeniceM">什么？你还敢假设这种情况？</speak>
+            <speak chara="_AliceVeniceM">What? You still dare make excuses?</speak>
             <show chara="AliceShockClose" position="left" opacity="0.8"/>
             <show chara="GratianoNervous" position="right"/>
-            <speak chara="_WattVenice">我、我……</speak>
+            <speak chara="_WattVenice">I, I...</speak>
             <show chara="GratianoTeeth" position="right"/>
-            <speak chara="_WattVenice">我对天发誓，那博士和书记都是我们的恩人；他实在想要这枚戒指，我脸上挂不住，没法拒绝他。</speak>
+            <speak chara="_WattVenice">I swear to God that the doctor and his clerk are out benefactors; He really wanted the ring instead of a fee, and I didn’t have the heart to refuse him.</speak>
             <show chara="GratianoTeeth" position="right" opacity="0.8"/>
             <show chara="DressPortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">……恕我插一句不客气的话。</speak>
+            <speak chara="_RitaVeniceM">...Excuse me for coming in so bluntly.</speak>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">奈莉莎是你的妻子，你怎么可以把你妻子给你的第一件礼物就随随便便地送了人？</speak>
+            <speak chara="_RitaVeniceM">Nerissa is your wife, how could you so casually give away the first gift your wife gave you?</speak>
             <show chara="DressPortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">在妻子面前，你们男人所谓的“面子”根本不值一提！</speak>
+            <speak chara="_RitaVeniceM">In front of her, you should have tried to keep some face.</speak>
             <show chara="DressPortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">你既然已经发过誓要把那戒指永远戴在自己的手上，那它就已经是你身体不可分割的一部分，就像你的手指脚趾一样了。</speak>
+            <speak chara="_RitaVeniceM">It was placed on your finger with vows and welded to your flesh with trust. It was a part of your body, like your fingers are.</speak>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">我也曾经送过巴萨尼奥一个戒指，他也发誓说自己永远不会把它抛弃——</speak>
+            <speak chara="_RitaVeniceM">I gave my love a ring and made him promise never to part with it——</speak>
             <show chara="DressPortiaHappy" position="left"/>
-            <speak chara="_RitaVeniceM">我敢说，即使是哪里的国王，要用他所有的金银财宝来换这枚戒指，我的巴萨尼奥也绝不可能答应的。</speak>
+            <speak chara="_RitaVeniceM">I would bet he would never lose it nor take it off his finger for all the world’s wealth.</speak>
             <show chara="DressPortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">格拉提亚诺，你太对不起自己的妻子了，你应该赶紧想办法向她道歉才对。</speak>
+            <speak chara="_RitaVeniceM">Gratiano, you’ve given your wife too unkind a cause for grief. You should find a way to apologize to her quickly.</speak>
             <show chara="DressPortiaAngry" position="left" opacity="0.8"/>
             <show chara="BassanioRegret" position="right"/>
-            <speak chara="_BiankaVenice">（……我真该把我的左手在回家之前砍掉；那样，我就可以发誓说，因为强盗想要这枚戒指，而我不想给他，结果那强盗就把我戴戒指的手直接砍下来了。）</speak>
+            <speak chara="_BiankaVenice">(...I really should have cut off my left hand when coming home. That way, I could swear that I lost the ring while defending it from a robber.)</speak>
             <show chara="GratianoSorry" position="right"/>
-            <speak chara="_WattVenice">可、可是……巴、巴萨尼奥先生……也把他的戒指送给那位博士了啊？</speak>
+            <speak chara="_WattVenice">Bu- But… Mr. Ba- Bassiano… also gave his ring to the doctor?</speak>
             <show chara="GratianoNervous" position="right"/>
-            <speak chara="_WattVenice">他们帮了我们判赢了官司，却分文不取，只要我们手上的——</speak>
+            <speak chara="_WattVenice">They helped us win the lawsuit, but they wouldn’t take any money, only——</speak>
             <show chara="GratianoNervous" position="right" opacity="0.8"/>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">——等等？</speak>
+            <speak chara="_RitaVeniceM">——What?</speak>
             <show chara="DressPortiaFalseShock" position="left"/>
-            <speak chara="_RitaVeniceM">我的夫君，你把哪个戒指送给了别人？该不会是我送你的“那个”吧？</speak>
+            <speak chara="_RitaVeniceM">What ring did you give him, my love? Not the one I gave you, right?</speak>
             <show chara="DressPortiaFalseShock" position="left" opacity="0.8"/>
             <show chara="BassanioRegret" position="right"/>
-            <speak chara="_BiankaVenice">……要是我现在说谎就可以让你开心一点的话，那么我会否认的。可是，我的手上现在空空如也，我说什么也不可能让你开心起来了。</speak>
+            <speak chara="_BiankaVenice">...If I could make you happy by lying, I would. But you can see the ring is not on my hand, and nothing I say will make you happy.</speak>
             <show chara="BassanioRegret" position="right" opacity="0.8"/>
             <show chara="DressPortiaFalseShock" position="left"/>
-            <speak chara="_RitaVeniceM">天啊，你这时候再坦诚起来又有什么用？你虚伪的心里没有一丝一毫的真情。</speak>
+            <speak chara="_RitaVeniceM">Oh my god, what good is it to be honest now? There is no trace of that in your hypocritical heart.</speak>
             <show chara="DressPortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">我对天发誓，除非我再见到你手上戴着那个戒指，否则我就再也不和你同床共枕了。</speak>
+            <speak chara="_RitaVeniceM">By heaven, I won’t come anywhere near your bed until I see that ring in your hand again!</speak>
             <show chara="DressPortiaAngry" position="left" opacity="0.8"/>
             <show chara="BassanioRegret" position="right"/>
             <speak chara="_BiankaVenice">……</speak>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">亲爱的鲍茜娅，要是你知道我把这戒指送给了什么人——</speak>
+            <speak chara="_BiankaVenice">Sweet Portia, If you knew who I gave the ring to——</speak>
             <show chara="BassanioTangled" position="right" opacity="0.8"/>
             <show chara="DressPortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">这根本不是送给谁的问题。</speak>
+            <speak chara="_RitaVeniceM">It’s not a question of who you have it to——</speak>
             <show chara="DressPortiaAngry" position="left"/>
-            <speak chara="_RitaVeniceM">巴萨尼奥，如果你真的知道这枚戒指代表了什么、拥有怎样的价值，你就不可能再把它送给任何一个人。</speak>
+            <speak chara="_RitaVeniceM">If you had realised the significance of the ring, or half the worth of she who gave you the ring, you wouldn’t have parted with the ring,</speak>
             <show chara="DressPortiaFalseShock" position="left"/>
-            <speak chara="_RitaVeniceM">再说，世上哪有这样的人？一边分文不取，一边专要别人手上的戒指？</speak>
+            <speak chara="_RitaVeniceM">What man could be so unreasonable, so insensitive, as to insist on taking a ring from someone else’s hand?</speak>
             <show chara="DressPortiaFalseShock" position="left"/>
-            <speak chara="_RitaVeniceM">他难道是个不经世事的傻瓜，不知道这种东西有多么大的纪念意义？</speak>
-            <speak chara="_RitaVeniceM">我现在不禁怀疑，是不是有什么女人把这个戒指拿走了！</speak>
+            <speak chara="_RitaVeniceM">Is he a fool not having realized the sentimental value of it?</speak>
+            <speak chara="_RitaVeniceM">I agree with Nerissa. I’d bet my life that some woman has the ring!</speak>
             <show chara="DressPortiaFalseShock" position="left" opacity="0.8"/>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVenice">不！</speak>
+            <speak chara="_BiankaVenice">No!</speak>
             <show chara="BassanioHelpless" position="right"/>
-            <speak chara="_BiankaVenice">我的夫人，我用我的名誉、我的灵魂发誓，我真的是把戒指送给了那个在法庭上帮助了我们的博士。</speak>
+            <speak chara="_BiankaVenice">I swear in my honour, madam, in my soul, I really gave it to the doctor who helped us in court.</speak>
             <show chara="BassanioRegret" position="right"/>
-            <speak chara="_BiankaVenice">他不接受我送给他的三千金币，一定要这枚戒指；我不答应，他就气哄哄地拂袖而去了。</speak>
+            <speak chara="_BiankaVenice">He refused to take three thousand ducats and demanded the ring, which I refused him, and let him leave displeased.</speak>
             <show chara="BassanioTangled" position="right"/>
-            <speak chara="_BiankaVenice">可是——这个人救了我最好的朋友的性命啊？我、我难道就忍心让他这样和我们不欢而散吗？</speak>
+            <speak chara="_BiankaVenice">The man who had saved the life of my dear friend! What can I say, sweet lady?</speak>
             <show chara="BassanioHelpless" position="right"/>
-            <speak chara="_BiankaVenice">我的好夫人，我是实在没有法子，才叫人追上去、把戒指送给他；不然，我就只能一辈子做一个忘恩负义的人了。</speak>
+            <speak chara="_BiankaVenice">I was forced to send it after him: I was filled with shame and a sense of obligation. I couldn’t besmirch my honour with such ingratitude.</speak>
             <show chara="BassanioRegret" position="right"/>
-            <speak chara="_BiankaVenice">请原谅我，好夫人；我对天发誓，如果那时候你也在场，你也一样会劝我把戒指送给那位博士的。</speak>
+            <speak chara="_BiankaVenice">Pardon me, good lady, but if you had been there I think you would have begged me for the ring to give to the worthy doctor.</speak>
             <show chara="BassanioRegret" position="right" opacity="0.8"/>
             <show chara="DressPortiaSerious" position="left"/>
-            <speak chara="_RitaVeniceM">……那我劝你不要让那位博士有机会和我见面。</speak>
+            <speak chara="_RitaVeniceM">Don’t let that doctor come anywhere near my house!</speak>
             <show chara="DressPortiaThink" position="left"/>
-            <speak chara="_RitaVeniceM">他既然拿了我所珍视的宝物，而那宝物又是你发誓永远为我而保存的东西——</speak>
+            <speak chara="_RitaVeniceM">But since he’s got the jewel that I loved, and which you swore to keep for my sake——</speak>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">——那么我也会像你一样慷慨，把我所有的一切都奉献给他。</speak>
+            <speak chara="_RitaVeniceM">——I’ll be as generous as you: I won’t deny him any of my possessions.</speak>
             <show chara="DressPortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">即使是他要我的身体，或是这个家里的任何一张床，我也都不会拒绝他的。</speak>
+            <speak chara="_RitaVeniceM">No, not even my body, nor my husband’s bed.</speak>
             <show chara="DressPortiaSneer" position="left" opacity="0.8"/>
             <show chara="AntonioHelpless" position="right"/>
-            <speak chara="_ThalesVenice">夫人啊，您千万别动气——都是我的不是，才引出了你们这一场吵闹。</speak>
+            <speak chara="_ThalesVenice">Madam, please calm down. I’m the unhappy subject of these quarrels.</speak>
             <show chara="AntonioHelpless" position="right" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">好先生，这跟您没有关系；我们都很喜欢您，欢迎您来我们家做客。</speak>
+            <speak chara="_RitaVeniceM">Sir, don’t be troubled. We all like you, and you are welcome nevertheless.</speak>
             <show chara="DressPortiaSmile" position="left" opacity="0.8"/>
             <show chara="BassanioRegret" position="right"/>
-            <speak chara="_BiankaVenice">鲍茜娅，我真的错了。现在，当着这么多朋友们的面，我向你发誓：凭着你这双美丽的眼睛，在它们里面我可以看见我自己的——</speak>
+            <speak chara="_BiankaVenice">Portia! Forgive me for offending you. Here, with all these friends as witnesses, I swear to you, even by your lovely eyes, in which I see myself…</speak>
             <show chara="BassanioRegret" position="right" opacity="0.8"/>
             <show chara="DressPortiaFalseShock" position="left"/>
-            <speak chara="_RitaVeniceM">你在说些什么？我的左眼里也有一个你，我的右眼里也有一个你：你是打算借着自己的“双重人格”发誓吗？</speak>
+            <speak chara="_RitaVeniceM">What are you talking about? There is you in my left eye, and there is you in my right eye. Are you going to swear by your hypocritical self?</speak>
             <show chara="DressPortiaFalseShock" position="left" opacity="0.8"/>
             <show chara="BassanioPrudish" position="right"/>
-            <speak chara="_BiankaVenice">不，鲍茜娅，你听我说。请你原谅我犯下的这个大错；我凭借我的灵魂起誓，我以后再不违背任何对你发出的誓言。</speak>
+            <speak chara="_BiankaVenice">No! Just listen! Forgive this fault and I swear by my soul that I’ll never break a promise to you!</speak>
             <show chara="AntonioNormal" position="right"/>
-            <speak chara="_ThalesVenice">好夫人，我曾经为了这个男人的幸福，用我自己的身体做抵押，为他借来了三千金币——而现在，我敢再立一张契约。</speak>
+            <speak chara="_ThalesVenice">My good lady, I staked my body for his happiness. Now I offer to be bound again, with my soul as the forfeit.</speak>
             <show chara="AntonioSwear" position="right"/>
-            <speak chara="_ThalesVenice">用我的灵魂、我的性命做担保，我保证您的丈夫绝不会再做任何对您背信弃义的行为！</speak>
+            <speak chara="_ThalesVenice">With my soul as the forfeit, your husband will never again knowingly break faith with you.</speak>
             <show chara="AntonioSwear" position="right" opacity="0.8"/>
             <show chara="DressPortiaShock" position="left"/>
-            <speak chara="_RitaVeniceM">好先生，担保或者契约就不必了——</speak>
+            <speak chara="_RitaVeniceM">Good sir, there is no need for contracts——</speak>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">不过我想麻烦你做一个见证人，把这个给我先生，让他把它保存的比上回的那一个好一些。</speak>
+            <speak chara="_RitaVeniceM">Instead, you’ll be his guarantor. Give this to my husband, and tell him to look after it better than the other.</speak>
             <show chara="DressPortiaSmile" position="left" opacity="0.8"/>
             <show chara="AntonioSmile" position="right"/>
-            <speak chara="_ThalesVenice">巴萨尼奥，快拿着！快发誓永远保存这枚新的戒指！</speak>
+            <speak chara="_ThalesVenice">Here, Lord Bassanio! Swear to keep this ring forever!</speak>
             <show chara="BassanioShock" position="right"/>
-            <speak chara="_BiankaVenice">……天啊！这不就是我原来拿到的那一个吗？！</speak>
+            <speak chara="_BiankaVenice">...By heaven! It’s the one I gave the doctor!</speak>
             <show chara="BassanioShock" position="right" opacity="0.8"/>
             <show chara="DressPortiaSneer" position="left"/>
-            <speak chara="_RitaVeniceM">我从“博士”手里把它要回来了呀。</speak>
+            <speak chara="_RitaVeniceM">I got it from him.</speak>
             <show chara="DressPortiaSmile" position="left"/>
-            <speak chara="_RitaVeniceM">巴萨尼奥，原谅我：为了这枚戒指，我已经和那位“博士”睡过觉了。</speak>
+            <speak chara="_RitaVeniceM">Forgive me, Bassanio. The doctor slept with me in return for this ring.</speak>
             <show chara="AliceSmileClose" position="right"/>
-            <speak chara="_AliceVeniceM">也原谅我，格拉提亚诺：为了向那个未成年的书记讨要我的戒指，我也已经和他睡过觉了。</speak>
+            <speak chara="_AliceVeniceM">And forgive me, my gentle Gratiano, because that same scrubbed boy, the doctor’s clerk, slept with me for this ring as well.</speak>
             <show chara="AliceSmileClose" position="right" opacity="0.8"/>
             <show chara="GratianoFindOthersUnreasonable" position="left"/>
-            <speak chara="_WattVenice">什……什么？</speak>
+            <speak chara="_WattVenice">What… the hell?</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left"/>
-            <speak chara="_BiankaVenice">这、这……</speak>
+            <speak chara="_BiankaVenice">That… That’s...</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left" opacity="0.8"/>
             <show chara="DressPortiaSneer" position="right"/>
-            <speak chara="_RitaVeniceM">噗。看来你们有一点受惊过度；所以我觉得我们还是不要继续捉弄你们了。</speak>
+            <speak chara="_RitaVeniceM">Fufu, seems like the shock was a little too much; I don’t think we should continue to tease you.</speak>
             <show chara="DressPortiaHappy" position="right"/>
-            <speak chara="_RitaVeniceM">这里有一封信，你们拿去慢慢看吧——它是从帕多瓦寄来的，你们从这封信里，就可以知道那位博士就是鲍茜娅，而她的书记就是奈莉莎。</speak>
+            <speak chara="_RitaVeniceM">Here’s a letter; read it at your leisure. It comes from Padua; from Bellario. In it you will discover that Portia was the doctor, and Nerissa there, her clerk.</speak>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">洛伦佐也可以向你们证明，当你们出发之后，我们也立即动身去了帕多瓦；我们到家也还没有多久，连自己的屋子都还没有进去过呢。</speak>
+            <speak chara="_RitaVeniceM">Lorenzo here, will tell you that I set out immediately after you and have just returned. I haven’t even been inside yet.</speak>
             <show chara="DressPortiaHappy" position="right"/>
-            <speak chara="_RitaVeniceM">对了，安东尼奥先生，我们这里甚至还有一个与您有关的好消息：</speak>
+            <speak chara="_RitaVeniceM">Antonio, you are welcome, and I have even better news for you than you expect:</speak>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">这里有一封信，上面说您那三艘逾期未至的商船即将满载而归，马上就要到港了。您一定没想到，这样一封信会由我转交给您。</speak>
+            <speak chara="_RitaVeniceM">Open this letter soon. You’ll find that three of your ships returned to the harbour richly laden. You must never have expected this letter to come from me.</speak>
             <show chara="DressPortiaSmile" position="right" opacity="0.8"/>
             <show chara="AntonioShock" position="left"/>
-            <speak chara="_ThalesVenice">……我已经吃惊地无话可说了。</speak>
+            <speak chara="_ThalesVenice">...I’m speechless.</speak>
             <show chara="BassanioShock" position="left"/>
-            <speak chara="_BiankaVenice">所、所以……你就是那个博士，而我们却连认都没有认出来你？</speak>
+            <speak chara="_BiankaVenice">So… Were you the doctor and I couldn’t tell?</speak>
             <show chara="BassanioShock" position="left" opacity="0.8"/>
             <show chara="DressPortiaSneer" position="right"/>
-            <speak chara="_RitaVeniceM">噗。男人们多半自己没有什么变装的经验，会在这种事情上吃亏简直再正常不过了。</speak>
+            <speak chara="_RitaVeniceM">Puff. Most men have no experience with crossdressing, so it’s normal for you to not have realized.</speak>
             <show chara="DressPortiaSneer" position="right" opacity="0.8"/>
             <show chara="BassanioShy" position="left"/>
             <speak chara="_BiankaVenice">……</speak>
             <show chara="BassanioConfident" position="left"/>
-            <speak chara="_BiankaVenice">啊，让我们把所有问题都抛诸脑后吧！</speak>
-            <speak chara="_BiankaVenice">我的好博士，你今晚就陪我睡觉吧！</speak>
+            <speak chara="_BiankaVenice">Ah, let us leave all the questions behind!</speak>
+            <speak chara="_BiankaVenice">Sweet doctor, you will be my bed partner tonight!</speak>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVenice">当我不在的时候，你也可以直接睡到我妻子的床上。</speak>
+            <speak chara="_BiankaVenice">And when I’m away you can sleep with my wife.</speak>
             <show chara="BassanioShy" position="left"/>
-            <speak chara="_BiankaVenice">……嗯，就是这样。</speak>
+            <speak chara="_BiankaVenice"> ...Or something like that.</speak>
             <show chara="BassanioShy" position="left" opacity="0.8"/>
             <show chara="DressPortiaSneer" position="right"/>
-            <speak chara="_RitaVeniceM">哎呀哎呀，突然学会了甜言蜜语的巴萨尼奥——我觉得如果什么时候你做了法官，一定会比那位博士更加能言善辩。</speak>
+            <speak chara="_RitaVeniceM">Alas, Bassiano, you suddenly learned to sweet talk - I think if you ever became a judge, you would be more talkative than the doctor.</speak>
             <show chara="DressPortiaHappy" position="right"/>
-            <speak chara="_RitaVeniceM">对了，洛伦佐——</speak>
+            <speak chara="_RitaVeniceM">By the way, Lorenzo——</speak>
             <show chara="DressPortiaHappy" position="right" opacity="0.8"/>
             <show chara="LorenzoSmile" position="left"/>
-            <speak chara="_YukimuraVenice">什么事，夫人？</speak>
+            <speak chara="_YukimuraVenice">What’s the matter, madam?</speak>
             <show chara="LorenzoSmile" position="left" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">这是你的好消息：这里有一张你那个放高利贷的岳父亲笔签署的文书，他不仅现在就要把他一半的财富交给你和杰西卡；</speak>
-            <speak chara="_RitaVeniceM">等他百年之后，他的所有遗产，也都会全部归于你们名下。</speak>
+            <speak chara="_RitaVeniceM">This good news is for you: Here is a document signed by your rich father-in-law. Not only will he now give you half of his wealth for you and Jessica;</speak>
+            <speak chara="_RitaVeniceM">But after his death, all of his inheritance will go to you.</speak>
             <show chara="DressPortiaSmile" position="right" opacity="0.8"/>
             <show chara="LorenzoHappy" position="left"/>
-            <speak chara="_YukimuraVenice">我的天啊！夫人，你们简直就是播撒幸福的天使！</speak>
+            <speak chara="_YukimuraVenice">That’s incredible! Madam, you are an angel who spreads happiness!</speak>
             <show chara="LorenzoHappy" position="left" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">天已经差不多要亮了，可是我知道你们还想把整件事情的来龙去脉知道的更详细一点。</speak>
+            <speak chara="_RitaVeniceM">It’s almost morning, but I'm sure there’s more that you want to know about these events.</speak>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceM">没有关系，让我们大家先进屋吧；如果谁还有什么疑惑的地方，他可以慢慢地向我们提问。</speak>
+            <speak chara="_RitaVeniceM">Let’s go in. You can interrogate us there and we’ll tell you everything you want to know.</speak>
             <show chara="DressPortiaSmile" position="right" opacity="0.8"/>
             <show chara="BassanioSmile" position="left"/>
-            <speak chara="_BiankaVenice">现在距离白天可能只有两个小时了；不如我们各自先去睡觉，等到下午再一起庆祝我们的整个冒险——</speak>
+            <speak chara="_BiankaVenice">There’s only two hours until daylight; It’s better to go to sleep and wait until the afternoon to celebrate our entire adventure together——</speak>
             <show chara="BassanioShy" position="left"/>
-            <speak chara="_BiankaVenice">——博、博士小姐，可以吧？</speak>
+            <speak chara="_BiankaVenice">——Is that alright, my Sweet Doctor?</speak>
             <goto goto="190" clockwise="1"/>
         </scene>
         <scene id="190" background="stageHuacaCloseUp.jpg">
             <bgm src="10_10_kalinka.mp3" status="start"></bgm>
             <show chara="BassanioShy" position="left"/>
-            <speak chara="_BiankaVeniceSelf">呼……没想到最后的这一段戏，演起来竟然是最累人的部分。</speak>
+            <speak chara="_BiankaVeniceSelf">Phew… I didn’t expect that the last scene would be the most tiring part.</speak>
             <show chara="BassanioShy" position="left" opacity="0.8"/>
             <show chara="DressPortiaFalseShock" position="right"/>
-            <speak chara="_RitaVeniceMSelf">咦？是这样吗？</speak>
+            <speak chara="_RitaVeniceMSelf">Hm? Is that so?</speak>
             <show chara="DressPortiaSneer" position="right"/>
-            <speak chara="_RitaVeniceMSelf">我还以为……比安卡大人一定会乐在其中呢。</speak>
+            <speak chara="_RitaVeniceMSelf">I thought… Bianka-sama would definitely enjoy it.</speak>
             <show chara="DressPortiaSneer" position="right" opacity="0.8"/>
             <show chara="BassanioShy" position="left"/>
-            <speak chara="_BiankaVeniceSelf">哪、哪有——</speak>
+            <speak chara="_BiankaVeniceSelf">Whe- Where would I——</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left"/>
-            <speak chara="_BiankaVeniceSelf">我、我在这戏里有什么可开心的？</speak>
+            <speak chara="_BiankaVeniceSelf">What would make me happy in that scene?</speak>
             <show chara="BassanioFindOthersUnreasonable" position="left" opacity="0.8"/>
             <show chara="DressPortiaSmile" position="right"/>
-            <speak chara="_RitaVeniceMSelf">……咦？真的是这样吗？</speak>
+            <speak chara="_RitaVeniceMSelf">Hm? You don’t know?</speak>
             <goto goto="200" change="0"/>
         </scene>
         <scene id="200" background="CG31-1.jpg">
             <bgm src="12_29_street.mp3" status="start"></bgm>
-            <speak chara="_Rita">“啊，我的好博士，你今晚就陪我睡觉吧。”</speak>
-            <speak chara="_Rita">“当我不在的时候，你也可以直接睡到我妻子的床上。”</speak>
+            <speak chara="_Rita">“Sweet doctor, you will be my bed partner tonight!”</speak>
+            <speak chara="_Rita">“And when I’m away you can sleep with my wife.”</speak>
             <goto goto="210" change="0"/>
         </scene>
         <scene id="210" background="CG31-2.jpg">
             <bgm src="01_21_1-second-of-silence.mp3" status="start"></bgm>
             <speak chara="_Bianka">……</speak>
-            <speak chara="_Bianka">喂！</speak>
+            <speak chara="_Bianka">Hey!</speak>
             <end last="1" post="U2FsdGVkX19p0u0anU64b1thN0ia"/>
         </scene>
     </story>
