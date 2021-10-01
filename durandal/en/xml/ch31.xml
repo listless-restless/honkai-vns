@@ -788,7 +788,7 @@
             <speak chara="_ShakespeareVeniceFatherSelf">Hahahaha! It would have been a lot more lively if it could come back here.</speak>
             <show chara="ShylockLaugh" position="left" opacity="0.8"/>
             <show chara="BassanioSmile" position="right"/>
-            <speak chara="_BiankaVeniceSelf">...That’s true.。</speak>
+            <speak chara="_BiankaVeniceSelf">...That’s true.</speak>
             <show chara="BassanioInspireOthers" position="right"/>
             <speak chara="_BiankaVeniceSelf">Captain, we will definitely find a way to connect the “Inversion baseline” of this Bubble Universe to the “Imaginary Tree” and completely solve its stability problem.</speak>
             <show chara="BassanioConfident" position="right"/>
