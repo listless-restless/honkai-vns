@@ -158,7 +158,7 @@
             <speak chara="_ThalesVenice">You may as well forbid the mountain pines to sway or make a noise in the buffeting winds.</speak>
             <show chara="AntonioDisheartened" position="right"/>
             <speak chara="_ThalesVenice">So, my friend, I beg you not to try anything else or use any further means——</speak>
-            <speak chara="_ThalesVenice">让我爽快地收到判决书，让这个野蛮人满足他的心愿吧。</speak>
+            <speak chara="_ThalesVenice">But let me have the judgment and the Jew his will as soon as possible.</speak>
             <show chara="AntonioDisheartened" position="right" opacity="0.8"/>
             <show chara="BassanioShock" position="left"/>
             <speak chara="_BiankaVenice">You- How can you give yourself up like this?!</speak>
