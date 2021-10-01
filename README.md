@@ -24,11 +24,12 @@ To use the latest translation e.g. for  **Anti-Entropy**:
 
 To use the latest translation for Durandal:
 
-1.Go to https://zklm.github.io/honkai-vn-durandal/
-2.Top right gear icon
-3.Change Custom EN XML Source to https://raw.githubusercontent.com/delialala/honkai-vns/main/durandal/en/xml/
-Refresh
-4.If you have any questions feel free to message delialala#8801 on discord.
+1. Go to https://zklm.github.io/honkai-vn-durandal/
+2. Top right gear icon
+3. Change Custom EN XML Source to https://raw.githubusercontent.com/delialala/honkai-vns/main/durandal/en/xml/
+4. Refresh
+
+If you have any questions feel free to message delialala#8801 on discord.
 
 
 ### Known issues
