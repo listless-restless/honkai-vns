@@ -87,7 +87,7 @@
             <speak chara="_Roland">And when it comes to actual combat—— Only 「Star Whisperers」 who bear the name of 「Inca」 like me can fight—— It's not a place for regular soldiers.</speak>
             <!-- RENAME: Houkai -> Honkai -->
             <speak chara="_Roland">If Valkyries are on par or stronger than our 「Star Whisperers」 and specialize in dealing with Honkai beasts...</speak>
-            <speak chara="_Roland">Then please, let me introduce you to the Chairman of the Republic and the Commander of the Fortress!</speak>
+            <speak chara="_Roland">Then please, let me introduce you to the Chairwoman of the Republic and the Commander of the Fortress!</speak>
             <speak chara="_Roland">I beg you!</speak>
             <speak chara="_Bianka">I-I don't mind paying them a visit so please stand up! I can tell how important this is to you!</speak>
             <goto goto="30" clockwise="1"/>
