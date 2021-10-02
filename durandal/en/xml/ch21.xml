@@ -50,7 +50,7 @@
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">Speaking of the power armor, I’ve been wondering…</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">Miss Roland actually has Honkai resistance, wouldn’t it be better to not wear such heavy armor?</speak>
+            <speak chara="_Bianka">Miss Rowland actually has Honkai resistance, wouldn’t it be better to not wear such heavy armor?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="rolandSmileClose" position="right"/>
             <speak chara="_Roland">Ah… in terms of agility, that would indeed be the case…</speak>
@@ -191,7 +191,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <text>Whether it was good or bad timing, just when Bianka was feeling the cultural shock, the train bell rang.</text>
-            <text>Right after boarding in with Roland’s guidance, the engine roar overwhelmed everyone’s voices.</text>
+            <text>Right after boarding in with Rowland’s guidance, the engine roar overwhelmed everyone’s voices.</text>
             <text>The concrete wall outside quickly receded and the train was swallowed by darkness.</text>
             <text>And just when Bianka was wondering if there was nothing more to it--</text>
             <goto goto="60" change="0"/>
@@ -238,7 +238,7 @@
         <scene id="90" background="commandCenterHuaca.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <show chara="DarwinFunnyClose" position="center"/>
-            <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Roland.</speak>
+            <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Rowland.</speak>
             <show chara="DarwinSmileClose" position="center"/>
             <speak chara="_DarwinNoName">Let me introduce myself: I am the Minister of Defense of the Republic and the commander of this fortress - Anna Charles Darwin.</speak>
             <show chara="DarwinFunnyClose" position="center"/>
@@ -251,7 +251,7 @@
             <text article="1">
                 <p class="article-text">--After getting off of the “Command Center” station and passing through several large gates with dedicated gatekeepers, Bianka and her party met the minister of Defense, Darwin, who had been waiting for them.</p>
                 <br />
-                <p class="article-text">After her brief introduction, Roland introduces Bianka and her group one by one.</p>
+                <p class="article-text">After her brief introduction, Rowland introduces Bianka and her group one by one.</p>
             </text>
             <text>Bianka really hated these kinds of formal greetings, but she waited until it was over.</text>
             <show chara="biankaDressSighClose" position="left"/>
@@ -386,7 +386,7 @@
             <show chara="DraculaFunnyClose" position="left"/>
             <speak chara="_Dracula">...Tch. You always ruin my perfect image.</speak>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_Dracula">Friends of Roland, don’t you also think it’s hard to talk to Darwin?</speak>
+            <speak chara="_Dracula">Friends of Rowland, don’t you also think it’s hard to talk to Darwin?</speak>
             <show chara="DraculaLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="right"/>
             <speak chara="_Bianka">Uh… I think I prefer this straightforward style. It’s at least better than our Overseer, always speaking in riddles!</speak>
