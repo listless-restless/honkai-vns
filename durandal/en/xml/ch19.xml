@@ -309,21 +309,21 @@
             <speak chara="_rolandIncaNoName">You're... the 「Valkyrie」 often mentioned in many myths and legends?</speak>
             <speak chara="_SwordDurandalQ">(Wait... that voice and infrared signal coming from that soldier...)</speak>
             <shake position="all" time="250"></shake>
-            <speak chara="_SwordDurandalQ">Roland-sama? Is that you, Roland?</speak>
+            <speak chara="_SwordDurandalQ">Roland-sama? Is that you, Rowland?</speak>
             <speak chara="_Bianka">Huh?</speak>
             <goto goto="110" change="0"/>
         </scene>
         <scene id="110" background="CG19-2.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <speak chara="_rolandIncaNoName">.....</speak>
-            <speak chara="_rolandIncaNoName">That's right. I'm Roland Inca, General of the 3rd Battalion of the Inca Republic.</speak>
+            <speak chara="_rolandIncaNoName">That's right. I'm Rowland Inca, General of the 3rd Battalion of the Inca Republic.</speak>
             <speak chara="_Roland">What's your name, talking sword?</speak>
             <goto goto="120" change="0"/>
         </scene>
         <scene id="120" background="mountCuracao.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="durandalClose" position="left"/>
-            <speak chara="_SwordDurandalQ">Roland-sama... you don't remember me?</speak>
+            <speak chara="_SwordDurandalQ">Rowland-sama... you don't remember me?</speak>
             <show chara="durandalOpen" position="left"/>
             <shake position="left" time="250"></shake>
             <speak chara="_SwordDurandalQ">I'm your sword—— 「Durandal」!</speak>
