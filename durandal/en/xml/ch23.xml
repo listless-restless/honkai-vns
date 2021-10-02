@@ -400,7 +400,7 @@
             <show chara="ritaVestHesitateClose" position="right"/>
             <speak chara="_Rita">I also asked that. The Overseer answered it with--</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">“There will always be one or two mysterious passerbys among us - So I don’t think it’s all that odd”</speak>
+            <speak chara="_Rita">“There will always be one or two mysterious passerby among us - So I don’t think it’s all that odd”</speak>
             <speak chara="_Rita">“But that’s not important. You have to learn to not bring up things that don’t matter to the overall situation”.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
