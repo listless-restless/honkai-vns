@@ -372,7 +372,7 @@
         <scene id="140" background="12_12_cloudSky.jpg">
             <bgm src="08_03_ScarboroughFair.mp3" status="continue"></bgm>
             <speak chara="_ThoreauNoName">From jungles to snowy mountains, from big rivers to glaciers - Civilization can be found anywhere on the world, and the indigenous people have alongside humans from other worlds created a diverse and wonderful picture.</speak>
-            <speak chara="_ThoreauNoName">Heroes from the other side of the ocean and even from the Quantum Sea, your plan to destroy the “wall” will be to the benefit of everyone. We will spare no effort in aiding you.</speak>
+            <speak chara="_ThoreauNoName">Heroes from the other side of the ocean and even from the Sea of Quanta, your plan to destroy the “wall” will be to the benefit of everyone. We will spare no effort in aiding you.</speak>
             <speak chara="_ThoreauNoName">But before you do that - I hope you make good use of the Ether Anchor to take a look at this vast land.</speak>
             <goto goto="150" change="0"/>
         </scene>
