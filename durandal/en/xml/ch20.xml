@@ -469,7 +469,7 @@
             <speak chara="_Roland">Let's see... in simpler terms, it's someone like you and me who came from another world, and have innate resistance to Honkai energy.</speak>
             <show chara="rolandArmorNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">Then how come Du knows you who are but you don't recognize it? Isn't that weird?</speak>
+            <speak chara="_Bianka">Then how come Dudu knows you who are but you don't recognize it? Isn't that weird?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorSeriousClose" position="right"/>
             <speak chara="_Roland">...It's probably because I have no memories of my life before I came to this world.</speak>
@@ -492,7 +492,7 @@
             <text>Amid the awkward mood, noise began to be heard during their communication. That noise gradually increased until the video call was cut off.</text>
             <text>That event serves as proof of the 「Caledonia」 deep diving to a place where radio signals can't reach it anymore.</text>
             <text>Rowland inspected the submarine's equipment with great interest, and enjoyed Rita's cooking.</text>
-            <text>Then, perhaps out of concern for Du, began to share funny jokes from the Republic.</text>
+            <text>Then, perhaps out of concern for Dudu, began to share funny jokes from the Republic.</text>
             <text>She didn't seem to mind her memory loss and embraced her new life in this world.</text>
             <text>...When she thought about that, Bianka felt slightly envious of her.</text>
             <goto goto="90" change="#000000"/>
