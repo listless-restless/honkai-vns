@@ -36,8 +36,8 @@
             <text>...I am lowering my guard around these people?</text>
             <text remark="next">Thankfully, it hasn't been that long since I passed out. After taking a short breath, I noticed the smell of carbolic acid in the air.</text>
             <remark post="U2FsdGVkX195uGGwk19hRG2IpYlg">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">石炭酸（Carbolic acid），即苯酚（化学式：PhOH），是最简单的酚类有机物；其稀溶液是现代医学中最早投入使用的消毒药剂。苯酚是一种不安全的消毒剂，它的浓溶液对皮肤具有极强的渗透、腐蚀能力，且毒性较强；在当代，其主要用途在于化工合成，如制造阿司匹林、酚醛树脂等。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Carbolic acid, or phenol (chemical formula: PhOH), is the simplest phenolic organic substance; its dilute solution is the earliest disinfectant used in modern medicine. Phenol is an unsafe disinfectant. Its concentrated solution has a strong ability to penetrate and corrode the skin, and is highly toxic; in modern times, its main use is in chemical synthesis, such as the manufacture of aspirin and phenolic resin.</p>
             </remark>
             <text>The bright light from the morning Sun entered diagonally from a small window at the end of the hallway. The strong contrast of light and darkness gave this questionable clinic a strange atmosphere.</text>
             <goto goto="30" change="0"/>
@@ -45,108 +45,108 @@
         <scene id="30" background="wallClinic.jpg">
             <bgm src="lab.mp3" status="start"></bgm>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoNameNoFace">你好。</speak>
+            <speak chara="morganNoNameNoFace">Hi.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">你、你好。</speak>
+            <speak chara="reannaNoFace">Hello</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <text>对方面无表情地伸出了一只手……</text>
-            <text>……似乎是打算握手的意思。</text>
-            <speak chara="morganNoNameNoFace">米卡里·摩根。这家诊所的负责人。</speak>
+            <text>Holding out a hand to the side expressionlessly...</text>
+            <text>...Seems like she meant to shake hands.</text>
+            <speak chara="morganNoNameNoFace">Mikari Morgan. The person in charge of this clinic.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">蕾安娜·布里甘缇亚。天命的女武神。</speak>
+            <speak chara="reannaNoFace">Reanna Brigantia, Valkyrie of Schicksal.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">你的同伴正在隔壁补充能量……需要来一点吗？高热量食品。</speak>
+            <speak chara="morganNoFace">Your companion is repercurating thier energy next door...Do you need some? High calorie foods.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">啊，不必了。我……早饭吃得很饱，哈哈。</speak>
+            <speak chara="reannaNoFace">Oh, no need. I...I had a full breakfast, haha.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">是吗……那我就自己享用喽。</speak>
-            <text>说着，她剥开一块巧克力丢进嘴里。</text>
-            <speak chara="morganNoFace">对了。</speak>
-            <speak chara="morganNoFace">感谢你及时救治了伊莱恩。那个蠢货，之前要是没有我们，估计已经死了好几回了。</speak>
-            <speak chara="morganNoFace">不过，我好奇的是——你们的“野战医疗设备”，究竟是什么东西？</speak>
+            <speak chara="morganNoFace">I see, then I'll enjoy it myself I guess.</speak>
+            <text>With that, she peeled a piece of chocolate and threw it in her mouth.</text>
+            <speak chara="morganNoFace">Right.</speak>
+            <speak chara="morganNoFace">Thank you for helping Elaine in time. That idiot, if we hadn't been here before, would've been dead several times.</speak>
+            <speak chara="morganNoFace">However, what I am curious about is-what exactly is your "field medical equipment"?</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">啊哈哈……这个嘛……</speak>
+            <speak chara="reannaNoFace">Ahaha...that..</speak>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="livingroomClinic.jpg">
             <bgm src="lab.mp3" status="continue"></bgm>
             <show chara="einSmileWinterClose" position="left"/>
-            <speak chara="einNoFace">唔……这鱼子酱的味道真不错。面包的质感也正好。</speak>
+            <speak chara="einNoFace">Well...This caviar tastes really good. The texture of the bread is just right.</speak>
             <show chara="einSmileWinterClose" position="left" opacity="0.7"/>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">我说吧？他们总有办法搞到一些特别好吃的玩意儿。</speak>
-            <speak chara="elaineNoFace" remark="next">像是这个里海欧鳇鱼子酱啦，之前的伊斯特拉白松露啦，还有伊比利亚橡实火腿……</speak>
+            <speak chara="elaineNoFace">Right? They always have a way to get some really good stuff.</speak>
+            <speak chara="elaineNoFace" remark="next">Like this Caspian Urga caviar, the Istraya truffle, the Iberian Oak ham...</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">欧洲鳇（学名：Huso huso）为鲟科鳇属的鱼类，俗名“欧鳇”，亦有因其产地而称为“黑海鳇”、“里海鳇”的。欧洲鳇是世界上最大的淡水鱼品种之一，也是鲟鱼中最大、最珍贵的品种，体长可长达8米多、体重可达1吨以上。欧洲鳇（尤其是伏尔加河“入海口”阿斯特拉罕出产的）的鱼子酱，卵粒肥硕、口感柔滑、回味持久，是所有鱼子酱中最美味、最名贵的品种。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">European sturgeon (scientific name: Huso huso) is a fish belonging to the genus Sturgeon family Sturgeon. Its common name is "European sturgeon". It is also called "Black Sea Stray" and "Caspian Sea Stray" because of its origin. The European sturgeon is one of the largest freshwater fish species in the world, and is also the largest and most precious species of sturgeon, with a body length of more than 8 meters and a weight of more than 1 ton. The caviar of the European catfish (especially produced in Astrakhan, the "mouth of the Volga River") has plump eggs, a smooth taste, and a long-lasting aftertaste. It is the most delicious and valuable variety of all caviar.</p>
             </remark>
             <show chara="elaineSmileClose" position="right" opacity="0.7"/>
             <show chara="teslaSurpriseGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">什么？摩根医生这么有钱的吗？</speak>
+            <speak chara="teslaNoFace">Huh? Is Dr. Morgan that rich?</speak>
             <show chara="teslaSurpriseGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="elaineNormalClose" position="right"/>
-            <speak chara="elaineNoFace">唔……该说有钱呢……还是认识的人多呢……</speak>
+            <speak chara="elaineNoFace">Hmm...Should I say that I have money...or that I know more people...</speak>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">嗯哼……山珍海味再好，也是没法填饱肚子的吧？</speak>
-            <speak chara="hellawesNoNameNoFace">来，久等啦——香蕉巧克力蛋糕。</speak>
+            <speak chara="hellawesNoNameNoFace">Uh-huh... No matter how good the delicacies of the mountains and the sea are, it can't fill your stomach, right?</speak>
+            <speak chara="hellawesNoNameNoFace">Come on, wait a minute — banana chocolate cake.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaStarGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">唔哇，好香！</speak>
+            <speak chara="teslaNoFace">Ugh, it smells so good!</speak>
             <show chara="teslaStarGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="mbembaClose" position="right"/>
-            <speak chara="mbembaNoFace">唔嗯嗯，比我妈妈烤的还香！</speak>
+            <speak chara="mbembaNoFace">Mhm, its even better than the ones my mom used to bake!</speak>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">那当然喽，你们当我是白穿这一身兔女郎啦。</speak>
+            <speak chara="hellawesNoNameNoFace">Of course, you treat me as a bunny girl for nothing.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaEatGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">我不客气啦！</speak>
+            <speak chara="teslaNoFace">You're welcome!</speak>
             <show chara="teslaEatGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">噗……慢点吃，别噎着哦。</speak>
+            <speak chara="einNoFace">Cough...Eat slowly, so you don't choke.</speak>
             <show chara="einSlyWinterClose" position="right"/>
-            <speak chara="einNoFace">啊……需要我给你拍拍嗝吗？</speak>
+            <speak chara="einNoFace">Do you need me to pat away your hiccups?</speak>
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">……要你管啦！啰嗦。</speak>
+            <speak chara="teslaNoFace">...You are one to talk Mophead.</speak>
             <show chara="teslaBiteGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoNameNoFace">嗯哼……她说的没错哦？即使着急赶路，那也要细嚼慢咽嘛。</speak>
+            <speak chara="hellawesNoNameNoFace">Uh huh...She's right though. Even if you are in a hurry, you should eat slowly.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">……说起来啊，赫拉薇丝小姐，你究竟是帮摩根医生做什么的？</speak>
+            <speak chara="teslaNoFace">... Speaking of which, Miss Hellawes, what exactly are you doing for Dr. Morgan?</speak>
             <show chara="teslaErGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoFace">此时此刻的话……当然是兼职护士啦。</speak>
-            <speak chara="hellawesNoFace">别看我这副打扮——人家可是真的有执照的哦？</speak>
-            <speak chara="hellawesNoFace">平常诊所里不需要那么多人手……不过，总有例外的时候，你说是吧？</speak>
+            <speak chara="hellawesNoFace">Right now......Part-time nurse, of course.</speak>
+            <speak chara="hellawesNoFace">Don't look at me like that -- I'm actually licensed, alright.</speak>
+            <speak chara="hellawesNoFace">Usually there is no need for so many people in a clinic... However, there's always some room for exceptions, no?</speak>
             <show chara="elaineNormalClose" position="right"/>
-            <speak chara="elaineNoFace">从昨天半夜突然断电的时候起，摩根医生就把我们都叫来这里了——</speak>
+            <speak chara="elaineNoFace">Since the sudden power failure in the middle of last night, Dr. Morgan has called all of us here—</speak>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">如你所见，旁边这家伙，上夜班的衣服都还没有换掉呢。</speak>
+            <speak chara="elaineNoFace">As you can see, the guy next to me hasn't even changed his clothes for the night shift.</speak>
             <show chara="elaineSmileClose" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="left"/>
-            <speak chara="weltNoFace">等等……所以你们本来就是一个固定的……“组织”？</speak>
+            <speak chara="weltNoFace">Wait...So you were always an established..."Organization"?</speak>
             <show chara="weltAstonishNewClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoFace">嗯哼……说“组织”的话也有点太夸张了……</speak>
-            <speak chara="hellawesNoFace">不过确实，大家算是一个“生意团队”。</speak>
-            <speak chara="hellawesNoFace">我和帕西瓦尔负责打听消息，伊莱恩负责跑生意和放债讨债，至于摩根医生——她当然是负责动脑子啦。</speak>
+            <speak chara="hellawesNoFace">Uh, Well... it's a bit too much of an exaggeration to just say "organization"...</speak>
+            <speak chara="hellawesNoFace">But yes, it's true we are a "business team." of sorts</speak>
+            <speak chara="hellawesNoFace">Parcival and I are in charge of inquiring about the news, Elaine is in charge of running business and money debt collection, as for Dr. Morgan-of course she is the brains of the whole thing.</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="weltNervousNewClose" position="left"/>
-            <speak chara="weltNoFace">呃……你们这难道是……</speak>
+            <speak chara="weltNoFace">Ah... could it be that...</speak>
             <show chara="weltNervousNewClose" position="left" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="right"/>
-            <speak chara="hellawesNoFace">嗯哼？我们可没做任何违法的事情哦？</speak>
+            <speak chara="hellawesNoFace">Huh? We didn't do anything illegal, did we?</speak>
             <show chara="hellawesNormalClose" position="right" opacity="0.7"/>
             <show chara="elaineSmileClose" position="right"/>
-            <speak chara="elaineNoFace">嘿嘿，你们想太多了吧？</speak>
+            <speak chara="elaineNoFace">Heh, you're thinking too much again, aren't you?</speak>
             <speak chara="elaineNoFace">就他们几个，哪有胆子去干提着脑袋的买卖？……唔，蛋糕吃完了耶！</speak>
             <speak chara="elaineNoFace">小赫拉，去开那个吧！那个！“塞纳之花”！</speak>
             <goto goto="50" change="0"/>
@@ -155,77 +155,77 @@
             <bgm src="lab.mp3" status="stop"></bgm>
             <sound src="11_3_mess lock.mp3"/>
             <show chara="percivalNormalClose" position="right"/>
-            <speak chara="percivalNoNameNoFace">别开什么酒了！</speak>
-            <speak chara="percivalNoNameNoFace">来帮忙！</speak>
+            <speak chara="percivalNoNameNoFace">Don't drink anything!</speak>
+            <speak chara="percivalNoNameNoFace">Come and help!</speak>
             <bgm src="10_25_noise.mp3" status="start"></bgm>
-            <text>猛地推开诊所后门的，是一位穿着不合身“白大褂”的魁梧青年。</text>
+            <text>The back door of the clinic was suddenly flung open by a burly young man in an ill-fitting white coat.</text>
             <show chara="percivalNormalClose" position="right" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="left"/>
-            <speak chara="hellawesNoFace">帕西瓦尔，你——天啊，有人受伤了？</speak>
+            <speak chara="hellawesNoFace">Percival, you -- Oh, my God, someone's hurt?</speak>
             <show chara="hellawesNormalClose" position="left" opacity="0.7"/>
             <show chara="percivalNormalClose" position="right"/>
-            <speak chara="percivalNoFace">还愣着做什么？快把他抬到医生那里去！救命要紧！</speak>
-            <text>魁梧青年卸下肩头的，是一名浑身鲜血、奄奄一息的西装男子。</text>
-            <text>男子的后背上有数道条状的伤口——从衣服被撕裂的程度来看，应该是上深下浅。</text>
+            <speak chara="percivalNoFace">What are you still waiting for? Take him to the doctor quickly! This person needs immediate Help!</speak>
+            <text>The burly young man took off his shoulders, a man in a suit covered in blood and dying.</text>
+            <text>There were strips of wounds on the man's back -- deep and shallow, judging by the extent of the tear.</text>
             <show chara="percivalNormalClose" position="right" opacity="0.7"/>
             <show chara="weltQuestionNewClose" position="left"/>
-            <speak chara="weltNoFace">这是……野兽抓伤？</speak>
+            <speak chara="weltNoFace">These are......scratches by a beast?</speak>
             <show chara="weltQuestionNewClose" position="left" opacity="0.7"/>
             <show chara="percivalNormalClose" position="right"/>
-            <speak chara="percivalNoFace">不知道！</speak>
-            <speak chara="percivalNoFace">这人就交给你们了，门口可是还倒着一个呢！</speak>
+            <speak chara="percivalNoFace">I don't know！</speak>
+            <speak chara="percivalNoFace">I'll leave this man to you, there's another one lying in the doorway!</speak>
             <goto goto="60" change="#ffffff"/>
         </scene>
         <scene id="60" background="wallClinic.jpg">
             <bgm src="04_20_tank.mp3" status="start"></bgm>
             <show chara="elaineNormalClose" position="right"/>
-            <speak chara="elaineNoFace">……米卡里！情况怎么样了？</speak>
+            <speak chara="elaineNoFace">...M! What is the situation?</speak>
             <show chara="elaineNormalClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">都只是皮肉伤，没啥大不了的。</speak>
+            <speak chara="morganNoFace">They're just flesh wounds. It's no big deal.</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="right"/>
-            <speak chara="weltNoFace">……唉？</speak>
+            <speak chara="weltNoFace">...Oh?</speak>
             <show chara="weltAstonishNewClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">没有伤到大动脉和主神经，只是普通的肌肉撕裂而已。静养一两个月应该就没事了。</speak>
-            <speak chara="morganNoFace">只不过……</speak>
+            <speak chara="morganNoFace">There's no damage to the aorta or the main nerve, just a normal muscle tear. It should be fine after one or two months of resting.</speak>
+            <speak chara="morganNoFace">Only……</speak>
             <show chara="morganClose" position="left" opacity="0.7"/>
             <show chara="weltQuestionNewClose" position="right"/>
-            <speak chara="weltNoFace">只不过什么？</speak>
+            <speak chara="weltNoFace">Only what?</speak>
             <show chara="weltQuestionNewClose" position="right" opacity="0.7"/>
             <show chara="morganClose" position="left"/>
-            <speak chara="morganNoFace">……算了，让“擅长解说”的布里甘缇亚小姐和你们说明吧。我还要给他们缝针呢。</speak>
+            <speak chara="morganNoFace">....Forget it. I'll let Miss Brigantia, who's good at explaining things, explain it to you. I still have to stitch them up.</speak>
             <hide position="left"></hide>
             <show chara="reaHahArmedClose" position="right"/>
-            <speak chara="reannaNoFace">啊哈哈……刚才那个……确实是需要向您保密，抱歉。</speak>
+            <speak chara="reannaNoFace">Uh-huh....That....I really need to keep this one a secret. I'm sorry.</speak>
             <show chara="reaHahArmedClose" position="right" opacity="0.7"/>
             <show chara="teslaBiteGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">啧，先别对着人家的背影道歉了。</speak>
+            <speak chara="teslaNoFace">Tsk, don't apologize for looking after him.</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="left"/>
-            <speak chara="teslaNoFace">蕾安娜，到底发生什么了？</speak>
+            <speak chara="teslaNoFace">Reanna what the hell is going on?</speak>
             <show chara="teslaEmbarraGlassWinterClose" position="left" opacity="0.7"/>
             <show chara="reaSeriousArmedClose" position="right"/>
-            <speak chara="reannaNoFace">他们的伤口有崩坏能侵蚀的现象。虽然不严重，但毫无疑问，是崩坏兽所为。</speak>
+            <speak chara="reannaNoFace">Their wounds show signs of Honkai Corruption. They doesn't look too serious, but there's no doubt about it, this is the work of Honkai Beasts.</speak>
             <show chara="reaNormalArmedClose" position="right"/>
-            <speak chara="reannaNoFace">另外，伤口的撕裂方式平滑得可怕，这说明对方拥有异常快速的攻击手段，普通人很难防范。</speak>
+            <speak chara="reannaNoFace">In addition, the manner of the laceration is eerily smooth, which shows that the enemy had an exceptionally fast method of attack, Which would be difficult for ordinary people to prevent.</speak>
             <show chara="reaSeriousArmedClose" position="right"/>
-            <speak chara="reannaNoFace">所以……</speak>
+            <speak chara="reannaNoFace">So...</speak>
             <show chara="reaSmileArmedClose" position="right"/>
             <bgm src="04_20_Brigantia.mp3" status="start"></bgm>
-            <speak chara="reannaNoFace">你们留在这里帮助医生，我去把它消灭掉。</speak>
+            <speak chara="reannaNoFace">You stay here and help the doctor. I'll take it out, no problem.</speak>
             <show chara="reaSmileArmedClose" position="right" opacity="0.7"/>
             <show chara="einSeriousEmWinterClose" position="left"/>
-            <speak chara="einNoFace">……没问题吗？会不会有什么圈套？</speak>
+            <speak chara="einNoFace">……No problem? Can't this be a trap?</speak>
             <show chara="einSeriousEmWinterClose" position="left" opacity="0.7"/>
             <show chara="reaEmbarraArmedClose" position="right"/>
-            <speak chara="reannaNoFace">博士，我消灭过很多崩坏兽……但它们之中，还没有哪只能够和人类，不，和哺乳动物的知性相比拟的。</speak>
+            <speak chara="reannaNoFace">Doctor, I've killed many Honkai beasts...But none of them can compare with the intelligence of man, nay, even mammals.</speak>
             <show chara="reaSmileArmedClose" position="right"/>
-            <speak chara="reannaNoFace">诊所刚才没有受到直接攻击——以那些家伙的行为方式而言，短时间内，这里会很安全。</speak>
+            <speak chara="reannaNoFace">The clinic had not been directly attacked -- the way the situation is unfolding, it should be safe here for quite a while.</speak>
             <show chara="reaLaughArmedClose" position="right"/>
-            <speak chara="reannaNoFace">再说，如果我没有猜错的话……</speak>
+            <speak chara="reannaNoFace">Besides, if my guess is correct...</speak>
             <show chara="reaSmileArmedClose" position="right"/>
-            <speak chara="reannaNoFace">……你们手里也是有一张“王牌”的，对吗？</speak>
+            <speak chara="reannaNoFace">...You also have a "ace" in your hand, right?</speak>
             <show chara="reaSmileArmedClose" position="right" opacity="0.7"/>
             <show chara="einFoolWinterClose" position="left"/>
             <speak chara="einNoFace">……</speak>
@@ -233,65 +233,65 @@
         </scene>
         <scene id="70" background="livingroomClinic.jpg">
             <bgm src="04_20_Brigantia.mp3" status="continue"></bgm>
-            <text>神秘地眨了眨眼之后，蕾安娜便提起黑渊白花，离开了诊所。</text>
+            <text>After a mysterious wink, Reanna picked up the Abyss Flower and left the clinic.</text>
             <bgm src="04_20_tank.mp3" status="start"></bgm>
             <show chara="elaineNormalClose" position="left"/>
-            <speak chara="elaineNoFace">“王牌”？她是指什么？</speak>
+            <speak chara="elaineNoFace">"Ace"? What did she mean by that?</speak>
             <show chara="elaineNormalClose" position="left" opacity="0.7"/>
             <show chara="weltNervousNewClose" position="right"/>
-            <speak chara="weltNoFace">呃……</speak>
+            <speak chara="weltNoFace">Uh……</speak>
             <show chara="teslaErGlassWinterClose" position="right"/>
-            <speak chara="teslaNoFace">这个……</speak>
+            <speak chara="teslaNoFace">That's...</speak>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace">喏。</speak>
-            <text>天然卷少女不知从何处掏出了一把银灰色的子弹，递给了红发的牛仔。</text>
+            <speak chara="einNoFace">Here.</speak>
+            <text>Out of nowhere, the girl pulled out a handful of silver-gray bullets and handed them to the red-head.</text>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="elaineNormalClose" position="left"/>
-            <speak chara="elaineNoFace">这是……</speak>
+            <speak chara="elaineNoFace">This is...</speak>
             <show chara="elaineNormalClose" position="left" opacity="0.7"/>
             <show chara="einSlyWinterClose" position="right"/>
-            <speak chara="einNoFace" remark="next">“银色子弹”。</speak>
+            <speak chara="einNoFace" remark="next">"Silver Bullets."</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">银色子弹（silver bullet）是一种由白银制成的火枪弹丸。在欧洲中世纪的民间传说中，银制品，如银刀、银叉等，是唯一能和狼人、女巫以及其他怪物对抗的利器。因此，在引申含义中，“银弹”也意味着强有力的、一劳永逸的、适应各种场合的“万能王牌”。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">A silver bullet is a musket bullet made of silver. In European medieval folklore, silver products, such as silver knives, silver forks, etc., are the only weapons that can fight against werewolves, witches and other monsters. Therefore, in the extended meaning, "silver bullet" also means a powerful, once and for all, "all-purpose trump card" suitable for various occasions.</p>
             </remark>
             <show chara="einSlyWinterClose" position="right" opacity="0.7"/>
             <show chara="elaineNormalClose" position="left"/>
-            <speak chara="elaineNoFace">啊？</speak>
+            <speak chara="elaineNoFace">Huh?</speak>
             <show chara="elaineNormalClose" position="left" opacity="0.7"/>
             <show chara="einLveWinterClose" position="right"/>
-            <speak chara="einNoFace">开玩笑的，其实没有这种名字。</speak>
+            <speak chara="einNoFace">I'm kidding. There's no such thing.</speak>
             <show chara="einSmileWinterClose" position="right"/>
-            <speak chara="einNoFace" remark="next">“阿斯特拉弹”是使用这位特斯拉博士发明的合金制作的弹药。对崩坏兽的破甲效果相当不错。</speak>
+            <speak chara="einNoFace" remark="next">This "Astra Ammunition" is an ammunition made of the alloy invented by this Dr. Tesla. It's armor sunder effect on Honkai beasts is quite good.</speak>
             <remark post="U2FsdGVkX18Mxo5Y1tbHXcnS6m3z">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">"Astra"（梵语: अस्त्र）是印度神话中，一类由神赐予的超自然武器的统称。</p>
-                <p class="article-text">例如，“兽主法宝”（Pashupatastra），即是湿婆（Shiva，印度神话的“破坏神”，亦是百兽之神）赐予阿周那的 "Astra"，其法力据说强到可以毁灭宇宙。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"Astra" (Sanskrit: अस्त्र) is a general term for a class of supernatural weapons bestowed by gods in Indian mythology.</p>
+                <p class="article-text">For example, "Pashupatastra" (Pashupatastra), that is, Shiva (Shiva, the god of destruction in Indian mythology, and the god of beasts) bestowed on Ajuna's "Astra", whose power is said to be strong enough to destroy the universe.</p>
             </remark>
             <show chara="einSmileWinterClose" position="right" opacity="0.7"/>
             <show chara="teslaErGlassWinterClose" position="right"/>
-            <speak chara="teslaNoFace">啊……对……哈哈……姑且算是有些效果吧？</speak>
+            <speak chara="teslaNoFace">Ah...For...Ha ha...Let's just say it worked, right?</speak>
             <show chara="teslaShameGlassWinterClose" position="right"/>
-            <speak chara="teslaNoFace" remark="next">话说回来，这子弹虽然是破甲弹，却是.45规格的……你们有适合装填的家伙么？</speak>
+            <speak chara="teslaNoFace" remark="next">Anyway, even though it's an armor-breaker, it's a.45... Do you have anything fit to load?</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">.45 Auto（.45自动手枪弹），也称.45 ACP（Automatic Colt Pistol，柯尔特自动手枪），是美国多种手枪及冲锋枪所使用的弹种，其重弹头在亚音速下，能够轻易对缺乏防护的目标造成致命杀伤……</p>
-                <p class="article-text">……不过，在我们的故事中，特斯拉另辟蹊径，她利用提尔合金的自锐效应——即铀在高速旋转摩擦下能够实现液化穿刺的特殊性能，反其道而行之，发明了这一款轻型枪械也能使用的.45超音速破甲弹。</p>
-                <p class="article-text">p.s. “.45”是指其这款子弹的弹头直径约为0.45英寸。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">.45 Auto (.45 automatic pistol bullet), also known as .45 ACP (Automatic Colt Pistol, Colt automatic pistol), is a type of ammunition used by many pistols and submachine guns in the United States. Easily cause fatal damage to unprotected targets...</p>
+                <p class="article-text">...However, in our story, Tesla took a different approach. She took advantage of the self-sharpening effect of Tyre alloy—that is, the special properties of uranium that can achieve liquefaction and puncture under high-speed rotating friction. This is a .45 supersonic armor-piercing bullet that can also be used with a light firearm.</p>
+                <p class="article-text">p.s. ".45" means that the diameter of its bullet is about 0.45 inches.</p>
             </remark>
             <goto goto="80" change="#ffffff"/>
         </scene>
         <scene id="80" background="livingroomClinic.jpg">
             <bgm src="04_20_tank.mp3" status="continue"></bgm>
             <show chara="elaineSmileClose" position="left"/>
-            <speak chara="elaineNoFace">嘿嘿……</speak>
-            <speak chara="elaineNoFace">来！一人一台“打字机”！</speak>
+            <speak chara="elaineNoFace">He-hey……</speak>
+            <speak chara="elaineNoFace">Come on! A typewriter for everyone!</speak>
             <show chara="elaineSmileClose" position="left" opacity="0.7"/>
             <show chara="mbembaClose" position="right"/>
-            <speak chara="mbembaNoFace" remark="next">哦哦，汤普森啊！有这家伙在手上，可就什么都不怕啦。</speak>
+            <speak chara="mbembaNoFace" remark="next">Oh, oh, Thompson! With this guy in hand, you don't need to be afraid of anything.</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">“芝加哥打字机”是汤普森冲锋枪的俗称，因其开火声类似打字机、又是1930年代芝加哥黑帮的标志性武器而得名。汤普森系列出众的近距离杀伤力，使其成为当时世界上最受欢迎的冲锋枪之一——仅次于苏联的“波波沙”系列。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">"Chicago Typewriter" is the common name of the Thompson submachine gun. It is named because it fires like a typewriter and is the iconic weapon of the Chicago gang in the 1930s. The outstanding close-range lethality of the Thompson series made it one of the most popular submachine guns in the world at that time-second only to the "Bobosha" series of the Soviet Union.</p>
             </remark>
             <show chara="mbembaClose" position="right" opacity="0.7"/>
             <show chara="weltAstonishNewClose" position="left"/>

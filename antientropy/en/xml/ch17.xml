@@ -9,7 +9,7 @@
         <scene id="10" background="bostonCommon.jpg">
             <bgm src="03_03_bostonNight.mp3" status="start"></bgm>
             <text>November 24, 1955, Thursday, 1 am.</text>
-            <text>The half-moon remains dim — beyond the street lights, one cannot see the fingers of one's hand.</text> <!-- The moon in the First Quarter phase is typically called the Half Moon. -->
+            <text>The first quarter moon shone weakly above—— standing beyond the glare of the streetlights, one wouldn't even be able to see the fingers of their outstretched hand.</text> <!-- The moon in the First Quarter phase is typically called the Half Moon. -->
             <text remark="next">Holding a modified WS No.88 wireless transceiver in one hand, and a searchlight in the other — </text>
             <remark>
                 <p class="article-text-h">Note:</p>
@@ -58,8 +58,8 @@
             <speak chara="adaNoFace">... And speaking from when I first became self-aware, I had not experienced that era either.</speak>
             <show chara="adaNormalRadioFar" position="left" opacity="0.7"/>
             <show chara="teslaNormalGlassWinterFar" position="left"/>
-            <speak chara="teslaNoFace">You may not know this, Welt... but when Ada was discovered, it was still not "switched on" yet.</speak>
-            <speak chara="teslaNoFace">In other words...it was only after we excavated it that it was "born".</speak> <!-- editor's note: is "it" more appropriate or "she" for Ada? Perhaps conspicuously, Tesla uses the non-gendered pronoun 它 in the written text to refer to Ada, but in spoken Chinese all the relevant pronouns "he", "she" and "it" sound the same when spoken. -->
+            <speak chara="teslaNoFace">You may not know this, Welt... but when Ada was discovered, it had still not been "activated" yet.</speak>
+            <speak chara="teslaNoFace">In other words...it was only after we excavated it that she was "born".</speak> <!-- editor's note: is "it" more appropriate or "she" for Ada? Perhaps conspicuously, Tesla uses the non-gendered pronoun 它 in the written text to refer to Ada, but in spoken Chinese all the relevant pronouns "he", "she" and "it" sound the same when spoken. -->
             <show chara="weltQuestionNewFar" position="right"/>
             <speak chara="weltNoFace">Oh...</speak>
             <show chara="weltQuestionNewFar" position="right" opacity="0.7"/>
@@ -454,7 +454,7 @@
             <show chara="weltAstonishNewFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
             <text>Ignoring Welts questions, Ada went through a series of processes on her own.</text>
-            <speak chara="adaNoFace">The account login is successful, and the password is the same as before<./speak>
+            <speak chara="adaNoFace">The account login is successful, and the password is the same as before.</speak>
             <speak chara="adaNoFace">The target source has been requested to land, and decoherence has been used to remove the super-dimensional camouflage.</speak>
             <speak chara="adaNoFace">The super-dimensional camouflage has been lifted.</speak>
             <speak chara="adaNoFace">The soft landing was successful.</speak>

@@ -26,9 +26,9 @@
             <speak chara="adaNoFace">Detecting an electromagnetic wave transmission through an open channel. The format is——</speak>
             <speak chara="adaNoFace" remark="next">——Analog signal.</speak>
             <remark post="U2FsdGVkX1+unhzSzQEIRkMDDNP3">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">模拟信号（analog signal），是指在时域上数学形式为连续函数的信号。与模拟信号对应的是数字信号，只取二元对立的逻辑值。</p>
-                <p class="article-text">和数字信号相比，模拟信号主要用于记录原始信息（如音频、视频等），或具有连续变动范围的测量值（如温度、压强、位移等）。其缺点是无法抵抗信道噪声的影响，在多次复制或长距离传输之后会逐渐失真。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Analog signal refers to a signal whose mathematical form is a continuous function in the time domain. Corresponding to the analog signal is a digital signal, which only takes the binary opposite logic value.</p>
+                <p class="article-text">Compared with digital signals, analog signals are mainly used to record original information (such as audio, video, etc.), or measurement values with a continuously varying range (such as temperature, pressure, displacement, etc.). Its disadvantage is that it cannot resist the influence of channel noise, and it will gradually become distorted after multiple copies or long-distance transmission.</p>
             </remark>
             <speak chara="adaNoFace">...Processing noise. Language: English.</speak>
             <show chara="einShockWinterClose-up" position="center"/>
@@ -103,8 +103,8 @@
             <bgm src="06_15_ScarboroughFair.mp3" status="start"></bgm>
             <speak chara="edisonNoFace" remark="next">Are you going to Scarborough Fair?</speak>
             <remark post="U2FsdGVkX185n4iwTfCoutEDolvL">
-                <p class="article-text-h">歌词大意：</p>
-                <p class="article-text">你要去斯卡布罗集市吗？</p>
+                <p class="article-text-h">The meaning of the lyrics:</p>
+                <p class="article-text">Are you going to Scarborough Fair?</p>
             </remark>
             <goto goto="73" change="0"/>
         </scene>
@@ -112,17 +112,17 @@
             <bgm src="06_15_ScarboroughFair.mp3" status="continue"></bgm>
             <speak chara="edisonNoFace" remark="next">Parsley, sage, rosemary, and thyme</speak>
             <remark>
-                <p class="article-text-h">歌词大意：</p>
-                <p class="article-text">香芹、鼠尾草、迷迭香和百里香</p>
+                <p class="article-text-h">Lyrics to the effect：</p>
+                <p class="article-text">Parsley, sage, rosemary and thyme</p>
             </remark>
             <speak chara="edisonNoFace" remark="next">Remember me to one who lives there</speak>
             <remark>
-                <p class="article-text-h">歌词大意：</p>
-                <p class="article-text">请代我问候住在那里的一个人</p>
+                <p class="article-text-h">Lyrics to the effect：</p>
+                <p class="article-text">Please give my greetings to the one who lives there.</p>
             </remark>
             <speak chara="edisonNoFace" remark="next">She once was a true love of mine</speak>
             <remark>
-                <p class="article-text-h">歌词大意：</p>
+                <p class="article-text-h">Lyrics to the effect：</p>
                 <p class="article-text">她曾经是我的真爱</p>
             </remark>
             <goto goto="80" change="#ffffff"/>

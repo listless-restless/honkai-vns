@@ -11,8 +11,8 @@
             <sound src="8_24_launch.mp3"/>
             <text remark="next">Due to the sudden electromagnetic pulse, the aircraft had to land at the Naval Station Norfolk.</text>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">诺福克海军基地（Naval Station Norfolk）是美国海军设于弗吉尼亚州诺福克的一处军港，是美国“大西洋舰队”的母港，也是全世界最大的一座海军基地。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">Naval Station Norfolk (Naval Station Norfolk) is a naval port of the US Navy in Norfolk, Virginia. It is the home port of the US "Atlantic Fleet" and the largest naval base in the world.</p>
             </remark>
             <text>According to the reports, the center of the pulse is New York city, and said pulse is very similar to a Houkai energy pulse.</text>
             <text>However, there was no time to be amazed or worried.According to the 「Urgent Inquiry List」, she has been assigned as the Chief Commander and must oversee all rescue operations.</text>
@@ -124,8 +124,8 @@
             <speak chara="ritaFullNameNoFace" remark="next">「All great world events happen twice——」</speak>
             <speak chara="ritaFullNameNoFace" remark="next">「Once as tragedy and secondly as a farce.」</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">这是马克思《路易·波拿巴的雾月十八日》的开篇之言（与原文略有出入）。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">These are the opening words of Marx's Eighteenth Brumaire of Louis Bonaparte.</p>
             </remark>
             <show chara="ottoConfidentGunFar" position="center"/>
             <speak chara="ottoNoFace">...Ho?</speak>
@@ -205,39 +205,39 @@
             <show chara="memoryLoading" position="center"/>
             <show chara="einSmileClose" position="back"/>
             <speak chara="einSmileClose">...Welt. W.E.L.T. </speak>
-            <speak chara="einSmileClose">我觉得这个名字挺适合你。 </speak>
+            <speak chara="einSmileClose">I think this name suits you well. </speak>
             <goto goto="1010" change="#ffffff"/>
         </scene>
         <scene id="1010" background="weltRoomDay2.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="teslaAngryCloseNoName" position="back"/>
-            <speak chara="teslaAngryCloseNoName">真是的，你是聋子吗？都叫你几声了！亏我还好心撬门进来。</speak>
+            <speak chara="teslaAngryCloseNoName">Really, are you deaf?! I called you a few times! Fortunately, I was kind enough to break in.</speak>
             <goto goto="1015" change="#ffffff"/>
         </scene>
         <scene id="1015" background="italianRestaurant.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="0einSlyVestClose-up" position="back"/>
-            <speak chara="einNoFace">你大概不知道，我最近在控制自己少说废话。</speak>
-            <speak chara="einNoFace">我爷爷说过，“成功等于天才加汗水加少说废话”。</speak>
+            <speak chara="einNoFace">You probably don’t know, I’m controlling myself to talk less nonsensical things recently。</speak>
+            <speak chara="einNoFace">As my grandfather said, "Success is equal to genius plus sweat and less nonsense."</speak>
             <goto goto="1020" change="#ffffff"/>
         </scene>
         <scene id="1020" background="barBillings.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="planckSlyClose-up" position="back"/>
-            <speak chara="planckNoFace">落基山牡蛎。</speak>
+            <speak chara="planckNoFace">Rocky Mountain oysters.</speak>
             <show chara="schroNormalAhClose-up" position="back"/>
-            <speak chara="schroNoFace">教授她比较喜欢吃这个。你们能不能习惯就不知道了。</speak>
+            <speak chara="schroNoFace">Professor, she prefers to eat this. I don't know if you can get used to it.</speak>
             <goto goto="1030" change="#ffffff"/>
         </scene>
         <scene id="1030" background="CG6-1.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="back"/>
-            <speak chara="teslaNoFace">啧。你干嘛啦！</speak>
-            <speak chara="teslaNoFace">喂！性骚扰啦！</speak>
-            <speak chara="teslaNoFace">爱因斯坦！薛定谔！普朗克！你们都不来管管她吗？！</speak>
+            <speak chara="teslaNoFace">Gee. What are you doing!</speak>
+            <speak chara="teslaNoFace">Hey! this is harassment!</speak>
+            <speak chara="teslaNoFace">Einstein! Schrodinger! Planck! You're not gonna do anything about her?!</speak>
             <goto goto="1040" change="#ffffff"/>
         </scene>
         <scene id="1040" background="CG6-2.jpg">
@@ -251,7 +251,7 @@
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="adaSmileFar" position="back"/>
-            <speak chara="adaNoFace">你好，我是终端界面试作品0042号，人类名字是艾妲。</speak>
+            <speak chara="adaNoFace">Hello, I am the terminal interface trial work No. 0042, and my human name is Ada.</speak>
             <speak chara="adaNoFace">A ~ D ~ A ~ </speak>
             <speak chara="adaNoFace">艾——妲。</speak>
             <goto goto="1060" change="#ffffff"/>
@@ -260,30 +260,31 @@
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="teslaFoolDrunkWinterClose" position="back"/>
-            <speak chara="teslaNoFace">啊。害羞了害羞了。</speak>
+            <speak chara="teslaNoFace">What. Are you suddenly shy now?</speak>
+            <!-- ^ Not sure about this line  -->
             <goto goto="1070" change="#ffffff"/>
         </scene>
         <scene id="1070" background="graveDayLate.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="reaSmileEmWinterFar" position="back"/>
-            <speak chara="reannaNoNameNoFace">我的名字是蕾安娜·布里甘缇亚。</speak>
+            <speak chara="reannaNoNameNoFace">My name is Reanna Brigantia.</speak>
             <show chara="reaSmileAhWinterFar" position="back"/>
-            <speak chara="reannaNoFace">虽然是总部直属的女武神——但今天也不过和你一样，是个来扫墓的普通人罢了。</speak>
+            <speak chara="reannaNoFace">Although I'm Valkyrie directly under the headquarters-but today is just like you, an ordinary person who came to sweep the grave.</speak>
             <goto goto="1080" change="#ffffff"/>
         </scene>
         <scene id="1080" background="studyLamp.jpg">
             <bgm src="10_20_londonderry_p.mp3" status="continue"></bgm>
             <show chara="memoryLoading" position="center"/>
             <show chara="teslaBoringEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">那些顽固相信人有所谓“灵魂”的家伙，要么是不愿深究这个世界的本质——</speak>
+            <speak chara="teslaNoFace">Those who stubbornly believe that people have a so-called "soul" are either unwilling to delve into the nature of this world——</speak>
             <show chara="teslaEmbarraEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">要么，就是被“自我”这个概念搅乱了方寸，非要找一件“国王的新衣”来证明自己的“合法性”不可。</speak>
+            <speak chara="teslaNoFace">Or, is confused by the concept of "self", and must find a "king's new clothes" to prove their "legitimacy".</speak>
             <show chara="teslaShameEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">明白吗？这些人不敢相信自己只是大自然随性的产物，不敢相信自己只是万事万物自然演化的副产品。</speak>
+            <speak chara="teslaNoFace">Do you understand? These are people who can't believe they're just a product of nature, a by-product of the natural evolution of everything.</speak>
             <show chara="teslaSnickerEyeClose-up" position="back"/>
-            <speak chara="teslaNoFace">他们宁愿我们在虚构的概念中“伟大”，也不要脚踏实地去好好认识自己。</speak>
-            <speak chara="teslaNoFace">正因为怕得要死，所以更愿意目空一切——和那些高喊“君权神授”的国王没有任何区别。</speak>
+            <speak chara="teslaNoFace">They would rather us be "great" in a fictional concept than to get to know ourselves in a down-to-earth/realistic manner.</speak>
+            <speak chara="teslaNoFace">It is precisely because they are so afraid of death that they prefer to look at everything — no different from those Kings who shout "The Divine Right of Kings."</speak>
             <goto goto="1090" change="#ffffff"/>
         </scene>
         <scene id="1090" background="CG12-1.jpg">
@@ -307,42 +308,42 @@
             <text article="1">
                 <p class="article-text">This is the day, which down the void abysm</p>
                 <br />
-                <p class="article-text">其时已至，虚空深渊之下，</p>
+                <p class="article-text">The time has come, under the abyss of void,</p>
             </text>
             <text article="1">
                 <p class="article-text">At the Earth-born's spell yawns for Heaven's despotism,</p>
                 <br />
-                <p class="article-text">在人间法宝吞噬天上暴君之日，</p>
+                <p class="article-text">On the day when man's magic swallows the tyrant of the skys,</p>
             </text>
             <text article="1">
                 <p class="article-text">And Conquest is dragged captive through the deep:</p>
                 <br />
-                <p class="article-text">那征服者被拖进深处，无从翻身：</p>
+                <p class="article-text">The Conqueror was dragged into the depths, unable to stand: </p>
             </text>
             <text article="1">
                 <p class="article-text">Love, from its awful throne of patient power</p>
                 <br />
-                <p class="article-text">爱，从它那折磨人的、属于忍耐之力</p>
+                <p class="article-text">Love, from its torturous, forbearance,</p>
             </text>
             <text article="1">
                 <p class="article-text">In the wise heart, from the last giddy hour</p>
                 <br />
-                <p class="article-text">与智慧之心的王座里，从末次昏迷不醒的时间中</p>
+                <p class="article-text">And the throne of the wise heart, from the last hour of delirium,</p>
             </text>
             <text article="1">
                 <p class="article-text">Of dread endurance, from the slippery, steep,</p>
                 <br />
-                <p class="article-text">受尽的煎熬里，从湿滑、陡峭、</p>
+                <p class="article-text">In the suffering, from slippery, steep,</p>
             </text>
             <text article="1">
                 <p class="article-text">And narrow verge of crag-like agony, springs</p>
                 <br />
-                <p class="article-text">无法攀登、乱石一般的痛苦里，喷薄而出，</p>
+                <p class="article-text">In the pain of the unclimbable, the rocks,</p>
             </text>
             <text article="1">
                 <p class="article-text">And folds over the world its healing wings.</p>
                 <br />
-                <p class="article-text">并用治愈一切的羽翼将世界庇护。</p>
+                <p class="article-text">And shelter the world with wings that heal all.</p>
             </text>
             <goto goto="1160" change="#ffffff"/>
         </scene>
@@ -351,49 +352,49 @@
             <text article="1">
                 <p class="article-text">To suffer woes which Hope thinks infinite;</p>
                 <br />
-                <p class="article-text">去忍受无穷痛苦，哪怕希望漫漫无期；</p>
+                <p class="article-text">To endure endless suffering, even if hope is endless;</p>
             </text>
             <text article="1">
                 <p class="article-text">To forgive wrongs darker than death or night;</p>
                 <br />
-                <p class="article-text">去宽恕一切罪过，哪怕比死亡和夜晚还要黑暗；</p>
+                <p class="article-text">To forgive all sins, even if it is darker than death and night;</p>
             </text>
             <text article="1">
                 <p class="article-text">To defy Power, which seems omnipotent;</p>
                 <br />
-                <p class="article-text">去打倒权威，哪怕它看似无所不能；</p>
+                <p class="article-text">to overthrow authority, even when it seems omnipotent;</p>
             </text>
             <text article="1">
                 <p class="article-text">To love, and bear; to hope till Hope creates</p>
                 <br />
-                <p class="article-text">去爱，去承担；在没有希望的岁月坚守，等待它</p>
+                <p class="article-text">to love, to bear; Hold on to it in the days of hope</p>
             </text>
             <text article="1">
                 <p class="article-text">From its own wreck the thing it contemplates;</p>
                 <br />
-                <p class="article-text">从自身的废墟里，从头实现曾经的诺言；</p>
+                <p class="article-text">From the ruins of ourselves, to realize the promises made；</p>
             </text>
             <text article="1">
                 <p class="article-text">Neither to change, nor falter, nor repent;</p>
                 <br />
-                <p class="article-text">不要改弦易辙，不要灰心丧气，更不要懊悔莫及；</p>
+                <p class="article-text">Don't change course, don't lose heart, let alone regret;</p>
             </text>
             <text article="1">
                 <p class="article-text">This, like thy glory, Titan, is to be</p>
                 <br />
-                <p class="article-text">这，如你的光荣一般，                    <ruby class="article-text-h">普罗米修斯                        <rt>泰坦</rt>
-                    </ruby>，这才是
+                <p class="article-text">This, like thy glory,                    <ruby class="article-text-h">Prometheus                        <rt>Titan</rt>
+                    </ruby>，This is
                 </p>
             </text>
             <text article="1">
                 <p class="article-text">Good, great and joyous, beautiful and free;</p>
                 <br />
-                <p class="article-text">善良、伟大和欢愉的象征，美丽和自由的图腾；</p>
+                <p class="article-text">symbols of goodness, greatness and joy, emblems of beauty and freedom;</p>
             </text>
             <text article="1">
                 <p class="article-text">This is alone Life, Joy, Empire, and Victory.</p>
                 <br />
-                <p class="article-text">这才是无上的生命、快乐、权威、与胜利。</p>
+                <p class="article-text">It's life, joy, authority, and triumph.</p>
             </text>
             <goto goto="1200" change="0"/>
         </scene>
@@ -401,8 +402,8 @@
             <bgm src="04_20_Brigantia.mp3" status="continue"></bgm>
             <speak chara="weltNoFace" remark="next">——This is the day, which the Earth-born's spell yawns for Heaven's despotism.</speak>
             <remark post="U2FsdGVkX18o9ZihHoexEPzjpmN9">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">引自雪莱（P. B. Shelley）《解放了的普罗米修斯》（Prometheus Unbound）的结尾部分。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">From P. B. Shelley, the finale of "Prometheus Unbound."</p>
             </remark>
             <speak chara="weltNoFace">Otto Apocalypse...</speak>
             <speak chara="weltNoFace">No, Clown Alpha——</speak>
