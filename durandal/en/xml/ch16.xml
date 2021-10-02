@@ -413,15 +413,15 @@
             <speak chara="_Rita">Did the Indian ever say the name of that device?</speak>
             <show chara="ritaVestAngryClose" position="center" opacity="0.8"/>
             <show chara="BertrandNormal" position="center"/>
-            <speak chara="_bertrand">Err... I think it was 「Gernia」... no, that wasn't it. 「Gnilus」... no... 「Gnius」...</speak>
+            <speak chara="_bertrand">Err... I think it was 「Gernia」... no, that wasn't it. 「Genilus」... no... 「Genius」...</speak>
             <show chara="BertrandAnger" position="center"/>
-            <speak chara="_bertrand">Yes! That one! 「Gnius」! 「Gnius Cluster」! I'm 100% sure!</speak>
+            <speak chara="_bertrand">Yes! That one! 「Genius」! 「Genius Cluster」! I'm 100% sure!</speak>
             <show chara="BertrandAnger" position="center" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="center"/>
-            <speak chara="_Bianka">(Another incident involving the 「Gnius」?)</speak>
+            <speak chara="_Bianka">(Another incident involving the 「Genius」?)</speak>
             <show chara="biankaDressShockClose" position="center" opacity="0.8"/>
             <show chara="BertrandThink" position="center"/>
-            <speak chara="_bertrand">The Indian madman used that 「Gnius Cluster」 to move the island to an unknown space.</speak>
+            <speak chara="_bertrand">The Indian madman used that 「Genius Cluster」 to move the island to an unknown space.</speak>
             <show chara="BertrandThink" position="center" opacity="0.8"/>
             <show chara="biankaDressBiteClose" position="center"/>
             <speak chara="_Bianka">An unknown space? Not the world we are here right now?</speak>
