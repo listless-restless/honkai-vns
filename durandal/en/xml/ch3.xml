@@ -489,9 +489,9 @@
             <show chara="shakesQuestionClose" position="left"/>
             <speak chara="_Shakespeare">Yes, it matches the tale of a certain historical figure.</speak>
             <show chara="shakesColdClose" position="left"/>
-            <speak chara="_Shakespeare">The legendary knight who served under Charles the Great—— Roland.</speak>
+            <speak chara="_Shakespeare">The legendary knight who served under Charles the Great—— Rowland.</speak>
             <show chara="shakesSweatyClose" position="left"/>
-            <speak chara="_Shakespeare">The only inconsistency is... the Roland from the history I know was definitely a man. A brave, burly man full of muscles.</speak>
+            <speak chara="_Shakespeare">The only inconsistency is... the Rowland from the history I know was definitely a man. A brave, burly man full of muscles.</speak>
             <show chara="shakesSweatyClose" position="left" opacity="0.8"/>
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">...A man!?</speak>
@@ -499,7 +499,7 @@
             <show chara="shakesDisgustedClose" position="left"/>
             <speak chara="_Shakespeare">Yes, nothing to be surprised about——</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">Ah, I see. In your history Roland was a woman, wasn't he?</speak>
+            <speak chara="_Shakespeare">Ah, I see. In your history Rowland was a woman, wasn't he?</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
@@ -507,7 +507,7 @@
             <!-- RENAME: Yes, she's quite famous as a hero who fought the Houkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her. -->
             <speak chara="_Bianka">Yes, she's quite famous as a hero who fought the Honkai—— And although she wasn't a Valkyrie herself, there is no Valkyrie who hasn't heard of her.</speak>
             <show chara="biankaBiteClose" position="right"/>
-            <speak chara="_Bianka">But what's the relationship between 「Durindana」 and Roland? Her sword was named 「Durandal」——</speak>
+            <speak chara="_Bianka">But what's the relationship between 「Durindana」 and Rowland? Her sword was named 「Durandal」——</speak>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">Ah——!</speak>
             <show chara="biankaSurpriseClose" position="right" opacity="0.8"/>
@@ -516,7 +516,7 @@
             <show chara="shakesSmileClose" position="left"/>
             <speak chara="_Shakespeare">Let me ask you this, just in case——</speak>
             <show chara="shakesConfidentClose" position="left"/>
-            <speak chara="_Shakespeare">Did your Roland's sword, 「Durandal」, go missing at the end of her legend?</speak>
+            <speak chara="_Shakespeare">Did your Rowland's sword, 「Durandal」, go missing at the end of her legend?</speak>
             <show chara="shakesConfidentClose" position="left" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">...Yes.</speak>
