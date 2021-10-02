@@ -15,14 +15,14 @@ The standalone VN viewers made by zklm are available below:
 
 ### How to use - for readers
 
-To use the latest translation e.g. for  **Anti-Entropy**: 
+To use the latest translation for  **Anti-Entropy**: 
 
 1. Go to https://zklm.github.io/honkai-vn-antientropy/ 
 2. Top right gear icon 
 3. Change Custom EN XML Source to https://raw.githubusercontent.com/RaytheonThunder/honkai-vns/master/antientropy/en/xml/
 4. Refresh
 
-To use the latest translation for Durandal:
+To use the latest translation for **Durandal**:
 
 1. Go to https://zklm.github.io/honkai-vn-durandal/
 2. Top right gear icon
