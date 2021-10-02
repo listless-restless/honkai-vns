@@ -77,7 +77,7 @@
             <text>The following is written on the first page of this confidential document——</text>
             <text>Top Secret Mission："LONELY PANTHALASSA" </text>
             <text>Start Time: February 29th 2012</text>
-            <text>Location: ██████████ - The Quantum Sea  </text>
+            <text>Location: ██████████ - The Sea of Quanta  </text>
             <text>Target: ██████████</text>
             <!-- RENAME: Members: Bianka "Durandal" Atagina (12), Rita Rossweisse (16) -->
             <text>Members: Bianka "Durandal" Ataegina (12), Rita Rossweisse (16)</text>
@@ -90,7 +90,7 @@
             <text>And now...</text>
             <text>The story will go back in time 1461 days from February 29th 2016——</text>
             <!-- RENAME: To the moment when Bianka Atagina and Rita Rossweisse arrived at the 「Quantum Sea」. -->
-            <text>To the moment when Bianka Ataegina and Rita Rossweisse arrived at the 「Quantum Sea」.</text>
+            <text>To the moment when Bianka Ataegina and Rita Rossweisse arrived at the 「Sea of Quanta」.</text>
             <goto goto="40" change="#ffffff"/>
         </scene>
         <scene id="40" background="fishingVillage.jpg">

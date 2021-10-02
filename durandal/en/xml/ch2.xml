@@ -495,33 +495,33 @@
             <speak chara="_Rita">...Understood, Bianka-sama.</speak>
             <show chara="rita17SquintClose" position="right"/>
             <bgm src="11_16_themeOtto.mp3" status="start"></bgm>
-            <speak chara="_Rita">First—— Do you know what the 「Quantum Sea」 is?</speak>
+            <speak chara="_Rita">First—— Do you know what the 「Sea of Quanta」 is?</speak>
             <goto goto="130" clockwise="1"/>
         </scene>
         <scene id="130" background="11_15_gallery.jpg">
             <bgm src="11_16_themeOtto.mp3" status="continue"></bgm>
             <show chara="ottoSuitsKindFar" position="back"/>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <speak chara="_Otto">In simpler terms, your mission is to enter a different dimension called the 「Quantum Sea」 and explore a special structure known as the 「Ether Anchor Point」.</speak>
-            <speak chara="_Otto">Mathematically speaking, the 「Quantum Sea」 doesn't belong to the known four dimensional space, instead our “here” is a 「Parallel World」 that exists in parallel to it.</speak>
+            <speak chara="_Otto">In simpler terms, your mission is to enter a different dimension called the 「Sea of Quanta」 and explore a special structure known as the 「Ether Anchor Point」.</speak>
+            <speak chara="_Otto">Mathematically speaking, the 「Sea of Quanta」 doesn't belong to the known four dimensional space, instead our “here” is a 「Parallel World」 that exists in parallel to it.</speak>
             <speak chara="_Otto" remark="next">The 「Ether Anchor Point」 is a topological formation that exists between the 「dimensional manifolds」, and whether its origin is natural or man-made has yet to be discovered.</speak>
             <remark post="U2FsdGVkX18NMIcI27DMkplacYO6">
                 <p class="article-text-h">Note：</p>
                 <p class="article-text">流形（Manifolds）是局部具有欧几里得性质的空间，是欧几里得空间中的曲线、曲面等概念的推广。一般的流形可以通过把许多平直的“片”“折弯”并“粘连”而成。</p>
                 <p class="article-text">黎曼（Bernhard Riemann）是第一个广泛地展开“真正需要把流形推广到高维的工作”的数学家。事实上，"Manifolds"这个名词就来自于黎曼的德文术语"Mannigfaltigkeit"（中文里“流形”的称谓，则来自江泽涵先生的创意）。</p>
             </remark>
-            <speak chara="_Otto">Unlike the 「classic dimension」 we live in, the 「Quantum Sea」 is 「fragmented」 on a large scale——</speak>
+            <speak chara="_Otto">Unlike the 「classic dimension」 we live in, the 「Sea of Quanta」 is 「fragmented」 on a large scale——</speak>
             <speak chara="_Otto">Basic physical laws change continuously as the coordinates shift, resulting in the worlds being unstable like soap bubbles——</speak>
             <speak chara="_Otto">——However, in the gap between said fragmented worlds, there are countless 「stable zones」 fixated by the 「Ether Anchor Point」.</speak>
             <speak chara="_Otto">Those worlds, like ours, follow a fixed set of laws.</speak>
             <speak chara="_Otto">This is my conclusion. Listen well, this is very important.</speak>
-            <speak chara="_Otto">The 「projection」 of the Solar System in the 「Quantum Sea」 is very close to the 「coordinates」 of an 「Ether Anchor Point」.</speak>
-            <speak chara="_Otto">Which means, if someone were to get inside that 「projection」 in the 「Quantum Sea」...</speak>
+            <speak chara="_Otto">The 「projection」 of the Solar System in the 「Sea of Quanta」 is very close to the 「coordinates」 of an 「Ether Anchor Point」.</speak>
+            <speak chara="_Otto">Which means, if someone were to get inside that 「projection」 in the 「Sea of Quanta」...</speak>
             <speak chara="_Otto">...One could possibly observe a 「clone of our Earth」.</speak>
             <speak chara="_Otto">——There is value in exploring something like that.</speak>
-            <speak chara="_Otto">Luckily for us, by using materials left by the previous civilization we were able to create several experimental devices which allow us to move back and forth between the 「Quantum Sea」 and our world——</speak>
-            <speak chara="_Otto">——The name of that device is 「Gnius」.</speak>
-            <speak chara="_Otto">In theory, by using the 「Gnius」 a person is able to return from the 「projected worlds」 at any moment——</speak>
+            <speak chara="_Otto">Luckily for us, by using materials left by the previous civilization we were able to create several experimental devices which allow us to move back and forth between the 「Sea of Quanta」 and our world——</speak>
+            <speak chara="_Otto">——The name of that device is 「Genius」.</speak>
+            <speak chara="_Otto">In theory, by using the 「Genius」 a person is able to return from the 「projected worlds」 at any moment——</speak>
             <speak chara="_Otto">But if one were to start from this side, our 「reality」, it can only be used when an extremely rare 「space-time window」 appears due to technical difficulties.</speak>
             <speak chara="_Otto">The next time the 「window」 will appear is on February 29th between 11:15 and 12:15, near the Fjord 1054 in the Northeast Greenland National Park. It will remain open for approximately 100 seconds.</speak>
             <speak chara="_Otto">This event is rarer than the transit of Venus—— It could be centuries until the next 「windows」 appears.</speak>
@@ -547,7 +547,7 @@
             <!-- RENAME: That 「Bishop」 knows his stuff. -->
             <speak chara="_Ironface">That 「Overseer」 knows his stuff.</speak>
             <show chara="ironWhiteClose" position="left"/>
-            <speak chara="_Ironface">Then... I'll take over to explain the situation from inside the 「Quantum Sea」.</speak>
+            <speak chara="_Ironface">Then... I'll take over to explain the situation from inside the 「Sea of Quanta」.</speak>
             <end post="U2FsdGVkX19isr5qAfmCyerhHwtc"/>
         </scene>
     </story>

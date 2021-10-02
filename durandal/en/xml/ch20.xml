@@ -87,7 +87,7 @@
             <speak chara="_Roland">And when it comes to actual combat—— Only 「Star Whisperers」 who bear the name of 「Inca」 like me can fight—— It's not a place for regular soldiers.</speak>
             <!-- RENAME: Houkai -> Honkai -->
             <speak chara="_Roland">If Valkyries are on par or stronger than our 「Star Whisperers」 and specialize in dealing with Honkai beasts...</speak>
-            <speak chara="_Roland">Then please, let me introduce you to the Chairman of the Republic and the Commander of the Fortress!</speak>
+            <speak chara="_Roland">Then please, let me introduce you to the Chairwoman of the Republic and the Commander of the Fortress!</speak>
             <speak chara="_Roland">I beg you!</speak>
             <speak chara="_Bianka">I-I don't mind paying them a visit so please stand up! I can tell how important this is to you!</speak>
             <goto goto="30" clockwise="1"/>
@@ -111,7 +111,7 @@
             <show chara="ritaVestNormalClose" position="left"/>
             <speak chara="_Rita">I see...</speak>
             <show chara="ritaVestSmileClose" position="left"/>
-            <speak chara="_Rita">Excuse me, Roland-san, but which 「prime meridian」 do you use?</speak>
+            <speak chara="_Rita">Excuse me, Rowland-san, but which 「prime meridian」 do you use?</speak>
             <show chara="ritaVestSmileClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorQuestionClose" position="right"/>
             <speak chara="_Roland">「Which」? Isn't the only one the line that passes through the city of Cusco?</speak>
@@ -155,7 +155,7 @@
             <speak chara="_Roland">Yes! It's the first time I see one being used outside of the fortress! You guys are the best reinforcements we could ask for!</speak>
             <show chara="rolandArmorLaughClose" position="left" opacity="0.8"/>
             <show chara="micheDrySmileCloseE" position="right"/>
-            <speak chara="_Michel">Cough. Major General Roland, that's enough flattery.</speak>
+            <speak chara="_Michel">Cough. Major General Rowland, that's enough flattery.</speak>
             <show chara="micheDrySmileCloseE" position="right" opacity="0.8"/>
             <show chara="rolandArmorEmbarrassClose" position="left"/>
             <speak chara="_Roland">Ahaha, I'm sorry!</speak>
@@ -217,10 +217,10 @@
             <show chara="micheArrogantCloseE" position="right"/>
             <speak chara="_Michel">I can assure you we've taken the necessary steps to ensure no one else knows about you.</speak>
             <show chara="micheDrySmileCloseE" position="right"/>
-            <speak chara="_Michel">——Also, Major General Roland didn't come in contact with you under any orders. Treat her kindly, would you?</speak>
+            <speak chara="_Michel">——Also, Major General Rowland didn't come in contact with you under any orders. Treat her kindly, would you?</speak>
             <show chara="micheDrySmileCloseE" position="right" opacity="0.8"/>
             <show chara="shakesCasualLaughClose" position="left"/>
-            <speak chara="_Shakespeare">Ahahaha, as if I could be mean to a cute girl like Roland-san!</speak>
+            <speak chara="_Shakespeare">Ahahaha, as if I could be mean to a cute girl like Rowland-san!</speak>
             <show chara="shakesCasualDislikeClose" position="left"/>
             <speak chara="_Shakespeare">Anyway, now that you're here might as well get you to explain a few things. What exactly is the 「Huaca Tunnel」?</speak>
             <show chara="shakesCasualConfidentClose" position="left"/>
@@ -292,7 +292,7 @@
             <speak chara="_Michel">Speak.</speak>
             <show chara="micheDrySmileCloseE" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Creating a world from nothing inside the Quantum Sea would require an immeasurable amount of energy.</speak>
+            <speak chara="_Schrodinger">Creating a world from nothing inside the Sea of Quanta would require an immeasurable amount of energy.</speak>
             <speak chara="_Schrodinger">Even if somehow the 「unnecessary parts」 are 「folded」, it would still require vast amounts of energy.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">I'd like to know who made this possible and what were they after?</speak>
@@ -324,7 +324,7 @@
             <show chara="schroSmileClose" position="left"/>
             <speak chara="_Schrodinger">The closest words in our language make for a very poetic name——</speak>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">——「Moonlight Throne」.</speak>
+            <speak chara="_Schrodinger">——The「Selene」.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
             <speak chara="_Rita">...!</speak>
@@ -336,7 +336,7 @@
             <speak chara="_Rita">.....</speak>
             <show chara="ritaVestNormalClose" position="right"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Rita">As far as I know, the 「Moonlight Throne」 is an anti-Honkai weapon of mass destruction, and the main weapon of the mobile combat weapon 「Arahato」.</speak>
+            <speak chara="_Rita">As far as I know, the 「Selene」 is an anti-Honkai weapon of mass destruction, and the main weapon of the mobile combat weapon 「Arahato」.</speak>
             <speak chara="_Rita">...Which is under the control of the 「Enforcers」 named 「Tesla」 and 「Einstein」.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
@@ -354,12 +354,12 @@
             <speak chara="_Schrodinger">It's nothing, I was just reminiscing about the past. Let's get back on track.</speak>
             <show chara="schroTalkClose" position="left"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Schrodinger">Strictly speaking, the 「Moonlight Throne」 is not a weapon. It's just an energy conversion device that turns Honkai energy into regular energy that can be manipulated.</speak>
+            <speak chara="_Schrodinger">Strictly speaking, the 「Selene」 is not a weapon. It's just an energy conversion device that turns Honkai energy into regular energy that can be manipulated.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">The previous civilization managed to create such technology, but by then it was already too late.</speak>
             <show chara="schroMemoryClose" position="left"/>
             <!-- RENAME: Houkai -> Honkai -->
-            <speak chara="_Schrodinger">Had they managed to keep their pace of development for 10 more years, the mass produced 「Moonlight Throne」 should have been able to absorb Honkai energy on a world wide scale.</speak>
+            <speak chara="_Schrodinger">Had they managed to keep their pace of development for 10 more years, the mass produced 「Selene」 should have been able to absorb Honkai energy on a world wide scale.</speak>
             <show chara="schroTalkClose" position="left"/>
             <speak chara="_Schrodinger">The one called 「ⵀⵤⴺⵚⴽ ⴳⴶⴱⴹⴽⴸⴱ ⵥⵛⵌⴱ-ⴸⵖⴱⵎ」—— Was a prototype made 50.000 years ago.</speak>
             <show chara="schroCalmClose" position="left"/>
@@ -376,7 +376,7 @@
             <speak chara="_Michel">According to my sources, the birth of this world was made possible thanks to an artificial expansion caused by the 「Ether Anchor」. And that is also the fundamental reason as to why this world is stuck in the state of 「bubble world」.</speak>
             <show chara="micheArrogantCloseE" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">That crucial energy source—— Came from a prototype of similar nature to the 「Moonlight Throne」?</speak>
+            <speak chara="_Schrodinger">That crucial energy source—— Came from a prototype of similar nature to the 「Selene」?</speak>
             <show chara="schroTalkClose" position="left" opacity="0.8"/>
             <show chara="micheFocusCloseE" position="right"/>
             <speak chara="_Michel">That used to be the case at first, yes.</speak>
@@ -411,7 +411,7 @@
             <show chara="micheRelaxCloseE" position="right"/>
             <speak chara="_Michel">However... more often than not, reality is far different from legends.</speak>
             <show chara="micheArrogantCloseE" position="right"/>
-            <speak chara="_Michel">Explain them what we know about our enemy, Roland.</speak>
+            <speak chara="_Michel">Explain them what we know about our enemy, Rowland.</speak>
             <goto goto="60" change="#ffffff"/>
         </scene>
         <scene id="60" background="chileIceMountain.jpg">
@@ -446,7 +446,7 @@
             <speak chara="_Rita">.....</speak>
             <show chara="ritaVestHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestSmileClose" position="left"/>
-            <speak chara="_Rita">May I ask you something, Roland-san?</speak>
+            <speak chara="_Rita">May I ask you something, Rowland-san?</speak>
             <show chara="ritaVestSmileClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorEmbarrassClose" position="right"/>
             <speak chara="_Roland">Huh? You don't need to be so formal... what did you want to ask?</speak>
@@ -460,7 +460,7 @@
             <show chara="ritaVestSquintClose" position="left"/>
             <speak chara="_Rita">Regarding a certain term you used.</speak>
             <show chara="ritaVestSmileClose" position="left"/>
-            <speak chara="_Rita">Roland-san, what is a 「Star Whisperer」?</speak>
+            <speak chara="_Rita">Rowland-san, what is a 「Star Whisperer」?</speak>
             <show chara="ritaVestSmileClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorQuestionClose" position="right"/>
             <speak chara="_Roland">...Hm? You don't know?</speak>
@@ -469,7 +469,7 @@
             <speak chara="_Roland">Let's see... in simpler terms, it's someone like you and me who came from another world, and have innate resistance to Honkai energy.</speak>
             <show chara="rolandArmorNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">Then how come Du knows you who are but you don't recognize it? Isn't that weird?</speak>
+            <speak chara="_Bianka">Then how come Dudu knows you who are but you don't recognize it? Isn't that weird?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorSeriousClose" position="right"/>
             <speak chara="_Roland">...It's probably because I have no memories of my life before I came to this world.</speak>
@@ -480,7 +480,7 @@
             <show chara="rolandArmorEmbarrassClose" position="right"/>
             <speak chara="_Roland">Ah... was I too serious?</speak>
             <show chara="rolandArmorLaughClose" position="right"/>
-            <speak chara="_Roland">Well, once everything is over I might try to find out what that 「Roland Furioso」 was like.</speak>
+            <speak chara="_Roland">Well, once everything is over I might try to find out what that 「Rowland Furioso」 was like.</speak>
             <show chara="rolandArmorSmileClose" position="right"/>
             <speak chara="_Roland">But right now, as a soldier of the Republic, I think it's better if I 「don't know」.</speak>
             <show chara="rolandArmorEmbarrassClose" position="right"/>
@@ -491,8 +491,8 @@
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text>Amid the awkward mood, noise began to be heard during their communication. That noise gradually increased until the video call was cut off.</text>
             <text>That event serves as proof of the 「Caledonia」 deep diving to a place where radio signals can't reach it anymore.</text>
-            <text>Roland inspected the submarine's equipment with great interest, and enjoyed Rita's cooking.</text>
-            <text>Then, perhaps out of concern for Du, began to share funny jokes from the Republic.</text>
+            <text>Rowland inspected the submarine's equipment with great interest, and enjoyed Rita's cooking.</text>
+            <text>Then, perhaps out of concern for Dudu, began to share funny jokes from the Republic.</text>
             <text>She didn't seem to mind her memory loss and embraced her new life in this world.</text>
             <text>...When she thought about that, Bianka felt slightly envious of her.</text>
             <goto goto="90" change="#000000"/>

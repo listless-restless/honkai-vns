@@ -177,21 +177,21 @@
             <speak chara="_oldZara">You are the genuine 「Son of God」. Even if the Sacae slaughter us all, you must survive at all costs.</speak>
             <speak chara="_ZarathustraDaughter">But father...</speak>
             <speak chara="_oldZara">Let me say it again. No matter what happens to me, to someone else or even the country, you must survive at all costs.</speak>
-            <speak chara="_oldZara">In case of emergency, use this transfer device called 「Gnius」. It will let you sail beyond time and space, beyond the 「Sea of Mystery」, and take you to the 「world of light」 gifted by the Gods.</speak>
+            <speak chara="_oldZara">In case of emergency, use this transfer device called 「Genius」. It will let you sail beyond time and space, beyond the 「Sea of Mystery」, and take you to the 「world of light」 gifted by the Gods.</speak>
             <speak chara="_oldZara">Because that is the place you originally were from.</speak>
             <goto goto="50" change="#ffffff"/>
         </scene>
         <scene id="50" background="asteroidPalace.jpg">
             <bgm src="06_01_Tuluum.mp3" status="start"></bgm>
             <show chara="biankaDressShockClose" position="left"/>
-            <speak chara="_Bianka">「Gnius」, you said? Could it be——</speak>
+            <speak chara="_Bianka">「Genius」, you said? Could it be——</speak>
             <show chara="ritaVestHesitateClose" position="left"/>
             <speak chara="_Rita">——High Priestess Esther, by 「originally」 you mean you were a resident of this world?</speak>
             <show chara="ritaVestHesitateClose" position="left" opacity="0.8"/>
             <show chara="ZarathustraSorrowClose" position="right"/>
             <speak chara="_ZarathustraDaughter">...No. That was merely what my father believed.</speak>
             <show chara="ZarathustraNormalClose" position="right"/>
-            <speak chara="_ZarathustraDaughter">When the Sacae made their way into the castle, I destroyed all of his research and activated the 「Gnius」.</speak>
+            <speak chara="_ZarathustraDaughter">When the Sacae made their way into the castle, I destroyed all of his research and activated the 「Genius」.</speak>
             <show chara="ZarathustraThinkClose" position="right"/>
             <speak chara="_ZarathustraDaughter">The world around me was distorted at an incredible speed, and I began to look for the 「world of light」 my father talked about——</speak>
             <goto goto="60" change="#000000"/>

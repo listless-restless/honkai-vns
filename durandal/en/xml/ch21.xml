@@ -50,7 +50,7 @@
             <show chara="biankaDressNormalClose" position="left"/>
             <speak chara="_Bianka">Speaking of the power armor, I’ve been wondering…</speak>
             <show chara="biankaDressHesitateClose" position="left"/>
-            <speak chara="_Bianka">Miss Roland actually has Honkai resistance, wouldn’t it be better to not wear such heavy armor?</speak>
+            <speak chara="_Bianka">Miss Rowland actually has Honkai resistance, wouldn’t it be better to not wear such heavy armor?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="rolandSmileClose" position="right"/>
             <speak chara="_Roland">Ah… in terms of agility, that would indeed be the case…</speak>
@@ -91,7 +91,7 @@
             <speak chara="_Roland">Ah… Did I not say it before? The reason that the Huaca Tunnel can connect to different places on the surface of the planet is because it can informatize matter and later materialize information.</speak>
             <show chara="rolandArmorEmbarrassClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">Wait… That’s the same way the Gnius works!</speak>
+            <speak chara="_Bianka">Wait… That’s the same way the Genius works!</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorLaughClose" position="right"/>
             <speak chara="_Roland">So is the technology that sent you here similar? In that case what you will experience next should feel very familiar!</speak>
@@ -121,10 +121,10 @@
                 <p class="article-text">Архáнгельск - Spelled in the latin alphabet as Arkh-angel-sk, “City of Archangel”. This city from the Far North Branch is under charge of a D-class Valkyrie named “Misha”. Despite being only a clerk, she manages the entire state by herself with no problems.</p>
             </text>
             <text article="1">
-                <p class="article-text">Misha once said that if every branch of Shicksal was like hers, if everything was as simple as a Valkyrie accepting a mission and killing the honkai beasts, then the world would be beautiful. It would be a world where everyone is living in peaceful days.</p>
+                <p class="article-text">Misha once said that if every branch of Schicksal was like hers, if everything was as simple as a Valkyrie accepting a mission and killing the honkai beasts, then the world would be beautiful. It would be a world where everyone is living in peaceful days.</p>
             </text>
             <text>The whistle from the train sounded closer. Probably coming to deliver new supplies and soldiers to the fortress.</text>
-            <text>Roland came out of the building waving what seemed like a passport in her hand.</text>
+            <text>Rowland came out of the building waving what seemed like a passport in her hand.</text>
             <text>She seemed to have stored the power armor - It made her look small and pretty like Misha.</text>
             <text>Bianka ran towards the one waving--</text>
             <text>--Her heart praying for world peace</text>
@@ -191,7 +191,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <text>Whether it was good or bad timing, just when Bianka was feeling the cultural shock, the train bell rang.</text>
-            <text>Right after boarding in with Roland’s guidance, the engine roar overwhelmed everyone’s voices.</text>
+            <text>Right after boarding in with Rowland’s guidance, the engine roar overwhelmed everyone’s voices.</text>
             <text>The concrete wall outside quickly receded and the train was swallowed by darkness.</text>
             <text>And just when Bianka was wondering if there was nothing more to it--</text>
             <goto goto="60" change="0"/>
@@ -213,7 +213,7 @@
             </remark>
             <speak chara="_Bianka">Hmm… I think I have, but I’m not sure…</speak>
             <speak chara="_Bianka">Then what about Rita?</speak>
-            <speak chara="_Rita">Yes. The Milky Way Railroad is a soul train that connects the ground and the heavens… In our dreams, we would ride it among the stars with our best friends.</speak>
+            <speak chara="_Rita">I have. The Milky Way Railroad is a soul train that connects the ground and the heavens… In our dreams, we would ride it among the stars with our best friends.</speak>
             <speak chara="_Bianka">...Sounds like a sad story.</speak>
             <speak chara="_Rita">Fairytales always seek the delicate balance between sadness and warmth.</speak>
             <speak chara="_Rita">And… It is said that the author’s sister had just passed away when he began writing this story.</speak>
@@ -238,7 +238,7 @@
         <scene id="90" background="commandCenterHuaca.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <show chara="DarwinFunnyClose" position="center"/>
-            <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Roland.</speak>
+            <speak chara="_DarwinNoName">Oh, it seems you’re getting along with the Valkyries, Rowland.</speak>
             <show chara="DarwinSmileClose" position="center"/>
             <speak chara="_DarwinNoName">Let me introduce myself: I am the Minister of Defense of the Republic and the commander of this fortress - Anna Charles Darwin.</speak>
             <show chara="DarwinFunnyClose" position="center"/>
@@ -249,9 +249,9 @@
             </remark>
             <hide position="center"></hide>
             <text article="1">
-                <p class="article-text">--After getting off of the “Command Center” station and passing through several large gates with dedicated gatekeepers, Bianka and her party met the minister of Defense, Darwin, who had been waiting for them.</p>
+                <p class="article-text">--After getting off of the “Command Center” station and passing through several large gates with dedicated gatekeepers, Bianka and her party met the Minister of Defense, Darwin, who had been waiting for them.</p>
                 <br />
-                <p class="article-text">After her brief introduction, Roland introduces Bianka and her group one by one.</p>
+                <p class="article-text">After her brief introduction, Rowland introduces Bianka and her group one by one.</p>
             </text>
             <text>Bianka really hated these kinds of formal greetings, but she waited until it was over.</text>
             <show chara="biankaDressSighClose" position="left"/>
@@ -307,17 +307,17 @@
             <show chara="DarwinSmileClose" position="right"/>
             <speak chara="_Darwin">Don’t get me wrong, I’m not saying I’m a ghost or a spirit. This is just the result of applying the Ether Anchor’s ability of “copying the world” on “people”.</speak>
             <show chara="DarwinNormalClose" position="right"/>
-            <speak chara="_Darwin">Be it the achievements of civilization or intelligent life, they are ultimately an amount of “Anti-Entropy”. You can use the “Ether Anchor” as a “medium” to “balance” the Anti-Entropy.</speak>
+            <speak chara="_Darwin">Be it the achievements of civilization or intelligent life, they are ultimately an amount of “Negentropy”. You can use the “Ether Anchor” as a “medium” to “balance” the "Negentropy".</speak>
             <show chara="DarwinNormalClose" position="right" opacity="0.8"/>
             <show chara="schroMemoryClose" position="left"/>
-            <speak chara="_Schrodinger">...And Anti-Entropy and Imaginary Energy - That is, Honkai Energy - are associated with each other.</speak>
+            <speak chara="_Schrodinger">...And Negentropy and Imaginary Energy - That is, Honkai Energy - are associated with each other.</speak>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">In theory, we could indeed do the opposite: Use Honkai Energy under control to create new Anti-Entropy.</speak>
+            <speak chara="_Schrodinger">In theory, we could indeed do the opposite: Use Honkai Energy under control to create new Negentropy.</speak>
             <show chara="schroMemoryClose" position="left"/>
             <speak chara="_Schrodinger">-That is the basic principle behind the “Selene”.</speak>
             <show chara="schroMemoryClose" position="left" opacity="0.8"/>
             <show chara="DarwinSmileClose" position="right"/>
-            <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Anti-Entropy - You already seem to understand what I’m talking about.</speak>
+            <speak chara="_Darwin">Haha, as expected of Dr. Schrodinger, who proposed the theory behind Negentropy - You already seem to understand what I’m talking about.</speak>
             <show chara="DarwinSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Well, what are you talking about?</speak>
@@ -348,7 +348,7 @@
             <show chara="DarwinNormalClose" position="left"/>
             <speak chara="_Darwin">- That is a specially targeted “salvage”.</speak>
             <show chara="DarwinFunnyClose" position="left"/>
-            <speak chara="_Darwin">This type of “salvage” is always happening in the “present continuous”, therefore their spirits and consciousness also remain the same - Even if they show up on the other side of the world, they are still themselves.</speak>
+            <speak chara="_Darwin">This type of “salvage” is always happening in the “present continuous”, therefore their souls and consciousness also remain the same - Even if they show up on the other side of the world, they are still themselves.</speak>
             <show chara="DarwinNormalClose" position="left"/>
             <speak chara="_Darwin">But the information of “Anna Charles Darwin” is already “past perfect”, the Ether Anchor just happened to read this vanishing data from the Sea of Quanta and restore it.</speak>
             <show chara="DarwinSmileClose" position="left"/>
@@ -372,7 +372,7 @@
             <show chara="DraculaFunnyClose" position="left"/>
             <speak chara="_DraculaNoName">Humph, Anna is still so stingy even after becoming the Minister of Defense.</speak>
             <show chara="DraculaSmileClose" position="left"/>
-            <speak chara="_DraculaNoName">My name is Llona Draculest, Commander of the First Guard- But you can call me Dracula.</speak>
+            <speak chara="_DraculaNoName">My name is Llona Draculesti, Commander of the First Guard- But you can call me Dracula.</speak>
             <show chara="DraculaNormalClose" position="left"/>
             <speak chara="_Dracula">Unlike this beautiful but stingy girl next to me, I’m a Star Whisperer who doesn’t need the Ether Anchor to exist--</speak>
             <show chara="DraculaSmileClose" position="left"/>
@@ -386,7 +386,7 @@
             <show chara="DraculaFunnyClose" position="left"/>
             <speak chara="_Dracula">...Tch. You always ruin my perfect image.</speak>
             <show chara="DraculaLaughClose" position="left"/>
-            <speak chara="_Dracula">Friends of Roland, don’t you also think it’s hard to talk to Darwin?</speak>
+            <speak chara="_Dracula">Friends of Rowland, don’t you also think it’s hard to talk to Darwin?</speak>
             <show chara="DraculaLaughClose" position="left" opacity="0.8"/>
             <show chara="biankaDressSighClose" position="right"/>
             <speak chara="_Bianka">Uh… I think I prefer this straightforward style. It’s at least better than our Overseer, always speaking in riddles!</speak>
@@ -441,7 +441,7 @@
             <speak chara="_Bianka">Hey! Don’t interrupt me, you idiot! What is “coming”?</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="durandalOpen" position="right"/>
-            <speak chara="_SwordDurandalQ">It’s the golden “Jewel of Love”!</speak>
+            <speak chara="_SwordDurandalQ">It’s the golden “Gem of Love”!</speak>
             <show chara="durandalOutstretchOpen" position="right"/>
             <speak chara="_SwordDurandalQ">I suddenly felt it’s presence near here! Like it jumped through time and space!</speak>
             <show chara="durandalOutstretchOpen" position="right" opacity="0.8"/>
@@ -451,7 +451,7 @@
             <show chara="champoQuestionClose" position="right"/>
             <speak chara="_Champollion">Is that so?</speak>
             <show chara="champoNormalClose" position="right"/>
-            <speak chara="_Champollion">Maybe the person with the Jewel used the “Huaca Tunnel”? It’s very much like a “Hyperspace jump”.</speak>
+            <speak chara="_Champollion">Maybe the person with the Gem used the “Huaca Tunnel”? It’s very much like a “Hyperspace jump”.</speak>
             <show chara="champoSmileClose" position="right"/>
             <speak chara="_Champollion">Miss Darwin, is there a special event scheduled for today at the fortress?</speak>
             <show chara="champoSmileClose" position="right" opacity="0.8"/>

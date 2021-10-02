@@ -308,7 +308,7 @@
             <speak chara="_SwordDurandalQ">Boy, that serpent woman sure didn't put it to good use.</speak>
             <show chara="durandalStare" position="left" opacity="0.8"/>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">What would be the proper use of the 「Gem of Domination」 then, Du-sama?</speak>
+            <speak chara="_Rita">What would be the proper use of the 「Gem of Domination」 then, Dudu-sama?</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="durandalWhite" position="left"/>
             <speak chara="_SwordDurandalQ">Let me explain it using the words of Professor Schrodinger——</speak>

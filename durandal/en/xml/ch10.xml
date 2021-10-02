@@ -364,7 +364,7 @@
             <show chara="durandalStare" position="left"/>
             <speak chara="_SwordDurandalQNoName">——The sword known as 「Durandal」.</speak>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQNoName">Just call me 「Du」 if the name is too long or hard to remember.</speak>
+            <speak chara="_SwordDurandalQNoName">Just call me 「Dudu」 if the name is too long or hard to remember.</speak>
             <show chara="durandalOutstretchOpen" position="left" opacity="0.8"/>
             <show chara="biankaBiteClose" position="right"/>
             <speak chara="_Bianka">...What!?</speak>
@@ -397,10 +397,10 @@
             <speak chara="_Bianka">...What?</speak>
             <show chara="biankaSeriousClose" position="right" opacity="0.8"/>
             <show chara="rita17SmileClose" position="left"/>
-            <speak chara="_Rita">The fact that Du-sama can freely manipulate Soulium to alter its appearance means——</speak>
+            <speak chara="_Rita">The fact that Dudu-sama can freely manipulate Soulium to alter its appearance means——</speak>
             <show chara="rita17SmileClose" position="left" opacity="0.8"/>
             <show chara="durandalSquint" position="right"/>
-            <speak chara="_SwordDurandalQ">「Du-sama」? Nice. I like it.</speak>
+            <speak chara="_SwordDurandalQ">「Dudu-sama」? Nice. I like it.</speak>
             <show chara="durandalSquint" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">It's not a mere 「Sacred Relic」, a standard weapon from the previous civilization.</speak>

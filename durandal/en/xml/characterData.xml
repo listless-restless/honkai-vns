@@ -146,14 +146,14 @@
         <character name="Man" color="#d0c8c4" id="_MiguelNoName" src=""/>
         <character name="Miguel" color="#d0c8c4" id="_Miguel" src=""/>
         <character name="Cervantes" color="#d0c8c4" id="_Cervantes" src=""/>
-        <character name="Doge" color="#d0c8c4" id="_CervantesVenice" src=""/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
-        <character name="Doge (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
+        <character name="Duke" color="#d0c8c4" id="_CervantesVenice" src=""/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="_CervantesVeniceSelf" src=""/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeNormal" src="DogeNormal.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSad" src="DogeSad.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSerious" src="DogeSerious.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeAngry" src="DogeAngry.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeHelpless" src="DogeHelpless.png"/>
+        <character name="Duke (Miguel)" color="#d0c8c4" id="DogeSmile" src="DogeSmile.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesSmileClose" src="cervantesSmileClose.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesLaughClose" src="cervantesLaughClose.png"/>
         <character name="Miguel" color="#d0c8c4" id="cervantesNormalClose" src="cervantesNormalClose.png"/>
@@ -392,11 +392,11 @@
         <character name="Neith" color="#adbfb9" id="neithShockClose" src="02_21_neithShockClose.png"/>
         <character name="???" color="#ffd0d1" id="_AliceNoName" src=""/>
         <character name="Alice" color="#ffd0d1" id="_Alice" src=""/>
-        <character name="Nelissa" color="#ffd0d1" id="_AliceVeniceM" src=""/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
-        <character name="Nelissa" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="_AliceVeniceM" src=""/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSmile" src="NerissaSmile.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaDespise" src="NerissaDespise.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSneer" src="NerissaSneer.png"/>
+        <character name="Nerissa" color="#ffd0d1" id="NerissaSurprised" src="NerissaSurprised.png"/>
         <character name="Alice" color="#4cd760" id="_AliceGreen" src=""/>
         <character name="Alice" color="#ffd0d1" id="AliceStandBlackClose" src="02_01_AliceStandBlackClose.png"/>
         <character name="Alice" color="#ffd0d1" id="AliceSilentFar" src="02_01_AliceSilentFar.png"/>
@@ -468,22 +468,22 @@
         <character name="Militia" color="#a97162" id="cowboy2Close" src="03_08_cowboy2Close.png"/>
         <character name="Mysterious Object" color="#d4dbec" id="_SwordDurandalQNoName" src=""/>
         <character name="???" color="#fcf1a2" id="_eyeDurandalQNoName" src=""/>
-        <character name="Du" color="#d4dbec" id="_SwordDurandalQ" src=""/>
+        <character name="Dudu" color="#d4dbec" id="_SwordDurandalQ" src=""/>
         <character name="Holy Sword Durandal" color="#fcf1a2" id="_HolySwordDurandal" src=""/>
-        <character name="Du" color="#fcf1a2" id="_eyeDurandalQDurandal" src=""/>
-        <character name="Du" color="#fcf1a2" id="eyeSwordShock" src="x_eyeSwordShock.png"/>
-        <character name="Du" color="#fcf1a2" id="eyeSwordNormal" src="x_eyeSwordNormal.png"/>
-        <character name="Du" color="#fcf1a2" id="eyeSwordSmile" src="x_eyeSwordSmile.png"/>
-        <character name="Du" color="#d4dbec" id="durandalOpen" src="03_22_durandalOpen.png"/>
-        <character name="Du" color="#d4dbec" id="durandalOutstretchOpen" src="03_22_durandalOutstretchOpen.png"/>
-        <character name="Du" color="#d4dbec" id="durandalWhite" src="03_22_durandalWhite.png"/>
-        <character name="Du" color="#d4dbec" id="durandalOutstretchStare" src="03_22_durandalOutstretchStare.png"/>
-        <character name="Du" color="#d4dbec" id="durandalStare" src="03_22_durandalStare.png"/>
-        <character name="Du" color="#d4dbec" id="durandalSquint" src="03_22_durandalSquint.png"/>
-        <character name="Du" color="#d4dbec" id="durandalDeadfish" src="03_22_durandalDeadfish.png"/>
-        <character name="Du" color="#d4dbec" id="durandalOutstretchWhite" src="03_22_durandalOutstretchWhite.png"/>
-        <character name="Du" color="#d4dbec" id="durandalClose" src="04_12_durandalClose.png"/>
-        <character name="Du" color="#d4dbec" id="durandalOutstretchSquint" src="04_12_durandalOutstretchSquint.png"/>
+        <character name="Dudu" color="#fcf1a2" id="_eyeDurandalQDurandal" src=""/>
+        <character name="Dudu" color="#fcf1a2" id="eyeSwordShock" src="x_eyeSwordShock.png"/>
+        <character name="Dudu" color="#fcf1a2" id="eyeSwordNormal" src="x_eyeSwordNormal.png"/>
+        <character name="Dudu" color="#fcf1a2" id="eyeSwordSmile" src="x_eyeSwordSmile.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalOpen" src="03_22_durandalOpen.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalOutstretchOpen" src="03_22_durandalOutstretchOpen.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalWhite" src="03_22_durandalWhite.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalOutstretchStare" src="03_22_durandalOutstretchStare.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalStare" src="03_22_durandalStare.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalSquint" src="03_22_durandalSquint.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalDeadfish" src="03_22_durandalDeadfish.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalOutstretchWhite" src="03_22_durandalOutstretchWhite.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalClose" src="04_12_durandalClose.png"/>
+        <character name="Dudu" color="#d4dbec" id="durandalOutstretchSquint" src="04_12_durandalOutstretchSquint.png"/>
         <character name="???" color="#dddddd" id="_SomeOneTalking" src=""/>
         <character name="Parrot Helmet Officer" color="#4db766" id="_OfficerNoName" src=""/>
         <character name="Officer" color="#4db766" id="_OfficerNoNameShort" src=""/>
@@ -556,7 +556,7 @@
         <character name="Zahhak" color="#b6dcb5" id="_zahhak" src=""/>
         <character name="Old Dragon" color="#aeb5ae" id="_bertrand" src=""/>
         <character name="???" color="#aeb5ae" id="_bertrandYNoName" src=""/>
-        <character name="贝特朗" color="#aeb5ae" id="_bertrandY" src=""/>
+        <character name="Bertrand" color="#aeb5ae" id="_bertrandY" src=""/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandSmile" src="07_05_BertrandSmile.png"/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandAnger" src="07_05_BertrandAnger.png"/>
         <character name="Old Dragon" color="#aeb5ae" id="BertrandNormal" src="07_05_BertrandNormal.png"/>
@@ -573,18 +573,18 @@
         <character name="Armed Officer" color="#d1bbbb" id="_incaSoldierDeLaVegaNoName" src=""/>
         <character name="Armed Officer" color="#d1bbbb" id="soldierDeLaVegaClose" src="08_16_soldierDeLaVegaClose.png"/>
         <character name="Armed Officer" color="#fff5e8" id="_rolandIncaNoName" src=""/>
-        <character name="Roland" color="#fff5e8" id="_Roland" src=""/>
+        <character name="Rowland" color="#fff5e8" id="_Roland" src=""/>
         <character name="Messenger" color="#fff5e8" id="_RolandVenice" src=""/>
         <character name="Messenger" color="#fff5e8" id="StephanoSincere" src="StephanoSincere.png"/>
         <character name="Messenger" color="#fff5e8" id="StephanoTender" src="StephanoTender.png"/>
         <character name="???" color="#fff5e8" id="_RolandNoName" src=""/>
-        <character name="Roland (?)" color="#fff5e8" id="_RolandNina" src=""/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
-        <character name="Roland (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="_RolandNina" src=""/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNLaughClose" src="x_rolandLNLaughClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNEmbarrassClose" src="x_rolandLNEmbarrassClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNSmileClose" src="x_rolandLNSmileClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNNormalClose" src="x_rolandLNNormalClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNShockClose" src="x_rolandLNShockClose.png"/>
+        <character name="Rowland (?)" color="#fff5e8" id="rolandLNSeriousClose" src="x_rolandLNSeriousClose.png"/>
         <character name="???" color="#fff5e8" id="_laNinaNoName" src=""/>
         <character name="“La Nina”" color="#fff5e8" id="_laNina" src=""/>
         <character name="“La Nina”" color="#fff5e8" id="RolandBSKSmile" src="x_RolandBSKSmile.png"/>
@@ -593,18 +593,18 @@
         <character name="“La Nina”" color="#fff5e8" id="RolandBSKDis" src="x_RolandBSKDis.png"/>
         <character name="“La Nina”" color="#fff5e8" id="RolandBSKSerious" src="x_RolandBSKSerious.png"/>
         <character name="“La Nina”" color="#fff5e8" id="RolandBSKSeriousTalk" src="x_RolandBSKSeriousTalk.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
-        <character name="Roland" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorSmileClose" src="08_17_rolandArmorSmileClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorSeriousClose" src="08_17_rolandArmorSeriousClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorQuestionClose" src="08_17_rolandArmorQuestionClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorNormalClose" src="08_17_rolandArmorNormalClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorLaughClose" src="08_17_rolandArmorLaughClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorHelmetClose" src="08_17_rolandArmorHelmetClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandArmorEmbarrassClose" src="08_17_rolandArmorEmbarrassClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandNormalClose" src="09_13_rolandNormalClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandEmbarrassClose" src="09_13_rolandEmbarrassClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandLaughClose" src="09_13_rolandLaughClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandSmileClose" src="09_13_rolandSmileClose.png"/>
+        <character name="Rowland" color="#fff5e8" id="rolandSeriousClose" src="09_13_rolandSeriousClose.png"/>
         <character name="???" color="#79d2e2" id="_DarwinNoName" src=""/>
         <character name="Darwin" color="#79d2e2" id="_Darwin" src=""/>
         <character name="Darwin (?)" color="#c786c8" id="_DarwinError" src=""/>

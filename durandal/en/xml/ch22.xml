@@ -47,7 +47,7 @@
             <speak chara="_ShigureKiraNoName">And… you are?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">Beautiful girl, have you seen a golden “Jewel of Love”?</speak>
+            <speak chara="_SwordDurandalQ">Beautiful girl, have you seen a golden “Gem of Freedom”?</speak>
             <show chara="durandalOpen" position="left"/>
             <speak chara="_SwordDurandalQ">It takes over some of the functions of your body to allow you to succeed at things you couldn't do no matter how much you practiced!</speak>
             <show chara="durandalOutstretchStare" position="left"/>
@@ -59,7 +59,7 @@
             <show chara="durandalOutstretchOpen" position="left"/>
             <speak chara="_SwordDurandalQ">We hope you could return the gem to us! </speak>
             <show chara="durandalClose" position="left"/>
-            <speak chara="_SwordDurandalQ">My name is “Durandal”. The red “Jewel of Courage” and the purple “Jewel of Domination” were both originally part of me!</speak>
+            <speak chara="_SwordDurandalQ">My name is “Durandal”. The red “Gem of Courage” and the purple “Gem of Dominance” were both originally part of me!</speak>
             <show chara="durandalClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
             <speak chara="_ShigureKiraNoName">...And then what? What will you do once you have gathered all the gems?</speak>
@@ -255,7 +255,7 @@
             <show chara="biankaDressShyClose" position="left"/>
             <speak chara="_Bianka">Well, yeah, but...</speak>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">Oh, was Ms. Kira a “Star Whisperer”? I thought that the only one born in recent times was Ms. Roland!</speak>
+            <speak chara="_Darwin">Oh, was Ms. Kira a “Star Whisperer”? I thought that the only one born in recent times was Ms. Rowland!</speak>
             <show chara="DarwinSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
             <speak chara="_Bianka">...What?</speak>
@@ -290,7 +290,7 @@
             <show chara="DarwinSeriousClose" position="left"/>
             <speak chara="_Darwin"> Ever since an accident 27 years ago, the Republic has been unable to “Guide” Star Whisperers to the country.</speak>
             <show chara="DarwinEmbarrassedClose" position="left"/>
-            <speak chara="_Darwin">Although we found Roland three years ago, she just happened to be found by a patrol team.</speak>
+            <speak chara="_Darwin">Although we found Rowland three years ago, she just happened to be found by a patrol team.</speak>
             <show chara="DarwinSeriousClose" position="left"/>
             <speak chara="_Darwin">We could say that the Star Whisperers were the “patent” of the republic, but ever since we lost the method to acquire them, we have gradually become disadvantaged against our enemy.</speak>
             <show chara="DarwinNormalClose" position="left"/>
@@ -372,7 +372,7 @@
         <scene id="140" background="12_12_cloudSky.jpg">
             <bgm src="08_03_ScarboroughFair.mp3" status="continue"></bgm>
             <speak chara="_ThoreauNoName">From jungles to snowy mountains, from big rivers to glaciers - Civilization can be found anywhere on the world, and the indigenous people have alongside humans from other worlds created a diverse and wonderful picture.</speak>
-            <speak chara="_ThoreauNoName">Heroes from the other side of the ocean and even from the Quantum Sea, your plan to destroy the “wall” will be to the benefit of everyone. We will spare no effort in aiding you.</speak>
+            <speak chara="_ThoreauNoName">Heroes from the other side of the ocean and even from the Sea of Quanta, your plan to destroy the “wall” will be to the benefit of everyone. We will spare no effort in aiding you.</speak>
             <speak chara="_ThoreauNoName">But before you do that - I hope you make good use of the Ether Anchor to take a look at this vast land.</speak>
             <goto goto="150" change="0"/>
         </scene>

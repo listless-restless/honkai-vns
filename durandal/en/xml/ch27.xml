@@ -82,7 +82,7 @@
             <bgm src="legion.mp3" status="start"></bgm>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
             <show chara="thorSighClose" position="back"/>
-            <speak chara="_Thoreau">We have to admit… Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human. Not even Roland was capable of it.</speak>
+            <speak chara="_Thoreau">We have to admit… Not even Star Whisperers can handle the maximum output of the Holy Sword, let alone a normal human. Not even Rowland was capable of it.</speak>
             <show chara="thorConfidentClose" position="back"/>
             <speak chara="_Thoreau">However, you Valkyries are true warriors who fight the honkai: Your possibilities are completely different from us, Captain Shakespeare or Dr. Schrodinger.</speak>
             <show chara="thorConfidentClose" position="back"/>
@@ -130,7 +130,7 @@
             <hide position="left"></hide>
             <hide position="right"></hide>
             <bgm src="05_01_themeEin.mp3" status="start"></bgm>
-            <speak chara="_SchrodingerNoName">“You need to know:”</speak>
+            <speak chara="_SchrodingerNoName">“This much you should understand:”</speak>
             <speak chara="_SchrodingerNoName">“The immortal is omnipresent”</speak>
             <speak chara="_SchrodingerNoName">“Nothing can kill him”</speak>
             <speak chara="_SchrodingerNoName">“It is immovable, solid and eternal”</speak>
@@ -138,11 +138,11 @@
             <speak chara="_Bianka">--Huh, Dr. Schrodinger?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">“I am the beginning”</speak>
+            <speak chara="_Schrodinger">“It birthed all creation”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger"> “And the end”</speak>
+            <speak chara="_Schrodinger">“I am the origin of all things”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
-            <speak chara="_Schrodinger">“And also the middle”</speak>
+            <speak chara="_Schrodinger">“And I am the destroyer of all things”</speak>
             <show chara="schroNoSwordTalkClose" position="right"/>
             <speak chara="_Schrodinger">“O, Arjuna”</speak>
             <show chara="schroNoSwordTalkClose" position="right" opacity="0.8"/>
@@ -320,7 +320,7 @@
             <speak chara="_Yukimura">Having said that… It would be great if I had some hot soba to eat now.</speak>
             <show chara="yukimuraSmileClose" position="right" opacity="0.8"/>
             <show chara="thorSmileClose" position="left"/>
-            <speak chara="_Thoreau">Hot soba would be a bit too hard.. Do you mind if it’s Baumkuchen instead?</speak>
+            <speak chara="_Thoreau">Hot soba would be a bit too hard... Do you mind if it’s Baumkuchen instead?</speak>
             <show chara="thorSmileClose" position="left" opacity="0.8"/>
             <show chara="yukimuraTalkClose" position="right"/>
             <speak chara="_Yukimura">Baumkuchen? Isn’t that exquisite?</speak>
@@ -414,10 +414,10 @@
         </scene>
         <scene id="160" background="CG27-2.jpg">
             <bgm src="12_14_Hero.mp3" status="start"></bgm>
-            <text>“Quiet! I’m the foundation of the universe!”</text>
-            <text>“I am time and space itself, ”</text>
-            <text>“The source of power to destroy everything, ”</text>
-            <text>“My duty is to annihilate all worlds.”</text>
+            <text>“Calm down, foundation of the universe”</text>
+            <text>“I am timespace itself.”</text>
+            <text>“The source of the power that destroys all.”</text>
+            <text>“My role is to obliterate all universes”</text>
             <goto goto="170" change="0"/>
         </scene>
         <scene id="170" background="CG27-3.jpg">

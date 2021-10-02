@@ -99,7 +99,7 @@
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Ah, yeah.</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">He plays around all day and is anything but dignified.. He doesn’t look like an “Overseer” at all.</speak>
+            <speak chara="_Bianka">He plays around all day and is anything but dignified... He doesn’t look like an “Overseer” at all.</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
@@ -142,7 +142,7 @@
             <speak chara="_Bianka">Wha?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have it’s own charm.</speak>
+            <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have its own charm.</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
             <speak chara="_ShigureKira">But this belief! Idols are angels meant to convey love, and only a heart with the desire of “reaching the top” can carry such a heavy task!</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
@@ -153,7 +153,7 @@
             <speak chara="_ShigureKira">And more than that, in order to convey true love to the hearts of others she must be like an unbreakable diamond, shining forever.</speak>
             <show chara="ShigureKiraSunGlassesOffConfidentClose" position="right" opacity="0.8"/>
             <show chara="biankaDressScreamClose" position="left"/>
-            <speak chara="_Bianka">...How can someone do that? People can be hurt at any time!</speak>
+            <speak chara="_Bianka">...How can someone do that? People can get hurt at any time!</speak>
             <show chara="biankaDressScreamClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">Even lions get hurt, but they don’t let themselves be seen licking their wounds.</speak>
@@ -161,7 +161,7 @@
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffThinkClose" position="right"/>
-            <speak chara="_ShigureKira">Well, in the end I did use the “Jewel of Love” to cheat… I’m the least qualified person to talk about this.</speak>
+            <speak chara="_ShigureKira">Well, in the end I did use the “Gem of Freedom” to cheat… I’m the least qualified person to talk about this.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
             <speak chara="_ShigureKira">In front of you it’s just bragging.</speak>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right" opacity="0.8"/>
@@ -206,7 +206,7 @@
             <speak chara="_ShigureKira">……</speak>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHateClose" position="left"/>
-            <speak chara="_Bianka">Almost every Valkyrie of Schicksal knows - Cecilia Shariac is one of the strongest S-rank Valkyries from all time and a great hero who made significant contributions in the “Second Eruption”</speak>
+            <speak chara="_Bianka">Almost every Valkyrie of Schicksal knows - Cecilia Schariac is one of the strongest S-rank Valkyries from all time and a great hero who made significant contributions in the “Second Eruption”</speak>
             <show chara="biankaDressAngryClose" position="left"/>
             <speak chara="_Bianka">...But she still died in the final battle.</speak>
             <show chara="biankaDressSorrowClose" position="left"/>
@@ -295,7 +295,7 @@
             <speak chara="_ShigureKira">As soon as the kings conquered a province, the first thing they would do is focus on increasing farmland and pasture.</speak>
             <speak chara="_ShigureKira">They would dig canals and level the land, and then the excess people and refugees would be settled into the new village.</speak>
             <speak chara="_ShigureKira">They wouldn’t stop at only the valleys, but also choose hills and mountains with good soil to build terraces on.</speak>
-            <speak chara="_ShigureKira">They start by building three solid walls along the mountain, slightly inclined inwards to be able to bear the weight of the soil that they would be filled with until it reached the height of the walls.</speak>
+            <speak chara="_ShigureKira">They start by building three solid walls along the mountain, slightly inclined inwards to be able to bear the weight of the soil that they would be filled with, until it reached the height of the walls.</speak>
             <speak chara="_ShigureKira">After the first level is complete, you can build a smaller one above them until you reach the top of the mountain.</speak>
             <speak chara="_ShigureKira">Later the kingdom would expand into coastal deserts where it never rains and where there are no rivers to open canals; But they still found a way to cultivate the land.</speak>
             <speak chara="_ShigureKira">They would build villages near the sea and dig holes down to the sea level according to each one’s needs; That way the crops would get the water they need.</speak>
@@ -400,7 +400,7 @@
             <show chara="ritaVestHesitateClose" position="right"/>
             <speak chara="_Rita">I also asked that. The Overseer answered it with--</speak>
             <show chara="ritaVestNormalClose" position="right"/>
-            <speak chara="_Rita">“There will always be one or two mysterious passerbys among us - So I don’t think it’s all that odd”</speak>
+            <speak chara="_Rita">“There will always be one or two mysterious passerby among us - So I don’t think it’s all that odd”</speak>
             <speak chara="_Rita">“But that’s not important. You have to learn to not bring up things that don’t matter to the overall situation”.</speak>
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
@@ -414,7 +414,7 @@
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Hmmm… But how much can her “Battle style” change?</speak>
-            <speak chara="_Bianka">Even if after becoming a “Star Whisperer” she learned “Alien Youtube radio waves”, can’t that be explained in just a word or two?</speak>
+            <speak chara="_Bianka">Even if after becoming a “Star Whisperer” she received an “Alien radio wave transmission”, can’t that be explained in just a word or two?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNaughtyClose" position="right"/>
             <speak chara="_Rita">Fufu, Bianka-sama is really impatient.</speak>
@@ -487,7 +487,7 @@
             <show chara="ShigureKiraSunGlassesThinkClose" position="right"/>
             <speak chara="_ShigureKira">Well, they have a reason to keep it here.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">At first Quito was made Capital only because of the approval ratings ; But later, as the attacks on the “Anchor Point” increased, “The point furthest away from it” was believed to be a place suited to keep stability as a Capital.</speak>
+            <speak chara="_ShigureKira">At first Quito was made Capital only because of the approval ratings; But later, as the attacks on the “Anchor Point” increased, “The point furthest away from it” was believed to be a place suited to keep stability as a Capital.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right"/>
             <speak chara="_ShigureKira">--At least, that is according to the majority of parliamentarians.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right" opacity="0.8"/>
