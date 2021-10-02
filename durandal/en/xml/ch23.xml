@@ -142,7 +142,7 @@
             <speak chara="_Bianka">Wha?</speak>
             <show chara="biankaDressShockClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffSmileClose" position="right"/>
-            <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have it’s own charm.</speak>
+            <speak chara="_ShigureKira">The looks are good, and the voice is perfect. Personality isn’t the most popular type, but it can have its own charm.</speak>
             <show chara="ShigureKiraSunGlassesOffSunshineClose" position="right"/>
             <speak chara="_ShigureKira">But this belief! Idols are angels meant to convey love, and only a heart with the desire of “reaching the top” can carry such a heavy task!</speak>
             <show chara="ShigureKiraSunGlassesOffTalkingClose" position="right"/>
