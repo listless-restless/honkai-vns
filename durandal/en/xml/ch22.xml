@@ -255,7 +255,7 @@
             <show chara="biankaDressShyClose" position="left"/>
             <speak chara="_Bianka">Well, yeah, but...</speak>
             <show chara="DarwinSmileClose" position="left"/>
-            <speak chara="_Darwin">Oh, was Ms. Kira a “Star Whisperer”? I thought that the only one born in recent times was Ms. Roland!</speak>
+            <speak chara="_Darwin">Oh, was Ms. Kira a “Star Whisperer”? I thought that the only one born in recent times was Ms. Rowland!</speak>
             <show chara="DarwinSmileClose" position="left" opacity="0.8"/>
             <show chara="biankaDressShockClose" position="right"/>
             <speak chara="_Bianka">...What?</speak>
@@ -290,7 +290,7 @@
             <show chara="DarwinSeriousClose" position="left"/>
             <speak chara="_Darwin"> Ever since an accident 27 years ago, the Republic has been unable to “Guide” Star Whisperers to the country.</speak>
             <show chara="DarwinEmbarrassedClose" position="left"/>
-            <speak chara="_Darwin">Although we found Roland three years ago, she just happened to be found by a patrol team.</speak>
+            <speak chara="_Darwin">Although we found Rowland three years ago, she just happened to be found by a patrol team.</speak>
             <show chara="DarwinSeriousClose" position="left"/>
             <speak chara="_Darwin">We could say that the Star Whisperers were the “patent” of the republic, but ever since we lost the method to acquire them, we have gradually become disadvantaged against our enemy.</speak>
             <show chara="DarwinNormalClose" position="left"/>
