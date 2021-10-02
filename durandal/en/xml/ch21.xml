@@ -91,7 +91,7 @@
             <speak chara="_Roland">Ah… Did I not say it before? The reason that the Huaca Tunnel can connect to different places on the surface of the planet is because it can informatize matter and later materialize information.</speak>
             <show chara="rolandArmorEmbarrassClose" position="right" opacity="0.8"/>
             <show chara="biankaDressShoutClose" position="left"/>
-            <speak chara="_Bianka">Wait… That’s the same way the Gnius works!</speak>
+            <speak chara="_Bianka">Wait… That’s the same way the Genius works!</speak>
             <show chara="biankaDressShoutClose" position="left" opacity="0.8"/>
             <show chara="rolandArmorLaughClose" position="right"/>
             <speak chara="_Roland">So is the technology that sent you here similar? In that case what you will experience next should feel very familiar!</speak>
