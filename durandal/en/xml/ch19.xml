@@ -168,7 +168,7 @@
             <show chara="ritaVestNormalClose" position="right"/>
             <speak chara="_Rita">(This face... where have I seen it before...?)</speak>
             <show chara="biankaDressNormalClose" position="right"/>
-            <speak chara="_Bianka">Considering the style of the statue it doesn't seem like it has anything to do with Du's gems—— Could it be a 「Southern relic」 or something like that?</speak>
+            <speak chara="_Bianka">Considering the style of the statue it doesn't seem like it has anything to do with Dudu's gems—— Could it be a 「Southern relic」 or something like that?</speak>
             <show chara="biankaDressNormalClose" position="right" opacity="0.8"/>
             <show chara="durandalWhite" position="left"/>
             <speak chara="_SwordDurandalQ">Given the weather conditions of this place it must be quite old. It certainly wasn't made in the last couple of decades.</speak>
@@ -177,7 +177,7 @@
             <speak chara="_Bianka">Really? Are you sure? You can even see the face very clearly.</speak>
             <show chara="biankaDressSneerClose" position="right" opacity="0.8"/>
             <show chara="champoNormalClose" position="left"/>
-            <speak chara="_Champollion">...I have to agree with Du. There are traces of lacquer on the pedestal. I'm certain this statue was originally painted.</speak>
+            <speak chara="_Champollion">...I have to agree with Dudu. There are traces of lacquer on the pedestal. I'm certain this statue was originally painted.</speak>
             <show chara="champoSmileClose" position="left"/>
             <speak chara="_Champollion">Also it's a very high quality one. Stone can't be easily corroded by rain—— It may even be older than Chichen Itza.</speak>
             <show chara="champoSmileClose" position="left" opacity="0.8"/>
@@ -289,7 +289,7 @@
             <show chara="biankaDressSneerClose" position="right"/>
             <speak chara="_Bianka">Hmph. Who do you think you are, coward hiding himself behind a full body armor.</speak>
             <show chara="biankaDressShoutClose" position="right"/>
-            <speak chara="_Bianka">Very well. Du, teach them a lesson!</speak>
+            <speak chara="_Bianka">Very well. Dudu, teach them a lesson!</speak>
             <hide position="left"></hide>
             <hide position="right"></hide>
             <show chara="rolandArmorHelmetClose" position="center"/>
