@@ -1,8 +1,8 @@
 # Honkai VNs
 
+**NB: This fork is outdated - please check https://github.com/delialala/honkai-vns for latest fork.**
+
 Continuation of Chinese-to-English translation work of Honkai Impact VNs, from https://github.com/zklm/honkai-vns, in the form of edits to .xml files that can be loaded via zklm's scripts into the VN viewer.
-
-
 
 ## Standalone viewers
 
