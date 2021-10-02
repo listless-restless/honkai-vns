@@ -115,7 +115,7 @@
         <scene id="70" background="ruinHouseBerlin.jpg">
             <bgm src="03_15_ruinBerlin.mp3" status="continue"></bgm>
             <text>You should have realized it already. Below your feet only ashes could be found.</text>
-            <text>但是你不甘心。</text>
+            <text>But you are unwilling.</text>
             <text>Under the illusion of being a 「Savior」, you desperately keep picking up the fragments of their souls.</text>
             <text>You don't know their names.</text>
             <text>You don't know their pasts.</text>
@@ -197,10 +197,11 @@
             </remark>
             <show chara="teslaBoringGlassHeadsetWinterClose-up" position="center"/>
             <text>The Researcher from Lab 42, whose full name is Frederica Nikola Tesla, is holding the steering wheel intently.</text>
-            <text>In truth, if she hadn't been so focused on driving, she had reason to believe that she would be the more emotionally volatile.</text>
-            <text>不中用的家伙醒来之后……前因后果的种种情况，就交给更有责任心的她去解释吧。</text>
-            <text>不过，会因为崩坏脉冲而昏倒……也意味着不中用家伙的身体状态，进入了不稳定的阶段吧。</text>
-            <text>……不对，现在还不是操心这些的时候。</text>
+            <text>In truth, if she hadn't been so focused on driving, she had reason to believe that she would be more emotionally volatile.</text>
+            <text>After that useless guy wakes up... it was going to be left to her as the more responsible one to explain the current situation.</text>
+            <text>However....fainting like that due to the Honkai pulse....means this idiots body went into an unstable state.</text>
+            <!-- ^ Some revision might be needed. OG line - 不过，会因为崩坏脉冲而昏倒……也意味着不中用家伙的身体状态，进入了不稳定的阶段吧  -->
+            <text>...... No, now was not the time to worry about that. </text>
             <text>In the headset was the sound of Ada still trying to dial.</text>
             <text remark="next"> Maybe it was because of the electromagnetic pulse that had just occurred. It was impossible to reach any numbers.</text>
             <remark>
@@ -210,11 +211,11 @@
             <text>If it hadnt been specially strengthened for the purpose of connecting with Ada, this WS No. 88 would not escape the fate of short-circuit and meltdown under electromagnetic pulses.</text>
             <text>The paralysis of information means the paralysis of society.</text>
             <text>Do you want me to drive blindly into New York like this?</text>
-            <text>真希望还有哪个号码能奇迹般地——</text>
+            <text>Wish there was any other numbers that we could reach miraculously——</text>
             <hide position="center"/>
             <speak chara="yuriNoNameNoFace">This, this is the Emergency Response Administration and Providence Special Liaison Office! What department are you in?</speak>
             <show chara="teslaAstonishGlassHeadsetWinterClose-up" position="center"/>
-            <text>——我的天啊，这下还真的接通了。</text>
+            <text>——Oh my God, it really connected somewhere.</text>
             <goto goto="130" change="#ffffff"/>
         </scene>
         <scene id="130" background="carNight.jpg">

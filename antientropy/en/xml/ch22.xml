@@ -16,12 +16,12 @@
             <show chara="schroNormalHeadsetEmClose" position="center"/>
             <speak chara="schroNoFace" remark="next">...Yes. The famous 「Edison」's 「Edison Laboratory」 in 「Edison Street」.</speak>
             <remark>
-                <p class="article-text-h">注：</p>
-                <p class="article-text">这是真实世界的历史。</p>
-                <p class="article-text">1875年下旬，托马斯·爱迪生（1847 ~ 1931）将自己的家搬至拉里坦镇的“门罗公园”。在这里，从1876年开设实验室到1887年迁出工厂为止，爱迪生11年间研制了400多项发明，申请了1000余项专利。</p>
-                <p class="article-text">1925年，为了表彰爱迪生，新泽西州政府在门罗公园遗址（此时，由于废弃已久，爱迪生的故居和实验室均已倒塌）树立了“托马斯·爱迪生纪念塔”。</p>
-                <p class="article-text">1954年，为了进一步纪念爱迪生，拉里坦镇被更名为“爱迪生市”。</p>
-                <p class="article-text">——时至今日，爱迪生市已经成为了世界上最适宜居住的城镇之一。</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">This is the history of the real world.</p>
+                <p class="article-text">In late 1875, Thomas Edison (1847 ~ 1931) moved his home to "Monroe Park" in Raritan Town. Here, from the opening of the laboratory in 1876 to the move out of the factory in 1887, Edison developed more than 400 inventions and applied for more than 1,000 patents in 11 years.</p>
+                <p class="article-text">In 1925, the state of New Jersey honored Edison by erecting the "Thomas Edison Memorial" at the Site of Monroe Park, where Edison's home and laboratory had collapsed due to disuse.</p>
+                <p class="article-text">In 1954, the town of Raritan was renamed "Edison City" to further honor Edison.</p>
+                <p class="article-text">Today, Edison is one of the most livable towns in the world.</p>
             </remark>
             <show chara="schroNormalHeadsetAhClose" position="center"/>
             <speak chara="schroNoFace">Anyway, we're 50km away from Manhattan—— It will have no impact on the citizens.</speak>
@@ -62,45 +62,45 @@
             <text>Present——</text>
             <sound src="05_18_gun.mp3"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace">医生！我们不去帮忙吗？！</speak>
+            <speak chara="percivalNoFace">Doctor! Aren't we goning to help?！</speak>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <sound src="05_18_gun.mp3"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">……赫拉，止血钳。</speak>
+            <speak chara="morganNoFace">....Hella, hemostatic forceps...</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="hellawesNormalClose" position="left"/>
-            <speak chara="hellawesNoFace">……给。</speak>
+            <speak chara="hellawesNoFace">...Here</speak>
             <sound src="05_18_crash.mp3"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace">喂！你们两个！外面可都打起来了！</speak>
+            <speak chara="percivalNoFace">Hey! You two! There's a fight outside!</speak>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">……所以呢？</speak>
+            <speak chara="morganNoFace">……So what?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace">……呃？</speak>
+            <speak chara="percivalNoFace">...Huh?</speak>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">帕西瓦尔，医生誓词的第一条是什么？</speak>
-            <speak chara="morganNoFace">去年考执照的时候，你专门背过的吧？</speak>
+            <speak chara="morganNoFace">Percival, what is the first clause of the doctor's oath?</speak>
+            <speak chara="morganNoFace">You memorized that last year when you took your license test, right?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace">唔……“我要奉献一切为人类服务”。</speak>
+            <speak chara="percivalNoFace">Hmm..."I will devote everything to the service of mankind."</speak>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">第四条呢？</speak>
+            <speak chara="morganNoFace">What about the fourth?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace">……“病人的健康应为我的首要的顾念”。</speak>
+            <speak chara="percivalNoFace">..."The health of my patients should be my primary concern."</speak>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">第九条呢？</speak>
+            <speak chara="morganNoFace">What about number nine?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
-            <speak chara="percivalNoFace" remark="next">……“我将要尽可能地维护人的生命”。</speak>
+            <speak chara="percivalNoFace" remark="next">...I'm going to do everything I can to preserve human life.</speak>
             <remark post="U2FsdGVkX19IVfciYsx86aiXz8zW">
-                <p class="article-text-h">注：</p>
-                <p class="article-text">《日内瓦宣言》是“世界医学学会”指定的医生宣誓词，第一版于1948年提出（在瑞士日内瓦召开的该会议上）。其誓词全文（第一版，并非时下使用的第六版）如下——</p>
+                <p class="article-text-h">Note：</p>
+                <p class="article-text">The "Geneva Declaration" is the oath of a doctor appointed by the "World Medical Association". The first edition was proposed in 1948 (at the conference held in Geneva, Switzerland). The full text of his oath (first edition, not the sixth edition used nowadays) is as follows-</p>
                 <br />
                 <p class="article-text">『准许我进入医业时：</p>
                 <p class="article-text">1.我郑重地保证自己要奉献一切为人类服务；</p>
@@ -113,19 +113,20 @@
                 <p class="article-text">8.我将不容许有任何宗教、国籍、种族、政见或地位的上的考量，横亘于我的职责和病人之间；</p>
                 <p class="article-text">9.我将要尽可能地维护所有人的生命，自从受胎时起；</p>
                 <p class="article-text">10.即使在威胁之下，我也不会运用我的医学知识去违反人道；</p>
-                <p class="article-text">——我郑重地，自主地并且以我的人格宣誓以上的约定。』</p>
+                <p class="article-text">- I solemnly, freely, and upon my character swear the foregoing."</p>
             </remark>
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">如果现在不去清创缝合，病人会怎么样？</speak>
+            <speak chara="morganNoFace">What so you thinl will happen to the patient if we do not go to debridement and suture now?</speak>
             <show chara="morganClose" position="right" opacity="0.7"/>
             <show chara="percivalNormalClose" position="left"/>
             <speak chara="percivalNoFace">……</speak>
-            <speak chara="percivalNoFace">……不排除会被崩坏侵蚀。</speak>
+            <speak chara="percivalNoFace">...Death due to Honkai Corruption cannot be ruled out.</speak>
+            <!--^ Not entirly sure of accuracy  -->
             <show chara="percivalNormalClose" position="left" opacity="0.7"/>
             <show chara="morganClose" position="right"/>
-            <speak chara="morganNoFace">所以，你还有什么可说的？好好干活！</speak>
-            <speak chara="morganNoFace">……相信你隔壁的朋友们！</speak>
+            <speak chara="morganNoFace">So, what else there is to say? Work hard!</speak>
+            <speak chara="morganNoFace">...Have trust in your friends next door！</speak>
             <goto goto="25" change="#ffffff"/>
         </scene>
         <scene id="25" background="">
