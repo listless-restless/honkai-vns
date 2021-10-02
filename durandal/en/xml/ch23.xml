@@ -99,7 +99,7 @@
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Ah, yeah.</speak>
             <show chara="biankaDressSneerClose" position="left"/>
-            <speak chara="_Bianka">He plays around all day and is anything but dignified.. He doesn’t look like an “Overseer” at all.</speak>
+            <speak chara="_Bianka">He plays around all day and is anything but dignified... He doesn’t look like an “Overseer” at all.</speak>
             <show chara="biankaDressSneerClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraSunGlassesOffColdClose" position="right"/>
             <speak chara="_ShigureKira">……</speak>
