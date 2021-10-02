@@ -227,7 +227,7 @@
             <show chara="yuriSeriousClose-up" position="center"/>
             <speak chara="yuriNoFace">Understood. </speak>
             <show chara="reaNormalArmedClose-up" position="center"/>
-            <speak chara="reannaNoFace">This is Rheanna Brigantia./speak>
+            <speak chara="reannaNoFace">This is Rheanna Brigantia.</speak>
             <speak chara="reannaNoFace">Already arrived at the scheduled location on the west side of Libit Park.</speak>
             <show chara="teslaNormalGlassHeadsetWinterClose-up" position="center"/>
             <speak chara="teslaNoFace">Roger that.</speak>
