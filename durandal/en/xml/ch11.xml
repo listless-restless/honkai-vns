@@ -290,17 +290,17 @@
             <show chara="durandalWhite" position="left"/>
             <speak chara="_SwordDurandalQ">So the paladin who got her heart broken by an unrequited love was trying to recover her reason by going to the Moon.</speak>
             <show chara="durandalClose" position="left"/>
-            <speak chara="_SwordDurandalQ">...And that paladin who lost her reason was my previous owner—— Paladin Roland.</speak>
+            <speak chara="_SwordDurandalQ">...And that paladin who lost her reason was my previous owner—— Paladin Rowland.</speak>
             <show chara="durandalClose" position="left" opacity="0.8"/>
             <show chara="biankaSurpriseClose" position="right"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSeriousClose" position="right"/>
             <speak chara="_Bianka">Please stop right there.</speak>
             <show chara="biankaSneerClose" position="right"/>
-            <speak chara="_Bianka">The paladin Roland... was heart broken... and lost her reason...?</speak>
+            <speak chara="_Bianka">The paladin Rowland... was heart broken... and lost her reason...?</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">What a bunch of nonsense! There is no way that would happen to the great Roland!!</speak>
+            <speak chara="_Bianka">What a bunch of nonsense! There is no way that would happen to the great Rowland!!</speak>
             <show chara="biankaShoutClose" position="right" opacity="0.8"/>
             <show chara="durandalWhite" position="left"/>
             <speak chara="_SwordDurandalQ">...But it did.</speak>
@@ -310,7 +310,7 @@
         </scene>
         <scene id="50" background="CG11-1.jpg">
             <bgm src="12_14_moonLight.mp3" status="start"></bgm>
-            <speak chara="_SwordDurandalQ">The words that spilled from Roland's mouth that moment were——</speak>
+            <speak chara="_SwordDurandalQ">The words that spilled from Rowland's mouth that moment were——</speak>
             <speak chara="_SwordDurandalQ">「Ahh, how desolated and quiet this scenery is... Leaving the rest of the world behind wasn't such a bad idea.」</speak>
             <goto goto="60" change="0"/>
         </scene>
@@ -343,7 +343,7 @@
             <speak chara="_Bianka">You're just a malevolent criminal!</speak>
             <show chara="biankaShoutClose" position="right"/>
             <shake position="right" time="250"></shake>
-            <speak chara="_Bianka">I loved Roland's story!! I've always liked her and Durandal!!</speak>
+            <speak chara="_Bianka">I loved Rowland's story!! I've always liked her and Durandal!!</speak>
             <show chara="biankaShoutClose" position="right"/>
             <speak chara="_Bianka">This is the worst!!</speak>
             <hide position="left"></hide>
@@ -357,7 +357,7 @@
             <show chara="shakesLaughClose" position="left"/>
             <speak chara="_Shakespeare">Hahaha. Kinda.</speak>
             <show chara="shakesSmileClose" position="left"/>
-            <speak chara="_Shakespeare">But let me tell you, she's way more interesting than Roland. And cuter too.</speak>
+            <speak chara="_Shakespeare">But let me tell you, she's way more interesting than Rowland. And cuter too.</speak>
             <show chara="shakesSmileClose" position="left" opacity="0.8"/>
             <show chara="durandalClose" position="right"/>
             <speak chara="_SwordDurandalQ">...You think so? For now I can only say she won't trick me into working for her like Shelley did.</speak>
