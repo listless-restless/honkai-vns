@@ -487,7 +487,7 @@
             <show chara="ShigureKiraSunGlassesThinkClose" position="right"/>
             <speak chara="_ShigureKira">Well, they have a reason to keep it here.</speak>
             <show chara="ShigureKiraSunGlassesConfidentClose" position="right"/>
-            <speak chara="_ShigureKira">At first Quito was made Capital only because of the approval ratings ; But later, as the attacks on the “Anchor Point” increased, “The point furthest away from it” was believed to be a place suited to keep stability as a Capital.</speak>
+            <speak chara="_ShigureKira">At first Quito was made Capital only because of the approval ratings; But later, as the attacks on the “Anchor Point” increased, “The point furthest away from it” was believed to be a place suited to keep stability as a Capital.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right"/>
             <speak chara="_ShigureKira">--At least, that is according to the majority of parliamentarians.</speak>
             <show chara="ShigureKiraSunGlassesSmileClose" position="right" opacity="0.8"/>
