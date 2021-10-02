@@ -59,7 +59,7 @@
             <show chara="durandalOutstretchOpen" position="left"/>
             <speak chara="_SwordDurandalQ">We hope you could return the gem to us! </speak>
             <show chara="durandalClose" position="left"/>
-            <speak chara="_SwordDurandalQ">My name is “Durandal”. The red “Gem of Courage” and the purple “Gem of Domination” were both originally part of me!</speak>
+            <speak chara="_SwordDurandalQ">My name is “Durandal”. The red “Gem of Courage” and the purple “Gem of Dominance” were both originally part of me!</speak>
             <show chara="durandalClose" position="left" opacity="0.8"/>
             <show chara="ShigureKiraQuestionClose" position="right"/>
             <speak chara="_ShigureKiraNoName">...And then what? What will you do once you have gathered all the gems?</speak>
