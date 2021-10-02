@@ -454,7 +454,7 @@
             <show chara="weltAstonishNewFar" position="right" opacity="0.7"/>
             <show chara="adaNormalRadioFar" position="left"/>
             <text>Ignoring Welts questions, Ada went through a series of processes on her own.</text>
-            <speak chara="adaNoFace">The account login is successful, and the password is the same as before<./speak>
+            <speak chara="adaNoFace">The account login is successful, and the password is the same as before.</speak>
             <speak chara="adaNoFace">The target source has been requested to land, and decoherence has been used to remove the super-dimensional camouflage.</speak>
             <speak chara="adaNoFace">The super-dimensional camouflage has been lifted.</speak>
             <speak chara="adaNoFace">The soft landing was successful.</speak>
