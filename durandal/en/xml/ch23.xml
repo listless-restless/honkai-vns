@@ -414,7 +414,7 @@
             <show chara="ritaVestNormalClose" position="right" opacity="0.8"/>
             <show chara="biankaDressHesitateClose" position="left"/>
             <speak chara="_Bianka">Hmmm… But how much can her “Battle style” change?</speak>
-            <speak chara="_Bianka">Even if after becoming a “Star Whisperer” she learned “Alien Youtube radio waves”, can’t that be explained in just a word or two?</speak>
+            <speak chara="_Bianka">Even if after becoming a “Star Whisperer” she received an “Alien radio wave transmission”, can’t that be explained in just a word or two?</speak>
             <show chara="biankaDressHesitateClose" position="left" opacity="0.8"/>
             <show chara="ritaVestNaughtyClose" position="right"/>
             <speak chara="_Rita">Fufu, Bianka-sama is really impatient.</speak>
