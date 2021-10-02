@@ -292,7 +292,7 @@
             <speak chara="_Michel">Speak.</speak>
             <show chara="micheDrySmileCloseE" position="right" opacity="0.8"/>
             <show chara="schroTalkClose" position="left"/>
-            <speak chara="_Schrodinger">Creating a world from nothing inside the Quantum Sea would require an immeasurable amount of energy.</speak>
+            <speak chara="_Schrodinger">Creating a world from nothing inside the Sea of Quanta would require an immeasurable amount of energy.</speak>
             <speak chara="_Schrodinger">Even if somehow the 「unnecessary parts」 are 「folded」, it would still require vast amounts of energy.</speak>
             <show chara="schroSeriousClose" position="left"/>
             <speak chara="_Schrodinger">I'd like to know who made this possible and what were they after?</speak>
