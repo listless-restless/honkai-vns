@@ -47,7 +47,7 @@
             <speak chara="_ShigureKiraNoName">And… you are?</speak>
             <show chara="ShigureKiraQuestionClose" position="right" opacity="0.8"/>
             <show chara="durandalOutstretchOpen" position="left"/>
-            <speak chara="_SwordDurandalQ">Beautiful girl, have you seen a golden “Gem of Love”?</speak>
+            <speak chara="_SwordDurandalQ">Beautiful girl, have you seen a golden “Gem of Freedom”?</speak>
             <show chara="durandalOpen" position="left"/>
             <speak chara="_SwordDurandalQ">It takes over some of the functions of your body to allow you to succeed at things you couldn't do no matter how much you practiced!</speak>
             <show chara="durandalOutstretchStare" position="left"/>
